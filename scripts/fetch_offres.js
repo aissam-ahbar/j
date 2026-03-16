@@ -49,7 +49,7 @@ async function fetchOffres(token, start = 0) {
     accesTravailleurHandicape: 'true'
   });
 
-  const res = await fetch(`https://api.francetravail.fr/offres/v2?${params}`, {
+  const res = await fetch(`https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?${params}`, {
     headers: { Authorization: `Bearer ${token}` }
   });
 
