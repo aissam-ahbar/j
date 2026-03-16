@@ -1,25 +1,27 @@
-name: Fetch France Travail Offres
+name: Cron France Travail
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 * * * *' # toutes les heures
   workflow_dispatch:
 
 jobs:
-  fetch:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 18
 
-      - run: npm install
+      - name: Install dependencies
+        run: npm install
 
-      - name: Run script
+      - name: Run cron script
+        run: node scripts/fetch_offres.js
         env:
-          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
-          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
-        run: node scripts/fetch-offres.js
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
