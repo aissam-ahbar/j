@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Run cron script
-        run: node scripts/fetch_offres.js
+        run: npm start
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
