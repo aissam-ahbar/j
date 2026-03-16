@@ -47,13 +47,13 @@ async function fetchOffres(token, start = 0) {
     headers: { Authorization: `Bearer ${token}` }
   });
 
-  if (!res.ok) {
-    const err = await res.json();
-    throw new Error(`API Error: ${err.codeErreur} - ${err.message}`);
+  const text = await res.text(); 
+  try {
+    return JSON.parse(text).resultats || [];
+  } catch (err) {
+    console.error('❌ Réponse API non JSON:', text);
+    throw err;
   }
-
-  const data = await res.json();
-  return data.resultats || [];
 }
 
 function mapOffre(offre) {
