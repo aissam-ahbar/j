@@ -22,7 +22,7 @@ function getDate24hAgoISO() {
 }
 
 async function getToken() {
-  const res = await fetch('https://api.francetravail.fr/oauth2/token', {
+  const res = await fetch('https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=/partenaire', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
     body: new URLSearchParams({
