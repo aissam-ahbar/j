@@ -22,7 +22,6 @@ function getDate24hAgoISO() {
 }
 
 async function getToken() {
-  console.log("*** OOOOOOOOOOOOOOO ***", CLIENT_ID);
   const res = await fetch('https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=/partenaire', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -30,6 +29,7 @@ async function getToken() {
       grant_type: 'client_credentials',
       client_id: CLIENT_ID,
       client_secret: CLIENT_SECRET,
+      scope: 'o2dsoffre api_offresdemploiv2'
     })
   });
 
