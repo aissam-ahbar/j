@@ -1,5 +1,5 @@
-import fs from 'fs';
-import fetch from 'node-fetch';
+const fs = require('fs');
+const fetch = require('node-fetch');
 
 const CLIENT_ID = process.env.FT_CLIENT_ID;
 const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
