@@ -1,14 +1,15 @@
 {
-  "main": "scripts/fetch_offres.js",
+  "name": "france-travail-cron",
   "version": "1.0.0",
   "description": "Cron pour récupérer les offres France Travail pour les jeunes de la mission locale",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node scripts/fetch_offres.js"
   },
   "dependencies": {
-    "axios": "^1.5.0",        
-    "dotenv": "^16.3.1"       
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1",
+    "axios": "^1.5.0"
   },
   "engines": {
     "node": ">=18.0.0"
