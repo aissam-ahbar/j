@@ -31,7 +31,12 @@ async function getToken() {
       client_secret: CLIENT_SECRET,
     })
   });
-  const data = await res.json();
+
+  console.log('Status token:', res.status);
+  const text = await res.text();
+  console.log('Réponse token:', text);
+
+  const data = JSON.parse(text);
   return data.access_token;
 }
 
@@ -48,6 +53,7 @@ async function fetchOffres(token, start = 0) {
   });
 
   const text = await res.text(); 
+  console.log('Réponse text:', text);
   try {
     return JSON.parse(text).resultats || [];
   } catch (err) {
