@@ -1,30 +1,26 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
+import fs from 'fs';
+import fetch from 'node-fetch';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const CLIENT_ID = process.env.FT_CLIENT_ID;
 const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 
-// Fichier JSON final
 const OUTPUT_FILE = './offres.json';
+const TIMEOUT_MS = 200;
 
-// Timeout entre chaque batch pour être sûr de ne pas dépasser le quota
-const TIMEOUT_MS = 200; // 5 appels/sec max → 200ms
-
-// Métropole de Montpellier (toutes les communes de l'agglomération)
 const COMMUNES_MONTPELLIER = [
   "34172", "34070", "34110", "34120", "34090", "34130", "34000", "34270", "34370"
 ];
 
-// Max résultats par batch
 const RANGE_SIZE = 149;
 
-// Date minimale = 24h
 function getDate24hAgoISO() {
   const d = new Date(Date.now() - 24 * 60 * 60 * 1000);
   return d.toISOString();
 }
 
-// Authentification Client Credentials
 async function getToken() {
   const res = await fetch('https://api.francetravail.fr/oauth2/token', {
     method: 'POST',
@@ -39,7 +35,6 @@ async function getToken() {
   return data.access_token;
 }
 
-// Appel API France Travail
 async function fetchOffres(token, start = 0) {
   const params = new URLSearchParams({
     range: `${start}-${start + RANGE_SIZE - 1}`,
@@ -61,7 +56,6 @@ async function fetchOffres(token, start = 0) {
   return data.resultats || [];
 }
 
-// Mapping pour ton front / IA
 function mapOffre(offre) {
   return {
     id: offre.id,
@@ -88,7 +82,6 @@ function mapOffre(offre) {
   };
 }
 
-// Cron principal
 async function runCron() {
   try {
     const token = await getToken();
@@ -98,18 +91,11 @@ async function runCron() {
     while (true) {
       const batch = await fetchOffres(token, start);
       if (batch.length === 0) break;
-
-      // Mapping
-      const mapped = batch.map(mapOffre);
-      allOffres.push(...mapped);
-
-      // Timeout entre batches
+      allOffres.push(...batch.map(mapOffre));
       await new Promise(r => setTimeout(r, TIMEOUT_MS));
-
       start += RANGE_SIZE;
     }
 
-    // Sauvegarde dans un JSON unique (écrase le précédent)
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allOffres, null, 2), 'utf-8');
     console.log(`✅ ${allOffres.length} offres sauvegardées dans ${OUTPUT_FILE}`);
   } catch (err) {
@@ -117,5 +103,4 @@ async function runCron() {
   }
 }
 
-// Lancer le cron
 runCron();
