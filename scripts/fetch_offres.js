@@ -18,7 +18,8 @@ const RANGE_SIZE = 149;
 
 function getDate24hAgoISO() {
   const d = new Date(Date.now() - 24 * 60 * 60 * 1000);
-  return d.toISOString();
+  // Format ISO sans millisecondes
+  return d.toISOString().replace(/\.\d{3}Z$/, 'Z');
 }
 
 async function getToken() {
