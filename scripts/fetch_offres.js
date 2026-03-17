@@ -79,6 +79,7 @@ async function fetchOffres(token, communesBatch, start = 0) {
 
   const url = `https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?${params.toString()}`;
 
+  
   // Log info détaillée
   console.log("---------------------------------------------------------");
   console.log(`📍 Fetching communes: [${communesBatch.join(",")}]`);
