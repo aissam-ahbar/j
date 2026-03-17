@@ -9,7 +9,7 @@ dotenv.config();
 const CLIENT_ID = process.env.FT_CLIENT_ID;
 const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 
-const OUTPUT_FILE = './offres.json';
+const OUTPUT_FILE = './data/ft-offres.json';
 const TIMEOUT_MS = 200; // 5 appels/sec max → 200ms
 
 // Toutes les communes de la métropole de Montpellier
