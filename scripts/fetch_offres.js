@@ -18,7 +18,7 @@ const OUTPUT_FILE = "./data/ft-offres.json";
 const OUTPUT_DIR = path.dirname(OUTPUT_FILE);
 const TIMEOUT_MS = 200; // 5 appels/sec max
 const RANGE_SIZE = 149;
-const DISTANCE = process.env.FT_DISTANCE || "207";
+const DISTANCE = process.env.FT_DISTANCE || "20";
 
 // Crée le dossier ./data si nécessaire
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
