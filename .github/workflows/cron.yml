@@ -30,6 +30,11 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
           FT_DISTANCE: 207
 
+      - name: Debug files
+        run: |
+          echo "Files generated:"
+          ls -R
+
       - name: Commit & push JSON
         run: |
           git config user.name "github-actions[bot]"
@@ -37,6 +42,9 @@ jobs:
 
           git add data/ft-offres.json
 
-          git commit -m "Update France Travail JSON [skip ci]" || echo "No changes"
-
-          git push --force
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update France Travail JSON [skip ci]"
+            git push
+          fi
