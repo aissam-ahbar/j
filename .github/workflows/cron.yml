@@ -2,32 +2,27 @@ name: Cron France Travail
 
 on:
   schedule:
-    - cron: '0 * * * *'   # toutes les heures
-  workflow_dispatch:       # permet un déclenchement manuel
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch-offres:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout complet avec PAT et tout l'historique
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.PAT_GITHUB }}
-          fetch-depth: 0  # IMPORTANT : récupère tout l'historique pour push forcé
 
-      # 2️⃣ Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      # 3️⃣ Installer les dépendances
       - name: Install dependencies
         run: npm install
 
-      # 4️⃣ Générer le JSON via ton script
       - name: Run France Travail fetch
         run: node scripts/fetch_offres.js
         env:
@@ -35,21 +30,13 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
           FT_DISTANCE: 207
 
-      # 5️⃣ Commit & push forcé du JSON généré
-      - name: Commit & Force Push JSON
+      - name: Commit & push JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Aligner local avec le remote
-          git fetch origin main
-          git reset --hard origin/main
+          git add data/ft-offres.json
 
-          # Ajouter le fichier JSON généré
-          git add ./data/ft-offres.json
+          git commit -m "Update France Travail JSON [skip ci]" || echo "No changes"
 
-          # Commit si changement
-          git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
-
-          # Push forcé pour écraser le remote
-          git push origin main --force
+          git push --force
