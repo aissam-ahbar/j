@@ -1,4 +1,4 @@
-// scripts/fetch_offres_debug.js
+// scripts/fetch_offres.js
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -21,23 +21,21 @@ const RANGE_SIZE = 149;
 const DISTANCE = process.env.FT_DISTANCE || "207";
 
 // Crée le dossier ./data si nécessaire
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  console.log(`📁 Dossier créé: ${OUTPUT_DIR}`);
-}
+if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
 function isoWithoutMilliseconds(date) {
   return date.toISOString().split('.')[0] + 'Z';
 }
 
-const COMMUNES_MONTPELLIER = [
-  "34172", "34070", "34110", "34120", "34090", "34130", "34000", "34270", "34370"
-];
-
 // ⚡ Dates : dernière 24h
 const MIN_DATE = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
 const MAX_DATE = isoWithoutMilliseconds(new Date());
 
+const COMMUNES_MONTPELLIER = [
+  "34172", "34070", "34110", "34120", "34090", "34130", "34000", "34270", "34370"
+];
+
+// Récupération du token Bearer via OAuth
 async function getToken() {
   const res = await fetch(
     "https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=/partenaire",
@@ -53,73 +51,64 @@ async function getToken() {
     }
   );
 
-  const text = await res.text();
-  try {
-    const data = JSON.parse(text);
-    console.log("🔑 Token récupéré avec succès");
-    return data.access_token;
-  } catch (err) {
-    console.error("❌ Erreur token:", text);
-    throw err;
-  }
+  const data = await res.json();
+  if (!data.access_token) throw new Error("Token OAuth invalide");
+  console.log("🔑 Token récupéré avec succès");
+  return data.access_token;
 }
 
+// Diviser les communes en batches de 5
 function splitCommunes(communes) {
   const chunks = [];
-  for (let i = 0; i < communes.length; i += 5) {
-    chunks.push(communes.slice(i, i + 5));
-  }
+  for (let i = 0; i < communes.length; i += 5) chunks.push(communes.slice(i, i + 5));
   return chunks;
 }
 
-async function fetchOffres(token, communesBatch, start = 0) {
-  const params = new URLSearchParams({
-    range: `${start}-${start + RANGE_SIZE - 1}`,
-    minCreationDate: MIN_DATE,
-    maxCreationDate: MAX_DATE,
-    commune: communesBatch.join(","),
-    distance: DISTANCE,
-    accesTravailleurHandicape: "true",
-  });
+// Fonction pour récupérer toutes les offres d’un batch de communes
+async function fetchAllForBatch(token, communesBatch) {
+  let start = 0;
+  let batchOffres = [];
 
-  const url = `https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?${params.toString()}`;
+  while (true) {
+    const params = new URLSearchParams({
+      range: `${start}-${start + RANGE_SIZE - 1}`,
+      minCreationDate: MIN_DATE,
+      maxCreationDate: MAX_DATE,
+      commune: communesBatch.join(","),
+      distance: DISTANCE,
+      accesTravailleurHandicape: "true",
+    });
 
-  
-  // Log info détaillée
-  console.log("---------------------------------------------------------");
-  console.log(`📍 Fetching communes: [${communesBatch.join(",")}]`);
-  console.log(`🕒 start=${start}, range=${start}-${start+RANGE_SIZE-1}`);
-  console.log(`📅 minCreationDate=${MIN_DATE}`);
-  console.log(`📅 maxCreationDate=${MAX_DATE}`);
-  console.log(`🌐 distance=${DISTANCE}`);
-  console.log("📜 Equivalent curl:");
-  console.log(`curl -X GET "${url}" \\`);
-  console.log(`-H "Authorization: Bearer ${token}" \\`);
-  console.log(`-H "Accept: application/json"\n`);
+    const url = `https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?${params.toString()}`;
 
-  const res = await fetch(url, {
-    headers: {
-      Authorization: `Bearer ${token}`,
-      Accept: "application/json",
-    },
-  });
+    console.log("---------------------------------------------------------");
+    console.log(`📍 Fetching communes: [${communesBatch.join(",")}] start=${start}`);
+    console.log(`📅 minCreationDate=${MIN_DATE}`);
+    console.log(`📅 maxCreationDate=${MAX_DATE}`);
+    console.log(`🌐 distance=${DISTANCE}`);
+    console.log(`📜 Equivalent curl: curl -X GET "${url}" -H "Authorization: Bearer ${token}" -H "Accept: application/json"\n`);
 
-  const text = await res.text();
-  if (!text || text.trim() === "") {
-    console.warn(`⚠️ Réponse vide pour communes [${communesBatch.join(",")}] start=${start}`);
-    return [];
-  }
+    const res = await fetch(url, {
+      headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
+    });
+    const text = await res.text();
+    if (!text || text.trim() === "") break;
 
-  try {
     const json = JSON.parse(text);
-    console.log(`✅ ${json.resultats?.length || 0} offres récupérées dans ce batch`);
-    return json.resultats || [];
-  } catch (err) {
-    console.error("❌ Réponse API non JSON:", text);
-    return [];
+    const resultats = json.resultats || [];
+    if (resultats.length === 0) break;
+
+    batchOffres.push(...resultats);
+    console.log(`✅ ${resultats.length} offres récupérées dans ce chunk, total batch=${batchOffres.length}`);
+
+    start += RANGE_SIZE;
+    await new Promise((r) => setTimeout(r, TIMEOUT_MS));
   }
+
+  return batchOffres;
 }
 
+// Mapping des offres pour JSON final
 function mapOffre(offre) {
   return {
     id: offre.id,
@@ -146,34 +135,24 @@ function mapOffre(offre) {
   };
 }
 
-async function runCron() {
+// 🚀 Main
+async function run() {
   try {
     const token = await getToken();
     let allOffres = [];
-    const communeBatches = splitCommunes(COMMUNES_MONTPELLIER);
+    const batches = splitCommunes(COMMUNES_MONTPELLIER);
 
-    for (const communesBatch of communeBatches) {
-      let start = 0;
-
-      while (true) {
-        const batch = await fetchOffres(token, communesBatch, start);
-        if (batch.length === 0) {
-          console.log(`⚠️ Aucun résultat pour communes [${communesBatch.join(",")}] start=${start}`);
-          break;
-        }
-
-        allOffres.push(...batch.map(mapOffre));
-        console.log(`📦 Total récupéré jusqu'à présent: ${allOffres.length} offres`);
-        await new Promise((r) => setTimeout(r, TIMEOUT_MS));
-        start += RANGE_SIZE;
-      }
+    for (const batch of batches) {
+      const batchOffres = await fetchAllForBatch(token, batch);
+      allOffres.push(...batchOffres.map(mapOffre));
     }
 
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allOffres, null, 2), "utf-8");
     console.log(`✅ Fichier JSON final généré: ${OUTPUT_FILE} (${allOffres.length} offres)`);
   } catch (err) {
     console.error("❌ Cron échoué:", err.message);
+    process.exit(1);
   }
 }
 
-runCron();
+run();
