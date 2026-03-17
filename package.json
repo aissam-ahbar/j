@@ -1,48 +1,18 @@
-# .github/workflows/cron_france_travail.yml
-name: Cron France Travail
-
-on:
-  schedule:
-    - cron: '0 * * * *' # toutes les heures
-  workflow_dispatch:
-
-jobs:
-  fetch-offres:
-    runs-on: ubuntu-latest
-
-    steps:
-      # 1️⃣ Checkout du repo
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # 2️⃣ Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      # 3️⃣ Installer les dépendances
-      - name: Install dependencies
-        run: npm install
-
-      # 4️⃣ Run France Travail cron avec logs détaillées
-      - name: Run France Travail fetch
-        run: node scripts/fetch_offres_debug.js
-        env:
-          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
-          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
-          FT_MIN_DATE: ${{ secrets.FT_MIN_DATE }}   # optionnel
-          FT_MAX_DATE: ${{ secrets.FT_MAX_DATE }}   # optionnel
-          FT_DISTANCE: 207                           # comme ton curl
-
-      # 5️⃣ Commit & Push automatique JSON
-      - name: Commit & Push JSON
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git main --rebase || echo "No remote changes"
-          git add ./data/ft-offres.json
-          git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git HEAD:main
+{
+  "name": "france-travail-cron",
+  "version": "1.0.0",
+  "description": "Cron pour récupérer les offres France Travail pour les jeunes de la mission locale",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/fetch_offres.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.3.1",
+    "axios": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
