@@ -75,8 +75,7 @@ async function fetchAllForBatch(token, communesBatch) {
       minCreationDate: MIN_DATE,
       maxCreationDate: MAX_DATE,
       commune: communesBatch.join(","),
-      distance: DISTANCE,
-      accesTravailleurHandicape: "true",
+      distance: DISTANCE
     });
 
     const url = `https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?${params.toString()}`;
