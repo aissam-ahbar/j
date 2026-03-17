@@ -43,16 +43,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
       
-          # S'assurer d'être sur main
+          # S'assurer d'être sur la branche main
           git checkout main
       
-          # Aligner le repo local sur le remote
+          # Aligner complètement le repo local avec le remote
           git fetch origin main
           git reset --hard origin/main
       
-          # Ajouter le JSON et commit
+          # Ajouter le JSON généré
           git add ./data/ft-offres.json
+      
+          # Commit si changement
           git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
       
-          # Push forcé avec ton PAT
-          git push https://x-access-token:${PAT_GITHUB}@github.com/aissam-ahbar/j.git HEAD:main --force
+          # Push forcé avec le PAT
+    git push https://x-access-token:${PAT_GITHUB}@github.com/aissam-ahbar/j.git HEAD:main --force
