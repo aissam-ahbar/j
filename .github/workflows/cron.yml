@@ -3,7 +3,7 @@ name: Cron France Travail
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # toutes les heures
   workflow_dispatch:
 
 jobs:
@@ -11,11 +11,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout du repo avec ton PAT pour avoir les droits push
+      # 1️⃣ Checkout avec PAT pour avoir les droits push
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.PAT_GITHUB }}
+          fetch-depth: 0  # nécessaire pour reset --hard
 
       # 2️⃣ Setup Node.js
       - name: Setup Node.js
@@ -27,24 +28,29 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # 4️⃣ Run France Travail cron avec logs détaillées
+      # 4️⃣ Générer le JSON avec logs détaillées
       - name: Run France Travail fetch
         run: node scripts/fetch_offres_debug.js
         env:
           FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
-          FT_MIN_DATE: ${{ secrets.FT_MIN_DATE }}
-          FT_MAX_DATE: ${{ secrets.FT_MAX_DATE }}
           FT_DISTANCE: 207
 
-      # 5️⃣ Commit & Push automatique JSON
-      - name: Commit & Push JSON
+      # 5️⃣ Commit & push le JSON généré
+      - name: Commit & Push JSON généré
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-      
-          git checkout main
+
+          # Aligner la branche main avec le remote
+          git fetch origin main
+          git reset --hard origin/main
+
+          # Ajouter le fichier JSON généré
           git add ./data/ft-offres.json
+
+          # Commit si changement
           git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
-      
+
+          # Push forcé sur le remote
           git push origin main --force
