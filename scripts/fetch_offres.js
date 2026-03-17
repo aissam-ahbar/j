@@ -8,13 +8,12 @@ const CLIENT_ID = process.env.FT_CLIENT_ID;
 const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 
 const OUTPUT_FILE = "./offres.json";
-
-const TIMEOUT_MS = 300; // sécurité API
+const TIMEOUT_MS = 300;
 const RANGE_SIZE = 149;
 
 // communes Montpellier Métropole
 const COMMUNES_MONTPELLIER = [
-  "34172", // Montpellier
+  "34172",
   "34070",
   "34110",
   "34120",
@@ -26,7 +25,7 @@ const COMMUNES_MONTPELLIER = [
 ];
 
 
-// découper tableau en groupes de 5
+// découpe tableau en groupes de 5 (limite API)
 function chunkArray(array, size) {
   const result = [];
   for (let i = 0; i < array.length; i += size) {
@@ -38,14 +37,19 @@ function chunkArray(array, size) {
 const COMMUNES_GROUPS = chunkArray(COMMUNES_MONTPELLIER, 5);
 
 
-// date -24h format ISO sans millisecondes
+// date -24h
 function getDate24hAgoISO() {
   const d = new Date(Date.now() - 24 * 60 * 60 * 1000);
   return d.toISOString().replace(/\.\d{3}Z$/, "Z");
 }
 
+// date maintenant
+function getNowISO() {
+  return new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
+}
 
-// récupération token OAuth
+
+// OAuth France Travail
 async function getToken() {
 
   const res = await fetch(
@@ -72,12 +76,13 @@ async function getToken() {
 }
 
 
-// appel API offres
+// appel API
 async function fetchOffres(token, communes, start = 0) {
 
   const params = new URLSearchParams({
     range: `${start}-${start + RANGE_SIZE}`,
     minCreationDate: getDate24hAgoISO(),
+    maxCreationDate: getNowISO(),
     commune: communes.join(","),
     accesTravailleurHandicape: "true"
   });
@@ -92,10 +97,7 @@ async function fetchOffres(token, communes, start = 0) {
     }
   });
 
-  console.log("API response before:", params);
-  
   const text = await res.text();
-  console.log("API response after:", text);
 
   try {
     const json = JSON.parse(text);
@@ -109,9 +111,13 @@ async function fetchOffres(token, communes, start = 0) {
 
 // mapping pour ton moteur IA
 function mapOffre(offre) {
+
   return {
+
     id: offre.id,
+
     intitule: offre.intitule,
+
     description: offre.description,
 
     dateActualisation: offre.dateActualisation,
@@ -125,15 +131,19 @@ function mapOffre(offre) {
     romeCode: offre.romeCode,
 
     competences: offre.competences || [],
+
     formations: offre.formations || [],
 
     typeContrat: offre.typeContrat,
+
     experienceExige: offre.experienceExige,
+
     experienceLibelle: offre.experienceLibelle,
 
     alternance: offre.alternance,
 
     accessibleTH: offre.accessibleTH,
+
     employeurHandiEngage: offre.employeurHandiEngage,
 
     nombrePostes: offre.nombrePostes,
@@ -153,7 +163,7 @@ async function runCron() {
 
   try {
 
-    console.log("🚀 Start cron France Travail");
+    console.log("🚀 Cron France Travail start");
 
     const token = await getToken();
 
@@ -175,13 +185,11 @@ async function runCron() {
 
         allOffres.push(...mapped);
 
-        console.log(
-          `📦 ${mapped.length} offres récupérées (range ${start})`
-        );
+        console.log(`📦 ${mapped.length} offres récupérées`);
 
         start += RANGE_SIZE;
 
-        await new Promise((r) => setTimeout(r, TIMEOUT_MS));
+        await new Promise(r => setTimeout(r, TIMEOUT_MS));
       }
     }
 
