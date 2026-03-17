@@ -35,8 +35,8 @@ const COMMUNES_MONTPELLIER = [
 ];
 
 // ⚡ Dates : dernière 24h
-const minDate = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
-const maxDate = isoWithoutMilliseconds(new Date());
+const MIN_DATE = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
+const MAX_DATE = isoWithoutMilliseconds(new Date());
 
 async function getToken() {
   const res = await fetch(
