@@ -1,6 +1,5 @@
 name: Cron France Travail
 
-# Lancer toutes les heures + possibilité de déclenchement manuel
 on:
   schedule:
     - cron: '0 * * * *' # toutes les heures
@@ -13,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true # nécessaire pour push
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -28,8 +29,13 @@ jobs:
           FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
 
-      - name: Upload offres JSON
-        uses: actions/upload-artifact@v4
-        with:
-          name: ft-offres.json
-          path: ./data/ft-offres.json
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push JSON
+        run: |
+          git add data/ft-offres.json
+          git diff --cached --quiet || git commit -m "Update France Travail JSON [skip ci]"
+          git push
