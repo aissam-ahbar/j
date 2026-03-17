@@ -26,12 +26,17 @@ if (!fs.existsSync(OUTPUT_DIR)) {
   console.log(`📁 Dossier créé: ${OUTPUT_DIR}`);
 }
 
+function isoWithoutMilliseconds(date) {
+  return date.toISOString().split('.')[0] + 'Z';
+}
+
 const COMMUNES_MONTPELLIER = [
   "34172", "34070", "34110", "34120", "34090", "34130", "34000", "34270", "34370"
 ];
 
-const MIN_DATE = process.env.FT_MIN_DATE || new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
-const MAX_DATE = process.env.FT_MAX_DATE || new Date().toISOString();
+// ⚡ Dates : dernière 24h
+const minDate = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
+const maxDate = isoWithoutMilliseconds(new Date());
 
 async function getToken() {
   const res = await fetch(
