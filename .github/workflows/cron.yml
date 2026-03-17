@@ -2,7 +2,7 @@ name: Cron France Travail
 
 on:
   schedule:
-    - cron: '0 * * * *' # toutes les heures
+    - cron: '0 * * * *'  # toutes les heures
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true # nécessaire pour push
+          token: ${{ secrets.PAT_GITHUB }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
