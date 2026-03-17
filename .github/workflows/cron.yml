@@ -29,7 +29,7 @@ jobs:
 
       # 4️⃣ Générer le JSON
       - name: Run France Travail fetch
-        run: node scripts/fetch_offres_debug.js
+        run: node scripts/fetch_offres.js
         env:
           FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
