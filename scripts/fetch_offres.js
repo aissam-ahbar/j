@@ -92,7 +92,10 @@ async function fetchOffres(token, communes, start = 0) {
     }
   });
 
+  console.log("API response before:", params);
+  
   const text = await res.text();
+  console.log("API response after:", text);
 
   try {
     const json = JSON.parse(text);
