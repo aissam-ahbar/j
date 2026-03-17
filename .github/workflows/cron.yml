@@ -28,7 +28,7 @@ jobs:
         env:
           FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
-          FT_DISTANCE: 207
+          FT_DISTANCE: 20
 
       - name: Debug files
         run: |
