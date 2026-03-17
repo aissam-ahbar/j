@@ -1,9 +1,8 @@
-# .github/workflows/cron_france_travail.yml
 name: Cron France Travail
 
 on:
   schedule:
-    - cron: '0 * * * *' # toutes les heures
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout avec PAT pour avoir les droits push
+      # 1️⃣ Checkout complet avec PAT et tout l'historique
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.PAT_GITHUB }}
-          fetch-depth: 0  # nécessaire pour reset --hard
+          fetch-depth: 0  # IMPORTANT : récupère tout l'historique pour push forcé
 
       # 2️⃣ Setup Node.js
       - name: Setup Node.js
@@ -28,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # 4️⃣ Générer le JSON avec logs détaillées
+      # 4️⃣ Générer le JSON
       - name: Run France Travail fetch
         run: node scripts/fetch_offres_debug.js
         env:
@@ -36,13 +35,13 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
           FT_DISTANCE: 207
 
-      # 5️⃣ Commit & push le JSON généré
-      - name: Commit & Push JSON généré
+      # 5️⃣ Commit & push forcé
+      - name: Commit & Force Push JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Aligner la branche main avec le remote
+          # Aligner local avec le remote
           git fetch origin main
           git reset --hard origin/main
 
@@ -52,5 +51,5 @@ jobs:
           # Commit si changement
           git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
 
-          # Push forcé sur le remote
+          # Push forcé pour écraser le remote
           git push origin main --force
