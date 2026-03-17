@@ -29,7 +29,7 @@ jobs:
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
 
       - name: Upload offres JSON
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ./data/ft-offres.json
           path: ./data/ft-offres.json
