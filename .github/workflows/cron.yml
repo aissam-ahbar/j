@@ -42,7 +42,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git main --rebase || echo "No remote changes"
+      
+          # S'assurer d'être sur main
+          git checkout main
+      
+          # Pull + rebase pour récupérer tout ce qui est sur le remote
+          git fetch origin main
+          git reset --hard origin/main
+      
+          # Ajouter le JSON et commit
           git add ./data/ft-offres.json
           git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git HEAD:main
+      
+          # Push en forçant pour écraser les différences
+          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git HEAD:main --force
