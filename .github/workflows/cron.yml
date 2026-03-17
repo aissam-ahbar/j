@@ -1,82 +1,55 @@
-// scripts/fetch_offres.js
-import fs from 'fs';
-import fetch from 'node-fetch';
+name: Cron France Travail
 
-// ⚡ Utilitaire pour ISO-8601 sans millisecondes
-function isoWithoutMilliseconds(date) {
-  return date.toISOString().split('.')[0] + 'Z';
-}
+on:
+  schedule:
+    - cron: '0 * * * *'   # toutes les heures
+  workflow_dispatch:       # permet un déclenchement manuel
 
-// 🔹 Paramètres
-const commune = '34172'; // exemple : Montpellier
-const distance = process.env.FT_DISTANCE || 207;
+jobs:
+  fetch-offres:
+    runs-on: ubuntu-latest
 
-// ⚡ Dates : dernière 24h
-const minDate = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
-const maxDate = isoWithoutMilliseconds(new Date());
+    steps:
+      # 1️⃣ Checkout complet avec PAT et tout l'historique
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_GITHUB }}
+          fetch-depth: 0  # IMPORTANT : récupère tout l'historique pour push forcé
 
-// 🔹 URL finale
-const url = `https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search?commune=${commune}&distance=${distance}&minCreationDate=${minDate}&maxCreationDate=${maxDate}&range=0-149`;
+      # 2️⃣ Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
-// 🔹 Fonction pour récupérer le token Bearer depuis client_id / client_secret
-async function getBearerToken() {
-  const clientId = process.env.FT_CLIENT_ID;
-  const clientSecret = process.env.FT_CLIENT_SECRET;
+      # 3️⃣ Installer les dépendances
+      - name: Install dependencies
+        run: npm install
 
-  if (!clientId || !clientSecret) {
-    throw new Error('FT_CLIENT_ID et FT_CLIENT_SECRET sont requis !');
-  }
+      # 4️⃣ Générer le JSON via ton script
+      - name: Run France Travail fetch
+        run: node scripts/fetch_offres.js
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+          FT_DISTANCE: 207
 
-  const tokenResp = await fetch('https://api.francetravail.io/oauth/token', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({
-      grant_type: 'client_credentials',
-      client_id: clientId,
-      client_secret: clientSecret,
-    }),
-  });
+      # 5️⃣ Commit & push forcé du JSON généré
+      - name: Commit & Force Push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-  if (!tokenResp.ok) {
-    const text = await tokenResp.text();
-    throw new Error(`Erreur token OAuth : ${text}`);
-  }
+          # Aligner local avec le remote
+          git fetch origin main
+          git reset --hard origin/main
 
-  const data = await tokenResp.json();
-  return data.access_token;
-}
+          # Ajouter le fichier JSON généré
+          git add ./data/ft-offres.json
 
-// 🔹 Fonction principale
-async function fetchOffres() {
-  try {
-    const token = await getBearerToken();
+          # Commit si changement
+          git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
 
-    const resp = await fetch(url, {
-      headers: {
-        'Authorization': `Bearer ${token}`,
-        'Accept': 'application/json',
-      },
-    });
-
-    if (!resp.ok) {
-      const text = await resp.text();
-      throw new Error(`Erreur API France Travail : ${text}`);
-    }
-
-    const json = await resp.json();
-
-    // Créer dossier data si nécessaire
-    if (!fs.existsSync('./data')) fs.mkdirSync('./data');
-
-    // Sauvegarder JSON
-    fs.writeFileSync('./data/ft-offres.json', JSON.stringify(json, null, 2));
-
-    console.log(`✅ Offres récupérées : ${json.length || Object.keys(json).length}`);
-  } catch (err) {
-    console.error(err);
-    process.exit(1);
-  }
-}
-
-// 🔹 Lancer
-fetchOffres();
+          # Push forcé pour écraser le remote
+          git push origin main --force
