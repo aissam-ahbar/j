@@ -1,15 +1,17 @@
 name: Cron France Travail
 
+# Lancer toutes les heures + possibilité de déclenchement manuel
 on:
   schedule:
     - cron: '0 * * * *' # toutes les heures
   workflow_dispatch:
 
 jobs:
-  build:
+  fetch-offres:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup Node.js
@@ -20,8 +22,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run cron script
+      - name: Run France Travail cron
         run: npm start
         env:
           FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
           FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+
+      - name: Upload offres JSON
+        uses: actions/upload-artifact@v3
+        with:
+          name: offres-json
+          path: ./offres.json
