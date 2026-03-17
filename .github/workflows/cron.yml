@@ -38,7 +38,7 @@ jobs:
       # 5️⃣ Commit & Push automatique JSON
       - name: Commit & Push JSON
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PAT_GITHUB: ${{ secrets.PAT_GITHUB }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -46,7 +46,7 @@ jobs:
           # S'assurer d'être sur main
           git checkout main
       
-          # Pull + rebase pour récupérer tout ce qui est sur le remote
+          # Aligner le repo local sur le remote
           git fetch origin main
           git reset --hard origin/main
       
@@ -54,5 +54,5 @@ jobs:
           git add ./data/ft-offres.json
           git commit -m "Update France Travail JSON [skip ci]" || echo "No changes to commit"
       
-          # Push en forçant pour écraser les différences
-          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/aissam-ahbar/j.git HEAD:main --force
+          # Push forcé avec ton PAT
+          git push https://x-access-token:${PAT_GITHUB}@github.com/aissam-ahbar/j.git HEAD:main --force
