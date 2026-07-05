@@ -110,27 +110,101 @@ async function fetchAllForBatch(token, communesBatch) {
 // Mapping des offres pour JSON final
 function mapOffre(offre) {
   return {
+    // Identification
     id: offre.id,
     intitule: offre.intitule,
     description: offre.description,
+    dateCreation: offre.dateCreation,
     dateActualisation: offre.dateActualisation,
+
+    // Localisation
     lieuTravail: {
+      libelle: offre.lieuTravail?.libelle,
+      codePostal: offre.lieuTravail?.codePostal,
+      commune: offre.lieuTravail?.commune,
       latitude: offre.lieuTravail?.latitude,
       longitude: offre.lieuTravail?.longitude,
-      commune: offre.lieuTravail?.commune,
     },
+
+    // Métier
     romeCode: offre.romeCode,
-    competences: offre.competences || [],
-    formations: offre.formations || [],
+    romeLibelle: offre.romeLibelle,
+    appellation: offre.appellationlibelle,
+
+    // Entreprise
+    entreprise: {
+      nom: offre.entreprise?.nom,
+      entrepriseAdaptee:
+        offre.entreprise?.entrepriseAdaptee ??
+        offre.entrepriseAdaptee ??
+        false,
+      taille: offre.trancheEffectifEtab,
+      secteurCode: offre.secteurActivite,
+      secteurLibelle: offre.secteurActiviteLibelle,
+      codeNAF: offre.codeNAF,
+    },
+
+    // Contrat
     typeContrat: offre.typeContrat,
+    typeContratLibelle: offre.typeContratLibelle,
+    natureContrat: offre.natureContrat,
+    dureeTravail: offre.dureeTravailLibelle,
+    dureeTravailConvertie: offre.dureeTravailLibelleConverti,
+    alternance: offre.alternance,
+
+    // Expérience
     experienceExige: offre.experienceExige,
     experienceLibelle: offre.experienceLibelle,
-    alternance: offre.alternance,
+    experienceCommentaire: offre.experienceCommentaire,
+
+    // Compétences / Formation
+    competences: offre.competences || [],
+    formations: offre.formations || [],
+    langues: offre.langues || [],
+    permis: offre.permis || [],
+    qualitesProfessionnelles: offre.qualitesProfessionnelles || [],
+
+    // Salaire
+    salaire: offre.salaire
+      ? {
+          libelle: offre.salaire.libelle,
+          complement1: offre.salaire.complement1,
+          complement2: offre.salaire.complement2,
+          complements: offre.salaire.listeComplements || [],
+        }
+      : null,
+
+    // Recrutement
+    nombrePostes: offre.nombrePostes,
+    qualificationCode: offre.qualificationCode,
+    qualificationLibelle: offre.qualificationLibelle,
+
+    // Mobilité
+    deplacementCode: offre.deplacementCode,
+    deplacementLibelle: offre.deplacementLibelle,
+
+    // Handicap
     accessibleTH: offre.accessibleTH,
     employeurHandiEngage: offre.employeurHandiEngage,
-    nombrePostes: offre.nombrePostes,
-    salaire: offre.salaire || null,
-    urlPostulation: offre.contact?.coordonnees1 || offre.entreprise?.url || "",
+
+    // Contact
+    contact: {
+      nom: offre.contact?.nom,
+      adresse1: offre.contact?.coordonnees1,
+      adresse2: offre.contact?.coordonnees2,
+      candidature: offre.contact?.coordonnees3,
+      email: offre.agence?.courriel,
+    },
+
+    // Origine
+    origine: offre.origineOffre?.origine,
+    urlOrigine: offre.origineOffre?.urlOrigine,
+
+    // Horaires
+    horaires: offre.contexteTravail?.horaires || [],
+
+    // Divers
+    offresManqueCandidats: offre.offresManqueCandidats,
   };
 }
 
