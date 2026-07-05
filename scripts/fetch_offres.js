@@ -27,8 +27,9 @@ function isoWithoutMilliseconds(date) {
   return date.toISOString().split('.')[0] + 'Z';
 }
 
-// ⚡ Dates : dernière 24h
-const MIN_DATE = isoWithoutMilliseconds(new Date(Date.now() - 24 * 60 * 60 * 1000));
+// ⚡ Dates : dernière 72h
+const HOURS = 72 * 60 * 60 * 1000;
+const MIN_DATE = isoWithoutMilliseconds(new Date(Date.now() - HOURS));
 const MAX_DATE = isoWithoutMilliseconds(new Date());
 
 const COMMUNES_MONTPELLIER = [
