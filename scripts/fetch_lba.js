@@ -14,153 +14,391 @@ if (!TOKEN_LBA) {
   process.exit(1);
 }
 
+
 const OUTPUT_FILE = "./data/lba-offres.json";
 const OUTPUT_DIR = path.dirname(OUTPUT_FILE);
+
 
 const RADIUS = "30";
 const DEPARTEMENTS = process.env.LBA_DEPARTEMENTS || "34";
 
-// dernières 48h
+
+// dernières 48 heures
 const LAST_48H = 48 * 60 * 60 * 1000;
 
+
 if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.mkdirSync(
+    OUTPUT_DIR,
+    {
+      recursive: true
+    }
+  );
 }
+
+
 
 async function fetchOffres() {
+
   const params = new URLSearchParams({
+
     radius: RADIUS,
-    departements: DEPARTEMENTS,
+
+    departements: DEPARTEMENTS
+
   });
 
-  const url = `https://api.apprentissage.beta.gouv.fr/api/job/v1/search?${params.toString()}`;
 
-  console.log("---------------------------------------------------------");
-  console.log(`🌐 ${url}`);
+  const url =
+    `https://api.apprentissage.beta.gouv.fr/api/job/v1/search?${params}`;
 
-  const res = await fetch(url, {
+
+  console.log("-------------------------------------------");
+  console.log("🌐", url);
+
+
+  const response = await fetch(url, {
+
     method: "GET",
+
     headers: {
+
       Accept: "application/json",
-      Authorization: `Bearer ${TOKEN_LBA}`,
-    },
+
+      Authorization:
+        `Bearer ${TOKEN_LBA}`
+
+    }
+
   });
 
-  if (!res.ok) {
-    const error = await res.text();
-    throw new Error(`Erreur ${res.status} : ${error}`);
+
+  if (!response.ok) {
+
+    const error =
+      await response.text();
+
+    throw new Error(
+      `${response.status} : ${error}`
+    );
+
   }
 
-  return await res.json();
+
+  return await response.json();
+
 }
 
-function isLast24Hours(offre) {
-  const creation = offre.offer?.publication?.creation;
 
-  if (!creation) return false;
 
-  return Date.now() - new Date(creation).getTime() <= LAST_48H;
+function getCreationDate(offre) {
+
+  return (
+
+    offre.offer?.publication?.creation ||
+
+    offre.offer?.publicationDate ||
+
+    offre.creation ||
+
+    offre.createdAt ||
+
+    null
+
+  );
+
 }
+
+
+
+function isRecent(offre) {
+
+
+  const creation =
+    getCreationDate(offre);
+
+
+  // Si aucune date fournie,
+  // on garde l'offre
+  if (!creation) {
+
+    return true;
+
+  }
+
+
+  const date =
+    new Date(creation).getTime();
+
+
+  if (isNaN(date)) {
+
+    return true;
+
+  }
+
+
+  return (
+    Date.now() - date <= LAST_48H
+  );
+
+}
+
+
 
 function mapOffre(offre) {
+
+
   const coordinates =
-    offre.workplace?.location?.geopoint?.coordinates ?? [null, null];
+    offre.workplace
+      ?.location
+      ?.geopoint
+      ?.coordinates
+    ?? [null, null];
+
+
+  const contractTypes =
+    offre.contract?.type ?? [];
+
+
 
   return {
-    id: offre.identifier?.id,
 
-    intitule: offre.offer?.title,
-    description: offre.offer?.description,
+
+    id:
+      offre.identifier?.id ?? null,
+
+
+    source:
+      "LBA",
+
+
+    intitule:
+      offre.offer?.title ?? "—",
+
+
+    description:
+      offre.offer?.description ?? "",
+
+
 
     employeur: {
+
       nom:
+
         offre.workplace?.name ||
+
         offre.workplace?.legal_name ||
-        null,
+
+        "—"
+
     },
+
+
 
     lieuTravail: {
-      commune: offre.workplace?.location?.address,
-      libelle: offre.workplace?.location?.address,
-      latitude: coordinates[1],
-      longitude: coordinates[0],
+
+
+      commune:
+
+        offre.workplace
+          ?.location
+          ?.address ?? "—",
+
+
+      libelle:
+
+        offre.workplace
+          ?.location
+          ?.address ?? "—",
+
+
+      latitude:
+        coordinates[1],
+
+
+      longitude:
+        coordinates[0]
+
     },
 
-    typeContrat: offre.contract?.type?.[0] || null,
+
+
+    typeContrat:
+
+      contractTypes[0] ?? null,
+
+
     typeContratLibelle:
-      offre.contract?.type?.join(", ") || null,
 
-    natureContrat: null,
+      contractTypes.join(", ") || null,
 
-    alternance: true,
+
+
+    natureContrat:
+
+      null,
+
+
+
+    alternance:
+
+      true,
+
+
 
     salaire: {
-      libelle: null,
+
+      libelle:
+        null
+
     },
+
+
 
     experienceLibelle:
-      offre.offer?.target_diploma?.label || "Débutant",
+
+      offre.offer
+        ?.target_diploma
+        ?.label
+      ??
+      "Débutant",
+
+
 
     dateCreation:
-      offre.offer?.publication?.creation,
+
+      getCreationDate(offre),
+
+
 
     dateActualisation:
-      offre.offer?.publication?.creation,
+
+      getCreationDate(offre),
+
+
 
     urlOrigine:
-      offre.apply?.url || null,
+
+      offre.apply?.url ?? null,
+
+
 
     nombrePostes:
-      offre.offer?.opening_count || 1,
+
+      offre.offer?.opening_count ?? 1,
+
 
     romeCode:
-      offre.offer?.rome_codes?.[0] || null,
+
+      offre.offer
+        ?.rome_codes?.[0]
+      ?? null,
+
 
     competences:
-      offre.offer?.desired_skills || [],
 
-    entreprise: {
-      taille: offre.workplace?.size,
-      secteurCode:
-        offre.workplace?.domain?.naf?.code,
-      secteurLibelle:
-        offre.workplace?.domain?.naf?.label,
-    },
+      offre.offer
+        ?.desired_skills
+      ?? []
 
-    source: "La Bonne Alternance"
   };
+
 }
+
+
+
+
 
 async function run() {
+
+
   try {
-    const data = await fetchOffres();
 
-    // L'API renvoie directement un tableau
-    const offres = Array.isArray(data) ? data : [];
 
-    console.log(`📦 ${offres.length} offres récupérées`);
+    const data =
+      await fetchOffres();
 
-    const recentes = offres.filter(isLast24Hours);
+
+
+    const offres =
+      Array.isArray(data)
+        ? data
+        : [];
+
+
 
     console.log(
-      `🕒 ${recentes.length} offres publiées durant les dernières 24h`
+      `📦 ${offres.length} offres récupérées`
     );
 
-    const mapped = recentes.map(mapOffre);
+
+    if (offres.length > 0) {
+
+      console.log(
+        "Exemple première offre :",
+        offres[0]
+      );
+
+    }
+
+
+
+    const recentes =
+      offres.filter(isRecent);
+
+
+
+    console.log(
+      `🕒 ${recentes.length} offres conservées`
+    );
+
+
+
+    const mapped =
+      recentes.map(mapOffre);
+
+
 
     fs.writeFileSync(
+
       OUTPUT_FILE,
-      JSON.stringify(mapped, null, 2),
+
+      JSON.stringify(
+        mapped,
+        null,
+        2
+      ),
+
       "utf8"
+
     );
 
+
+
     console.log(
-      `✅ ${mapped.length} offres enregistrées dans ${OUTPUT_FILE}`
+      `✅ ${mapped.length} offres écrites dans ${OUTPUT_FILE}`
     );
-  } catch (err) {
-    console.error("❌ Erreur :", err.message);
-    process.exit(1);
+
+
+
   }
+
+  catch(error) {
+
+
+    console.error(
+      "❌ Erreur :",
+      error.message
+    );
+
+
+    process.exit(1);
+
+  }
+
 }
+
+
 
 run();
