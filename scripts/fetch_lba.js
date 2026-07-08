@@ -20,8 +20,8 @@ const OUTPUT_DIR = path.dirname(OUTPUT_FILE);
 const RADIUS = "30";
 const DEPARTEMENTS = process.env.LBA_DEPARTEMENTS || "34";
 
-// dernières 24h
-const LAST_24H = 24 * 60 * 60 * 1000;
+// dernières 48h
+const LAST_48H = 48 * 60 * 60 * 1000;
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -59,7 +59,7 @@ function isLast24Hours(offre) {
 
   if (!creation) return false;
 
-  return Date.now() - new Date(creation).getTime() <= LAST_24H;
+  return Date.now() - new Date(creation).getTime() <= LAST_48H;
 }
 
 function mapOffre(offre) {
