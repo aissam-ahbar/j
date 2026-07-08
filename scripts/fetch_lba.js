@@ -17,7 +17,7 @@ if (!TOKEN_LBA) {
 const OUTPUT_FILE = "./data/lba-offres.json";
 const OUTPUT_DIR = path.dirname(OUTPUT_FILE);
 
-const RADIUS = process.env.LBA_RADIUS || "30";
+const RADIUS = "30";
 const DEPARTEMENTS = process.env.LBA_DEPARTEMENTS || "34";
 
 if (!fs.existsSync(OUTPUT_DIR)) {
