@@ -1,0 +1,48 @@
+name: Cron La Bonne Alternance
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-offres:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_GITHUB }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run La Bonne Alternance fetch
+        run: node scripts/fetch_lba.js
+        env:
+          TOKEN_LBA: ${{ secrets.TOKEN_LBA }}
+
+      - name: Debug files
+        run: |
+          echo "Files generated:"
+          ls -R
+
+      - name: Commit & push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/lba-offres.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update La Bonne Alternance JSON [skip ci]"
+            git push
+          fi
