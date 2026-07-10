@@ -1,21 +1,19 @@
 // scripts/fetch_lba.js
-
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import dotenv from "dotenv";
-
 dotenv.config();
 
 const TOKEN_LBA = process.env.TOKEN_LBA;
-
 if (!TOKEN_LBA) {
   console.error("❌ TOKEN_LBA doit être défini dans le .env");
   process.exit(1);
 }
 
-const OUTPUT_FILE = "./data/lba-offres.json";
-const OUTPUT_DIR = path.dirname(OUTPUT_FILE);
+const OUTPUT_FILE_OFFRES = "./data/lba-offres.json";
+const OUTPUT_FILE_RECRUTEURS = "./data/lba-recruteurs.json"; // 🆕 marché caché
+const OUTPUT_DIR = path.dirname(OUTPUT_FILE_OFFRES);
 
 const RADIUS = "30";
 const DEPARTEMENTS = process.env.LBA_DEPARTEMENTS || "34";
@@ -51,62 +49,40 @@ async function fetchOffres() {
   return await res.json();
 }
 
-function mapOffre(offre) {
-  return {
-    id: offre.id,
-    intitule: offre.title,
-    description: offre.description,
-
-    entreprise: {
-      nom: offre.company?.name,
-    },
-
-    lieuTravail: {
-      ville: offre.place?.city,
-      codePostal: offre.place?.zipcode,
-      latitude: offre.place?.latitude,
-      longitude: offre.place?.longitude,
-    },
-
-    contrat: {
-      type: offre.contract_type,
-      alternance: true,
-    },
-
-    salaire: offre.salary,
-
-    url: offre.url,
-
-    source: "La Bonne Alternance",
-
-    // Garde l'objet complet au cas où
-    raw: offre,
-  };
-}
-
 async function run() {
   try {
     const data = await fetchOffres();
 
-    // Selon le format de retour de l'API
-    const offres =
-      data.results ||
-      data.jobs ||
-      data.items ||
-      data.data ||
-      [];
-
-    const mapped = offres.map(mapOffre);
+    // ---- Offres classiques : donnees brutes, aucun mapping ici ----
+    // Le mapping (intitule, entreprise, lieu, etc.) se fait cote Angular
+    const offres = data.jobs || [];
 
     fs.writeFileSync(
-      OUTPUT_FILE,
-      JSON.stringify(mapped, null, 2),
+      OUTPUT_FILE_OFFRES,
+      JSON.stringify(offres, null, 2),
       "utf8"
     );
 
     console.log(
-      `✅ ${mapped.length} offres enregistrées dans ${OUTPUT_FILE}`
+      `✅ ${offres.length} offres enregistrées (brutes) dans ${OUTPUT_FILE_OFFRES}`
     );
+
+    // ---- 🆕 Marché caché / candidature spontanée : donnees brutes ----
+    const recruteurs = data.recruiters || [];
+
+    fs.writeFileSync(
+      OUTPUT_FILE_RECRUTEURS,
+      JSON.stringify(recruteurs, null, 2),
+      "utf8"
+    );
+
+    console.log(
+      `✅ ${recruteurs.length} entreprises (marché caché) enregistrées (brutes) dans ${OUTPUT_FILE_RECRUTEURS}`
+    );
+
+    if (data.warnings) {
+      console.warn("⚠️ Avertissement API :", data.warnings);
+    }
   } catch (err) {
     console.error("❌ Erreur :", err.message);
     process.exit(1);
