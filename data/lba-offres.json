@@ -1,6 +1,91 @@
 [
   {
     "identifier": {
+      "id": "6a548ca58bfdaae34d65b4f5",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a548ca58bfdaae34d65b4f5"
+    },
+    "workplace": {
+      "siret": "84521083000012",
+      "brand": null,
+      "legal_name": "SAS THERON THIERRY METIERS DU FER",
+      "website": null,
+      "name": "SAS THERON THIERRY METIERS DU FER",
+      "description": "Entreprise spécialisée en métallerie, ferronnerie d’art et restauration de monuments historiques. Nous réalisons des ouvrages métalliques sur mesure et intervenons dans la restauration et la conservation du patrimoine, en respectant les techniques traditionnelles et l’authenticité des ouvrages anciens.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "LE CAPITOUL 34700 LODEVE",
+        "geopoint": {
+          "coordinates": [
+            3.296771,
+            43.73356
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a548ca58bfdaae34d65b4f5/cap-ou-bp",
+      "phone": "0499913045",
+      "recipient_id": "partners_6a548ca58bfdaae34d65b4f5"
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP  ou BP",
+      "rome_codes": [
+        "F1614"
+      ],
+      "description": "Prépare et pose toutes fermetures intérieures et extérieures en bois, métal, aluminium, PVC (portes, fenêtres, battants, volets roulants, grilles, murs, stores, clôtures, portes de garages,...) selon les règles de sécurité. Peut installer et régler des automatismes de fermetures. Peut entretenir, réparer, remplacer des éléments posés et leur système de fermeture.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Faire preuve d'autonomie",
+        "Faire preuve de leadership",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Data et Nouvelles technologies\tComprendre, interpréter des données et documents techniques",
+        "Production, Fabrication\tPréparer du matériel en prévision d'un travail",
+        "Production, Fabrication\tRéaliser l'étanchéité de l'ensemble support et châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, etc",
+        "Production, Fabrication\tRéaliser les travaux de montage, d'assemblage",
+        "Construction\tPoser un vitrage",
+        "Construction\tRéaliser des éléments menuisés sur mesure",
+        "Prévention des risques\tEvaluer, prévenir, et gérer les risques et la sécurité",
+        "Gestion des stocks\tCharger, décharger, manutentionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Communication\tRelayer de l'information"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un CAP/BEP en menuiserie, métallerie. Il est également accessible avec une expérience professionnelle dans ce secteur sans diplôme particulier. Un diplôme de niveau Bac (Bac professionnel, Brevet Professionnel) peut être demandé pour les postes d'encadrement d'équipe. Des connaissances complémentaires en électricité et en automatismes peuvent être requises."
+      ],
+      "publication": {
+        "creation": "2026-07-13T06:58:45.641Z",
+        "expiration": "2026-09-13T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a512337a8013626d335ebc1",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a512337a8013626d335ebc1"
@@ -15097,71 +15182,6 @@
   },
   {
     "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd1",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713661"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736246?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Directeur / Directrice de magasin de détail (H/F)",
-      "rome_codes": [
-        "D1302"
-      ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5021cddea3d72aa22f8fd2",
       "partner_label": "France Travail",
       "partner_job_id": "4713663"
@@ -15274,6 +15294,71 @@
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T03:20:04.000Z",
+        "expiration": "2026-09-09T03:20:04.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5021cddea3d72aa22f8fd1",
+      "partner_label": "France Travail",
+      "partner_job_id": "4713661"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54736246?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Directeur / Directrice de magasin de détail (H/F)",
+      "rome_codes": [
+        "D1302"
+      ],
+      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
       },
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -15754,9 +15839,9 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3b6",
+      "id": "6a4ed03adea3d72aa22ed3bd",
       "partner_label": "France Travail",
-      "partner_job_id": "4697558"
+      "partner_job_id": "4697488"
     },
     "workplace": {
       "siret": null,
@@ -15767,11 +15852,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34120 Pézenas",
+        "address": "34400 Lunel",
         "geopoint": {
           "coordinates": [
-            3.418941,
-            43.456901
+            4.134681,
+            43.682153
           ],
           "type": "Point"
         }
@@ -15786,7 +15871,7 @@
       }
     },
     "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=mLfNwv2soC1PzP+OovzGeg==",
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
       "phone": null,
       "recipient_id": null
     },
@@ -15884,9 +15969,9 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bd",
+      "id": "6a4ed03adea3d72aa22ed3b6",
       "partner_label": "France Travail",
-      "partner_job_id": "4697488"
+      "partner_job_id": "4697558"
     },
     "workplace": {
       "siret": null,
@@ -15897,11 +15982,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34400 Lunel",
+        "address": "34120 Pézenas",
         "geopoint": {
           "coordinates": [
-            4.134681,
-            43.682153
+            3.418941,
+            43.456901
           ],
           "type": "Point"
         }
@@ -15916,7 +16001,7 @@
       }
     },
     "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=mLfNwv2soC1PzP+OovzGeg==",
       "phone": null,
       "recipient_id": null
     },
@@ -22885,79 +22970,6 @@
   },
   {
     "identifier": {
-      "id": "6a3473008846a43a71e4db03",
-      "partner_label": "France Travail",
-      "partner_job_id": "209QYSW"
-    },
-    "workplace": {
-      "siret": "56292047002395",
-      "brand": "POINT.P.",
-      "legal_name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "website": null,
-      "name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "description": "",
-      "size": "1 000 à 1 999 salariés",
-      "location": {
-        "address": "34190 Ganges",
-        "geopoint": {
-          "coordinates": [
-            3.710699,
-            43.937614
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "46.73A",
-          "label": "Commerce de gros (commerce interentreprises) de bois et de matériaux de construction"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=309929&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur Conseil (H/F) - Ganges (34)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Pourquoi a-t-on besoin de vous?\nTu es à la recherche d'une expérience enrichissante, où tu apprendras à accompagner des clients professionnels et particuliers dans leurs projets de construction et à développer tes compétences commerciales ? Rejoins nous en tant que Vendeur.se Conseil en alternance !\n\nVoici tes principales missions :\nTu es un véritable ambassadeur auprès de nos clients\nTu accueilles nos clients dans le point de vente et tu les conseilles sur la meilleure solution pour leurs projets.\nTu veux devenir un expert de la vente\nTu vends l'ensemble de notre gamme de produits et services et tu animes les actions commerciales en cours.\nTu élabores des devis adaptés aux projets des clients et les transformes en commandes.\nTu es un as de l'organisation (et du jeu Tetris )\nTu contribues à l'attractivité et à la bonne tenue de l'espace de vente.\nLa mise en avant de nos produits et étiquetages n'auront plus de secrets pour toi!\nEnfin, nous te ferons découvrir les moments importants dans la vie d'une agence, comme les inventaires tournants, les évènements clients, les opérations commerciales...\n\nCe poste est-il fait pour vous ?\nÉtudiant(e) en Bac +2/3, c'est surtout ta personnalité qui fera la différence !\nTu es curieux.se, à l'écoute et motivé.e pour apprendre les techniques de vente et découvrir les produits du bâtiment\nTu aimes le contact humain et tu es reconnu(e) pour ton sens du service\nTu fais preuve d'énergie et de rigueur pour mener tes missions avec autonomie et organisation\nTu es à l'aise avec les outils informatiques et tu as envie de développer de nouvelles compétences techniques",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-12T08:12:30.032Z",
-        "expiration": "2026-08-12T08:12:30.032Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3472ee8846a43a71e4d6c3",
       "partner_label": "France Travail",
       "partner_job_id": "209QGBZ"
@@ -24309,6 +24321,136 @@
   },
   {
     "identifier": {
+      "id": "6a0e339d0573337f98518339",
+      "partner_label": "France Travail",
+      "partner_job_id": "2787066"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "SLB - Béziers",
+      "description": "SLB est une entreprise technologique mondiale, moteur de l'innovation dans l’énergie pour un équilibre planétaire.\n\n\nAvec une présence dans plus de 100 pays et des employés représentant près de 200 nationalités, nous travaillons chaque jour à innover dans le domaine du pétrole et du gaz, à déployer le numérique à grande échelle, à décarboner les industries et à développer de",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/803671?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Environnement H/F",
+      "rome_codes": [
+        "H1303"
+      ],
+      "description": "Étudiant(e) en Master ou cycle Ingénieur (Bac+5) en alternance, idéalement spécialisé en QHSE.\n\n\nTes responsabilités :\n\n\nGestion des consommations en eau du site\nProposer des axes d’améliorations continue à l’échelle de l’usine\nSuivi et déploiement des actions liés à l’environnement\nPartager les bonnes pratiques liées à l’environnement\nSuivi des audits internes et externes (ISO, interne SLB, …)\nDéploiement d’indicateurs sur les principaux déchets du site\nContribuer à la mise en œuvre de projets environnementaux dans chaque service\n\n\nCe que tu maitrises :\n\n\nMicrosoft 365 (Excel, Word, Power BI…)\nDes connaissances sur l’ISO 14001 seraient un plus\n\nCe que tu es :\n\n\nGestion de projets\nExcellentes capacités de communication\nEsprit d’analyse et de synthèse\nRigueur\nTravail d’équipe",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-05-20T01:01:59.000Z",
+        "expiration": "2026-07-20T01:01:59.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4446ccb611be0d00217ce2",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55098240"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Elior",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55098240?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Diététicien à Montpellier  (H/F)",
+      "rome_codes": [
+        "J1402"
+      ],
+      "description": "Vous recherchez une alternance en tant qu'Alternant(e) Diététicien et vous souhaitez intégrer une Société dynamique, vous l'avez surement trouvée ! <br /> <br /> <br /> Rattaché(e) au Responsable de Secteur, vous êtes en charge de : <br /> <br /> <br /> - Garantir la conformité des repas avec les règles de santé et d'hygiène alimentaire, <br /> <br /> <br /> - Assurer le respect des règles d'équilibre diététique dans les restaurants de votre périmètre, <br /> <br /> <br /> - Etablir le plan alimentaire, <br /> <br /> <br /> - Participer à l'élaboration des menus (en fonction de la typologie des convives et des contraintes contractuelles et réglementaires, en lien avec les équipes opérationnelles), <br /> <br /> <br /> - Répond aux demandes d'un client pour les questions relatives à l'équilibre et hygiène alimentaire, <br /> <br /> <br /> - Proposer et mettre en place des animations diététiques et sécurité alimentaire dans les restaurants à destination des convives, <br /> <br /> <br /> - Assurer de manière régulière les sensibilisations en matière d'hygiène et de diététique au personnel de restauration.\r\n\r\nPoste: Diététicien (H/F)\r\n\r\nTemps Plein\r\n\r\n000000 - 000000 EUR brut/an\r\n\r\nProfil: Nous recherchons un(e) alternant(e) préparant un BTS Diététique, souhaitant intégrer notre équipe dans le cadre d'un contrat d'alternance. <br /> <br /> <br /> Un Groupe où il fait bon vivre pour créer le projet qui vous ressemble : 88% des collaborateur(rice)s se sentent valorisé(e)s et 82% d'entre eux recommanderaient l'entreprise à leur entourage. <br /> <br /> <br /> Elior, c'est bien plus qu'une entreprise de restauration. C'est une communauté de travailleur(se)s engagé(e)s qui mettent leur coeur et leurs talents pour offrir des expériences culinaires uniques à nos convives. <br /> <br /> <br /> Chez Elior, nous sommes convaincu(e)s que la diversité des équipes constitue une source de richesse, d'innovation et de performance. Nous construisons nos équipes en nous appuyant sur les compétences et la personnalité de chacun. Elior s'engage au quotidien contre toute forme de discrimination. <br /> <br /> <br /> N'attendez plus, rejoignez-nous pour découvrir le job que vous voulez et révéler vos talents chez Elior !",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "débutant à 1 an"
+      ],
+      "publication": {
+        "creation": "2026-07-11T23:08:10.297Z",
+        "expiration": "2026-09-11T23:08:10.297Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a3475957f27726a0497c37c",
       "partner_label": "Meteojob",
       "partner_job_id": "54818857"
@@ -25518,6 +25660,68 @@
   },
   {
     "identifier": {
+      "id": "6a5021cddea3d72aa22f8fd3",
+      "partner_label": "France Travail",
+      "partner_job_id": "4713588"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Technico-commercial / Technico-commerciale (H/F)",
+      "rome_codes": [
+        "D1407"
+      ],
+      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T03:20:04.000Z",
+        "expiration": "2026-09-09T03:20:04.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a5021cddea3d72aa22f8fcf",
       "partner_label": "France Travail",
       "partner_job_id": "4713619"
@@ -25568,6 +25772,71 @@
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T03:20:04.000Z",
+        "expiration": "2026-09-09T03:20:04.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5021cddea3d72aa22f8fd1",
+      "partner_label": "France Travail",
+      "partner_job_id": "4713661"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54736246?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Directeur / Directrice de magasin de détail (H/F)",
+      "rome_codes": [
+        "D1302"
+      ],
+      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
       },
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -25696,133 +25965,6 @@
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
       },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd1",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713661"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736246?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Directeur / Directrice de magasin de détail (H/F)",
-      "rome_codes": [
-        "D1302"
-      ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd3",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713588"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technico-commercial / Technico-commerciale (H/F)",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
-      "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -26032,6 +26174,68 @@
   },
   {
     "identifier": {
+      "id": "6a1e0655f7a4d99224168ac4",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212945"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "34290 Servian",
+        "geopoint": {
+          "coordinates": [
+            3.308856,
+            43.419696
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212945",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T00:00:00.000Z",
+        "expiration": "2026-09-09T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a501ac9a046a7a2fea48294",
       "partner_label": "EDF",
       "partner_job_id": "177403"
@@ -26094,68 +26298,6 @@
       "access_conditions": [
         "Débutant"
       ],
-      "publication": {
-        "creation": "2026-07-09T00:00:00.000Z",
-        "expiration": "2026-09-09T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "34350 Vendres",
-        "geopoint": {
-          "coordinates": [
-            3.240806,
-            43.26519
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
       "publication": {
         "creation": "2026-07-09T00:00:00.000Z",
         "expiration": "2026-09-09T00:00:00.000Z"
@@ -26353,9 +26495,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac4",
+      "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212945"
+      "partner_job_id": "2026-212943"
     },
     "workplace": {
       "siret": null,
@@ -26366,11 +26508,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34290 Servian",
+        "address": "34350 Vendres",
         "geopoint": {
           "coordinates": [
-            3.308856,
-            43.419696
+            3.240806,
+            43.26519
           ],
           "type": "Point"
         }
@@ -26382,7 +26524,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212945",
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
       "phone": null,
       "recipient_id": null
     },
@@ -30899,74 +31041,6 @@
   },
   {
     "identifier": {
-      "id": "6a4446ccb611be0d00217ce2",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55098240"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Elior",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55098240?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Diététicien à Montpellier  (H/F)",
-      "rome_codes": [
-        "J1402"
-      ],
-      "description": "Vous recherchez une alternance en tant qu'Alternant(e) Diététicien et vous souhaitez intégrer une Société dynamique, vous l'avez surement trouvée ! <br /> <br /> <br /> Rattaché(e) au Responsable de Secteur, vous êtes en charge de : <br /> <br /> <br /> - Garantir la conformité des repas avec les règles de santé et d'hygiène alimentaire, <br /> <br /> <br /> - Assurer le respect des règles d'équilibre diététique dans les restaurants de votre périmètre, <br /> <br /> <br /> - Etablir le plan alimentaire, <br /> <br /> <br /> - Participer à l'élaboration des menus (en fonction de la typologie des convives et des contraintes contractuelles et réglementaires, en lien avec les équipes opérationnelles), <br /> <br /> <br /> - Répond aux demandes d'un client pour les questions relatives à l'équilibre et hygiène alimentaire, <br /> <br /> <br /> - Proposer et mettre en place des animations diététiques et sécurité alimentaire dans les restaurants à destination des convives, <br /> <br /> <br /> - Assurer de manière régulière les sensibilisations en matière d'hygiène et de diététique au personnel de restauration.\r\n\r\nPoste: Diététicien (H/F)\r\n\r\nTemps Plein\r\n\r\n000000 - 000000 EUR brut/an\r\n\r\nProfil: Nous recherchons un(e) alternant(e) préparant un BTS Diététique, souhaitant intégrer notre équipe dans le cadre d'un contrat d'alternance. <br /> <br /> <br /> Un Groupe où il fait bon vivre pour créer le projet qui vous ressemble : 88% des collaborateur(rice)s se sentent valorisé(e)s et 82% d'entre eux recommanderaient l'entreprise à leur entourage. <br /> <br /> <br /> Elior, c'est bien plus qu'une entreprise de restauration. C'est une communauté de travailleur(se)s engagé(e)s qui mettent leur coeur et leurs talents pour offrir des expériences culinaires uniques �� nos convives. <br /> <br /> <br /> Chez Elior, nous sommes convaincu(e)s que la diversité des équipes constitue une source de richesse, d'innovation et de performance. Nous construisons nos équipes en nous appuyant sur les compétences et la personnalité de chacun. Elior s'engage au quotidien contre toute forme de discrimination. <br /> <br /> <br /> N'attendez plus, rejoignez-nous pour découvrir le job que vous voulez et révéler vos talents chez Elior !",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "débutant à 1 an"
-      ],
-      "publication": {
-        "creation": "2026-06-30T08:24:45.747Z",
-        "expiration": "2026-08-30T08:24:45.747Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4446f9b611be0d0021872d",
       "partner_label": "FranceTravail CEGID",
       "partner_job_id": "2026-88771"
@@ -33736,73 +33810,6 @@
   },
   {
     "identifier": {
-      "id": "6a3a9b56aaf462df6217413c",
-      "partner_label": "Emploi Territorial",
-      "partner_job_id": "6a3a9b56aaf462df6217413c"
-    },
-    "workplace": {
-      "siret": "21340028600018",
-      "brand": "MAIRIE",
-      "legal_name": "COMMUNE DE BEDARIEUX",
-      "website": null,
-      "name": "COMMUNE DE BEDARIEUX",
-      "description": "",
-      "size": "100 à 199 salariés",
-      "location": {
-        "address": "Rue de la Glaciere 34600 Bédarieux",
-        "geopoint": {
-          "coordinates": [
-            3.162117,
-            43.612834
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "84.11Z",
-          "label": "Administration publique générale"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.emploi-territorial.fr/offre/o034260623001016-alternant-e-droit-urbanisme",
-      "phone": null,
-      "recipient_id": "partners_6a3a9b56aaf462df6217413c"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "ALTERNANT(E) EN DROIT DE L'URBANISME",
-      "rome_codes": [
-        "F1133"
-      ],
-      "description": "La Ville de Bédarieux met actuellement en œuvre plusieurs projets structurants sur son territoire, notamment une Opération de Programmation d'Amélioration de l'Habitat - Renouvellement Urbain (OPAH-RU) ainsi que la requalification de zones communales. À l'échelle intercommunale, la commune participe activement à l'élaboration du Plan Local d'Urbanisme intercommunal (PLUi). \nPour renforcer l'équipe de la Direction de l'Urbanisme, de l'Habitat et du Foncier, la commune recrute un(e) alternant(e) chargé(e) d’apporter un appui juridique et technique sur les dossiers du service et d’assurer le renseignement des pétitionnaires. Sous l'autorité de la Directrice du service Urbanisme et Habitat, vous assurez les missions suivantes : \n•\tAccueil et renseignement du public : assurer l’accueil physique et téléphonique des usagers pendant les horaires d'ouverture du service. Conseiller et informer les pétitionnaires (particuliers et professionnels) sur les règles du droit des sols et les procédures en vigueur.\n•\tInstruction des DIA et gestion foncière : assurer la réception, l'instruction et le suivi des Déclarations d’Intention d'Aliéner (DIA). Participer aux procédures administratives liées à la gestion du domaine communal et du foncier (liens avec les notaires).\n•\tPré-instruction des dossiers d'urbanisme (ADS) : réaliser la préanalyse des dossiers de demande d’autorisation d’urbanisme afin de vérifier leur conformité réglementaire avant transmission ou décision. \n•\tSuivi des dossiers de recours gracieux et contentieux : assurer la gestion administrative et le suivi des procédures de précontentieux et de contentieux de l'urbanisme, en liaison avec la Directrice et l’avocat conseil de la commune. \n•\tConseil en amont sur les projets : accompagner les porteurs de projets en amont du dépôt officiel pour veiller à l'insertion qualitative des projets dans l'environnement urbain. \n•\tPlanification : suivre les étapes d'élaboration des documents d’urbanisme et sur les évolutions réglementaires, les risques juridiques.",
-      "target_diploma": null,
-      "desired_skills": [
-        "Formation et connaissances :\n•\tÉtudiant(e) en formation supérieure (Master 1 ou Master 2) en Droit de l'Urbanisme, Droit Public ou Droit des Collectivités Territoriales ou Licence 3 des métiers du notariat.\n•\tConnaissance de la réglementation de l'urbanisme et/ou des procédures d'Autorisation du Droit des Sols (ADS). \n•\tNotions en droit de la construction, de l'habitation ou du foncier appréciées. \nSavoir-faire :\n•\tAptitude à l'analyse juridique et à la synthèse de dossiers complexes. \n•\tQualités rédactionnelles (rédaction de courriers, notes de synthèse, projets d'arrêtés ou de décisions). \n•\tMaîtrise des outils bureautiques et capacité à utiliser les logiciels métiers du service (SIG, gestion des dossiers d'urbanisme). \nSavoir-être :\n•\tSens du service public, sens de l'accueil et de l'écoute, diplomatie face aux administrés. \n•\tRigueur administrative, respect des délais légaux d'instruction et discrétion professionnelle (devoir de réserve). \n•\tAptitude au travail en équipe au sein d'une structure de taille moyenne."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T00:00:00.000Z",
-        "expiration": "2026-08-22T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3a9cbeaaf462df62174312",
       "partner_label": "Emploi Territorial",
       "partner_job_id": "6a3a9cbeaaf462df62174312"
@@ -33862,6 +33869,73 @@
       "publication": {
         "creation": "2026-06-23T00:00:00.000Z",
         "expiration": "2026-08-15T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3a9b56aaf462df6217413c",
+      "partner_label": "Emploi Territorial",
+      "partner_job_id": "6a3a9b56aaf462df6217413c"
+    },
+    "workplace": {
+      "siret": "21340028600018",
+      "brand": "MAIRIE",
+      "legal_name": "COMMUNE DE BEDARIEUX",
+      "website": null,
+      "name": "COMMUNE DE BEDARIEUX",
+      "description": "",
+      "size": "100 à 199 salariés",
+      "location": {
+        "address": "Rue de la Glaciere 34600 Bédarieux",
+        "geopoint": {
+          "coordinates": [
+            3.162117,
+            43.612834
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "84.11Z",
+          "label": "Administration publique générale"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.emploi-territorial.fr/offre/o034260623001016-alternant-e-droit-urbanisme",
+      "phone": null,
+      "recipient_id": "partners_6a3a9b56aaf462df6217413c"
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "ALTERNANT(E) EN DROIT DE L'URBANISME",
+      "rome_codes": [
+        "F1133"
+      ],
+      "description": "La Ville de Bédarieux met actuellement en œuvre plusieurs projets structurants sur son territoire, notamment une Opération de Programmation d'Amélioration de l'Habitat - Renouvellement Urbain (OPAH-RU) ainsi que la requalification de zones communales. À l'échelle intercommunale, la commune participe activement à l'élaboration du Plan Local d'Urbanisme intercommunal (PLUi). \nPour renforcer l'équipe de la Direction de l'Urbanisme, de l'Habitat et du Foncier, la commune recrute un(e) alternant(e) chargé(e) d’apporter un appui juridique et technique sur les dossiers du service et d’assurer le renseignement des pétitionnaires. Sous l'autorité de la Directrice du service Urbanisme et Habitat, vous assurez les missions suivantes : \n•\tAccueil et renseignement du public : assurer l’accueil physique et téléphonique des usagers pendant les horaires d'ouverture du service. Conseiller et informer les pétitionnaires (particuliers et professionnels) sur les règles du droit des sols et les procédures en vigueur.\n•\tInstruction des DIA et gestion foncière : assurer la réception, l'instruction et le suivi des Déclarations d’Intention d'Aliéner (DIA). Participer aux procédures administratives liées à la gestion du domaine communal et du foncier (liens avec les notaires).\n•\tPré-instruction des dossiers d'urbanisme (ADS) : réaliser la préanalyse des dossiers de demande d’autorisation d’urbanisme afin de vérifier leur conformité réglementaire avant transmission ou décision. \n•\tSuivi des dossiers de recours gracieux et contentieux : assurer la gestion administrative et le suivi des procédures de précontentieux et de contentieux de l'urbanisme, en liaison avec la Directrice et l’avocat conseil de la commune. \n•\tConseil en amont sur les projets : accompagner les porteurs de projets en amont du dépôt officiel pour veiller à l'insertion qualitative des projets dans l'environnement urbain. \n•\tPlanification : suivre les étapes d'élaboration des documents d’urbanisme et sur les évolutions réglementaires, les risques juridiques.",
+      "target_diploma": null,
+      "desired_skills": [
+        "Formation et connaissances :\n•\tÉtudiant(e) en formation supérieure (Master 1 ou Master 2) en Droit de l'Urbanisme, Droit Public ou Droit des Collectivités Territoriales ou Licence 3 des métiers du notariat.\n•\tConnaissance de la réglementation de l'urbanisme et/ou des procédures d'Autorisation du Droit des Sols (ADS). \n•\tNotions en droit de la construction, de l'habitation ou du foncier appréciées. \nSavoir-faire :\n•\tAptitude à l'analyse juridique et à la synthèse de dossiers complexes. \n•\tQualités rédactionnelles (rédaction de courriers, notes de synthèse, projets d'arrêtés ou de décisions). \n•\tMaîtrise des outils bureautiques et capacité à utiliser les logiciels métiers du service (SIG, gestion des dossiers d'urbanisme). \nSavoir-être :\n•\tSens du service public, sens de l'accueil et de l'écoute, diplomatie face aux administrés. \n•\tRigueur administrative, respect des délais légaux d'instruction et discrétion professionnelle (devoir de réserve). \n•\tAptitude au travail en équipe au sein d'une structure de taille moyenne."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-23T00:00:00.000Z",
+        "expiration": "2026-08-22T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
