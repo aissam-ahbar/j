@@ -14259,6 +14259,345 @@
   },
   {
     "identifier": {
+      "id": "6a5809b2dea3d72aa233dd54",
+      "partner_label": "France Travail",
+      "partner_job_id": "4995966"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ENSIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34430 Saint-Jean-de-Védas",
+        "geopoint": {
+          "coordinates": [
+            3.832002,
+            43.574823
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "78.20Z",
+          "label": "Activités des agences de travail temporaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://ensio.softy.pro/offre/214169?idt=5&h=2141690",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI - ASSISTANT TRAVAUX IRVE - H/F",
+      "rome_codes": [
+        "M1605"
+      ],
+      "description": "Description :\n\n\nSI POUR VOUS, LA GESTION ADMINISTRATIVE EST AUSSI FACILE QUE BRANCHER UN CHARGEUR USB DU PREMIER COUP, ALORS CETTE OFFRE D'EMPLOI DANS L'INSTALLATION DES BORNES IRVE EST FAITE POUR VOUS !\n\nVous serez accompagné par JULIE Responsable Performances \n\nVOUS SEREZ FORMÉ SUR LES MISSIONS SUIVANTES : \n\nGestion et organisation administrative :\n\n\t* Prise de rendez-vous clients et mise à jour des agendas selon les imprévus\n\t* Gestion des dossiers chantiers : plan de prévention, APD (dossiers travaux), DICT, et autres documents clients\n\n\t* Planification et suivi des travaux via notre logiciel interne :\n\n\t* Intégration des opportunités et transformation en affaires\n\t* Coordination avec les sous-traitants (SSTT)\n\t* Suivi des interventions (collecte de photos et documents)\n\nMaintenance :\n\n\t* Création et affectation des ordres de travail via notre logiciel interne\n\t* Validation des saisies d’interventions réalisées par nos techniciens\n\n \n\n\t\t\n\t\t\nProfil recherché :\n\t\t\n\t\t\nQUI ÊTES-VOUS ? : \n\n\t* Vous préparez votre BTS Electrotechnique\n\t* Vous êtes à l’aise au téléphone, vous pourriez tenir une conversation téléphonique même pendant votre sommeil ?\n\t* Vous ne supportez pas le désordre, et vous êtes de nature organisée\n\t* Vous êtes à l'aise avec l'outil informatique notamment la suite Office 365\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\nGagnons du temps dans notre processus de recrutement :\n\n\t* Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? [https://www.linkedin.com/in/clemence-moustier/]\n\t* Etape 2 : Entretien d'environ 45 minutes avec Majdi et Julie, managers de service \n\t* Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T19:33:50.000Z",
+        "expiration": "2026-09-15T19:33:50.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd53",
+      "partner_label": "France Travail",
+      "partner_job_id": "211FBJP"
+    },
+    "workplace": {
+      "siret": "84521083000012",
+      "brand": null,
+      "legal_name": "SAS THERON THIERRY METIERS DU FER",
+      "website": null,
+      "name": "SAS THERON THIERRY METIERS DU FER",
+      "description": "",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34700 Lodève",
+        "geopoint": {
+          "coordinates": [
+            3.313903,
+            43.731146
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1596,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FBJP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Métallier (H/F)",
+      "rome_codes": [
+        "B1601"
+      ],
+      "description": "Titulaire du CAP métallier , vous préparerez le BP métallier en alternance\n\nQualités recherchées: sérieux et motivation pour apprendre le métier\n\nLe serrurier-métallier travaille tout type de construction métallique (serrurerie, rampe d'escalier, porte, fenêtre, véranda, pont, passerelle...).\nVous apprendrez à  fabriquer un ouvrage ou une de ses parties et analyser les dessins et la gamme de fabrication, choisir le moyen à mettre en œuvre.\n\nVous serez aussi amené à intervenir sur de la restauration de monuments historiques.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soudure",
+        "Relever et reporter des cotes",
+        "Découper du métal",
+        "Réaliser les travaux de montage, d'assemblage",
+        "Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T11:14:36.969Z",
+        "expiration": "2026-09-15T11:14:36.969Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd56",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DYBP"
+    },
+    "workplace": {
+      "siret": "99305282800015",
+      "brand": null,
+      "legal_name": "LE FOURNIL D'OWEN",
+      "website": null,
+      "name": "LE FOURNIL D'OWEN",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34160 Saint-Bauzille-de-Montmel",
+        "geopoint": {
+          "coordinates": [
+            3.962673,
+            43.772133
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DYBP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti boulanger (H/F)",
+      "rome_codes": [
+        "H2108"
+      ],
+      "description": "Nous recherchons un(e) apprenti(e) boulanger(ère) motivé(e) pour rejoindre notre boulangerie artisanale.\n\nVous participerez à la fabrication du pain et des viennoiseries, dans le respect des règles d'hygiène et de qualité.\n\nProfil recherché :\n\n- Préparation d'un CAP ou BP Boulanger.\n- Sérieux(se), ponctuel(le), motivé(e) et impliqué(e).\n- Envie d'apprendre et de travailler en équipe.\n\nPoste basé à Saint-Bauzille-de-Montmel (34).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Charger, décharger, manutentionner des produits",
+        "Nettoyer et entretenir les équipements et machines utilisés",
+        "Respecter des procédures, modes opératoires et instructions",
+        "Respecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T10:33:32.959Z",
+        "expiration": "2026-09-15T10:33:32.959Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd52",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DXWN"
+    },
+    "workplace": {
+      "siret": "37865110300053",
+      "brand": null,
+      "legal_name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "website": null,
+      "name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "description": "",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DXWN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Approvisionneur achat (H/F) alternant",
+      "rome_codes": [
+        "M1101"
+      ],
+      "description": "Basée à Castelnau-le-Lez, VIP PLUS est une entreprise reconnue dans l'Hérault pour son expertise en serrurerie, menuiserie, génie climatique, automatisme et tous corps d'état. Forte de plus de 30 ans d'expérience, elle s'est imposée comme un partenaire de confiance auprès des maîtres d'ouvrage publics et privés, en proposant une offre complète de produits et services sur mesure.\n\nDans le cadre d'un accroissement, nous recherchons un.e alternant.e Approvisionneur/achar H/F pour rejoindre notre entreprise dès que possible.\n\nApprovisionnements\n\nRecueillir les besoins des différents services afin de préparer les commandes ;\nÉtablir les bons de commande ;\nPasser les commandes auprès des fournisseurs ;\nVeiller au respect des procédures internes de commande ;\nAssurer le suivi des commandes jusqu'à leur livraison sur les chantiers ou dans les différents services ;\nRelancer les fournisseurs en cas de retard ou d'anomalie.\n\nAchats et suivi fournisseurs\n\nParticiper aux consultations fournisseurs ;\nComparer les offres (prix, délais, qualité) et contribuer aux analyses ;\nParticiper ponctuellement aux négociations avec les fournisseurs, accompagné(e) de votre tuteur ;\nMettre à jour le catalogue fournisseurs et le référentiel produits ;\nParticiper à l'amélioration continue des processus achats.\n\nProfil recherché\n\nVous préparez un Bachelor (Bac+3) ou un Master avec une spécialisation Achats, Supply Chain, Logistique ou Commerce.\nVous êtes reconnu(e) pour votre rigueur, votre sens de l'organisation, votre aisance relationnelle et votre capacité d'analyse. \nUne bonne maîtrise des outils bureautiques, notamment Excel, est un plus.\n\nType d'emploi : Alternance ; contrat apprentissage (12 ou 24 mois)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Négocier des conditions commerciales",
+        "Négocier un contrat"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T10:30:33.637Z",
+        "expiration": "2026-09-15T10:30:33.637Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd57",
+      "partner_label": "France Travail",
+      "partner_job_id": "4973900"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "FAYAT BATIMENT, groupe FAYAT (le 1er groupe de BTP indépendant en France) met à disposition tout son savoir-faire en conception-réalisation, construction et rénovation de bâtiments,… aussi bien dans le domaine public que privé. Des références partout en France en bureaux, logements, bâtiments industriels, hôpitaux, établissements scolaires et universitaires, équipements fonctionnels, … \nFAYAT ...",
+      "size": null,
+      "location": {
+        "address": "34680 Saint-Georges-d'Orques",
+        "geopoint": {
+          "coordinates": [
+            3.776499,
+            43.616904
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55450595?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Technicien Études de Prix F/H (H/F)",
+      "rome_codes": [
+        "F1106"
+      ],
+      "description": "Sous la responsabilité du Chargé Etudes de Prix, vos missions sont les suivantes :Prospection fournisseurs et sous-traitants TCE (tous corps d'état)Consultations des fournisseurs et sous-traitants.Métrés traditionnels ou BIM.Comparaison des offres (techniques et financières).Participation à la rédaction des mémoires.\nCes missions pourront s'ajuster ou évoluer en fonction de l'activité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T07:29:28.000Z",
+        "expiration": "2026-09-15T07:29:28.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a5567f2dea3d72aa2327947",
       "partner_label": "France Travail",
       "partner_job_id": "4928174"
@@ -14324,18 +14663,158 @@
   },
   {
     "identifier": {
+      "id": "6a5809b2dea3d72aa233dd59",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DFWN"
+    },
+    "workplace": {
+      "siret": "37865110300053",
+      "brand": null,
+      "legal_name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "website": null,
+      "name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "description": "",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.910191,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DFWN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant ADV (H/F)",
+      "rome_codes": [
+        "D1409"
+      ],
+      "description": "Basée à Castelnau-le-Lez, VIP PLUS est une entreprise reconnue dans l'Hérault pour son expertise en serrurerie, menuiserie, génie climatique, automatisme et tous corps d'état. Forte de plus de 30 ans d'expérience, elle s'est imposée comme un partenaire de confiance auprès des maîtres d'ouvrage publics et privés, en proposant une offre complète de produits et services sur mesure.\n\nDans le cadre d'un accroissement, nous recherchons un.e alternant.e Chargé.e administration des ventes H/F pour rejoindre notre entreprise.\n\nvos missions seront les suivantes : \n\n Suivi administratif des affaires\no Gestion des commandes : Réception, vérification, enregistrement dans METEOR, confirmation client\no Suivi situations de travaux : Collecte mensuelle auprès des conducteurs, vérification cohérence, relance si retard\no Facturation : Émission des factures dans les 48h après validation, contrôle des pièces jointes\nGestion documentaire Archivage OS, avenants, PV réception, DGD dans Salesforce et METEOR\n\n- Recouvrement des créances\no Relances préventives : Contact client J+30 avant échéance pour vérifier réception et circuit de validation\no Relances amiables :  Appels et mails J+7, J+15, J+30 après échéance selon process défini\no Suivi promesses : Enregistrement engagements client, suivi du respect, relance si non tenu\no Escalade : Remontée au Responsable ADV des créances &gt;60 jours ou clients non réactifs\n\n- Relation client\no Point de contact : Interlocuteur privilégié des services comptables clients\no Demandes courantes : Duplicatas factures, attestations diverses, certificats de paiement\no Qualité de service : Réponse sous 24h, ton professionnel et constructif\n\n- Support équipe\no Rituels : Point hebdomadaire ADV, partage bonnes pratiques\no Backup : Couverture du portefeuille d'un collègue en cas d'absence\n\n- Compétences techniques\no Maîtrise ERP (METEOR, Sage, EBP...)\no CRM (Salesforce idéalement)\no Excel intermédiaire (TCD, recherchev)\no Aisance téléphonique et rédactionnelle\n\nFormation &amp; Expérience:  Bac à Bac+2: BTS Comptabilité, Gestion PME, Assistant manager, NRC/NDRC...; \ncontrat apprentissage : 12 à 24 mois",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer le suivi des commandes, la facturation",
+        "Etablir un devis",
+        "Gérer l'accueil téléphonique",
+        "Vérifier les conditions de réalisation d'une commande"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-13T16:33:07.815Z",
+        "expiration": "2026-09-13T16:33:07.815Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd58",
+      "partner_label": "France Travail",
+      "partner_job_id": "211CNHY"
+    },
+    "workplace": {
+      "siret": "94828506900019",
+      "brand": null,
+      "legal_name": "NOELIE",
+      "website": null,
+      "name": "NOELIE",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.813999,
+            43.685148
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211CNHY",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI COIFFURE BP (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Le salon Jean Vallon de St Gély du Fesc Recrute un ou une apprenti(e) BP\nPossibilité d'inscription au CFA du Groupe Jean Vallon (Centre ville de Montpellier)\nFormation complémentaire offerte\nA la suite du BP possibilité d'évolution au sein du Groupe JV",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-12T10:29:34.510Z",
+        "expiration": "2026-09-12T10:29:34.510Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a517396dea3d72aa2304f74",
       "partner_label": "France Travail",
       "partner_job_id": "211CGMS"
     },
     "workplace": {
-      "siret": null,
+      "siret": "89322407100017",
       "brand": null,
-      "legal_name": null,
+      "legal_name": "LES CAVES MAZUC",
       "website": null,
-      "name": null,
+      "name": "LES CAVES MAZUC",
       "description": "",
-      "size": null,
+      "size": "Non diffusé",
       "location": {
         "address": "34120 Pézenas",
         "geopoint": {
@@ -14348,7 +14827,7 @@
       },
       "domain": {
         "idcc": null,
-        "opco": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
         "naf": {
           "code": "56.30Z",
           "label": "Débits de boissons"
@@ -14373,7 +14852,7 @@
       "rome_codes": [
         "G1803"
       ],
-      "description": "Notre établissement bar/cave à vins à Pézenas propose des vins naturels accompagnés d'assiettes réalisées avec des produits locaux, de saison et souvent biologiques.\n\nDans le cadre de notre formation en alternance, nous recherchons un(e) Barman/Barmaid ou Serveur Runner (H/F) motivé(e) pour rejoindre notre équipe. \n\nLes formations possibles : Barman/Barmaid - Service en Restauration et Sommelier selon votre projet. \n\nDurée de contrat :\n de 6 mois à 1 an selon la formation choisie. \n\nVos principales missions seront les suivantes :\n\n- Confectionner des cocktails et servir des boissons aux clients.\n- Assurer un service de qualité en respectant les normes d'hygiène et de sécurité.\n- Conseiller les clients sur le choix des vins et des boissons.\n- Participer à la gestion des stocks et à l'approvisionnement du bar.\n- Travailler en collaboration avec l'équipe de restauration pour assurer un service fluide et efficace. \n- Mise en place des tables et redressage ...  \n\nProfil &amp; compétences\n- Doté(e) d'un excellent relationnel, vous savez soigner la relation client. Vous débordez d'énergie positive et êtes acteur de l'ambiance de l'établissement. Vous êtes une personne organisée, rigoureuse, autonome et vous aimez le travail d'équipe. \nVous avez une bonne capacité d'adaptation. \n \nHoraires :\n  - Travail en soirée de 17h à 00h à 1h du matin en dehors du dimanche et lundi sauf en été ou évènement spécifique. \n    travail en coupure le samedi.\n\nFormation : La formation aura lieu à Béziers ou Montpellier et sera dispensée par des professionnels du secteur. Vous alternerez entre périodes de formation et périodes de travail en entreprise.\n\nRejoignez- nous si vous êtes passionné(e) par l'univers de la restauration et souhaitez développer vos compétences dans un environnement dynamique et professionnel.",
+      "description": "Notre établissement bar/cave à vins à Pézenas propose des vins naturels accompagnés d'assiettes réalisées avec des produits locaux, de saison et souvent biologiques.\n\nNous recherchons un(e) Barman/Barmaid ou Serveur Runner (H/F) motivé(e) pour rejoindre notre équipe, dans le cadre de l' alternance.\n\nLes formations possibles : Barman/Barmaid - Service en Restauration et Sommelier selon votre projet. \n\nDurée de contrat :\n de 6 mois à 1 an selon la formation choisie. \n\nVos principales missions seront les suivantes :\n\n- Confectionner des cocktails et servir des boissons aux clients.\n- Assurer un service de qualité en respectant les normes d'hygiène et de sécurité.\n- Conseiller les clients sur le choix des vins et des boissons.\n- Participer à la gestion des stocks et à l'approvisionnement du bar.\n- Travailler en collaboration avec l'équipe de restauration pour assurer un service fluide et efficace. \n- Mise en place des tables et redressage ...  \n\nProfil &amp; compétences\n- Doté(e) d'un excellent relationnel, vous savez soigner la relation client. \nVous débordez d'énergie positive et êtes acteur de l'ambiance de l'établissement. \nVous êtes une personne organisée, rigoureuse, autonome et vous aimez le travail d'équipe. \nVous avez une bonne capacité d'adaptation. \n \nHoraires :\n  - Travail en soirée de 17h à 00h à 1h du matin en dehors du dimanche et lundi sauf en été ou évènement spécifique. \n    travail en coupure le samedi.\n\nFormation : La formation aura lieu à Béziers ou Montpellier et sera dispensée par des professionnels du secteur. \nVous alternerez entre périodes de formation et périodes de travail en entreprise.\n\nRejoignez- nous si vous êtes passionné(e) par l'univers de la restauration et souhaitez développer vos compétences dans un environnement dynamique et professionnel.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -14653,68 +15132,6 @@
       "publication": {
         "creation": "2026-07-10T04:36:55.000Z",
         "expiration": "2026-09-10T04:36:55.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd7",
-      "partner_label": "France Travail",
-      "partner_job_id": "4770189"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "FAYAT BATIMENT, groupe FAYAT (le 1er groupe de BTP indépendant en France) met à disposition tout son savoir-faire en conception-réalisation, construction et rénovation de bâtiments,… aussi bien dans le domaine public que privé. Des références partout en France en bureaux, logements, bâtiments industriels, hôpitaux, établissements scolaires et universitaires, équipements fonctionnels, … \nFAYAT ...",
-      "size": null,
-      "location": {
-        "address": "34680 Saint-Georges-d'Orques",
-        "geopoint": {
-          "coordinates": [
-            3.776499,
-            43.616904
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55450595?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Technicien Études de Prix F/H (H/F)",
-      "rome_codes": [
-        "F1106"
-      ],
-      "description": "Sous la responsabilité du Chargé Etudes de Prix, vos missions sont les suivantes :Prospection fournisseurs et sous-traitants TCE (tous corps d'état)Consultations des fournisseurs et sous-traitants.Métrés traditionnels ou BIM.Comparaison des offres (techniques et financières).Participation à la rédaction des mémoires.\nCes missions pourront s'ajuster ou évoluer en fonction de l'activité.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T21:35:51.000Z",
-        "expiration": "2026-09-09T21:35:51.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15136,68 +15553,6 @@
   },
   {
     "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd2",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713663"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recherche pour son entreprise partenaire, une société dynamique en plein développement, un(e) Assistant(e) Manager dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau IV (Bac Le poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736389?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nSous la supervision du manager, vous participerez activement à la gestion quotidienne de l'activité. Vos missions principales seront Assister le manager dans l'organisation et le suivi des opérations***Participer à la gestion administrative et commerciale (courriers, plannings, commandes)***Accueillir et informer les clients ou visiteurs***Aider à la coordination des équipes et à la gestion des emplois du temps***Suivre les indicateurs de performance et contribuer à l'atteinte des objectifs***Participer à la mise en place d'actions commerciales ou promotionnelles\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous êtes organisé(e), rigoureux(se) et polyvalent(e)***Vous avez un bon sens du relationnel et une vraie capacité d'écoute***Vous êtes réactif(ve), à l'aise dans la gestion de tâches multiples***Vous maîtrisez les bases de la bureautique (Word, Excel, mails Vous avez envie d'apprendre, de progresser, et de travailler en équipe***Vous souhaitez évoluer dans un poste avec des responsabilités et du contact humain",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5021cddea3d72aa22f8fd1",
       "partner_label": "France Travail",
       "partner_job_id": "4713661"
@@ -15263,6 +15618,68 @@
   },
   {
     "identifier": {
+      "id": "6a5021cddea3d72aa22f8fd3",
+      "partner_label": "France Travail",
+      "partner_job_id": "4713588"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Technico-commercial / Technico-commerciale (H/F)",
+      "rome_codes": [
+        "D1407"
+      ],
+      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T03:20:04.000Z",
+        "expiration": "2026-09-09T03:20:04.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a5021cddea3d72aa22f8fcf",
       "partner_label": "France Travail",
       "partner_job_id": "4713619"
@@ -15314,68 +15731,6 @@
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
       },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd3",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713588"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technico-commercial / Technico-commerciale (H/F)",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
-      "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -15793,71 +16148,6 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bd",
-      "partner_label": "France Travail",
-      "partner_job_id": "4697488"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client·e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien·nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client·e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller·ère expert·e, Chef·fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n\t\t\n\tNous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-08T14:35:17.000Z",
-        "expiration": "2026-09-08T14:35:17.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4ed03adea3d72aa22ed3b6",
       "partner_label": "France Travail",
       "partner_job_id": "4697558"
@@ -15956,6 +16246,71 @@
     },
     "apply": {
       "url": "http://app.mytalentplug.com/redirection.aspx?ojid=HcXLtLJcYM5qEz8wDM/Hgg==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client·e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien·nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client·e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller·ère expert·e, Chef·fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n\t\t\n\tNous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-08T14:35:17.000Z",
+        "expiration": "2026-09-08T14:35:17.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4ed03adea3d72aa22ed3bd",
+      "partner_label": "France Travail",
+      "partner_job_id": "4697488"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
       "phone": null,
       "recipient_id": null
     },
@@ -16699,82 +17054,6 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bf",
-      "partner_label": "France Travail",
-      "partner_job_id": "210XBGF"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "87.10B",
-          "label": "Hébergement médicalisé pour enfants handicapés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XBGF",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Éducateur spécialisé en Apprentissage (H/F)",
-      "rome_codes": [
-        "K1207"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage, sous l'autorité de la Directrice du DITEP Le Mont-Lozère et du Chef(fe) de service, vous serez particulièrement chargé(e) :\n- D'instaurer une relation éducative avec la personne accompagnée et sa famille.\n- D'accompagner l'enfant, l'adolescent ou le jeune adulte dans son projet en tenant compte de ses souhaits, de ses potentialités et de la réalité sociale.\n- Accompagner les usagers dans les déplacements\n- D'élaborer un diagnostic éducatif, social, familial et de partenariat \n- De soutenir la parentalité\n- De coordonner les actions pour construction du PIA (projet individuel d'accompagnement) et mesurer la faisabilité des objectifs fixés\n- D'assurer la traçabilité du parcours\n\nPROFIL\n- Diplôme impératif de moniteur éducateur (obtenu)\n- Qualités relationnelles, travail en équipe pluridisciplinaire\n- Qualités rédactionnelles\n- Permis B nécessaire du fait d'avoir à utiliser ponctuellement une voiture de service pour accomplir les missions dédiées\n\n\nCONDITIONS : CCNT 66",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Communiquer avec l'entourage de la personne accompagnée",
-        "Gérer des situations de crise ou d'urgence",
-        "Gérer une situation conflictuelle",
-        "Organiser des sorties et des séjours éducatifs, culturels",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T17:26:33.848Z",
-        "expiration": "2026-09-07T17:26:33.848Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4d82c5dea3d72aa22e0c7a",
       "partner_label": "France Travail",
       "partner_job_id": "210WXJX"
@@ -17440,75 +17719,6 @@
   },
   {
     "identifier": {
-      "id": "6a4c2ce5280c2fd977d7a2b4",
-      "partner_label": "France Travail",
-      "partner_job_id": "210TMTG"
-    },
-    "workplace": {
-      "siret": "90769673600038",
-      "brand": null,
-      "legal_name": "OCCITANIE TRAVAUX SPECIAUX",
-      "website": null,
-      "name": "OCCITANIE TRAVAUX SPECIAUX",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34230 Paulhan",
-        "geopoint": {
-          "coordinates": [
-            3.464212,
-            43.541973
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1702,
-        "opco": "Constructys",
-        "naf": {
-          "code": "41.10B",
-          "label": "Promotion immobilière de bureaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210TMTG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant administratif / Assistante administrative (H/F)",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage pour préparer un BTS assistant(e) administratif/ve ou licence, vous serez en charge d'aider l'assistante de Direction sur les missions suivantes :\nStandard\nClassement, archivage de dossiers...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gérer les agendas et planifier des rendez-vous",
-        "Mettre à jour un dossier, une base de données",
-        "Classer des documents"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-06T11:04:24.934Z",
-        "expiration": "2026-09-06T11:04:24.934Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4c2ce5280c2fd977d7a2b5",
       "partner_label": "France Travail",
       "partner_job_id": "210TKNP"
@@ -17794,7 +18004,7 @@
       "siret": "83296675800027",
       "brand": null,
       "legal_name": "ODYSSEE",
-      "website": null,
+      "website": "https://restaurantentrepots.fr/",
       "name": "ODYSSEE",
       "description": "",
       "size": "Non diffusé",
@@ -17911,6 +18121,76 @@
       "publication": {
         "creation": "2026-07-04T05:35:59.000Z",
         "expiration": "2026-09-04T05:35:59.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4ed015dea3d72aa22ecaee",
+      "partner_label": "France Travail",
+      "partner_job_id": "210STMS"
+    },
+    "workplace": {
+      "siret": "44348405000044",
+      "brand": null,
+      "legal_name": "TECHNITOIT",
+      "website": null,
+      "name": "TECHNITOIT",
+      "description": "",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "77.40Z",
+          "label": "Location-bail de propriété intellectuelle et de produits similaires,à l'exception des œuvres soumises à copyright"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/commercial-habitat-h-f-montpellier-technitoit-4/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial habitat (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Votre job ! \n\nIntégré dans notre équipe et tutoré par un commercial expérimenté, vous participez à la commercialisation de nos solutions en rénovation et amélioration de l'habitat (Toiture, Façade, Isolation des combles) auprès d'une clientèle de propriétaires. \n\nVotre principale mission est de développer et fidéliser votre portefeuille client en prospectant et avec l'aide d'outils marketing et communication innovants : fichier clients, foires et salons de l'habitat, galeries marchandes, rendez-vous fournis à terme.\n\nNotre recherche :\n * Vous êtes en formation BTS, Bachelor ou Master, ou équivalent, dans le domaine commercial\n * Vous avez la fibre commerciale et de l'ambition\n * Vous êtes curieux(se) et aimez expérimenter\n * Vous êtes ambitieux(se) et désirez dépasser vos objectifs\n * Vous avez l'esprit d'équipe\n * Vous avez le Permis B et idéalement véhiculé\n\nModalités :\n* Contrat Apprentissage ou Professionnalisation de 12 mois (24 mois envisageable), 39h/hebdo \n* Rémunération motivante composée d'un fixe (en fonction de la législation) + commissions + défraiement\n* Mutuelle\n\nRejoignez nous ! #BecomeBoss #Technitoit\n\nPour plus d'informations, n'hésitez pas à visiter le site internet : www.technitoit.com ",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de négociation avancées",
+        "Développer et fidéliser la relation client",
+        "Développer un portefeuille clients et prospects",
+        "Mettre en oeuvre des actions commerciales et promotionnelles"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-03T17:33:22.533Z",
+        "expiration": "2026-09-03T17:33:22.533Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -22135,71 +22415,6 @@
   },
   {
     "identifier": {
-      "id": "6a56b838dea3d72aa232f33d",
-      "partner_label": "France Travail",
-      "partner_job_id": "3896256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mutuelle des Motards",
-      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, la Mutuelle des Motards (490 salariés, 35 Maisons des Motards en France et 90 délégués bénévoles) est reconnue pour sa qualité de service et son implication dans la pratique du 2 roues.\n\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :",
-      "size": null,
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "65.12Z",
-          "label": "Autres assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci42NjI1My42NzA2QGFtZG0uYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Chargé(e) d'études statistiques moto F/H (H/F)",
-      "rome_codes": [
-        "M1403"
-      ],
-      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, la Mutuelle des Motards (480 salariés, 43 Maisons des Motards en France et 85 délégués bénévoles) est reconnue pour sa qualité de service et son implication dans la pratique du 2 roues.\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\n\nApprenti/e Chargé/e d'études statistiques moto F/H\n\nEn tant qu'apprenti/e pour la cellule innovation de la Mutuelle des Motards, vous intégrerez une petite équipe dynamique et agile. Notre objectif est d'enrichir la connaissance sur les conducteurs de 2-roues pour mieux répondre à leurs besoins et leur proposer des produits et services adaptés.\nPrincipales missions :\n\nConcrètement, vous serez amené/e, sous la supervision de votre tuteur et/ou manager à :\n- Réaliser le pré-traitement des données\n- Comprendre et expliquer des problématiques en lien avec le 2-roues à partir de données quantitatives ou qualitatives.\n- Elaborer des modèles prospectifs en lien avec l'évolution de la mobilité.\n- Réaliser les analyses et rédiger des rapports détaillés.\n- Concevoir des communications originales accessibles au plus grand nombre.\n- Contribuer à l'élaboration de questionnaires afin de recueillir la data.\nVous préparez un bac+5 en école de commerce, ingénieur ou université avec une spécialisation en Data science.\nVous disposez de bonnes connaissances des méthodes d'analyse de données et de synthèse.\nVous êtes reconnu/e pour votre communication écrite et orale.\nVous êtes organisé/e, rigoureux/se, curieux/se et dynamique.\n\nLa maîtrise de SAS ou Spad serait un plus tout comme une appétence pour le monde du 2-roues motorisé (moto, scooter.).\n\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-17T10:57:46.000Z",
-        "expiration": "2026-08-17T10:57:46.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a34731e8846a43a71e4e241",
       "partner_label": "France Travail",
       "partner_job_id": "3854727"
@@ -22262,68 +22477,6 @@
   },
   {
     "identifier": {
-      "id": "6a34731e8846a43a71e4e24f",
-      "partner_label": "France Travail",
-      "partner_job_id": "3843372"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Nos partenaires , restaurants situés à LA GRANDE MOTTE et ses environs , recrutent plusieurs apprentis pour renforcer leurs équipes.\nPostes à pourvoir immédiatement\nFormation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie et pratique en entreprise.\nPlusieurs profils recherchés - rejoignez nous vite !\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards ...",
-      "size": null,
-      "location": {
-        "address": "34280 La Grande-Motte",
-        "geopoint": {
-          "coordinates": [
-            4.074672,
-            43.56818
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736141?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nDescription du profil Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-16T16:30:30.000Z",
-        "expiration": "2026-08-16T16:30:30.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a34731e8846a43a71e4e249",
       "partner_label": "France Travail",
       "partner_job_id": "3842557"
@@ -22378,130 +22531,6 @@
       "publication": {
         "creation": "2026-06-16T15:49:19.000Z",
         "expiration": "2026-08-16T15:49:19.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a34731e8846a43a71e4e242",
-      "partner_label": "France Travail",
-      "partner_job_id": "3842307"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Ce que nous vous proposons Une formation professionnalisante***Un accompagnement personnalisé***Une expérience concrète en entreprise***De réelles perspectives d'évolution\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54735999?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant administratif / Assistante administrative (H/F)",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "Description du poste :\nVos missions en entreprise Accueil physique et téléphonique***Gestion des mails et du courrier***Suivi et traitement des dossiers administratifs***Prise de rendez-vous et gestion d'agenda***Saisie et mise à jour de bases de données***Appui administratif aux équipes\nDescription du profil :\nProfil recherché Vous préparez un diplôme en gestion, administration ou secrétariat***Vous êtes organisé(e), rigoureux(se) et dynamique***Vous avez un bon sens du relationnel***Vous êtes à l'aise avec les outils informatiques***Vous avez envie d'apprendre et de vous investir",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-16T15:48:24.000Z",
-        "expiration": "2026-08-16T15:48:24.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a34731e8846a43a71e4e253",
-      "partner_label": "France Travail",
-      "partner_job_id": "3800547"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Dyneff SAS",
-      "description": "Dyneff, fournisseur d'énergies depuis plus de 65 ans, emploie plus de 950 collaborateurs en France et en Espagne. Acteur engagé dans le développement durable, le groupe propose une offre multi-énergies (carburants, biocarburants, gaz, électricité, combustibles, solutions photovoltaïques et pompes à chaleur) accompagnée de services sur mesure pour les professionnels, les particuliers et les collectivités.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/nkqvyzfh7u8/alternant-qualiticien-process-h-f",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Qualiticien Process H/F",
-      "rome_codes": [
-        "H1404"
-      ],
-      "description": "RESPONSABILITÉS : Dans le cadre de cette alternance, vous participerez à une démarche progressive de structuration des processus de l'entreprise. Phase 1 : Accompagnement du service IT • Analyser et remettre à plat les modes opératoires du service IT ; • Identifier, formaliser et documenter les processus existants ; • Structurer et harmoniser les procédures afin de créer un référentiel fiable et partagé. Phase 2 : Déploiement progressif à l'échelle de l'entreprise En fonction des besoins identifiés et des priorités de l'entreprise, vous serez amené à : • Étendre la démarche de formalisation des processus à d'autres services ; • Concevoir une organisation documentaire claire, centralisée et pérenne ; • Créer des supports pédagogiques innovants pour accompagner l'appropriation des procédures (vidéos, modules e-learning, présentations PowerPoint, guides pratiques, etc.) ; • Participer à l'amélioration continue des méthodes de travail et à la diffusion d'une culture processus au sein de l'entreprise Ce que nous proposons : Le contrat : • Alternance de 12 à 24 mois • Poste basé à Montpellier, démarrage possible mi-août Avantages : ✔ Carte Swile (titres restaurants) ✔ Réductions sur nos tarifs énergies après 6 mois ✔ Comité d'entreprise ✔ Plan Epargne Salarié ✔ Accord télétravail après 6 mois ✔ Dispositif 1% logement ✔ Cadre de travail inclusif ✔ Accès à une association sportive interne Pourquoi rejoindre Dyneff ? Parce que ce stage est un véritable challenge : vous partirez presque d'une feuille blanche pour formaliser des process existants dans une entreprise en pleine évolution. PROFIL RECHERCHÉ : Profil : BUT / Licence Pro / Master en management de la qualité ou QSE avec une appétence pour les sujets d'automatisation • Formation orientée processus / normes ISO • Bonne maîtrise du Pack Office Expériences : • Alternance ou stage effectué • Première expérience qualité appréciée Compétences opérationnelles : • Capacité d'analyse et de synthèse • Compétences rédactionnelles solides • Organisation et rigueur • Créativité dans la conception de supports Soft skills indispensables : • Autonomie • Force de proposition • Esprit d'équipe • Pugnacité • Aisance à l'oral SEG1",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-16T04:31:47.000Z",
-        "expiration": "2026-08-16T04:31:47.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24278,24 +24307,496 @@
   },
   {
     "identifier": {
-      "id": "6a307b7e8c7e8921043142e4",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54731727"
+      "id": "6a5809b2dea3d72aa233dd54",
+      "partner_label": "France Travail",
+      "partner_job_id": "4995966"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "APSH34",
-      "description": "<p>  Recherche un(e) Accompagnant(e) Éducatif(ve) et Social(e) en alternance ! </p> <p>  <strong>   Vous souhaitez rejoindre une structure solide,   <br />   humaine qui accompagne plus de 8 000 personnes ?  </strong> </p> <p>  Un poste d'Accompagnant Éducatif et Social (H/F) en alternance plein dans une structure médicosociale innovante dans une ville dynamique et ensoleillée :  <strong>Entre-Vignes</strong>  ☀️ </p> <p>  <strong>✨ L'APSH34✨ c'est 50 ans d'expérience, une capacité à se réinventer et 39 établissements et services engagés au service des publics accompagnés.</strong> </p> <p>C'est aussi de fortes valeurs humanistes : solidarité, fraternité, respect de la diversité, tolérance, laïcité et promotion de l'exercice de la citoyenneté et de l'autodétermination des personnes en situation de vulnérabilité.</p>",
+      "name": "ENSIO",
+      "description": "",
       "size": null,
       "location": {
-        "address": "34400 Entre-Vignes",
+        "address": "34430 Saint-Jean-de-Védas",
         "geopoint": {
           "coordinates": [
-            4.07688,
-            43.722708
+            3.832002,
+            43.574823
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "78.20Z",
+          "label": "Activités des agences de travail temporaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://ensio.softy.pro/offre/214169?idt=5&h=2141690",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI - ASSISTANT TRAVAUX IRVE - H/F",
+      "rome_codes": [
+        "M1605"
+      ],
+      "description": "Description :\n\n\nSI POUR VOUS, LA GESTION ADMINISTRATIVE EST AUSSI FACILE QUE BRANCHER UN CHARGEUR USB DU PREMIER COUP, ALORS CETTE OFFRE D'EMPLOI DANS L'INSTALLATION DES BORNES IRVE EST FAITE POUR VOUS !\n\nVous serez accompagné par JULIE Responsable Performances \n\nVOUS SEREZ FORMÉ SUR LES MISSIONS SUIVANTES : \n\nGestion et organisation administrative :\n\n\t* Prise de rendez-vous clients et mise à jour des agendas selon les imprévus\n\t* Gestion des dossiers chantiers : plan de prévention, APD (dossiers travaux), DICT, et autres documents clients\n\n\t* Planification et suivi des travaux via notre logiciel interne :\n\n\t* Intégration des opportunités et transformation en affaires\n\t* Coordination avec les sous-traitants (SSTT)\n\t* Suivi des interventions (collecte de photos et documents)\n\nMaintenance :\n\n\t* Création et affectation des ordres de travail via notre logiciel interne\n\t* Validation des saisies d’interventions réalisées par nos techniciens\n\n \n\n\t\t\n\t\t\nProfil recherché :\n\t\t\n\t\t\nQUI ÊTES-VOUS ? : \n\n\t* Vous préparez votre BTS Electrotechnique\n\t* Vous êtes à l’aise au téléphone, vous pourriez tenir une conversation téléphonique même pendant votre sommeil ?\n\t* Vous ne supportez pas le désordre, et vous êtes de nature organisée\n\t* Vous êtes à l'aise avec l'outil informatique notamment la suite Office 365\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\nGagnons du temps dans notre processus de recrutement :\n\n\t* Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? [https://www.linkedin.com/in/clemence-moustier/]\n\t* Etape 2 : Entretien d'environ 45 minutes avec Majdi et Julie, managers de service \n\t* Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T19:33:50.000Z",
+        "expiration": "2026-09-15T19:33:50.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a579f3ca8013626d33da1be",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a579f3ca8013626d33da1be"
+    },
+    "workplace": {
+      "siret": "93285333600018",
+      "brand": "LEONIDAS",
+      "legal_name": "KOKOLA",
+      "website": null,
+      "name": "KOKOLA",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.24Z",
+          "label": "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a579f3c4acef524be4c0cd8",
+      "phone": "0625165980",
+      "recipient_id": "partners_6a579f3ca8013626d33da1be"
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse en chocolaterie",
+      "rome_codes": [
+        "D1115"
+      ],
+      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T14:54:52.612Z",
+        "expiration": "2026-09-13T14:54:52.608Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a579802a8013626d33d9d0a",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a579802a8013626d33d9d0a"
+    },
+    "workplace": {
+      "siret": "83044198600015",
+      "brand": "LES DELICES DE MASSANE",
+      "legal_name": "LES DELICES DU SUD II",
+      "website": null,
+      "name": "LES DELICES DU SUD II",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "2596 Avenue de l'Europe 34080 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.819822,
+            43.641835
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "10.71B",
+          "label": "Cuisson de produits de boulangerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a5798024acef524be4c0c06",
+      "phone": "0652292438",
+      "recipient_id": "partners_6a579802a8013626d33d9d0a"
+    },
+    "contract": {
+      "start": "2026-08-03T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T14:24:02.748Z",
+        "expiration": "2026-09-13T14:24:02.745Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5797c88bfdaae34d690103",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a5797c88bfdaae34d690103"
+    },
+    "workplace": {
+      "siret": "83044198600015",
+      "brand": "LES DELICES DE MASSANE",
+      "legal_name": "LES DELICES DU SUD II",
+      "website": null,
+      "name": "LES DELICES DU SUD II",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "2596 Avenue de l'Europe 34080 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.819822,
+            43.641835
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "10.71B",
+          "label": "Cuisson de produits de boulangerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a5797c84acef524be4c0bfb",
+      "phone": "0652292438",
+      "recipient_id": "partners_6a5797c88bfdaae34d690103"
+    },
+    "contract": {
+      "start": "2026-08-03T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T14:23:04.620Z",
+        "expiration": "2026-09-13T14:23:04.617Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd53",
+      "partner_label": "France Travail",
+      "partner_job_id": "211FBJP"
+    },
+    "workplace": {
+      "siret": "84521083000012",
+      "brand": null,
+      "legal_name": "SAS THERON THIERRY METIERS DU FER",
+      "website": null,
+      "name": "SAS THERON THIERRY METIERS DU FER",
+      "description": "",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34700 Lodève",
+        "geopoint": {
+          "coordinates": [
+            3.313903,
+            43.731146
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1596,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FBJP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Métallier (H/F)",
+      "rome_codes": [
+        "B1601"
+      ],
+      "description": "Titulaire du CAP métallier , vous préparerez le BP métallier en alternance\n\nQualités recherchées: sérieux et motivation pour apprendre le métier\n\nLe serrurier-métallier travaille tout type de construction métallique (serrurerie, rampe d'escalier, porte, fenêtre, véranda, pont, passerelle...).\nVous apprendrez à  fabriquer un ouvrage ou une de ses parties et analyser les dessins et la gamme de fabrication, choisir le moyen à mettre en œuvre.\n\nVous serez aussi amené à intervenir sur de la restauration de monuments historiques.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soudure",
+        "Relever et reporter des cotes",
+        "Découper du métal",
+        "Réaliser les travaux de montage, d'assemblage",
+        "Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T11:14:36.969Z",
+        "expiration": "2026-09-15T11:14:36.969Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd56",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DYBP"
+    },
+    "workplace": {
+      "siret": "99305282800015",
+      "brand": null,
+      "legal_name": "LE FOURNIL D'OWEN",
+      "website": null,
+      "name": "LE FOURNIL D'OWEN",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34160 Saint-Bauzille-de-Montmel",
+        "geopoint": {
+          "coordinates": [
+            3.962673,
+            43.772133
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DYBP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti boulanger (H/F)",
+      "rome_codes": [
+        "H2108"
+      ],
+      "description": "Nous recherchons un(e) apprenti(e) boulanger(ère) motivé(e) pour rejoindre notre boulangerie artisanale.\n\nVous participerez à la fabrication du pain et des viennoiseries, dans le respect des règles d'hygiène et de qualité.\n\nProfil recherché :\n\n- Préparation d'un CAP ou BP Boulanger.\n- Sérieux(se), ponctuel(le), motivé(e) et impliqué(e).\n- Envie d'apprendre et de travailler en équipe.\n\nPoste basé à Saint-Bauzille-de-Montmel (34).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Charger, décharger, manutentionner des produits",
+        "Nettoyer et entretenir les équipements et machines utilisés",
+        "Respecter des procédures, modes opératoires et instructions",
+        "Respecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T10:33:32.959Z",
+        "expiration": "2026-09-15T10:33:32.959Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd52",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DXWN"
+    },
+    "workplace": {
+      "siret": "37865110300053",
+      "brand": null,
+      "legal_name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "website": null,
+      "name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "description": "",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DXWN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Approvisionneur achat (H/F) alternant",
+      "rome_codes": [
+        "M1101"
+      ],
+      "description": "Basée à Castelnau-le-Lez, VIP PLUS est une entreprise reconnue dans l'Hérault pour son expertise en serrurerie, menuiserie, génie climatique, automatisme et tous corps d'état. Forte de plus de 30 ans d'expérience, elle s'est imposée comme un partenaire de confiance auprès des maîtres d'ouvrage publics et privés, en proposant une offre complète de produits et services sur mesure.\n\nDans le cadre d'un accroissement, nous recherchons un.e alternant.e Approvisionneur/achar H/F pour rejoindre notre entreprise dès que possible.\n\nApprovisionnements\n\nRecueillir les besoins des différents services afin de préparer les commandes ;\nÉtablir les bons de commande ;\nPasser les commandes auprès des fournisseurs ;\nVeiller au respect des procédures internes de commande ;\nAssurer le suivi des commandes jusqu'à leur livraison sur les chantiers ou dans les différents services ;\nRelancer les fournisseurs en cas de retard ou d'anomalie.\n\nAchats et suivi fournisseurs\n\nParticiper aux consultations fournisseurs ;\nComparer les offres (prix, délais, qualité) et contribuer aux analyses ;\nParticiper ponctuellement aux négociations avec les fournisseurs, accompagné(e) de votre tuteur ;\nMettre à jour le catalogue fournisseurs et le référentiel produits ;\nParticiper à l'amélioration continue des processus achats.\n\nProfil recherché\n\nVous préparez un Bachelor (Bac+3) ou un Master avec une spécialisation Achats, Supply Chain, Logistique ou Commerce.\nVous êtes reconnu(e) pour votre rigueur, votre sens de l'organisation, votre aisance relationnelle et votre capacité d'analyse. \nUne bonne maîtrise des outils bureautiques, notamment Excel, est un plus.\n\nType d'emploi : Alternance ; contrat apprentissage (12 ou 24 mois)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Négocier des conditions commerciales",
+        "Négocier un contrat"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-15T10:30:33.637Z",
+        "expiration": "2026-09-15T10:30:33.637Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd57",
+      "partner_label": "France Travail",
+      "partner_job_id": "4973900"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "FAYAT BATIMENT, groupe FAYAT (le 1er groupe de BTP indépendant en France) met à disposition tout son savoir-faire en conception-réalisation, construction et rénovation de bâtiments,… aussi bien dans le domaine public que privé. Des références partout en France en bureaux, logements, bâtiments industriels, hôpitaux, établissements scolaires et universitaires, équipements fonctionnels, … \nFAYAT ...",
+      "size": null,
+      "location": {
+        "address": "34680 Saint-Georges-d'Orques",
+        "geopoint": {
+          "coordinates": [
+            3.776499,
+            43.616904
           ],
           "type": "Point"
         }
@@ -24307,32 +24808,93 @@
       }
     },
     "apply": {
-      "url": "https://www.meteojob.com/jobs/54731727?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "url": "https://www.directemploi.com/candidatOffre/55450595?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": null,
+      "duration": 12,
       "type": [
-        "Apprentissage",
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Accompagnant Educatif et Social en alternance (H/F)",
+      "title": "Alternant Technicien Études de Prix F/H (H/F)",
       "rome_codes": [
-        "K1306"
+        "F1106"
       ],
-      "description": "<p>  <strong>Votre rôle plus concrètement au sein de la structure :</strong> </p> <p>Volet « Accompagnement » :</p> <ul>  <li>Accompagner la personne accueillie dans sa vie quotidienne dans un souci de bien-être physique et psychologique en veillant à leur confort.</li>  <li>Assurer la surveillance des personnes.</li>  <li>Assurer une écoute bienveillante et compréhensive auprès des personnes accompagnées.</li>  <li>Gérer l'urgence en adéquation au protocole en vigueur tout en faisant respecter les règles de la vie collective.</li>  <li>Participer à la mise en œuvre du projet personnalisé dans le cadre du projet d'établissement.</li>  <li>Repérer et évaluer les besoins et les capacités de la personne dans les actes de la vie quotidienne.</li>  <li>Détecter des signes révélateurs d'un problème de santé ou de mal-être et prendre les dispositions adaptées.</li>  <li>Animer au travers d'activités collectives des actions de soutien à la quotidienneté.</li>  <li>Participer à l'inscription de la personne dans son environnement.</li> </ul> <p>Volet « Soins » :</p> <ul>  <li>Participer à l'inscription de la personne dans son environnement.</li>  <li>Veiller à la prise effective de traitements médicamenteux préparés par des personnes habilitées.</li>  <li>Observer et mesurer les paramètres physiques, psychiques et sociaux liés à l'état de santé des personnes.</li>  <li>   Détecter les signes révélateurs d'un problème de santé ou de mal-être et prendre les décisions adaptées.   <br />  </li> </ul> <p>  <strong>   Date de prise de poste  </strong>  : Dès que possible  <br />  Rémunération :  <br />  Une rémunération sera appliquée conformément aux dispositions prévues par la loi. </p> <p>  <strong>Vous bénéficiez également :</strong>  <br />  Des œuvres sociales du CSE,  <br />  D'une ambiance chaleureuse et solidaire !  <br />  D'un service Formation prêt à vous accompagner dans vos souhaits d'évolution,  <br />  D'une flexibilité des horaires pour un meilleur équilibre vie professionnelle et personnelle,  <br />  Candidature à adresser à :  <br />  Madame La Directrice  <br />  APSH 34 - Territoire Lunellois  <br />  Chemin les Alicantes  <br />  34403 LUNEL Cedex </p>\r\n\r\nSecteur: Secteur associatif\r\n\r\nPoste: Aide médico-psychologique (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <strong>Vous êtes :</strong>  <br />  Sur le point d'intégrer la formation d'Accompagnant Éducatif et Social  <br />  Motivé, bienveillant et force de propositions  <br />  Titulaire du Permis B </p> <p>  <strong>Vous avez :</strong>  <br />  Une appétence pour le secteur du handicap psychique, c'est un plus.  <br />  Envie d'évoluer au sein d'une équipe engagée accompagnant une centaine de bénéficiaires. </p> <p>  <strong>Et bien, ce poste est surement fait pour vous !</strong> </p> <p>Le plus ? Vous aurez la chance d'avoir des collègues sur tout le territoire de l'Hérault ! L'occasion de découvrir notre magnifique département si vous n'êtes pas d'ici ou de continuer à profiter de notre qualité de vie</p> <p>  <em>Parce que la richesse des profils pour venir chez nous repose sur ce qu'ils apportent.</em>  <br />  <em>Parlons de ce qui vous anime !</em> </p>",
+      "description": "Sous la responsabilité du Chargé Etudes de Prix, vos missions sont les suivantes :Prospection fournisseurs et sous-traitants TCE (tous corps d'état)Consultations des fournisseurs et sous-traitants.Métrés traditionnels ou BIM.Comparaison des offres (techniques et financières).Participation à la rédaction des mémoires.\nCes missions pourront s'ajuster ou évoluer en fonction de l'activité.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-13T22:08:17.351Z",
-        "expiration": "2026-09-13T22:08:17.351Z"
+        "creation": "2026-07-15T07:29:28.000Z",
+        "expiration": "2026-09-15T07:29:28.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168af6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212749"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87658,
+            43.605936
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-14T00:00:00.000Z",
+        "expiration": "2026-09-14T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24398,6 +24960,208 @@
       "publication": {
         "creation": "2026-07-13T21:19:46.000Z",
         "expiration": "2026-09-13T21:19:46.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd59",
+      "partner_label": "France Travail",
+      "partner_job_id": "211DFWN"
+    },
+    "workplace": {
+      "siret": "37865110300053",
+      "brand": null,
+      "legal_name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "website": null,
+      "name": "VENTE INDUSTRIE PREVENTION PLUS",
+      "description": "",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.910191,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211DFWN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant ADV (H/F)",
+      "rome_codes": [
+        "D1409"
+      ],
+      "description": "Basée à Castelnau-le-Lez, VIP PLUS est une entreprise reconnue dans l'Hérault pour son expertise en serrurerie, menuiserie, génie climatique, automatisme et tous corps d'état. Forte de plus de 30 ans d'expérience, elle s'est imposée comme un partenaire de confiance auprès des maîtres d'ouvrage publics et privés, en proposant une offre complète de produits et services sur mesure.\n\nDans le cadre d'un accroissement, nous recherchons un.e alternant.e Chargé.e administration des ventes H/F pour rejoindre notre entreprise.\n\nvos missions seront les suivantes : \n\n Suivi administratif des affaires\no Gestion des commandes : Réception, vérification, enregistrement dans METEOR, confirmation client\no Suivi situations de travaux : Collecte mensuelle auprès des conducteurs, vérification cohérence, relance si retard\no Facturation : Émission des factures dans les 48h après validation, contrôle des pièces jointes\nGestion documentaire Archivage OS, avenants, PV réception, DGD dans Salesforce et METEOR\n\n- Recouvrement des créances\no Relances préventives : Contact client J+30 avant échéance pour vérifier réception et circuit de validation\no Relances amiables :  Appels et mails J+7, J+15, J+30 après échéance selon process défini\no Suivi promesses : Enregistrement engagements client, suivi du respect, relance si non tenu\no Escalade : Remontée au Responsable ADV des créances &gt;60 jours ou clients non réactifs\n\n- Relation client\no Point de contact : Interlocuteur privilégié des services comptables clients\no Demandes courantes : Duplicatas factures, attestations diverses, certificats de paiement\no Qualité de service : Réponse sous 24h, ton professionnel et constructif\n\n- Support équipe\no Rituels : Point hebdomadaire ADV, partage bonnes pratiques\no Backup : Couverture du portefeuille d'un collègue en cas d'absence\n\n- Compétences techniques\no Maîtrise ERP (METEOR, Sage, EBP...)\no CRM (Salesforce idéalement)\no Excel intermédiaire (TCD, recherchev)\no Aisance téléphonique et rédactionnelle\n\nFormation &amp; Expérience:  Bac à Bac+2: BTS Comptabilité, Gestion PME, Assistant manager, NRC/NDRC...; \ncontrat apprentissage : 12 à 24 mois",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer le suivi des commandes, la facturation",
+        "Etablir un devis",
+        "Gérer l'accueil téléphonique",
+        "Vérifier les conditions de réalisation d'une commande"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-13T16:33:07.815Z",
+        "expiration": "2026-09-13T16:33:07.815Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5809b2dea3d72aa233dd58",
+      "partner_label": "France Travail",
+      "partner_job_id": "211CNHY"
+    },
+    "workplace": {
+      "siret": "94828506900019",
+      "brand": null,
+      "legal_name": "NOELIE",
+      "website": null,
+      "name": "NOELIE",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.813999,
+            43.685148
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211CNHY",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI COIFFURE BP (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Le salon Jean Vallon de St Gély du Fesc Recrute un ou une apprenti(e) BP\nPossibilité d'inscription au CFA du Groupe Jean Vallon (Centre ville de Montpellier)\nFormation complémentaire offerte\nA la suite du BP possibilité d'évolution au sein du Groupe JV",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-12T10:29:34.510Z",
+        "expiration": "2026-09-12T10:29:34.510Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168ac6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212943"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "34350 Vendres",
+        "geopoint": {
+          "coordinates": [
+            3.240806,
+            43.26519
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-12T00:00:00.000Z",
+        "expiration": "2026-09-12T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24592,68 +25356,6 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "34350 Vendres",
-        "geopoint": {
-          "coordinates": [
-            3.240806,
-            43.26519
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-12T00:00:00.000Z",
-        "expiration": "2026-09-12T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4446ccb611be0d00217ce2",
       "partner_label": "Meteojob",
       "partner_job_id": "55098240"
@@ -24793,13 +25495,13 @@
       "partner_job_id": "211CGMS"
     },
     "workplace": {
-      "siret": null,
+      "siret": "89322407100017",
       "brand": null,
-      "legal_name": null,
+      "legal_name": "LES CAVES MAZUC",
       "website": null,
-      "name": null,
+      "name": "LES CAVES MAZUC",
       "description": "",
-      "size": null,
+      "size": "Non diffusé",
       "location": {
         "address": "34120 Pézenas",
         "geopoint": {
@@ -24812,7 +25514,7 @@
       },
       "domain": {
         "idcc": null,
-        "opco": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
         "naf": {
           "code": "56.30Z",
           "label": "Débits de boissons"
@@ -24837,7 +25539,7 @@
       "rome_codes": [
         "G1803"
       ],
-      "description": "Notre établissement bar/cave à vins à Pézenas propose des vins naturels accompagnés d'assiettes réalisées avec des produits locaux, de saison et souvent biologiques.\n\nDans le cadre de notre formation en alternance, nous recherchons un(e) Barman/Barmaid ou Serveur Runner (H/F) motivé(e) pour rejoindre notre équipe. \n\nLes formations possibles : Barman/Barmaid - Service en Restauration et Sommelier selon votre projet. \n\nDurée de contrat :\n de 6 mois à 1 an selon la formation choisie. \n\nVos principales missions seront les suivantes :\n\n- Confectionner des cocktails et servir des boissons aux clients.\n- Assurer un service de qualité en respectant les normes d'hygiène et de sécurité.\n- Conseiller les clients sur le choix des vins et des boissons.\n- Participer à la gestion des stocks et à l'approvisionnement du bar.\n- Travailler en collaboration avec l'équipe de restauration pour assurer un service fluide et efficace. \n- Mise en place des tables et redressage ...  \n\nProfil &amp; compétences\n- Doté(e) d'un excellent relationnel, vous savez soigner la relation client. Vous débordez d'énergie positive et êtes acteur de l'ambiance de l'établissement. Vous êtes une personne organisée, rigoureuse, autonome et vous aimez le travail d'équipe. \nVous avez une bonne capacité d'adaptation. \n \nHoraires :\n  - Travail en soirée de 17h à 00h à 1h du matin en dehors du dimanche et lundi sauf en été ou évènement spécifique. \n    travail en coupure le samedi.\n\nFormation : La formation aura lieu à Béziers ou Montpellier et sera dispensée par des professionnels du secteur. Vous alternerez entre périodes de formation et périodes de travail en entreprise.\n\nRejoignez- nous si vous êtes passionné(e) par l'univers de la restauration et souhaitez développer vos compétences dans un environnement dynamique et professionnel.",
+      "description": "Notre établissement bar/cave à vins à Pézenas propose des vins naturels accompagnés d'assiettes réalisées avec des produits locaux, de saison et souvent biologiques.\n\nNous recherchons un(e) Barman/Barmaid ou Serveur Runner (H/F) motivé(e) pour rejoindre notre équipe, dans le cadre de l' alternance.\n\nLes formations possibles : Barman/Barmaid - Service en Restauration et Sommelier selon votre projet. \n\nDurée de contrat :\n de 6 mois à 1 an selon la formation choisie. \n\nVos principales missions seront les suivantes :\n\n- Confectionner des cocktails et servir des boissons aux clients.\n- Assurer un service de qualité en respectant les normes d'hygiène et de sécurité.\n- Conseiller les clients sur le choix des vins et des boissons.\n- Participer à la gestion des stocks et à l'approvisionnement du bar.\n- Travailler en collaboration avec l'équipe de restauration pour assurer un service fluide et efficace. \n- Mise en place des tables et redressage ...  \n\nProfil &amp; compétences\n- Doté(e) d'un excellent relationnel, vous savez soigner la relation client. \nVous débordez d'énergie positive et êtes acteur de l'ambiance de l'établissement. \nVous êtes une personne organisée, rigoureuse, autonome et vous aimez le travail d'équipe. \nVous avez une bonne capacité d'adaptation. \n \nHoraires :\n  - Travail en soirée de 17h à 00h à 1h du matin en dehors du dimanche et lundi sauf en été ou évènement spécifique. \n    travail en coupure le samedi.\n\nFormation : La formation aura lieu à Béziers ou Montpellier et sera dispensée par des professionnels du secteur. \nVous alternerez entre périodes de formation et périodes de travail en entreprise.\n\nRejoignez- nous si vous êtes passionné(e) par l'univers de la restauration et souhaitez développer vos compétences dans un environnement dynamique et professionnel.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -25125,72 +25827,6 @@
   },
   {
     "identifier": {
-      "id": "6a0ce2f07e01cd36a08f5ac0",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54081483"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "L'industrie recrute",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54081483?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Environnement H/F",
-      "rome_codes": [
-        "H1302"
-      ],
-      "description": "<p>SLB est une entreprise technologique mondiale, moteur de l'innovation dans l'énergie pour un équilibre planétaire.</p> <p>Avec une présence dans plus de 100 pays et des employés représentant près de 200 nationalités, nous travaillons chaque jour à innover dans le domaine du pétrole et du gaz, à déployer le numérique à grande échelle, à décarboner les industries et à développer de nouvelles énergies pour accélérer la transition énergétique.</p> <p>Aujourd'hui, le Groupe SLB emploie environ 98 000 personnes à travers le monde.</p> <p>Étudiant(e) en Master ou cycle Ingénieur (Bac+5) en alternance, idéalement spécialisé en QHSE.</p> <p>  <strong>Tes responsabilités :</strong> </p> <p>  Gestion des consommations en eau du site  <br />  Proposer des axes d'améliorations continue à l'échelle de l'usine  <br />  Suivi et déploiement des actions liés à l'environnement  <br />  Partager les bonnes pratiques liées à l'environnement  <br />  Suivi des audits internes et externes (ISO, interne SLB, …)  <br />  Déploiement d'indicateurs sur les principaux déchets du site  <br />  Contribuer à la mise en œuvre de projets environnementaux dans chaque service </p> <p>  <strong>Ce que tu maitrises :</strong> </p> <p>  Microsoft 365 (Excel, Word, Power BI…)  <br />  Des connaissances sur l'ISO 14001 seraient un plus </p> <p>  <strong>Ce que tu es :</strong> </p> <p>  Gestion de projets  <br />  Excellentes capacités de communication  <br />  Esprit d'analyse et de synthèse  <br />  Rigueur  <br />  Travail d'équipe </p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Ingenieur maitre d'oeuvre environnemental (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 19 000 € - 19 000 € par an\r\n\r\nEntre 19000€ et 19000€",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T23:06:26.747Z",
-        "expiration": "2026-09-09T23:06:26.747Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a2c871ea914bd1428f0f5b5",
       "partner_label": "Meteojob",
       "partner_job_id": "54662577"
@@ -25250,68 +25886,6 @@
       "publication": {
         "creation": "2026-07-09T22:09:17.743Z",
         "expiration": "2026-09-09T22:09:17.743Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd7",
-      "partner_label": "France Travail",
-      "partner_job_id": "4770189"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "FAYAT BATIMENT, groupe FAYAT (le 1er groupe de BTP indépendant en France) met à disposition tout son savoir-faire en conception-réalisation, construction et rénovation de bâtiments,… aussi bien dans le domaine public que privé. Des références partout en France en bureaux, logements, bâtiments industriels, hôpitaux, établissements scolaires et universitaires, équipements fonctionnels, … \nFAYAT ...",
-      "size": null,
-      "location": {
-        "address": "34680 Saint-Georges-d'Orques",
-        "geopoint": {
-          "coordinates": [
-            3.776499,
-            43.616904
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55450595?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Technicien Études de Prix F/H (H/F)",
-      "rome_codes": [
-        "F1106"
-      ],
-      "description": "Sous la responsabilité du Chargé Etudes de Prix, vos missions sont les suivantes :Prospection fournisseurs et sous-traitants TCE (tous corps d'état)Consultations des fournisseurs et sous-traitants.Métrés traditionnels ou BIM.Comparaison des offres (techniques et financières).Participation à la rédaction des mémoires.\nCes missions pourront s'ajuster ou évoluer en fonction de l'activité.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T21:35:51.000Z",
-        "expiration": "2026-09-09T21:35:51.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -25931,68 +26505,6 @@
   },
   {
     "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd3",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713588"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technico-commercial / Technico-commerciale (H/F)",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5021cddea3d72aa22f8fcf",
       "partner_label": "France Travail",
       "partner_job_id": "4713619"
@@ -26040,6 +26552,71 @@
         "C1504"
       ],
       "description": "Description du poste :\n\nEn tant que vendeur en magasin , vous jouerez un rôle clé dans l'expérience client Accueillir, écouter et conseiller les clients selon leurs besoins***Mettre en valeur les produits et assurer le bon agencement du magasin***Participer aux opérations commerciales (promotions, soldes, animations)***Gérer les encaissements et fidéliser la clientèle***Contribuer à la gestion des stocks et aux réassorts\n\nDescription du profil Vous êtes souriant(e), à l'aise à l'oral et passionné(e) par la relation client***Vous aimez vendre, relever des défis et travailler en équipe***Vous êtes rigoureux(se), ponctuel(le) et motivé(e) par l'alternance***Vous préparez un diplôme de niveau IV( Bac) dans le commerce ou la vente",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-09T03:20:04.000Z",
+        "expiration": "2026-09-09T03:20:04.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5021cddea3d72aa22f8fc0",
+      "partner_label": "France Travail",
+      "partner_job_id": "4713658"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54736381?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé / Employée de rayon (H/F)",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
@@ -26123,9 +26700,9 @@
   },
   {
     "identifier": {
-      "id": "6a5021cddea3d72aa22f8fd2",
+      "id": "6a5021cddea3d72aa22f8fd3",
       "partner_label": "France Travail",
-      "partner_job_id": "4713663"
+      "partner_job_id": "4713588"
     },
     "workplace": {
       "siret": null,
@@ -26133,7 +26710,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recherche pour son entreprise partenaire, une société dynamique en plein développement, un(e) Assistant(e) Manager dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau IV (Bac Le poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -26152,7 +26729,7 @@
       }
     },
     "apply": {
-      "url": "https://www.meteojob.com/jobs/54736389?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "url": "https://www.meteojob.com/jobs/54736302?utm_source=pole-emploi&utm_medium=aggregator-free",
       "phone": null,
       "recipient_id": null
     },
@@ -26165,77 +26742,12 @@
       "remote": null
     },
     "offer": {
-      "title": "Assistant manager (H/F)",
+      "title": "Technico-commercial / Technico-commerciale (H/F)",
       "rome_codes": [
-        "M1604"
+        "D1407"
       ],
-      "description": "Description du poste :\n\nSous la supervision du manager, vous participerez activement à la gestion quotidienne de l'activité. Vos missions principales seront Assister le manager dans l'organisation et le suivi des opérations***Participer à la gestion administrative et commerciale (courriers, plannings, commandes)***Accueillir et informer les clients ou visiteurs***Aider à la coordination des équipes et à la gestion des emplois du temps***Suivre les indicateurs de performance et contribuer à l'atteinte des objectifs***Participer à la mise en place d'actions commerciales ou promotionnelles\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous êtes organisé(e), rigoureux(se) et polyvalent(e)***Vous avez un bon sens du relationnel et une vraie capacité d'écoute***Vous êtes réactif(ve), à l'aise dans la gestion de tâches multiples***Vous maîtrisez les bases de la bureautique (Word, Excel, mails Vous avez envie d'apprendre, de progresser, et de travailler en équipe***Vous souhaitez évoluer dans un poste avec des responsabilités et du contact humain",
+      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
       "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T03:20:04.000Z",
-        "expiration": "2026-09-09T03:20:04.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5021cddea3d72aa22f8fc0",
-      "partner_label": "France Travail",
-      "partner_job_id": "4713658"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54736381?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé / Employée de rayon (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -26518,68 +27030,6 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87658,
-            43.605936
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-09T00:00:00.000Z",
-        "expiration": "2026-09-09T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4ed03adea3d72aa22ed3ae",
       "partner_label": "France Travail",
       "partner_job_id": "210YPPZ"
@@ -26723,9 +27173,9 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bb",
+      "id": "6a4ed03adea3d72aa22ed3bd",
       "partner_label": "France Travail",
-      "partner_job_id": "4697540"
+      "partner_job_id": "4697488"
     },
     "workplace": {
       "siret": null,
@@ -26736,11 +27186,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34000 Montpellier",
+        "address": "34400 Lunel",
         "geopoint": {
           "coordinates": [
-            3.87048,
-            43.610476
+            4.134681,
+            43.682153
           ],
           "type": "Point"
         }
@@ -26755,7 +27205,7 @@
       }
     },
     "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=HcXLtLJcYM5qEz8wDM/Hgg==",
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
       "phone": null,
       "recipient_id": null
     },
@@ -26853,9 +27303,9 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bd",
+      "id": "6a4ed03adea3d72aa22ed3bb",
       "partner_label": "France Travail",
-      "partner_job_id": "4697488"
+      "partner_job_id": "4697540"
     },
     "workplace": {
       "siret": null,
@@ -26866,11 +27316,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34400 Lunel",
+        "address": "34000 Montpellier",
         "geopoint": {
           "coordinates": [
-            4.134681,
-            43.682153
+            3.87048,
+            43.610476
           ],
           "type": "Point"
         }
@@ -26885,7 +27335,7 @@
       }
     },
     "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=EExS/WzhPY9BThnYYaq0KQ==",
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=HcXLtLJcYM5qEz8wDM/Hgg==",
       "phone": null,
       "recipient_id": null
     },
@@ -27621,82 +28071,6 @@
       "publication": {
         "creation": "2026-07-07T18:41:12.000Z",
         "expiration": "2026-09-07T18:41:12.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3bf",
-      "partner_label": "France Travail",
-      "partner_job_id": "210XBGF"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "87.10B",
-          "label": "Hébergement médicalisé pour enfants handicapés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XBGF",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Éducateur spécialisé en Apprentissage (H/F)",
-      "rome_codes": [
-        "K1207"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage, sous l'autorité de la Directrice du DITEP Le Mont-Lozère et du Chef(fe) de service, vous serez particulièrement chargé(e) :\n- D'instaurer une relation éducative avec la personne accompagnée et sa famille.\n- D'accompagner l'enfant, l'adolescent ou le jeune adulte dans son projet en tenant compte de ses souhaits, de ses potentialités et de la réalité sociale.\n- Accompagner les usagers dans les déplacements\n- D'élaborer un diagnostic éducatif, social, familial et de partenariat \n- De soutenir la parentalité\n- De coordonner les actions pour construction du PIA (projet individuel d'accompagnement) et mesurer la faisabilité des objectifs fixés\n- D'assurer la traçabilité du parcours\n\nPROFIL\n- Diplôme impératif de moniteur éducateur (obtenu)\n- Qualités relationnelles, travail en équipe pluridisciplinaire\n- Qualités rédactionnelles\n- Permis B nécessaire du fait d'avoir à utiliser ponctuellement une voiture de service pour accomplir les missions dédiées\n\n\nCONDITIONS : CCNT 66",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Communiquer avec l'entourage de la personne accompagnée",
-        "Gérer des situations de crise ou d'urgence",
-        "Gérer une situation conflictuelle",
-        "Organiser des sorties et des séjours éducatifs, culturels",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T17:26:33.848Z",
-        "expiration": "2026-09-07T17:26:33.848Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -28506,75 +28880,6 @@
   },
   {
     "identifier": {
-      "id": "6a4c2ce5280c2fd977d7a2b4",
-      "partner_label": "France Travail",
-      "partner_job_id": "210TMTG"
-    },
-    "workplace": {
-      "siret": "90769673600038",
-      "brand": null,
-      "legal_name": "OCCITANIE TRAVAUX SPECIAUX",
-      "website": null,
-      "name": "OCCITANIE TRAVAUX SPECIAUX",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34230 Paulhan",
-        "geopoint": {
-          "coordinates": [
-            3.464212,
-            43.541973
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1702,
-        "opco": "Constructys",
-        "naf": {
-          "code": "41.10B",
-          "label": "Promotion immobilière de bureaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210TMTG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant administratif / Assistante administrative (H/F)",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage pour préparer un BTS assistant(e) administratif/ve ou licence, vous serez en charge d'aider l'assistante de Direction sur les missions suivantes :\nStandard\nClassement, archivage de dossiers...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gérer les agendas et planifier des rendez-vous",
-        "Mettre à jour un dossier, une base de données",
-        "Classer des documents"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-06T11:04:24.934Z",
-        "expiration": "2026-09-06T11:04:24.934Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4c2ce5280c2fd977d7a2b5",
       "partner_label": "France Travail",
       "partner_job_id": "210TKNP"
@@ -28860,7 +29165,7 @@
       "siret": "83296675800027",
       "brand": null,
       "legal_name": "ODYSSEE",
-      "website": null,
+      "website": "https://restaurantentrepots.fr/",
       "name": "ODYSSEE",
       "description": "",
       "size": "Non diffusé",
@@ -29043,6 +29348,144 @@
       "publication": {
         "creation": "2026-07-03T22:08:19.844Z",
         "expiration": "2026-09-03T22:08:19.844Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4ed2176a281b681b3f260b",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55207069"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Maison Tino",
+      "description": "Envie de donner une nouvelle saveur à votre carrière ? <br /> <br /> <br /> Intégrer l'équipe Maison Tino, c'est intégrer une aventure humaine et culinaire où se mêlent innovation, créativité et convivialité ! <br /> <br /> <br /> De bons ingrédients, des plats frais traditionnels qui ont du goût et qui se partagent : tels sont les engagements Tino !",
+      "size": null,
+      "location": {
+        "address": "34770 Gigean",
+        "geopoint": {
+          "coordinates": [
+            3.710151,
+            43.493648
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55207069?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Technicien de maintenance (H/F)",
+      "rome_codes": [
+        "I1304"
+      ],
+      "description": "Au sein de l'équipe maintenance, tu participeras au bon fonctionnement des outils de production. <br /> <br /> <br /> Dans ce cadre, tes missions seront les suivantes : <br /> <br /> <br /> - Participer à la maintenance préventive du parc machine, <br /> <br /> <br /> - Intervenir en cas de panne, détecter l'origine et établir un diagnostic, <br /> <br /> <br /> - Améliorer la gestion documentaire des machines (sécurité, process...), <br /> <br /> <br /> - Réaliser un reporting régulier (GMAO), <br /> <br /> <br /> - Participer à la démarche d'amélioration continue en étant force de proposition. <br /> <br /> <br /> Tes missions évolueront au cours de ton alternance en fonction de tes aspirations et des projets de notre usine. <br /> <br /> <br /> A travers cette alternance, tu auras l'opportunité d'approfondir tes connaissances en maintenance avec des collègues dynamiques, qui seront à l'écoute de tes idées ! <br /> <br /> <br /> L'ADN de Maison Tino, c'est d'intégrer des étudiants et jeunes diplômés en quête de nouvelles opportunités. Nouveaux ingrédients de la recette, nos étudiants apportent un regard neuf à l'entreprise !\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Technicien de maintenance (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: Au-delà de ton CV, c'est ta personnalité, ton audace et ta motivation qui feront la différence ! <br /> <br /> <br /> Si tu es dynamique et curieux(se), si tu as envie d'apprendre et que tu es reconnu(e) pour ta rigueur et ta capacité à travailler en équipe, cette opportunité est faite pour toi ! <br /> <br /> <br /> N'hésite plus et rejoins-nous ! <br /> <br /> <br /> Permis B et véhicule indispensables <br /> <br /> <br /> L'atout charme de la maison <br /> <br /> <br /> - Des opportunités d'évolution interne <br /> <br /> <br /> - Une entreprise à taille humaine avec une ambiance familiale <br /> <br /> <br /> - Des moments de convivialité",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "1-2 ans"
+      ],
+      "publication": {
+        "creation": "2026-07-03T18:21:18.515Z",
+        "expiration": "2026-09-03T18:21:18.515Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4ed015dea3d72aa22ecaee",
+      "partner_label": "France Travail",
+      "partner_job_id": "210STMS"
+    },
+    "workplace": {
+      "siret": "44348405000044",
+      "brand": null,
+      "legal_name": "TECHNITOIT",
+      "website": null,
+      "name": "TECHNITOIT",
+      "description": "",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1597,
+        "opco": "Constructys",
+        "naf": {
+          "code": "77.40Z",
+          "label": "Location-bail de propriété intellectuelle et de produits similaires,à l'exception des œuvres soumises à copyright"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/commercial-habitat-h-f-montpellier-technitoit-4/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial habitat (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Votre job ! \n\nIntégré dans notre équipe et tutoré par un commercial expérimenté, vous participez à la commercialisation de nos solutions en rénovation et amélioration de l'habitat (Toiture, Façade, Isolation des combles) auprès d'une clientèle de propriétaires. \n\nVotre principale mission est de développer et fidéliser votre portefeuille client en prospectant et avec l'aide d'outils marketing et communication innovants : fichier clients, foires et salons de l'habitat, galeries marchandes, rendez-vous fournis à terme.\n\nNotre recherche :\n * Vous êtes en formation BTS, Bachelor ou Master, ou équivalent, dans le domaine commercial\n * Vous avez la fibre commerciale et de l'ambition\n * Vous êtes curieux(se) et aimez expérimenter\n * Vous êtes ambitieux(se) et désirez dépasser vos objectifs\n * Vous avez l'esprit d'équipe\n * Vous avez le Permis B et idéalement véhiculé\n\nModalités :\n* Contrat Apprentissage ou Professionnalisation de 12 mois (24 mois envisageable), 39h/hebdo \n* Rémunération motivante composée d'un fixe (en fonction de la législation) + commissions + défraiement\n* Mutuelle\n\nRejoignez nous ! #BecomeBoss #Technitoit\n\nPour plus d'informations, n'hésitez pas à visiter le site internet : www.technitoit.com ",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de négociation avancées",
+        "Développer et fidéliser la relation client",
+        "Développer un portefeuille clients et prospects",
+        "Mettre en oeuvre des actions commerciales et promotionnelles"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-03T17:33:22.533Z",
+        "expiration": "2026-09-03T17:33:22.533Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -32852,137 +33295,6 @@
   },
   {
     "identifier": {
-      "id": "6a3b9073aaf462df6218b58a",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3b9073aaf462df6218b58a"
-    },
-    "workplace": {
-      "siret": "30580099701000",
-      "brand": "DYNEFF",
-      "legal_name": "DYNEFF S.A.S.",
-      "website": null,
-      "name": "DYNEFF S.A.S.",
-      "description": "",
-      "size": "250 à 499 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "46.71Z",
-          "label": "Commerce de gros (commerce interentreprises) de combustibles et de produits annexes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3b90734acef524be4433fe",
-      "phone": "0467126832",
-      "recipient_id": "partners_6a3b9073aaf462df6218b58a"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller commercial / Conseillère commerciale sédentaire",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "L'Assistant commercial gère l'activité commerciale intermédiaire entre les clients et les commerciaux de l'entreprise.\\nGère le suivi des commandes et des livraisons\\nAssure la communication et le suivi client pour répondre aux demandes spécifiques et résoudre les problèmes\\nParticipe à la rédaction des propositions commerciales\\nMet à jour la base de données clients et les statistiques de vente\\nAssiste l'équipe de vente dans la préparation des dossiers commerciaux et la prise de rendez-vous\\nPeut contribuer à l'organisation d'événements commerciaux et de promotions",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-24T08:08:19.637Z",
-        "expiration": "2026-08-23T08:08:19.634Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3b9006aaf462df6218b50b",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3b9006aaf462df6218b50b"
-    },
-    "workplace": {
-      "siret": "30580099701000",
-      "brand": "DYNEFF",
-      "legal_name": "DYNEFF S.A.S.",
-      "website": null,
-      "name": "DYNEFF S.A.S.",
-      "description": "",
-      "size": "250 à 499 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "46.71Z",
-          "label": "Commerce de gros (commerce interentreprises) de combustibles et de produits annexes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3b90064acef524be4433f5",
-      "phone": "0467126832",
-      "recipient_id": "partners_6a3b9006aaf462df6218b50b"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Qualiticien / Qualiticienne en industrie",
-      "rome_codes": [
-        "H1524"
-      ],
-      "description": "Le qualiticien en industrie est garant de la qualité et de la conformité des produits et processus industriels.\\nAssure la mise en place et le suivi des procédures qualité en entreprise\\nContrôle la conformité des produits finis et des processus de production\\nAnime des formations selon les normes ISO pour les équipes ainsi que sur les méthodes de gestion de la qualité\\nParticipe à l'amélioration continue des processus pour optimiser la qualité en mettant en place des indicateurs de performance\\nCollabore avec les différents départements pour garantir les standards de qualité\\nRéalise des audits internes et propose des actions correctives et préventives",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-24T08:06:30.409Z",
-        "expiration": "2026-08-23T08:06:30.406Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3b70e5aaf462df62188dee",
       "partner_label": "OPCO EP",
       "partner_job_id": "6a3b70e5aaf462df62188dee"
@@ -33968,266 +34280,6 @@
       "publication": {
         "creation": "2026-06-19T14:34:58.000Z",
         "expiration": "2026-08-19T14:34:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a35c4d282c6dba2cd329706",
-      "partner_label": "France Travail",
-      "partner_job_id": "4008877"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34980 Combaillaux",
-        "geopoint": {
-          "coordinates": [
-            3.774435,
-            43.672713
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "61.10Z",
-          "label": "Télécommunications filaires"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=6kvMzO0Uo3PGw+uAVeJiXA==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 13,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client en contrat professionnalisation (H/F)",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Si vous souhaitez vivre et faire vivre une expérience client incomparable dans un monde digital en constante évolution ...rejoignez-nous ! Les boutiques Orange commercialisent l'ensemble des offres et produits Grand Public &amp; Pro sur l'ensemble du territoire national. Nous vous proposons un contrat de professionnalisation d'une durée de 13 mois visant à l'obtention d'un Certificat de Qualification Professionnelle des Télécommunications (CQPT). Ce contrat de professionnalisation s'adresse aux jeunes âgés de 16 à 25 ans révolus ou aux demandeurs d'emplois inscrits à France Travail sans limite d'âge. Orange organise la formation : aucune inscription dans une école n'est nécessaire. A noter que ce contrat n'aboutit pas à un diplôme d'Etat mais à un certificat professionnel reconnu dans la branche des Télécoms. Au sein d'une boutique Orange, vous contribuez au développement des ventes dans les univers du fixe, du mobile, de l'internet et de multi-services en vous assurant de la satisfaction des clients. Vous faites vivre aux clients une expérience différenciante, humaine et digitale. Sous la responsabilité du responsable de la boutique : Vous accueillez le client et établissez une relation de confiance durable. Vous écoutez, comprenez le client et vous vous intéressez à ses usages. Vous créez de la valeur à chaque contact client et pilotez le parcours client omnicanal. Vous faites de la promotion de nos services digitaux au client Vous travaillez au service du collectif. Vous établissez un diagnostic des besoins du client et vous réalisez des démonstrations de produits et services. Vous proposez aux clients les solutions les plus adaptées à leurs besoins. Nous recherchons un.e collaborateur.trice (de 16 à 25 ans OU demandeurs d'emploi inscrits à France Travail sans limite d'âge) pour intégrer nos équipes en tant vendeur.se en boutique ORANGE. Pour obtenir le titre professionnel CQPT (certificat de qualification professionnelle des Telecom), vous bénéficierez d'une formation de + de 300 heures sur une durée de 13 mois. Non éligibles : Formation récente Bac pro vente, BTS (MCO, NDRC, vente...), BUT TC, Bachelor et Master Commerce/vente. Expériences significatives et récentes non éligibles : assurance, banque, immobilier, télécom. Au-delà de votre parcours, ce sont vos qualités que nous recherchons : une curiosité toujours en éveil, votre fibre technophile et commerciale, votre capacité à faire preuve d'empathie, de conviction et votre implication. Profil La satisfaction client est votre priorité. Vous êtes reconnu.e pour votre sens du service et votre pédagogie. Vous aimez le travail d'équipe Les challenges ça vous stimule ! Vous êtes un fan du digital",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-19T14:34:58.000Z",
-        "expiration": "2026-08-19T14:34:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a353f8c6fa5902550b19ffb",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a353f8c6fa5902550b19ffb"
-    },
-    "workplace": {
-      "siret": "92911930300014",
-      "brand": null,
-      "legal_name": "ELITEPHONE 34",
-      "website": null,
-      "name": "ELITEPHONE 34",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "9 Chemin de la Croix de Fer 34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.420275,
-            43.309387
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a353f8c4acef524be41b02c",
-      "phone": "0948205939",
-      "recipient_id": "partners_6a353f8c6fa5902550b19ffb"
-    },
-    "contract": {
-      "start": "2026-06-22T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Téléopérateur / Téléopératrice",
-      "rome_codes": [
-        "D1408"
-      ],
-      "description": "Le conseiller clientèle à distance est un professionnel qui aide et renseigne les clients par des moyens de communication à distance, tels que le téléphone, les courriels, les chats en ligne, ou les réseaux sociaux. \\nRépond aux demandes d'information et résout les problèmes des clients\\nPropose des produits et services adaptés aux besoins des clients pour améliorer leur satisfaction\\nGère les réclamations des clients de manière professionnelle et efficace\\nAssure le suivi des dossiers clients pour garantir une qualité de service continue\\nParticipe à l'amélioration des procédures de service client en fournissant des retours d'expérience\\nMaintient à jour ses connaissances sur les produits et services proposés par l'entreprise",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-19T13:09:32.458Z",
-        "expiration": "2026-08-18T13:09:32.454Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a353eb46fa5902550b19f9a",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a353eb46fa5902550b19f9a"
-    },
-    "workplace": {
-      "siret": "93816883800010",
-      "brand": null,
-      "legal_name": "SELAS PHARMACIE DES ARBOUSIERS",
-      "website": null,
-      "name": "SELAS PHARMACIE DES ARBOUSIERS",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34150 Aniane",
-        "geopoint": {
-          "coordinates": [
-            3.588969,
-            43.685696
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "47.73Z",
-          "label": "Commerce de détail de produits pharmaceutiques en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a353eb34acef524be41b00c",
-      "phone": "0467577001",
-      "recipient_id": "partners_6a353eb46fa5902550b19f9a"
-    },
-    "contract": {
-      "start": "2026-08-24T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Préparateur / Préparatrice en pharmacie",
-      "rome_codes": [
-        "J1307"
-      ],
-      "description": "Le Préparateur en pharmacie, en collaboration étroite avec le pharmacien, assure la préparation, la gestion et la délivrance des médicaments aux patients.\\nPrépare et délivre les médicaments sous la supervision d'un pharmacien\\nConseille et informe les clients sur l'utilisation des produits pharmaceutiques et la compatibilité avec d'autres\\nGère les stocks de médicaments et passe les commandes nécessaires\\nAssure le suivi des dossiers patients et la mise à jour des informations\\nParticipe à la réalisation des préparations magistrales et officinales\\nVeille au respect des normes d'hygiène et de sécurité dans l'espace de travail",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-19T13:05:55.950Z",
-        "expiration": "2026-08-18T13:05:55.947Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a34e50277fc74de6679a47d",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a34e50277fc74de6679a47d"
-    },
-    "workplace": {
-      "siret": "91781138200022",
-      "brand": null,
-      "legal_name": "MARINE BEAUTY",
-      "website": null,
-      "name": "MARINE BEAUTY",
-      "description": "",
-      "size": "1 ou 2 salariés",
-      "location": {
-        "address": "15 Rue du Jeu de Ballon 34570 Pignan",
-        "geopoint": {
-          "coordinates": [
-            3.761343,
-            43.583238
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.02B",
-          "label": "Soins de beauté"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a34e5024acef524be41ab81",
-      "phone": "0761023689",
-      "recipient_id": "partners_6a34e50277fc74de6679a47d"
-    },
-    "contract": {
-      "start": "2026-07-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Esthéticien / Esthéticienne",
-      "rome_codes": [
-        "D1208"
-      ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-19T06:43:14.671Z",
-        "expiration": "2026-08-18T06:43:14.668Z"
       },
       "opening_count": 1,
       "status": "Active"
