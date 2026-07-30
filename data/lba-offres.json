@@ -1,6 +1,365 @@
 [
   {
     "identifier": {
+      "id": "6a6a279ea052ee2fcc7c00e7",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a6a279ea052ee2fcc7c00e7"
+    },
+    "workplace": {
+      "siret": "43199554700079",
+      "brand": null,
+      "legal_name": "ASSOCIATION TERRE CONTACT",
+      "website": null,
+      "name": "ASSOCIATION TERRE CONTACT",
+      "description": "Terre-Contact est une association qui met en place les conditions favorables à la rencontre et à l'échange sur le Pays Cœur d'Hérault depuis 26 ans. Animation de la vie sociale avec accompagnement des initiatives, accompagnement à la parentalité par les pair·e·s, alimentation de qualité pour tous et égalité femmes-hommes traversent toutes nos actions.",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "RUE JEAN MOULIN 34800 CLERMONT-L'HERAULT",
+        "geopoint": {
+          "coordinates": [
+            3.435564,
+            43.633282
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6a279ea052ee2fcc7c00e7/chargé-e-de-mission-espace-de-vie-sociale-itinérant",
+      "phone": "0467573816",
+      "recipient_id": "partners_6a6a279ea052ee2fcc7c00e7"
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé·e de mission Espace de vie sociale itinérant",
+      "rome_codes": [
+        "K1217"
+      ],
+      "description": "En cohérence avec le projet de la structure, l'Animateur socioéducatif est chargé d'une mission d'insertion, de suivi ou pédagogique pour laquelle il conçoit, organise et encadre des activités proposées aux différents publics. Évalue les besoins des publics cibles et adapte les programmes en conséquence Conçoit et met en œuvre des projets d'animation socioéducative qui favorisent le lien social et l'épanouissement individuel Organise et anime des activités éducatives, sportives et culturelles adaptées aux différents publics Favorise l'intégration sociale et le développement personnel des participants à travers des ateliers et des projets collectifs Collabore avec des partenaires locaux pour enrichir l'offre d'activités et les opportunités pour les bénéficiaires Assure le suivi administratif et la communication autour des projets menés",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [
+        "Etre force de proposition",
+        "Etre ouvert aux changements",
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve de créativité, d'inventivité"
+      ],
+      "to_be_acquired_skills": [
+        "Animation\tAnimer une séance individuelle ou collective (relaxation, exercices d'improvisation, ...)",
+        "Animation\tAssurer la sécurité dans un environnement éducatif",
+        "Animation\tConcevoir le programme des activités selon les spécificités du public",
+        "Animation\tMettre en oeuvre et animer des actions socio-culturelles",
+        "Animation\tPréparer l'espace et le matériel nécessaires à la séance d'activité",
+        "Management\tFaciliter des sessions de brainstorming pour des projets communautaires",
+        "Management\tPromouvoir l'interactivité et la collaboration",
+        "Management\tPrévenir et résoudre les conflits",
+        "Management\tSuperviser des bénévoles lors d'événements communautaires",
+        "Conseil, Transmission\tAccompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne",
+        "Conseil, Transmission\tEnseigner, transmettre des connaissances, développer des compétences",
+        "Conseil, Transmission\tEvaluer des acquis d'apprentissage, de formation ou d'expérience",
+        "Conseil, Transmission\tFaire preuve de pédagogie pour faciliter la compréhension",
+        "Conseil, Transmission\tRéaliser des actions de développement ou de maintien du lien social ou familial",
+        "Soin\tDétecter des situations à risques (maltraitance, harcèlement, urgence sociale, addiction...)",
+        "Prévention des risques\tAssurer la sécurité des participants",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
+        "Gestion et contrôle\tMonter des dossiers techniques, administratifs, financiers",
+        "Gestion et contrôle\tSuivre le budget de fonctionnement du périmètre confié",
+        "Droit, contentieux et négociation\tPromouvoir les valeurs éthiques et civiques",
+        "Droit, contentieux et négociation\tRespecter les règles d'éthique et de déontologie",
+        "Protection des personnes et de l'environnement\tFavoriser le réemploi ou le recyclage des matériaux récupérés",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Relation client\tIdentifier les attentes du public, l'informer sur la ou les activités d'animation et les modalités d'organisation",
+        "Stratégie de développement\tAssurer le suivi des projets en cours",
+        "Stratégie de développement\tConcevoir et gérer un projet",
+        "Stratégie de développement\tDévelopper un projet socioculturel",
+        "Stratégie de développement\tGérer les relations avec les partenaires locaux",
+        "Stratégie de développement\tRéaliser le bilan du projet éducatif ou d'animation sportive et proposer des évolutions",
+        "Communication\tEncadrer un public",
+        "Communication\tEncourager la participation de chaque membre du groupe",
+        "Communication\tEtablir une relation de confiance et faciliter la communication avec la personne accompagnée",
+        "Communication\tPréparer et animer une réunion, un groupe de travail, un atelier",
+        "Communication\tSensibiliser un public",
+        "Communication\tSensibiliser à l'environnement et promouvoir le développement durable",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tTransmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible principalement avec un diplôme de niveau Bac à Bac+3 en animation sociale, socioéducative ou socioculturelle"
+      ],
+      "publication": {
+        "creation": "2026-07-29T16:17:34.485Z",
+        "expiration": "2026-09-29T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a69d7198bbc3358a67bab74",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a69d7198bbc3358a67bab74"
+    },
+    "workplace": {
+      "siret": "79502361300016",
+      "brand": null,
+      "legal_name": "KAUTER",
+      "website": null,
+      "name": "KAUTER",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "6 BOULEVARD DE LA LISSE 34630 SAINT-THIBERY",
+        "geopoint": {
+          "coordinates": [
+            3.71576,
+            43.499061
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "88.91A",
+          "label": "Accueil de jeunes enfants"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a69d7198bbc3358a67bab74/accompagnant-éducatif-accompagnante-éducative-petite-enfance",
+      "phone": "0659585290",
+      "recipient_id": "partners_6a69d7198bbc3358a67bab74"
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Accompagnant éducatif / Accompagnante éducative petite enfance",
+      "rome_codes": [
+        "K1307"
+      ],
+      "description": "Travaille au sein d'une structure collective de jeunes enfants Accompagne l'enfant de 0 à 3 ans dans son développement, ses apprentissages, l'acquisition de l'autonomie et la socialisation, en garantissant son bien-être et sa sécurité physique et affective. Participe aux tâches courantes de la structure (préparation des repas, entretien des locaux, du linge et des équipements dont jeux et jouets, gestion des stocks). Etablit une relation quotidienne de qualité et de confiance avec les familles, dans une dynamique éducative et participative.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Animation\tAccueillir des enfants",
+        "Animation\tAccueillir la famille de l'enfant",
+        "Animation\tAnimer des activités culturelles et artistiques",
+        "Animation\tAssurer l'encadrement de l'enfant ou d'un groupe d'enfants",
+        "Animation\tOrganiser et animer des activités ludiques et d'éveil",
+        "Animation\tVeiller à la sécurité de l'enfant au domicile et à l'extérieur",
+        "Soin\tAccompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
+        "Soin\tAccompagner l'enfant dans les activités d'éveil",
+        "Soin\tAccompagner à l'hygiène, à la nutrition et au développement de l'enfant de moins de 3 ans",
+        "Soin\tAdapter ses pratiques à l'accompagnement de l'enfant en situation de handicap",
+        "Soin\tAppliquer un Projet d'Accueil Individualisé (PAI)",
+        "Soin\tCo-concevoir un projet individualisé",
+        "Soin\tContribuer au bien-être physique d'une personne",
+        "Soin\tDétecter des situations à risques (maltraitance, harcèlement, urgence sociale, addiction...)",
+        "Soin\tObserver le comportement, l'évolution de l'enfant et repérer d'éventuelles difficultés",
+        "Soin\tOrganiser l'intégration des enfants en période d'adaptation",
+        "Soin\tProcurer à l'enfant des éléments de confort, de réconfort",
+        "Soin\tProcéder à la toilette et aux soins de l'enfant",
+        "Soin\tProdiguer des soins corporels et esthétiques",
+        "Soin\tProdiguer les gestes de premiers secours en cas d'urgence",
+        "Soin\tPréparer et donner un repas, une boisson à l'enfant",
+        "Soin\tRechercher, traiter et transmettre les informations pour assurer la continuité des soins et des activités",
+        "Soin\tRecueillir les informations sur l'environnement de vie et l'état de santé de l'enfant",
+        "Production, Fabrication\tPréparer des plats culinaires",
+        "Maintenance, Réparation\tAssurer l'entretien ou le nettoyage courant du matériel après utilisation dans les conditions d'hygiène et de sécurité requises",
+        "Maintenance, Réparation\tEntretenir le linge",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tManipuler des produits de nettoyage et d'entretien",
+        "Maintenance, Réparation\tOptimiser l'espace de rangement",
+        "Prévention des risques\tRepérer les comportements à risques",
+        "Gestion des stocks\tTrier, ranger des produits, des matières premières",
+        "Gestion administrative et comptable\tRenseigner des supports de suivi d'activité",
+        "Droit, contentieux et négociation\tAppliquer un cadre juridique ou réglementaire",
+        "Droit, contentieux et négociation\tRespecter les règles d'éthique et de déontologie",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Protection des personnes et de l'environnement\tMobiliser les éco-gestes",
+        "Protection des personnes et de l'environnement\tOrganiser le tri sélectif des déchets",
+        "Relation client\tInformer, renseigner, orienter une personne sur les prestations et services proposés",
+        "Développement commercial\tConstruire et maintenir des relations professionnelles durables",
+        "Communication\tCommuniquer à l'oral en milieu professionnel",
+        "Communication\tConcevoir et mettre en place des actions d'éducation nutritionnelle (ateliers d'initiation au goût, semaine à thème)",
+        "Communication\tDévelopper l'empathie et l'écoute positive",
+        "Communication\tInformer les parents sur l'organisation de la structure et présenter le programme des activités aux enfants",
+        "Communication\tParticiper à un projet pluridisciplinaire",
+        "Communication\tPrendre une décision et l'expliquer",
+        "Communication\tRelayer de l'information",
+        "Communication\tSensibiliser à l'environnement et promouvoir le développement durable",
+        "Communication\tTransmettre les informations relatives à l'enfant à la famille",
+        "Organisation\tAdapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+        "Organisation\tAlerter, demander un appui ou un arbitrage",
+        "Organisation\tComprendre et respecter les règles de vie collective",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter la confidentialité des informations",
+        "Développement des compétences\tActualiser régulièrement ses connaissances",
+        "Développement des compétences\tMémoriser des informations"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Accompagnant Educatif Petite Enfance, au minimum. Celui-ci peut-être complété par d'autres diplômes, essentiellement dans le domaine du social."
+      ],
+      "publication": {
+        "creation": "2026-07-29T10:34:01.126Z",
+        "expiration": "2026-09-29T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6a69cafd8bbc3358a67ba77e",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a69cafd8bbc3358a67ba77e"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Pour le compte de l'un de nos partenaires, une entreprise spécialisée dans le développement et la construction de grands projets photovoltaïques en France et à l'international, nous recherchons pour leur site basé à Toulouse un Technicien de Maintenance Photovoltaïque en Alternant (H/F) niveau bac+3/licence pro. \nVous possédez des compétences en électricité et/ou dans la maintenance de panneaux photovoltaïques.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a69cafd8bbc3358a67ba77e/technicien-de-maintenance-photovoltaïques-en-alternance-h-f-à-toulouse",
+      "phone": "0645732622",
+      "recipient_id": "partners_6a69cafd8bbc3358a67ba77e"
+    },
+    "contract": {
+      "start": "2026-07-29T09:42:21.306Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Technicien de maintenance photovoltaïques en alternance (H/F) à Toulouse  ",
+      "rome_codes": [
+        "F1610"
+      ],
+      "description": "L'installateur mainteneur en systèmes solaires, thermiques et photovoltaïques contribue à la réduction de l'empreinte carbone et à la promotion d'une énergie plus propre et durable en installant des équipements associés aux énergies renouvelables. Installe des systèmes de production d'énergie solaire, qu'ils soient thermiques ou photovoltaïques Assure la connexion électrique des panneaux au réseau et aux systèmes de stockage d'énergie Effectue des tests et des vérifications pour garantir le fonctionnement des installations Réalise la maintenance préventive et corrective des systèmes pour optimiser leur performance Conseille les clients sur les meilleures solutions d'installation et d'orientation des panneaux",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Data et Nouvelles technologies\tAnalyser les spécifications techniques pour l'installation",
+        "Data et Nouvelles technologies\tUtiliser des logiciels spécifiques",
+        "Production, Fabrication\tChoisir les outils appropriés pour l'assemblage des panneaux",
+        "Production, Fabrication\tConfigurer l'installation et effectuer sa mise au point",
+        "Production, Fabrication\tPréparer le matériel, les matériaux et les outillages",
+        "Production, Fabrication\tSélectionner et préparer le matériau adapté pour appliquer l'étanchéité",
+        "Construction\tDéfinir l'orientation et le positionnement des équipements solaires pour optimiser le rendement",
+        "Construction\tDéposer et reposer des éléments de toiture",
+        "Construction\tEffectuer la réception des travaux avec le client",
+        "Construction\tInstaller des équipements de chauffage, de production d'eau chaude ou d'électricité thermiques, solaires ou photovoltaïques",
+        "Construction\tPoser des panneaux solaires",
+        "Construction\tRaccorder des éléments basse tension",
+        "Construction\tRelier des appareils au tableau électrique",
+        "Construction\tRéaliser un raccordement d'étanchéité",
+        "Construction\tSurveiller les conditions météorologiques pour planifier les travaux",
+        "Maintenance, Réparation\tAssurer la maintenance préventive des installations",
+        "Maintenance, Réparation\tContrôler la conformité des installations",
+        "Maintenance, Réparation\tDiagnostiquer les pannes de systèmes et proposer des solutions",
+        "Maintenance, Réparation\tNettoyer les outils et le matériel de chantier",
+        "Maintenance, Réparation\tRésoudre les problèmes techniques rencontrés",
+        "Prévention des risques\tContrôler un équipement ou matériel connecté",
+        "Prévention des risques\tContrôler un équipement ou matériel de sécurité (EPI, harnais...)",
+        "Prévention des risques\tEvaluer une situation à risques",
+        "Prévention des risques\tMettre en place les protections afin de sécuriser le chantier",
+        "Prévention des risques\tRespecter les normes de sécurité sur les chantiers",
+        "Prévention des risques\tVérifier l'étanchéité d'une installation",
+        "Qualité\tVérifier la qualité et la fiabilité de l'installation",
+        "Gestion des stocks\tAcheminer les matériaux et matériels jusqu'au chantier",
+        "Gestion des stocks\tCharger, décharger, manutentionner des produits",
+        "Gestion des stocks\tDéfinir les besoins en matériels et équipements",
+        "Gestion des stocks\tManutentionner verticalement du matériel en hauteur, à l'aide de treuils ou de poulies",
+        "Logistique\tCommander les matériaux et matériels",
+        "Gestion administrative et comptable\tEffectuer le suivi des commandes, la facturation",
+        "Stratégie de développement\tCollaborer avec d'autres professionnels (électriciens, plombiers) pour garantir l'installation",
+        "Stratégie de développement\tTraiter les données de performance des équipements installés",
+        "Organisation\tAdapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+        "Organisation\tAdapter les méthodes de travail aux conditions météorologiques"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à bac+3 en électricité, électrotechnique ou métiers de la transition énergétique. Il est indispensable de ne pas avoir le vertige pour travailler sur les toits. "
+      ],
+      "publication": {
+        "creation": "2026-07-29T09:42:21.306Z",
+        "expiration": "2026-09-29T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a67af0d9e9ea39cf1cc64c4",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a67af0d9e9ea39cf1cc64c4"
@@ -13102,24 +13461,24 @@
   },
   {
     "identifier": {
-      "id": "6a692e05b6d4ce760a1dd9bc",
+      "id": "6a6a7f16d2c1e8a711f27b68",
       "partner_label": "France Travail",
-      "partner_job_id": "5517054"
+      "partner_job_id": "5562603"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "ECG",
-      "description": "Leader européen de l'hôtellerie de plein air (HPA), ECG (European Camping Group) propose une offre haut de gamme inégalée de campings 4/5* dans les destinations touristiques de premier plan.\nLe Groupe structure son offre autour de ses marques tour-opérateur puissantes et renommées (Homair, Eurocamp et Roan). Il gère également des resorts de grande échelle en Espagne sous la marque Alannia.\n\nAvec plus de 5 000 collaborateurs en haute saison, ECG propose 450 destinations campings dans 13 pays à...",
+      "name": "ENSIO",
+      "description": "",
       "size": null,
       "location": {
-        "address": "34000 Montpellier",
+        "address": "34430 Saint-Jean-de-Védas",
         "geopoint": {
           "coordinates": [
-            3.87048,
-            43.610476
+            3.832002,
+            43.574823
           ],
           "type": "Point"
         }
@@ -13128,37 +13487,99 @@
         "idcc": null,
         "opco": null,
         "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
+          "code": "78.20Z",
+          "label": "Activités des agences de travail temporaire"
         }
       }
     },
     "apply": {
-      "url": "https://jobs.europeancampinggroup.com/fr/annonce/4521593-alternante-controle-de-gestion-34070-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
+      "url": "https://ensio.softy.pro/offre/216005?idt=5&h=2160050",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": 24,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI MONTEUR RÉSEAUX ÉLECTRIQUES AERO-SOUTERRAINS - H/F",
+      "rome_codes": [
+        "F1605"
+      ],
+      "description": "Description :\n\n\nŒUVRER POUR QUE CHAQUE FOYER AIT L'ÉLECTRICITÉ , C'EST NOTRE MISSION ET ON SOUHAITE VOUS Y FORMER !\n\nAlors tenté pour vous former à un métier qui à du sens !\n\nNos équipes n'attendent que ça = Transmettre leur savoir si spécifique.\n\nNotre agence de Montpellier (34) vous attend ! \n\nVous serez accompagné et formé par : Jérémy, Mickael, Bernard... nos équipiers qui ont du talent ! \n\n \n\nLes missions sur lesquelles vous serez formés : \n\n * Intervenir sur l'implantation, l'extension, le renforcement ou l'effacement de lignes électriques\n * Réaliser des opérations de branchements et de raccordements de clients (communes, entreprises, particuliers.)\n * En relation avec ces différents clients, vous contribuez à effectuer des mises en/hors service d'installations ou toute autre intervention sur le compteur du client\nDans toutes vos manœuvres, la sécurité et la continuité de service doivent être optimales.\n\nEN CLAIR CE QUE CELA SIGNIFIE ? Décrochage raccrochage de lignes ou raccordements de lignes en aériens et en souterrains, possibilité de confection d'accessoires synthétique quand vous serez embauché en CDI et autonome sur votre poste. \n\n  \n  \nProfil recherché :\n  \n  \nQUI ÊTES VOUS ? \n\n * Vous êtes titulaire d'un BAC PRO MELEC et envisagez la formation de MONTEUR RÉSEAUX proposé par l'IFTP de Montpellier  \n * Ou vous avez une formation en CAP ÉLECTRICITÉ et envisagez un TITRE PRO MONTEUR RÉSEAUX\n * Vous avez une envie folle de vous former, vous saurez être présents tous les jours et attentif aux consignes\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\n5 bonnes raisons de rejoindre nos équipes:\n\n * Donner du sens à ce que vous faites au quotidien: venez travailler avec le \"Smile\" \n * Nos perspectives d'évolution sont avérées et non inventées\n * Nous avons le sens de la reconnaissance et de la récompense\n * Nos équipes savent mettre en place et maintenir une bonne ambiance \n * Vous apprendre en quoi consiste le mot \"Agile\"\n\nGagnons du temps dans notre processus de recrutement :\n\n * Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? (https://www.linkedin.com/in/clemence-moustier/)\n * Etape 2 : Entretien d'environ 45 minutes avec Jérémy \n * Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-29T19:33:56.707Z",
+        "expiration": "2026-09-29T19:33:56.707Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6a7f16d2c1e8a711f27b69",
+      "partner_label": "France Travail",
+      "partner_job_id": "5552610"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Et si tu te reconnectais à l'essentiel ? Rejoindre Boulanger, c'est intégrer un collectif solidaire et engagé. Chaque jour est une expérience de vie où tu peux exprimer ton potentiel. \nChez nous, la technologie sert l'humain et crée une forte connexion avec nos clients, pour impacter positivement le monde. \"Sérieux sans se prendre au sérieux\" résume notre relation avec les clients, alliant expertise technique et bonne humeur. Prêt à vivre une expérience unique et continuer à contribuer à re...",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55425095?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
       "type": [
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "ECG - Contrôleur / Contrôleuse de gestion (H/F)",
+      "title": "ALTERNANCE - MANAGER H/F",
       "rome_codes": [
-        "M1204"
+        "E1127"
       ],
-      "description": "ECG c'est le n°1 de l'emploi en Hôtellerie de plein air.\nPourquoi nous rejoindre ?\n\n5000 opportunités d'emploi par an,\ndes marques reconnues (Homair-Eurocamp, Alannia, Roan, ECGS,...),\n+ de 400 destinations dans les plus beaux campings-villages 4 et 5 étoiles d'Europe,\n3 millions de clients accueillis chaque année.\n\nECG, c'est une expérience professionnelle unique, évoluer dans un environnement multiculturel, à la mer, au bord d'un lac, à la montagne,...il y a forcément un moyen de se retrouver ! Ton meilleur job, leurs meilleures vacances !\nNous recrutons notre futur(e) assistant(e) contrôle de gestion. Intégré au service Contrôle de gestion de la BU Résidentiel, vos missions seront les suivantes :\n\n\nReporting &amp; Pilotage :\n\n\nCo-produire les reportings mensuels (suivi opérationnel et P&amp;L comptable) ;\n\n\nIdentifier et analyser les écarts entre le réalisé et le prévisionnel ;\n\n\nCréer et mettre à jour des tableaux de bord et indicateurs clés (KPI) pour faciliter la prise de décision.\n\n\nBudget &amp; Prévisions :\n\n\nParticiper à l'élaboration du budget annuel et des forecasts périodiques.\n\n\nContrôle &amp; Opérations :\n\n\nGarantir la cohérence des données entre les outils métiers et l'outil comptable ;\n\n\nRédiger et mettre en place de nouvelles procédures de gestion ;\n\n\nRéaliser des analyses financières et opérationnelles selon les besoins de la direction.\n\n\nVous préparez un diplôme de niveau Bac+5 (Master 1 ou 2) en Université ou École de Commerce, avec une spécialisation en Finance, Audit ou Contrôle de Gestion.\n\n\nExpérience : Une première expérience (stage ou alternance) en contrôle de gestion ou en finance d'entreprise est un vrai plus (idéalement 1 à 2 ans d'expérience cumulée).\n\n\nCompétences techniques :\n\n\nMaîtrise avancée d'Excel ;\n\n\nAppétence marquée pour la manipulation et l'analyse de données chiffrées.\n\n\nQualités personnelles :\n\n\nEsprit d'analyse et sens critique : vous ne faites pas que sortir des chiffres, vous les faites parler ;\n\n\nCuriosité et autonomie : vous cherchez à comprendre le fonctionnement opérationnel de l'activité.",
+      "description": "Tu cherches une alternance où chaque journée est différente et où ton énergie fait vraiment bouger les choses ? Plus qu'un alternance, développe ton expertise ! En alternance, tu découvriras un quotidien rythmé et dynamique où ton action aura un impact positif sur la vie de nos clients. Nous privilégions une relation client complète et sur-mesure, en proposant des produits et services de qualité qui accompagnent nos clients chaque jour avec passion ?Au côté de ton Manager tuteur, tu fais pleinement partie de l'équipe d'encadrement ! Tu es au cœur de l'action pour prendre plaisir à faire briller ton équipe et ton magasin. Pour se faire : Anime l'équipe : Tu participes à l'accompagnement des collaborateurs au quotidien pour révéler leur potentiel, tout en veillant au respect des valeurs de l'entreprise.Développe ta posture managériale : Tu places l'humain au cœur de tes priorités en assurant à tes collaborateurs un cadre de travail sécurisant pour qu'il puisse exprimer leur potentiel. Faire vivre la promesse client en magasin. Par ton sens du détail et ton écoute, tu assures un environnement marchand dynamique et un accompagnement sur-mesure pour faire de chaque visite une expérience client mémorable ! Pilote l'activité : Tu apprends à optimiser l'activité en participant à la gestion des plannings et à l'organisation du magasin selon l'affluence.Analyse la performance : Tu t'inities au suivi des indicateurs clés (CA, marges, coûts) et développe des plans d'actions correctifs pour atteindre les objectifs du magasin.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-28T21:19:59.000Z",
-        "expiration": "2026-09-28T21:19:59.000Z"
+        "creation": "2026-07-29T12:11:10.000Z",
+        "expiration": "2026-09-29T12:11:10.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -13924,9 +14345,9 @@
   },
   {
     "identifier": {
-      "id": "6a63e8316cce1228eac71881",
+      "id": "6a63e8316cce1228eac71876",
       "partner_label": "France Travail",
-      "partner_job_id": "5396828"
+      "partner_job_id": "5396831"
     },
     "workplace": {
       "siret": null,
@@ -13934,7 +14355,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13953,7 +14374,7 @@
       }
     },
     "apply": {
-      "url": "https://www.meteojob.com/jobs/55576114?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
       "phone": null,
       "recipient_id": null
     },
@@ -13966,11 +14387,11 @@
       "remote": null
     },
     "offer": {
-      "title": "Employé de commerce (H/F)",
+      "title": "Shop manager (H/F)",
       "rome_codes": [
-        "D1507"
+        "N3206"
       ],
-      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
+      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
       "target_diploma": {
         "european": "4",
         "label": "Bac, Bac Pro, BP (Bac)"
@@ -14051,9 +14472,9 @@
   },
   {
     "identifier": {
-      "id": "6a63e8316cce1228eac71876",
+      "id": "6a63e8316cce1228eac71881",
       "partner_label": "France Travail",
-      "partner_job_id": "5396831"
+      "partner_job_id": "5396828"
     },
     "workplace": {
       "siret": null,
@@ -14061,7 +14482,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -14080,7 +14501,7 @@
       }
     },
     "apply": {
-      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "url": "https://www.meteojob.com/jobs/55576114?utm_source=pole-emploi&utm_medium=aggregator-free",
       "phone": null,
       "recipient_id": null
     },
@@ -14093,11 +14514,11 @@
       "remote": null
     },
     "offer": {
-      "title": "Shop manager (H/F)",
+      "title": "Employé de commerce (H/F)",
       "rome_codes": [
-        "N3206"
+        "D1507"
       ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
+      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
       "target_diploma": {
         "european": "4",
         "label": "Bac, Bac Pro, BP (Bac)"
@@ -15634,68 +16055,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6c",
-      "partner_label": "France Travail",
-      "partner_job_id": "5187630"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Notre partenaire , recrute plusieurs apprentis .\n\nPostes à pourvoir immédiatement\n\nFormation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie et pratique en entreprise.\n\nPlusieurs profils recherchés - rejoignez nous vite !\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576111?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T03:20:28.000Z",
-        "expiration": "2026-09-21T03:20:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb65",
       "partner_label": "France Travail",
       "partner_job_id": "5187727"
@@ -15743,6 +16102,68 @@
         "M1603"
       ],
       "description": "Description du poste :\n\nVous préparez et distribuez le courrier auprès d'une clientèle de particuliers et d'entreprises en respectant les standards de qualité de service. Vous développez au quotidien une relation de qualité avec vos clients. Vous contribuez au développement du chiffre d'affaires en commercialisant les produits courrier et services de proximité.\n\nSens de la relation client, esprit d'équipe et de service.\n\nAu sein d'une plateforme de distribution de courrier/colis, le facteur (H/F) prépare et distribue le courrier et les colis auprès d'une clientèle de particuliers et d'entreprises, en respectant les standards de qualité de service. Avec l'évolution de l'offre de La Poste Groupe, le facteur est également amené à proposer des services de proximité auprès des clients.\n\nLes missions Vous distribuez courriers et colis quotidiennement Vous réalisez des services de proximité en assurant une relation client de qualité Vous êtes en charge de promouvoir les offres du Groupe La Poste Vous réalisez , en sécurité, des livraisons ponctuelles ou régulières avec un véhicule utilitaire léger pour des particuliers ou des entreprises, vous adaptez l'organisation de la tournée en fonction des contraintes et vous adoptez une attitude commerciale lors de la livraison ou du dépôt ou lors des enlèvements de marchandises.\n\nDescription du profil Être éligible au contrat d'apprentissage* (moins de 30 ans à la signature du contrat) et/ou de professionnalisation (pas de limite d'âge, être demandeur d'emploi)\n* Justifier d'un niveau brevet des collèges\n* Être titulaire du permis B boite manuelle (au plus tard le jour de la signature du contrat, un permis B automatique sera considéré comme un permis en cours)\n* Justifier d'une expérience professionnelle de 3 mois minimum (stages et jobs d'été inclus Avoir un casier judiciaire vierge (Bulletin numéro 3)\n\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe.\n\n*conformément aux dispositions légales, pas de limite d'âge pour les personnes reconnues travailleurs handicapés",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T03:20:28.000Z",
+        "expiration": "2026-09-21T03:20:28.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb6c",
+      "partner_label": "France Travail",
+      "partner_job_id": "5187630"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Notre partenaire , recrute plusieurs apprentis .\n\nPostes à pourvoir immédiatement\n\nFormation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie et pratique en entreprise.\n\nPlusieurs profils recherchés - rejoignez nous vite !\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55576111?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commis / Commise de cuisine (H/F)",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -18499,7 +18920,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Mécanicien TP Alternance (H/F)",
+      "title": "Mécanicien réparateur / Mécanicienne réparatrice poids lourds (H/F)",
       "rome_codes": [
         "I1613"
       ],
@@ -18930,13 +19351,13 @@
       "partner_job_id": "210WRRL"
     },
     "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
+      "siret": "81452394000017",
+      "brand": "SUD ALU",
+      "legal_name": "SUD ALU",
       "website": null,
-      "name": null,
+      "name": "SUD ALU",
       "description": "",
-      "size": null,
+      "size": "3 à 5 salariés",
       "location": {
         "address": "34120 Pézenas",
         "geopoint": {
@@ -18948,8 +19369,8 @@
         }
       },
       "domain": {
-        "idcc": null,
-        "opco": null,
+        "idcc": 1596,
+        "opco": "Constructys",
         "naf": {
           "code": "43.32B",
           "label": "Travaux de menuiserie métallique et serrurerie"
@@ -19981,68 +20402,6 @@
   },
   {
     "identifier": {
-      "id": "6a459666dd20b527ab65a9ac",
-      "partner_label": "France Travail",
-      "partner_job_id": "4434118"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Rejoignez-nous !\n\n\n\n\nL'expérience Auchan est une expérience que nous créons. ensemble !\nC'est une expérience collective où l'esprit d'équipe prime, une expérience épanouissante où chacun peut créer son propre parcours, une expérience engagée où l'on s'investit dans la quête d'un objectif commun : AMÉLIORER LE QUOTIDIEN ! \nAvec près de 700 magasins en France et trois sites dédiés aux fonctions support dans l'agglomération lilloise (Auchan Retail France, Direction Produit Worldwide et Auchan ...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55210434?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Pâtissier en alternance F/H",
-      "rome_codes": [
-        "D1104"
-      ],
-      "description": "Nous sommes.\nAuchan Retail France, une entreprise de distribution de plus de collaborateurs au service de millions de clients chaque année.\nCe que nous voulons, c'est aider nos clients à bien manger et vivre mieux, tout en préservant la planète.\nQue l'on soit en entrepôt, en magasin ou sur des fonctions support, notre point commun à tous, c'est de faire en sorte que nos clients aient plaisir à faire leurs courses chez nous.\nParce que nos collaborateurs sont aussi nos premiers clients, nous veillons chaque jour à leur bien-être et leur évolution professionnelle.\nVous avez envie de.\n\n Transformer et commander les produits de votre marché. Vous connaissez le positionnement de votre marché et mettez en œuvre les recettes / process de transformation de vos produits. Vous êtes polyvalent à tous les postes de fabrication avec un haut niveau de professionnalisme et êtes capable d'évaluer la qualité et la fraîcheur des produits et d'écarter les produits non-conformes.\n\n\n Contribuer à la bonne organisation de la production dans le respect des règles d'hygiène. Vous veillez à la bonne tenue de l'espace de travail (propreté, rangement, entretien du matériel) et au respect des règles de sécurité alimentaire. Enfin, vous étalez la fabrication afin de garantir la fraîcheur des produits et de répondre à l'objectif de zéro rupture.\n\n\n Mettre en valeur vos pâtisseries et fidéliser vos clients. Vous approvisionnez et mettez en avant vos produits, dans le respect des règles d'implantation et de merchandising. Vous veillez à la mise en valeur de vos produits, dans le but d'attirer et fidéliser vos clients. Vous conseillez et répondez aux attentes de ces derniers.\n\nVous êtes.\nEn formation BEP/CAP Pâtisserie\nLe poste de Pâtissier en Alternance F/H est fait pour vous.\nRencontrons-nous !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-01T06:49:45.000Z",
-        "expiration": "2026-09-01T06:49:45.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4444c83506434f18389756",
       "partner_label": "France Travail",
       "partner_job_id": "4417872"
@@ -20246,73 +20605,6 @@
   },
   {
     "identifier": {
-      "id": "6a4444c83506434f18389755",
-      "partner_label": "France Travail",
-      "partner_job_id": "210NHHY"
-    },
-    "workplace": {
-      "siret": "30431848800042",
-      "brand": null,
-      "legal_name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
-      "website": null,
-      "name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
-      "description": "",
-      "size": "100 à 199 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 413,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "87.90B",
-          "label": "Hébergement social pour adultes et familles en difficultés et autre hébergement social"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/charge-e-qualite-et-developpement-apprentissage-en-medico-social-montpellier-aers-4/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti chargé qualité - en médico social (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "L'AERS recherche un Chargé Qualité et Développement (H/F) en apprentissage. \nDémarrage du contrat souhaité en septembre 2026.\n\nNous vous proposons d'intégrer l'équipe du siège social et de participer activement aux projets menés tant sur le Développement que la Qualité.\n\nVous participez notamment aux missions suivantes :\n- Participation au développement:\n * réalisation de dossiers de réponse à appel d'offre\n * mise en place opérationnelle de projets\n\n- Participation à la qualité:\n * démarche d'évaluation interne\n * préparation et animation des comités de pilotage / groupes de travail\n * suivi du plan d'action et mise à jour des procédures\n * mise en œuvre de la RGPD\n * actualisation du document unique d'évaluation des risques professionnels\n\nLes missions varieront en fonctions de vos compétences, appétences, des besoins et évolutions du service.\n\nConditions : \n * du lundi au vendredi de 9h à 17h\n * Rémunération selon barème apprentissage de la CCN66 (plus favorable que légal)\n * Locaux situés en centre ville, proche tram ligne 3 arrêt Plan Cabanes\n * M1 de type Gestion Etablissements Médico-sociaux / Management RH / Qualité\n * Maitrise du pack Office et notamment Excel (TCD, fonctions)\n * Rigueur, organisation et adaptabilité vous permettront d'être rapidement opérationnel\n * Qualités relationnelles \n * Respect de la confidentialité",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Planification des tâches et gestion des priorités"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-30T14:56:37.639Z",
-        "expiration": "2026-08-30T14:56:37.639Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4050791f2518e8d1c3bcc1",
       "partner_label": "France Travail",
       "partner_job_id": "210KVPJ"
@@ -20384,71 +20676,6 @@
   },
   {
     "identifier": {
-      "id": "6a4050791f2518e8d1c3bcc4",
-      "partner_label": "France Travail",
-      "partner_job_id": "4284286"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ECP",
-      "description": "ECP, expert de la décontamination particulaire et moléculaire depuis plus de 25 ans, procède à la décontamination et au conditionnement en salle blanche de diverses pièces métalliques, plastiques ou en verre, allant de 1 à 800 mm de côté à destination d’industries de haute technologie.\n\n\nECP adapte sans cesse son organisation et ses compétences afin d’offrir des services innov",
-      "size": null,
-      "location": {
-        "address": "34740 Vendargues",
-        "geopoint": {
-          "coordinates": [
-            3.963982,
-            43.658046
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "81.29B",
-          "label": "Autres activités de nettoyage n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant Méthodes en alternance H/F",
-      "rome_codes": [
-        "H1404"
-      ],
-      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant – Assistante Méthodes en apprentissage afin d’accompagner la mise en production de nouvelles prestations et l’optimisation de l’utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n·         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n·         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d’expériences, essais, documentation).\n\n\n·         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n·         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n·         Mesurer et optimiser les temps de prestations\n\n\n·         Participer à l’organisation des flux de production dans le respect des spécifications qualité\n\n\n·         Proposer des solutions d’amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d’école d’ingénieur généraliste ou de BUT en contrat d’alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-27T01:01:52.000Z",
-        "expiration": "2026-08-27T01:01:52.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4050791f2518e8d1c3bcc2",
       "partner_label": "France Travail",
       "partner_job_id": "4284292"
@@ -20499,6 +20726,71 @@
         "H1535"
       ],
       "description": "Dans le cadre de votre mission, vous participerez à la préparation et aux audits de suivi en vous assurant de la conformité du système de management de la qualité avec les normes de certification ISO9001 et ISO13485.\n\n\nVous participerez activement au système de management de la Qualité et aurez notamment en charge :\n\n\nLa gestion documentaire,\nLa rédaction et la mise à jour des documents opérationnels et de processus en collaboration avec les fonctions impliquées\nL’ouverture, la gestion et le suivi des Fiches Anomalies internes, clients et/ou fournisseurs ainsi que le suivi des plans d’actions,\nL’enregistrement et le suivi des revues de processus et des indicateurs\nLa réalisation d’audit internes à la demande\n\n\nLa vérification des bonnes pratiques d’enregistrements qualité (dossiers de lot notamment) spécifiques,\nAmélioration continue : vous serez force de proposition afin d’optimiser les flux documentaires qualité et les flux d’information\n\nNous recherchons un/une apprenti(e) en dernière année de BUT ou d’école d’ingénieur ou encore en licence professionnelle avec d’excellentes capacités rédactionnelles ainsi qu’une facilité d’interaction avec les opérationnels. Maîtrise d’Excel et connaissance à minima de la norme ISO 9001.\n\n\nRémunération = % du SMIC en application de la convention collective de la métallurgie",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-27T01:01:52.000Z",
+        "expiration": "2026-08-27T01:01:52.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4050791f2518e8d1c3bcc4",
+      "partner_label": "France Travail",
+      "partner_job_id": "4284286"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": "ECP, expert de la décontamination particulaire et moléculaire depuis plus de 25 ans, procède à la décontamination et au conditionnement en salle blanche de diverses pièces métalliques, plastiques ou en verre, allant de 1 à 800 mm de côté à destination d’industries de haute technologie.\n\n\nECP adapte sans cesse son organisation et ses compétences afin d’offrir des services innov",
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Méthodes en alternance H/F",
+      "rome_codes": [
+        "H1404"
+      ],
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant – Assistante Méthodes en apprentissage afin d’accompagner la mise en production de nouvelles prestations et l’optimisation de l’utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n·         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n·         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d’expériences, essais, documentation).\n\n\n·         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n·         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n·         Mesurer et optimiser les temps de prestations\n\n\n·         Participer à l’organisation des flux de production dans le respect des spécifications qualité\n\n\n·         Proposer des solutions d’amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d’école d’ingénieur généraliste ou de BUT en contrat d’alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20638,71 +20930,6 @@
   },
   {
     "identifier": {
-      "id": "6a3b0aac49326ae93058a7d2",
-      "partner_label": "France Travail",
-      "partner_job_id": "4151446"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "VIVERIO",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.22Z",
-          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://viverio.softy.pro/offre/211481?idt=5&h=2114810",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP BOUCHER H/F - H/F",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T19:33:58.000Z",
-        "expiration": "2026-08-23T19:33:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3b0aac49326ae93058a7cc",
       "partner_label": "France Travail",
       "partner_job_id": "4151430"
@@ -20753,6 +20980,71 @@
         "D1106"
       ],
       "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-23T19:33:58.000Z",
+        "expiration": "2026-08-23T19:33:58.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3b0aac49326ae93058a7d2",
+      "partner_label": "France Travail",
+      "partner_job_id": "4151446"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "VIVERIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://viverio.softy.pro/offre/211481?idt=5&h=2114810",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP BOUCHER H/F - H/F",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21644,24 +21936,24 @@
   },
   {
     "identifier": {
-      "id": "6a692e05b6d4ce760a1dd9bc",
+      "id": "6a6a7f16d2c1e8a711f27b68",
       "partner_label": "France Travail",
-      "partner_job_id": "5517054"
+      "partner_job_id": "5562603"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "ECG",
-      "description": "Leader européen de l'hôtellerie de plein air (HPA), ECG (European Camping Group) propose une offre haut de gamme inégalée de campings 4/5* dans les destinations touristiques de premier plan.\nLe Groupe structure son offre autour de ses marques tour-opérateur puissantes et renommées (Homair, Eurocamp et Roan). Il gère également des resorts de grande échelle en Espagne sous la marque Alannia.\n\nAvec plus de 5 000 collaborateurs en haute saison, ECG propose 450 destinations campings dans 13 pays à...",
+      "name": "ENSIO",
+      "description": "",
       "size": null,
       "location": {
-        "address": "34000 Montpellier",
+        "address": "34430 Saint-Jean-de-Védas",
         "geopoint": {
           "coordinates": [
-            3.87048,
-            43.610476
+            3.832002,
+            43.574823
           ],
           "type": "Point"
         }
@@ -21670,37 +21962,420 @@
         "idcc": null,
         "opco": null,
         "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
+          "code": "78.20Z",
+          "label": "Activités des agences de travail temporaire"
         }
       }
     },
     "apply": {
-      "url": "https://jobs.europeancampinggroup.com/fr/annonce/4521593-alternante-controle-de-gestion-34070-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
+      "url": "https://ensio.softy.pro/offre/216005?idt=5&h=2160050",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI MONTEUR RÉSEAUX ÉLECTRIQUES AERO-SOUTERRAINS - H/F",
+      "rome_codes": [
+        "F1605"
+      ],
+      "description": "Description :\n\n\nŒUVRER POUR QUE CHAQUE FOYER AIT L'ÉLECTRICITÉ , C'EST NOTRE MISSION ET ON SOUHAITE VOUS Y FORMER !\n\nAlors tenté pour vous former à un métier qui à du sens !\n\nNos équipes n'attendent que ça = Transmettre leur savoir si spécifique.\n\nNotre agence de Montpellier (34) vous attend ! \n\nVous serez accompagné et formé par : Jérémy, Mickael, Bernard... nos équipiers qui ont du talent ! \n\n \n\nLes missions sur lesquelles vous serez formés : \n\n * Intervenir sur l'implantation, l'extension, le renforcement ou l'effacement de lignes électriques\n * Réaliser des opérations de branchements et de raccordements de clients (communes, entreprises, particuliers.)\n * En relation avec ces différents clients, vous contribuez à effectuer des mises en/hors service d'installations ou toute autre intervention sur le compteur du client\nDans toutes vos manœuvres, la sécurité et la continuité de service doivent être optimales.\n\nEN CLAIR CE QUE CELA SIGNIFIE ? Décrochage raccrochage de lignes ou raccordements de lignes en aériens et en souterrains, possibilité de confection d'accessoires synthétique quand vous serez embauché en CDI et autonome sur votre poste. \n\n  \n  \nProfil recherché :\n  \n  \nQUI ÊTES VOUS ? \n\n * Vous êtes titulaire d'un BAC PRO MELEC et envisagez la formation de MONTEUR RÉSEAUX proposé par l'IFTP de Montpellier  \n * Ou vous avez une formation en CAP ÉLECTRICITÉ et envisagez un TITRE PRO MONTEUR RÉSEAUX\n * Vous avez une envie folle de vous former, vous saurez être présents tous les jours et attentif aux consignes\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\n5 bonnes raisons de rejoindre nos équipes:\n\n * Donner du sens à ce que vous faites au quotidien: venez travailler avec le \"Smile\" \n * Nos perspectives d'évolution sont avérées et non inventées\n * Nous avons le sens de la reconnaissance et de la récompense\n * Nos équipes savent mettre en place et maintenir une bonne ambiance \n * Vous apprendre en quoi consiste le mot \"Agile\"\n\nGagnons du temps dans notre processus de recrutement :\n\n * Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? (https://www.linkedin.com/in/clemence-moustier/)\n * Etape 2 : Entretien d'environ 45 minutes avec Jérémy \n * Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-29T19:33:56.707Z",
+        "expiration": "2026-09-29T19:33:56.707Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6a1c0d1afdac9d88494845",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a6a1c0d1afdac9d88494845"
+    },
+    "workplace": {
+      "siret": "79499682700026",
+      "brand": "TRAMDRIVE",
+      "legal_name": "TRAM BOUL LES RIVES DU LEZ",
+      "website": null,
+      "name": "TRAM BOUL LES RIVES DU LEZ",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "Chemin des Barques 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.894131,
+            43.604577
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1c0d4ebca56dd596320d",
+      "phone": "0467859348",
+      "recipient_id": "partners_6a6a1c0d1afdac9d88494845"
+    },
+    "contract": {
+      "start": "2026-08-31T00:00:00.000Z",
       "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-29T15:28:13.228Z",
+        "expiration": "2026-09-27T15:28:13.225Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6a1b7d7bb47f5fb14abc1d",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a6a1b7d7bb47f5fb14abc1d"
+    },
+    "workplace": {
+      "siret": "79499682700026",
+      "brand": "TRAMDRIVE",
+      "legal_name": "TRAM BOUL LES RIVES DU LEZ",
+      "website": null,
+      "name": "TRAM BOUL LES RIVES DU LEZ",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "Chemin des Barques 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.894131,
+            43.604577
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1b7d4ebca56dd59631fc",
+      "phone": "0467859348",
+      "recipient_id": "partners_6a6a1b7d7bb47f5fb14abc1d"
+    },
+    "contract": {
+      "start": "2026-08-31T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-29T15:25:49.858Z",
+        "expiration": "2026-09-27T15:25:49.855Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6a7f16d2c1e8a711f27b69",
+      "partner_label": "France Travail",
+      "partner_job_id": "5552610"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Et si tu te reconnectais à l'essentiel ? Rejoindre Boulanger, c'est intégrer un collectif solidaire et engagé. Chaque jour est une expérience de vie où tu peux exprimer ton potentiel. \nChez nous, la technologie sert l'humain et crée une forte connexion avec nos clients, pour impacter positivement le monde. \"Sérieux sans se prendre au sérieux\" résume notre relation avec les clients, alliant expertise technique et bonne humeur. Prêt à vivre une expérience unique et continuer à contribuer à re...",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55425095?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
       "type": [
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "ECG - Contrôleur / Contrôleuse de gestion (H/F)",
+      "title": "ALTERNANCE - MANAGER H/F",
       "rome_codes": [
-        "M1204"
+        "E1127"
       ],
-      "description": "ECG c'est le n°1 de l'emploi en Hôtellerie de plein air.\nPourquoi nous rejoindre ?\n\n5000 opportunités d'emploi par an,\ndes marques reconnues (Homair-Eurocamp, Alannia, Roan, ECGS,...),\n+ de 400 destinations dans les plus beaux campings-villages 4 et 5 étoiles d'Europe,\n3 millions de clients accueillis chaque année.\n\nECG, c'est une expérience professionnelle unique, évoluer dans un environnement multiculturel, à la mer, au bord d'un lac, à la montagne,...il y a forcément un moyen de se retrouver ! Ton meilleur job, leurs meilleures vacances !\nNous recrutons notre futur(e) assistant(e) contrôle de gestion. Intégré au service Contrôle de gestion de la BU Résidentiel, vos missions seront les suivantes :\n\n\nReporting &amp; Pilotage :\n\n\nCo-produire les reportings mensuels (suivi opérationnel et P&amp;L comptable) ;\n\n\nIdentifier et analyser les écarts entre le réalisé et le prévisionnel ;\n\n\nCréer et mettre à jour des tableaux de bord et indicateurs clés (KPI) pour faciliter la prise de décision.\n\n\nBudget &amp; Prévisions :\n\n\nParticiper à l'élaboration du budget annuel et des forecasts périodiques.\n\n\nContrôle &amp; Opérations :\n\n\nGarantir la cohérence des données entre les outils métiers et l'outil comptable ;\n\n\nRédiger et mettre en place de nouvelles procédures de gestion ;\n\n\nRéaliser des analyses financières et opérationnelles selon les besoins de la direction.\n\n\nVous préparez un diplôme de niveau Bac+5 (Master 1 ou 2) en Université ou École de Commerce, avec une spécialisation en Finance, Audit ou Contrôle de Gestion.\n\n\nExpérience : Une première expérience (stage ou alternance) en contrôle de gestion ou en finance d'entreprise est un vrai plus (idéalement 1 à 2 ans d'expérience cumulée).\n\n\nCompétences techniques :\n\n\nMaîtrise avancée d'Excel ;\n\n\nAppétence marquée pour la manipulation et l'analyse de données chiffrées.\n\n\nQualités personnelles :\n\n\nEsprit d'analyse et sens critique : vous ne faites pas que sortir des chiffres, vous les faites parler ;\n\n\nCuriosité et autonomie : vous cherchez à comprendre le fonctionnement opérationnel de l'activité.",
+      "description": "Tu cherches une alternance où chaque journée est différente et où ton énergie fait vraiment bouger les choses ? Plus qu'un alternance, développe ton expertise ! En alternance, tu découvriras un quotidien rythmé et dynamique où ton action aura un impact positif sur la vie de nos clients. Nous privilégions une relation client complète et sur-mesure, en proposant des produits et services de qualité qui accompagnent nos clients chaque jour avec passion ?Au côté de ton Manager tuteur, tu fais pleinement partie de l'équipe d'encadrement ! Tu es au cœur de l'action pour prendre plaisir à faire briller ton équipe et ton magasin. Pour se faire : Anime l'équipe : Tu participes à l'accompagnement des collaborateurs au quotidien pour révéler leur potentiel, tout en veillant au respect des valeurs de l'entreprise.Développe ta posture managériale : Tu places l'humain au cœur de tes priorités en assurant à tes collaborateurs un cadre de travail sécurisant pour qu'il puisse exprimer leur potentiel. Faire vivre la promesse client en magasin. Par ton sens du détail et ton écoute, tu assures un environnement marchand dynamique et un accompagnement sur-mesure pour faire de chaque visite une expérience client mémorable ! Pilote l'activité : Tu apprends à optimiser l'activité en participant à la gestion des plannings et à l'organisation du magasin selon l'affluence.Analyse la performance : Tu t'inities au suivi des indicateurs clés (CA, marges, coûts) et développe des plans d'actions correctifs pour atteindre les objectifs du magasin.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-28T21:19:59.000Z",
-        "expiration": "2026-09-28T21:19:59.000Z"
+        "creation": "2026-07-29T12:11:10.000Z",
+        "expiration": "2026-09-29T12:11:10.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168af6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212749"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87658,
+            43.605936
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-29T00:00:00.000Z",
+        "expiration": "2026-09-29T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4c2ee3859fc7712816be9e",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55249559"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "APSH34",
+      "description": "<p>  Recherche un(e) Accompagnant(e) Éducatif(ve) et Social(e) en alternance ! </p> <p>  <strong>   Vous souhaitez rejoindre une structure solide,   <br />   humaine qui accompagne plus de 8 000 personnes ?  </strong> </p> <p>  Un poste d'Accompagnant Éducatif et Social (H/F) en alternance dans une structure médicosociale innovante dans une ville dynamique et ensoleillée :  <strong>Lunel</strong>  ☀️ </p> <p>  <strong>✨ L'APSH34✨ c'est 50 ans d'expérience, une capacité à se réinventer et 39 établissements et services engagés au service des publics accompagnés.</strong> </p> <p>C'est aussi de fortes valeurs humanistes : solidarité, fraternité, respect de la diversité, tolérance, laïcité et promotion de l'exercice de la citoyenneté et de l'autodétermination des personnes en situation de vulnérabilité.</p>",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134701,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55249559?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Accompagnant Educatif et Social (H/F)",
+      "rome_codes": [
+        "K1301"
+      ],
+      "description": "<p>  <strong>   Volet « Accompagnement »   :  </strong> </p> <ul>  <li>Accompagner la personne accueillie dans sa vie quotidienne dans un souci de bien-être physique et psychologique,</li>  <li>Participer à la mise en œuvre du projet personnalisé dans le cadre du projet d'établissement,</li>  <li>Repérer et évaluer les besoins et les capacités de la personne dans les actes de la vie quotidienne,</li>  <li>Accompagner la personne accueillie au travers d'activités,</li>  <li>Animer au travers d'activités collectives des actions de soutien à la quotidienneté,</li>  <li>Mettre en œuvre des aides adaptées en rapport aux besoins de la personne (utiliser les activités quotidiennes comme support à la relation),</li>  <li>Détecter les signes révélateurs d'un problème de santé ou de mal-être et prendre les dispositions adaptées,</li>  <li>Participer à l'inscription de la personne dans son environnement,</li>  <li>Etre le référent les partenaires qui interviennent au domicile des résidents (les aides ménagères- aides à la personne).</li> </ul> <p>  <strong>   Volet « Soins » :  </strong> </p> <ul>  <li>Participer à l'inscription de la personne dans son environnement.</li>  <li>Veiller à la prise effective de traitements médicamenteux préparés par des personnes habilitées.</li>  <li>Observer et mesurer les paramètres physiques, psychiques et sociaux liés à l'état de santé des personnes.</li>  <li>Détecter les signes révélateurs d'un problème de santé ou de mal-être et prendre les décisions adaptées.</li> </ul> <p>  <strong>   Date de prise de poste  </strong>  : Septembre 2026  <br />  Rémunération :  <br />  Une rémunération sera appliquée conformément aux dispositions prévues par la loi. </p> <p>  <strong>Vous bénéficiez également :</strong>  <br />  Des œuvres sociales du CSE,  <br />  D'un service Formation prêt à vous accompagner dans vos souhaits d'évolution,  <br />  D'une flexibilité des horaires pour un meilleur équilibre vie professionnelle et personnelle,  <br />  D'une ambiance chaleureuse et solidaire !  <br />  Candidature à adresser à :  <br />  Madame La Directrice  <br />  APSH 34 - Territoire Lunellois  <br />  Chemin les Alicantes  <br />  34403 LUNEL Cedex </p>\r\n\r\nSecteur: Secteur associatif\r\n\r\nPoste: Accompagnant éducatif et social (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <strong>Vous êtes :</strong>  <br />  Sur le point d'intégrer la formation d'Accompagnant Éducatif et Social  <br />  Motivé, bienveillant et force de propositions.  <br />  Titulaire du Permis B. </p> <p>  <strong>Vous avez :</strong>  <br />  Une appétence pour le secteur du handicap psychique, c'est un plus.  <br />  Envie d'évoluer au sein d'une équipe engagée accompagnant une centaine de bénéficiaires. </p> <p>  <strong>Et bien, ce poste est surement fait pour vous !</strong>  <br />  Le plus ? Vous aurez la chance d'avoir des collègues sur tout le territoire de l'Hérault ! L'occasion de découvrir notre magnifique département si vous n'êtes pas d'ici ou de continuer à profiter de notre qualité de vie </p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-28T23:07:56.660Z",
+        "expiration": "2026-09-28T23:07:56.660Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4446cdb611be0d00217d41",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55104961"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPE NICOLLIN",
+      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55104961?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier espaces verts H/F",
+      "rome_codes": [
+        "A1203"
+      ],
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <ul>  <li>Dans le cadre du développement de notre filière</li> </ul> <p>  <b>Espaces Verts</b>  , nous recherchons un·e  <b>ouvrier/ère espaces verts</b>  en  <b>contrat d'apprentissage</b>  , basé·e à  <b>Castelnau-le-Lez (34)</b>  . </p> <p>  <b>   <br />   Vos missions :   <br />  </b>  L'entretien des gazons naturels et/ou synthétiques La tonte, le traçage et les différentes opérations de préparation des terrains Les travaux de fertilisation, de regarnissage et d'aération des surfaces sportives L'entretien des systèmes d'arrosage et des équipements liés aux terrains L'utilisation et l'entretien du matériel spécifique Le respect des règles de sécurité, de qualité et de protection de l'environnement </p>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Ouvrier des espaces verts (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Titulaire d'un diplôme dans le domaine des espaces verts</li>  <li>Vous préparez un Certificat de Spécialisation (CS) Entretien des terrains de sport</li>  <li>Passionné·e par les espaces verts et l'univers du sport</li>  <li>Rigoureux/se, organisé·e et volontaire</li>  <li>Apprécié·e pour votre esprit d'équipe et votre sens de la collaboration</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <b>Horaires</b>   : 35h  </li>  <li>   <strong>Rémunération</strong>   : Selon grille alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> GNB",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-28T22:10:46.150Z",
+        "expiration": "2026-09-28T22:10:46.150Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -21851,74 +22526,6 @@
   },
   {
     "identifier": {
-      "id": "6a692f69b02c89ba81775472",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55759482"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Elior",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55759482?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Diététicien à Montpellier  (H/F)",
-      "rome_codes": [
-        "J1402"
-      ],
-      "description": "Vous recherchez une alternance en tant qu'Alternant(e) Diététicien et vous souhaitez intégrer une Société dynamique, vous l'avez surement trouvée ! <br /> <br /> <br /> Rattaché(e) au Responsable de Secteur, vous êtes en charge de : <br /> <br /> <br /> - Garantir la conformité des repas avec les règles de santé et d'hygiène alimentaire, <br /> <br /> <br /> - Assurer le respect des règles d'équilibre diététique dans les restaurants de votre périmètre, <br /> <br /> <br /> - Etablir le plan alimentaire, <br /> <br /> <br /> - Participer à l'élaboration des menus (en fonction de la typologie des convives et des contraintes contractuelles et réglementaires, en lien avec les équipes opérationnelles), <br /> <br /> <br /> - Répond aux demandes d'un client pour les questions relatives à l'équilibre et hygiène alimentaire, <br /> <br /> <br /> - Proposer et mettre en place des animations diététiques et sécurité alimentaire dans les restaurants à destination des convives, <br /> <br /> <br /> - Assurer de manière régulière les sensibilisations en matière d'hygiène et de diététique au personnel de restauration.\r\n\r\nPoste: Diététicien (H/F)\r\n\r\nTemps Plein\r\n\r\n000000 - 000000 EUR brut/an\r\n\r\nProfil: Nous recherchons un(e) alternant(e) préparant un BTS Diététique, souhaitant intégrer notre équipe dans le cadre d'un contrat d'alternance. <br /> <br /> <br /> Un Groupe où il fait bon vivre pour créer le projet qui vous ressemble : 88% des collaborateur(rice)s se sentent valorisé(e)s et 82% d'entre eux recommanderaient l'entreprise à leur entourage. <br /> <br /> <br /> Elior, c'est bien plus qu'une entreprise de restauration. C'est une communauté de travailleur(se)s engagé(e)s qui mettent leur coeur et leurs talents pour offrir des expériences culinaires uniques à nos convives. <br /> <br /> <br /> Chez Elior, nous sommes convaincu(e)s que la diversité des équipes constitue une source de richesse, d'innovation et de performance. Nous construisons nos équipes en nous appuyant sur les compétences et la personnalité de chacun. Elior s'engage au quotidien contre toute forme de discrimination. <br /> <br /> <br /> N'attendez plus, rejoignez-nous pour découvrir le job que vous voulez et révéler vos talents chez Elior !",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "débutant à 1 an"
-      ],
-      "publication": {
-        "creation": "2026-07-28T08:31:27.826Z",
-        "expiration": "2026-09-28T08:31:27.826Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a692f68b02c89ba8177545e",
       "partner_label": "Meteojob",
       "partner_job_id": "55756012"
@@ -21985,9 +22592,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -21998,11 +22605,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34350 Vendres",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.240806,
-            43.26519
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -22014,7 +22621,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -22047,9 +22654,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212943"
     },
     "workplace": {
       "siret": null,
@@ -22060,11 +22667,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "34350 Vendres",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.240806,
+            43.26519
           ],
           "type": "Point"
         }
@@ -22076,7 +22683,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
       "phone": null,
       "recipient_id": null
     },
@@ -23255,6 +23862,71 @@
   },
   {
     "identifier": {
+      "id": "6a63e8316cce1228eac71876",
+      "partner_label": "France Travail",
+      "partner_job_id": "5396831"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Shop manager (H/F)",
+      "rome_codes": [
+        "N3206"
+      ],
+      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-24T03:19:47.000Z",
+        "expiration": "2026-09-24T03:19:47.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a63e8316cce1228eac7187f",
       "partner_label": "France Travail",
       "partner_job_id": "5396832"
@@ -23364,71 +24036,6 @@
         "D1507"
       ],
       "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac71876",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396831"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Shop manager (H/F)",
-      "rome_codes": [
-        "N3206"
-      ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
       "target_diploma": {
         "european": "4",
         "label": "Bac, Bac Pro, BP (Bac)"
@@ -23775,71 +24382,6 @@
   },
   {
     "identifier": {
-      "id": "6a6296b26cce1228eac66070",
-      "partner_label": "France Travail",
-      "partner_job_id": "5389238"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=R6wo5+O3gVYYu59JAeUUIw==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-23T14:34:56.000Z",
-        "expiration": "2026-09-23T14:34:56.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6296b26cce1228eac6606f",
       "partner_label": "France Travail",
       "partner_job_id": "5389263"
@@ -23873,6 +24415,71 @@
     },
     "apply": {
       "url": "http://app.mytalentplug.com/redirection.aspx?ojid=1WY9nk9ML0YdTgI5UcBRbA==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-23T14:34:56.000Z",
+        "expiration": "2026-09-23T14:34:56.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6296b26cce1228eac66070",
+      "partner_label": "France Travail",
+      "partner_job_id": "5389238"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=R6wo5+O3gVYYu59JAeUUIw==",
       "phone": null,
       "recipient_id": null
     },
@@ -24032,72 +24639,6 @@
       "publication": {
         "creation": "2026-07-23T03:19:43.000Z",
         "expiration": "2026-09-23T03:19:43.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a4446cdb611be0d00217d41",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55104961"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55104961?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Ouvrier espaces verts H/F",
-      "rome_codes": [
-        "A1203"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <ul>  <li>Dans le cadre du développement de notre filière</li> </ul> <p>  <b>Espaces Verts</b>  , nous recherchons un·e  <b>ouvrier/ère espaces verts</b>  en  <b>contrat d'apprentissage</b>  , basé·e à  <b>Castelnau-le-Lez (34)</b>  . </p> <p>  <b>   <br />   Vos missions :   <br />  </b>  L'entretien des gazons naturels et/ou synthétiques La tonte, le traçage et les différentes opérations de préparation des terrains Les travaux de fertilisation, de regarnissage et d'aération des surfaces sportives L'entretien des systèmes d'arrosage et des équipements liés aux terrains L'utilisation et l'entretien du matériel spécifique Le respect des règles de sécurité, de qualité et de protection de l'environnement </p>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Ouvrier des espaces verts (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Titulaire d'un diplôme dans le domaine des espaces verts</li>  <li>Vous préparez un Certificat de Spécialisation (CS) Entretien des terrains de sport</li>  <li>Passionné·e par les espaces verts et l'univers du sport</li>  <li>Rigoureux/se, organisé·e et volontaire</li>  <li>Apprécié·e pour votre esprit d'équipe et votre sens de la collaboration</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <b>Horaires</b>   : 35h  </li>  <li>   <strong>Rémunération</strong>   : Selon grille alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> GNB",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-22T23:05:53.087Z",
-        "expiration": "2026-09-22T23:05:53.087Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24435,68 +24976,6 @@
       "publication": {
         "creation": "2026-07-22T00:00:00.000Z",
         "expiration": "2026-08-24T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87658,
-            43.605936
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-22T00:00:00.000Z",
-        "expiration": "2026-09-22T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24979,68 +25458,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb67",
       "partner_label": "France Travail",
       "partner_job_id": "5205301"
@@ -25088,6 +25505,68 @@
         "I1623"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb6f",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205256"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -25227,68 +25706,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb65",
-      "partner_label": "France Travail",
-      "partner_job_id": "5187727"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Votre pack formation et contrat d'alternance !\n\nEn choisissant Formaposte Sud Est, vous faites le choix d'un diplôme reconnu par l'Etat et d'un contrat d'alternance clé en main au sein du Groupe La Poste. Vous n'aurez donc pas d'entreprise à démarcher, Formaposte se charge de vous trouver votre site d'accueil en entreprise !\n\nCréé La Poste Groupe en 1996, Formaposte Sud Est est un Centre de Formation d'Apprentis (CFA) qui propose des cursus diplômants en alternance, du CAP au Master dans les dom",
-      "size": null,
-      "location": {
-        "address": "34800 Clermont-l'Hérault",
-        "geopoint": {
-          "coordinates": [
-            3.434349,
-            43.625912
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55575917?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Facteur / Factrice (H/F)",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "Description du poste :\n\nVous préparez et distribuez le courrier auprès d'une clientèle de particuliers et d'entreprises en respectant les standards de qualité de service. Vous développez au quotidien une relation de qualité avec vos clients. Vous contribuez au développement du chiffre d'affaires en commercialisant les produits courrier et services de proximité.\n\nSens de la relation client, esprit d'équipe et de service.\n\nAu sein d'une plateforme de distribution de courrier/colis, le facteur (H/F) prépare et distribue le courrier et les colis auprès d'une clientèle de particuliers et d'entreprises, en respectant les standards de qualité de service. Avec l'évolution de l'offre de La Poste Groupe, le facteur est également amené à proposer des services de proximité auprès des clients.\n\nLes missions Vous distribuez courriers et colis quotidiennement Vous réalisez des services de proximité en assurant une relation client de qualité Vous êtes en charge de promouvoir les offres du Groupe La Poste Vous réalisez , en sécurité, des livraisons ponctuelles ou régulières avec un véhicule utilitaire léger pour des particuliers ou des entreprises, vous adaptez l'organisation de la tournée en fonction des contraintes et vous adoptez une attitude commerciale lors de la livraison ou du dépôt ou lors des enlèvements de marchandises.\n\nDescription du profil Être éligible au contrat d'apprentissage* (moins de 30 ans à la signature du contrat) et/ou de professionnalisation (pas de limite d'âge, être demandeur d'emploi)\n* Justifier d'un niveau brevet des collèges\n* Être titulaire du permis B boite manuelle (au plus tard le jour de la signature du contrat, un permis B automatique sera considéré comme un permis en cours)\n* Justifier d'une expérience professionnelle de 3 mois minimum (stages et jobs d'été inclus Avoir un casier judiciaire vierge (Bulletin numéro 3)\n\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe.\n\n*conformément aux dispositions légales, pas de limite d'âge pour les personnes reconnues travailleurs handicapés",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T03:20:28.000Z",
-        "expiration": "2026-09-21T03:20:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb6c",
       "partner_label": "France Travail",
       "partner_job_id": "5187630"
@@ -25336,6 +25753,68 @@
         "G1602"
       ],
       "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T03:20:28.000Z",
+        "expiration": "2026-09-21T03:20:28.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb65",
+      "partner_label": "France Travail",
+      "partner_job_id": "5187727"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "Votre pack formation et contrat d'alternance !\n\nEn choisissant Formaposte Sud Est, vous faites le choix d'un diplôme reconnu par l'Etat et d'un contrat d'alternance clé en main au sein du Groupe La Poste. Vous n'aurez donc pas d'entreprise à démarcher, Formaposte se charge de vous trouver votre site d'accueil en entreprise !\n\nCréé La Poste Groupe en 1996, Formaposte Sud Est est un Centre de Formation d'Apprentis (CFA) qui propose des cursus diplômants en alternance, du CAP au Master dans les dom",
+      "size": null,
+      "location": {
+        "address": "34800 Clermont-l'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.434349,
+            43.625912
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55575917?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Facteur / Factrice (H/F)",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "Description du poste :\n\nVous préparez et distribuez le courrier auprès d'une clientèle de particuliers et d'entreprises en respectant les standards de qualité de service. Vous développez au quotidien une relation de qualité avec vos clients. Vous contribuez au développement du chiffre d'affaires en commercialisant les produits courrier et services de proximité.\n\nSens de la relation client, esprit d'équipe et de service.\n\nAu sein d'une plateforme de distribution de courrier/colis, le facteur (H/F) prépare et distribue le courrier et les colis auprès d'une clientèle de particuliers et d'entreprises, en respectant les standards de qualité de service. Avec l'évolution de l'offre de La Poste Groupe, le facteur est également amené à proposer des services de proximité auprès des clients.\n\nLes missions Vous distribuez courriers et colis quotidiennement Vous réalisez des services de proximité en assurant une relation client de qualité Vous êtes en charge de promouvoir les offres du Groupe La Poste Vous réalisez , en sécurité, des livraisons ponctuelles ou régulières avec un véhicule utilitaire léger pour des particuliers ou des entreprises, vous adaptez l'organisation de la tournée en fonction des contraintes et vous adoptez une attitude commerciale lors de la livraison ou du dépôt ou lors des enlèvements de marchandises.\n\nDescription du profil Être éligible au contrat d'apprentissage* (moins de 30 ans à la signature du contrat) et/ou de professionnalisation (pas de limite d'âge, être demandeur d'emploi)\n* Justifier d'un niveau brevet des collèges\n* Être titulaire du permis B boite manuelle (au plus tard le jour de la signature du contrat, un permis B automatique sera considéré comme un permis en cours)\n* Justifier d'une expérience professionnelle de 3 mois minimum (stages et jobs d'été inclus Avoir un casier judiciaire vierge (Bulletin numéro 3)\n\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe.\n\n*conformément aux dispositions légales, pas de limite d'âge pour les personnes reconnues travailleurs handicapés",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -28955,7 +29434,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Mécanicien TP Alternance (H/F)",
+      "title": "Mécanicien réparateur / Mécanicienne réparatrice poids lourds (H/F)",
       "rome_codes": [
         "I1613"
       ],
@@ -29386,13 +29865,13 @@
       "partner_job_id": "210WRRL"
     },
     "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
+      "siret": "81452394000017",
+      "brand": "SUD ALU",
+      "legal_name": "SUD ALU",
       "website": null,
-      "name": null,
+      "name": "SUD ALU",
       "description": "",
-      "size": null,
+      "size": "3 à 5 salariés",
       "location": {
         "address": "34120 Pézenas",
         "geopoint": {
@@ -29404,8 +29883,8 @@
         }
       },
       "domain": {
-        "idcc": null,
-        "opco": null,
+        "idcc": 1596,
+        "opco": "Constructys",
         "naf": {
           "code": "43.32B",
           "label": "Travaux de menuiserie métallique et serrurerie"
@@ -29832,69 +30311,6 @@
       "publication": {
         "creation": "2026-07-06T18:22:31.207Z",
         "expiration": "2026-09-06T18:22:31.207Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a4c2ee3859fc7712816be9e",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55249559"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "APSH34",
-      "description": "<p>  Recherche un(e) Accompagnant(e) Éducatif(ve) et Social(e) en alternance ! </p> <p>  <strong>   Vous souhaitez rejoindre une structure solide,   <br />   humaine qui accompagne plus de 8 000 personnes ?  </strong> </p> <p>  Un poste d'Accompagnant Éducatif et Social (H/F) en alternance dans une structure médicosociale innovante dans une ville dynamique et ensoleillée :  <strong>Lunel</strong>  ☀️ </p> <p>  <strong>✨ L'APSH34✨ c'est 50 ans d'expérience, une capacité à se réinventer et 39 établissements et services engagés au service des publics accompagnés.</strong> </p> <p>C'est aussi de fortes valeurs humanistes : solidarité, fraternité, respect de la diversité, tolérance, laïcité et promotion de l'exercice de la citoyenneté et de l'autodétermination des personnes en situation de vulnérabilité.</p>",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134701,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55249559?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Accompagnant Educatif et Social (H/F)",
-      "rome_codes": [
-        "K1301"
-      ],
-      "description": "<p>  <strong>   Volet « Accompagnement »   :  </strong> </p> <ul>  <li>Accompagner la personne accueillie dans sa vie quotidienne dans un souci de bien-être physique et psychologique,</li>  <li>Participer à la mise en œuvre du projet personnalisé dans le cadre du projet d'établissement,</li>  <li>Repérer et évaluer les besoins et les capacités de la personne dans les actes de la vie quotidienne,</li>  <li>Accompagner la personne accueillie au travers d'activités,</li>  <li>Animer au travers d'activités collectives des actions de soutien à la quotidienneté,</li>  <li>Mettre en œuvre des aides adaptées en rapport aux besoins de la personne (utiliser les activités quotidiennes comme support à la relation),</li>  <li>Détecter les signes révélateurs d'un problème de santé ou de mal-être et prendre les dispositions adaptées,</li>  <li>Participer à l'inscription de la personne dans son environnement,</li>  <li>Etre le référent les partenaires qui interviennent au domicile des résidents (les aides ménagères- aides à la personne).</li> </ul> <p>  <strong>   Volet « Soins » :  </strong> </p> <ul>  <li>Participer à l'inscription de la personne dans son environnement.</li>  <li>Veiller à la prise effective de traitements médicamenteux préparés par des personnes habilitées.</li>  <li>Observer et mesurer les paramètres physiques, psychiques et sociaux liés à l'état de santé des personnes.</li>  <li>Détecter les signes révélateurs d'un problème de santé ou de mal-être et prendre les décisions adaptées.</li> </ul> <p>  <strong>   Date de prise de poste  </strong>  : Septembre 2026  <br />  Rémunération :  <br />  Une rémunération sera appliquée conformément aux dispositions prévues par la loi. </p> <p>  <strong>Vous bénéficiez également :</strong>  <br />  Des œuvres sociales du CSE,  <br />  D'un service Formation prêt à vous accompagner dans vos souhaits d'évolution,  <br />  D'une flexibilité des horaires pour un meilleur équilibre vie professionnelle et personnelle,  <br />  D'une ambiance chaleureuse et solidaire !  <br />  Candidature à adresser à :  <br />  Madame La Directrice  <br />  APSH 34 - Territoire Lunellois  <br />  Chemin les Alicantes  <br />  34403 LUNEL Cedex </p>\r\n\r\nSecteur: Secteur associatif\r\n\r\nPoste: Accompagnant éducatif et social (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <strong>Vous êtes :</strong>  <br />  Sur le point d'intégrer la formation d'Accompagnant Éducatif et Social  <br />  Motivé, bienveillant et force de propositions.  <br />  Titulaire du Permis B. </p> <p>  <strong>Vous avez :</strong>  <br />  Une appétence pour le secteur du handicap psychique, c'est un plus.  <br />  Envie d'évoluer au sein d'une équipe engagée accompagnant une centaine de bénéficiaires. </p> <p>  <strong>Et bien, ce poste est surement fait pour vous !</strong>  <br />  Le plus ? Vous aurez la chance d'avoir des collègues sur tout le territoire de l'Hérault ! L'occasion de découvrir notre magnifique département si vous n'êtes pas d'ici ou de continuer à profiter de notre qualité de vie </p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-06T14:24:40.097Z",
-        "expiration": "2026-09-06T14:24:40.097Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -30565,68 +30981,6 @@
   },
   {
     "identifier": {
-      "id": "6a459666dd20b527ab65a9ac",
-      "partner_label": "France Travail",
-      "partner_job_id": "4434118"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Rejoignez-nous !\n\n\n\n\nL'expérience Auchan est une expérience que nous créons. ensemble !\nC'est une expérience collective où l'esprit d'équipe prime, une expérience épanouissante où chacun peut créer son propre parcours, une expérience engagée où l'on s'investit dans la quête d'un objectif commun : AMÉLIORER LE QUOTIDIEN ! \nAvec près de 700 magasins en France et trois sites dédiés aux fonctions support dans l'agglomération lilloise (Auchan Retail France, Direction Produit Worldwide et Auchan ...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55210434?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Pâtissier en alternance F/H",
-      "rome_codes": [
-        "D1104"
-      ],
-      "description": "Nous sommes.\nAuchan Retail France, une entreprise de distribution de plus de collaborateurs au service de millions de clients chaque année.\nCe que nous voulons, c'est aider nos clients à bien manger et vivre mieux, tout en préservant la planète.\nQue l'on soit en entrepôt, en magasin ou sur des fonctions support, notre point commun à tous, c'est de faire en sorte que nos clients aient plaisir à faire leurs courses chez nous.\nParce que nos collaborateurs sont aussi nos premiers clients, nous veillons chaque jour à leur bien-être et leur évolution professionnelle.\nVous avez envie de.\n\n Transformer et commander les produits de votre marché. Vous connaissez le positionnement de votre marché et mettez en œuvre les recettes / process de transformation de vos produits. Vous êtes polyvalent à tous les postes de fabrication avec un haut niveau de professionnalisme et êtes capable d'évaluer la qualité et la fraîcheur des produits et d'écarter les produits non-conformes.\n\n\n Contribuer à la bonne organisation de la production dans le respect des règles d'hygiène. Vous veillez à la bonne tenue de l'espace de travail (propreté, rangement, entretien du matériel) et au respect des règles de sécurité alimentaire. Enfin, vous étalez la fabrication afin de garantir la fraîcheur des produits et de répondre à l'objectif de zéro rupture.\n\n\n Mettre en valeur vos pâtisseries et fidéliser vos clients. Vous approvisionnez et mettez en avant vos produits, dans le respect des règles d'implantation et de merchandising. Vous veillez à la mise en valeur de vos produits, dans le but d'attirer et fidéliser vos clients. Vous conseillez et répondez aux attentes de ces derniers.\n\nVous êtes.\nEn formation BEP/CAP Pâtisserie\nLe poste de Pâtissier en Alternance F/H est fait pour vous.\nRencontrons-nous !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-01T06:49:45.000Z",
-        "expiration": "2026-09-01T06:49:45.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4444c83506434f18389756",
       "partner_label": "France Travail",
       "partner_job_id": "4417872"
@@ -30822,138 +31176,6 @@
       "publication": {
         "creation": "2026-06-30T15:48:31.007Z",
         "expiration": "2026-08-30T15:48:31.007Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a4444c83506434f18389755",
-      "partner_label": "France Travail",
-      "partner_job_id": "210NHHY"
-    },
-    "workplace": {
-      "siret": "30431848800042",
-      "brand": null,
-      "legal_name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
-      "website": null,
-      "name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
-      "description": "",
-      "size": "100 à 199 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 413,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "87.90B",
-          "label": "Hébergement social pour adultes et familles en difficultés et autre hébergement social"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/charge-e-qualite-et-developpement-apprentissage-en-medico-social-montpellier-aers-4/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti chargé qualité - en médico social (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "L'AERS recherche un Chargé Qualité et Développement (H/F) en apprentissage. \nDémarrage du contrat souhaité en septembre 2026.\n\nNous vous proposons d'intégrer l'équipe du siège social et de participer activement aux projets menés tant sur le Développement que la Qualité.\n\nVous participez notamment aux missions suivantes :\n- Participation au développement:\n * réalisation de dossiers de réponse à appel d'offre\n * mise en place opérationnelle de projets\n\n- Participation à la qualité:\n * démarche d'évaluation interne\n * préparation et animation des comités de pilotage / groupes de travail\n * suivi du plan d'action et mise à jour des procédures\n * mise en œuvre de la RGPD\n * actualisation du document unique d'évaluation des risques professionnels\n\nLes missions varieront en fonctions de vos compétences, appétences, des besoins et évolutions du service.\n\nConditions : \n * du lundi au vendredi de 9h à 17h\n * Rémunération selon barème apprentissage de la CCN66 (plus favorable que légal)\n * Locaux situés en centre ville, proche tram ligne 3 arrêt Plan Cabanes\n * M1 de type Gestion Etablissements Médico-sociaux / Management RH / Qualité\n * Maitrise du pack Office et notamment Excel (TCD, fonctions)\n * Rigueur, organisation et adaptabilité vous permettront d'être rapidement opérationnel\n * Qualités relationnelles \n * Respect de la confidentialité",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Planification des tâches et gestion des priorités"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-30T14:56:37.639Z",
-        "expiration": "2026-08-30T14:56:37.639Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a425fec00807024be2fa8be",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a425fec00807024be2fa8be"
-    },
-    "workplace": {
-      "siret": "79906188200012",
-      "brand": null,
-      "legal_name": "CABINET DENTAIRE BENJAMIN SAUDEMON",
-      "website": null,
-      "name": "CABINET DENTAIRE BENJAMIN SAUDEMON",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "15 Rue des Armillières 34150 Gignac",
-        "geopoint": {
-          "coordinates": [
-            3.555056,
-            43.65605
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1619,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a425fec4acef524be46bc76",
-      "phone": "0675881081",
-      "recipient_id": "partners_6a425fec00807024be2fa8be"
-    },
-    "contract": {
-      "start": "2026-07-06T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Secrétaire médical / Secrétaire médicale",
-      "rome_codes": [
-        "M1609"
-      ],
-      "description": "Dynamique et organisé(e), assure l'accueil des patients et le soutien administratif aux professionnels médicaux.\\nAccueille les patients et organise les rendez-vous médicaux\\nGère les dossiers médicaux et assure la confidentialité des informations\\nAssiste les professionnels de santé dans la gestion administrative quotidienne\\nRéalise des tâches de secrétariat classique comme la rédaction de courriers et la gestion des appels téléphoniques\\nCoordonne avec les assurances et gère les facturations des actes médicaux\\nContribue à l'amélioration des procédures administratives au sein de l'établissement",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-29T12:07:08.792Z",
-        "expiration": "2026-08-28T12:07:08.788Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -31609,6 +31831,68 @@
         "expiration": "2026-08-23T05:53:41.717Z"
       },
       "opening_count": 3,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3c5c4d49326ae930598a20",
+      "partner_label": "France Travail",
+      "partner_job_id": "4163189"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "FamilySphere",
+      "description": "Family Sphere Montpellier est votre agence spécialisée dans la garde d'enfants à domicile.\nCréé en 2006, Family Sphere, réseau spécialiste de la garde d'enfants à domicile, est présent aujourd'hui sur l'ensemble de la France à travers ses 100 agences.",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/vtp5wfubf88/cap-aepe-en-alternance-rentree-2026-2027-h-f",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP AEPE en alternance - Rentrée 2026/2027 H/F",
+      "rome_codes": [
+        "K1303"
+      ],
+      "description": "RESPONSABILITÉS : \n\nPréparez votre avenir dans la Petite Enfance avec Family Sphere Montpellier !\nVous rêvez de travailler auprès des enfants mais vous ne possédez pas encore de diplôme dans la petite enfance ?\nFamily Sphere Montpellier vous offre l'opportunité de préparer gratuitement le CAP Accompagnant Éducatif Petite Enfance (CAP AEPE) en alternance tout en étant rémunéré(e).\nGrâce à notre partenariat avec le centre de formation CFA Sanitaire et social, vous bénéficiez d'un parcours professionnalisant qui vous permet d'acquérir une expérience concrète sur le terrain tout en obtenant un diplôme d'État reconnu.\nPourquoi choisir cette alternance ?\n Formation entièrement financée\n Contrat d'apprentissage rémunéré\n Diplôme d'État reconnu par les professionnels de la Petite Enfance\n Expérience professionnelle tout au long de l'année\n Accompagnement personnalisé par des professionnels du secteur\n Possibilités d'évolution et d'embauche à l'issue de la formation\nVotre parcours en alternance\nEn rejoignant Family Sphere Montpellier, vous devenez à la fois :\n -  Salarié(e) de Family Sphere Montpellier\n -  Apprenant(e) en CAP AEPE\nVous alternez entre les temps de formation et les missions de garde d'enfants au domicile des familles.\nCette expérience vous permettra d'acquérir toutes les compétences nécessaires pour exercer dans le secteur de la petite enfance.\nVos missions auprès des enfants\n - Accompagner les enfants le matin avant l'école.\n - Assurer les gardes périscolaires après l'école.\n - Intervenir lors des journées complètes du mercredi.\n - Récupérer les enfants à l'école, à la crèche ou chez l'assistante maternelle.\n - Organiser des jeux, activités d'éveil et activités manuelles.\n - Accompagner les enfants dans les actes de la vie quotidienne.\n - Participer aux soins d'hygiène.\n - Préparer et accompagner la prise des repas.\n - Veiller à la sécurité, au bien-être et à l'épanouissement des enfants.\nOrganisation de la formation\nFormation en présentiel et distanciel à Montpellier\n - Lundi et mardi : 9h30 - 15h30 (présentiel)\n - 1 jeudi par mois : 9h30 - 12h30 (distanciel)\nLe grand avantage : un diplôme financé tout en étant rémunéré(e)\nAvec cette alternance, vous n'avez pas à choisir entre études et expérience professionnelle.\nFamily Sphere Montpellier investit dans votre avenir en vous permettant de :\n - Préparer le CAP AEPE sans frais de formation.\n - Développer une expérience professionnelle valorisante.\n - Percevoir une rémunération pendant toute la durée de votre apprentissage.\n - Construire un véritable projet de carrière dans la petite enfance.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\nVous souhaitez vous orienter vers les métiers de la petite enfance ?\nNous recherchons des candidat(e)s :\n - Motivé(e)s et impliqué(e)s dans leur projet professionnel.\n - Sérieux(ses), ponctuel(le)s et responsables.\n - Attiré(e)s par les métiers de la petite enfance.\n - Une première expérience auprès d'enfants est appréciée mais n'est pas obligatoire.\nRejoignez-nous !\nVous souhaitez obtenir un diplôme reconnu, acquérir une expérience professionnelle concrète et intégrer un secteur qui recrute ?\nFamily Sphere Montpellier recrute dès aujourd'hui ses futur(e)s apprenant(e)s CAP AEPE pour la rentrée 2026-2027.\nConstruisez votre projet professionnel dans le secteur de la petite enfance grâce à une formation diplômante financée et rémunérée.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-24T04:31:35.000Z",
+        "expiration": "2026-08-24T04:31:35.000Z"
+      },
+      "opening_count": 1,
       "status": "Active"
     },
     "is_delegated": false
