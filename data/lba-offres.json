@@ -1,6 +1,198 @@
 [
   {
     "identifier": {
+      "id": "6a7ae1fd4a6872773527f178",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a7ae1fd4a6872773527f178"
+    },
+    "workplace": {
+      "siret": "13002793100117",
+      "brand": null,
+      "legal_name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
+      "website": null,
+      "name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
+      "description": "BOULANGERIE recherche un apprenti en CS TECNIQUE DU TOUR . \nÊtre déjà titulaire du CAP boulanger ou du CAP pâtissier",
+      "size": "Non diffusé",
+      "location": {
+        "address": "904 Avenue du Maréchal Juin 30900 Nîmes",
+        "geopoint": {
+          "coordinates": [
+            3.866932,
+            43.611316
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7ae1fd4a6872773527f178/cs-technique-du-tour-en-boulangerie-pâtisserie",
+      "phone": "0466628069",
+      "recipient_id": "partners_6a7ae1fd4a6872773527f178"
+    },
+    "contract": {
+      "start": "2026-08-11T08:49:00.997Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CS Technique du tour en boulangerie pâtisserie",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles. Prépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires Conçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre Gère les stocks de matières premières et commande les fournitures nécessaires Assure la cuisson optimale de chaque produit pour garantir la meilleure qualité Peut effectuer la vente de produits de boulangerie et viennoiserie Peut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tConfectionner des viennoiseries",
+        "Production, Fabrication\tCuire des pièces de viennoiserie",
+        "Production, Fabrication\tDéfourner des pains et viennoiseries",
+        "Production, Fabrication\tDévelopper de nouvelles recettes de pains et viennoiseries",
+        "Production, Fabrication\tPrélever, peser et doser les matières ou produits (ingrédients, colorants, grains, etc.) sur les balances, trémies peseuses, etc",
+        "Production, Fabrication\tPétrir manuellement ou mécaniquement des pâtes",
+        "Production, Fabrication\tRégler les paramètres des machines de cuisson",
+        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Boulanger ou un Brevet Professionnel Boulanger. Des spécialisations comme la Mention Complémentaire Boulangerie spécialisée ou le BTM (Brevet Technique des Métiers) Boulanger peuvent être des atouts. "
+      ],
+      "publication": {
+        "creation": "2026-08-11T08:49:00.997Z",
+        "expiration": "2026-10-11T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6a7adf764a6872773527f055",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a7adf764a6872773527f055"
+    },
+    "workplace": {
+      "siret": "13002793100117",
+      "brand": null,
+      "legal_name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
+      "website": null,
+      "name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
+      "description": "Institut de beauté multi cabines proposant des prestations complètes recherche un BP ESTHETIQUE",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "904 Avenue du Maréchal Juin 30900 Nîmes",
+        "geopoint": {
+          "coordinates": [
+            3.880445,
+            43.625692
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7adf764a6872773527f055/esthéticien-praticien-esthéticienne-praticienne",
+      "phone": "0466628069",
+      "recipient_id": "partners_6a7adf764a6872773527f055"
+    },
+    "contract": {
+      "start": "2026-08-11T08:38:14.653Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BP ESTHETIQUE",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés. Réalise des soins du visage et du corps adaptés aux clients Propose et vend des produits de beauté et de soin Effectue des épilations et prépare la peau avant et après les soins Conseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements Gère les rendez-vous et maintient l'espace de travail propre et accueillant Peut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tConseiller sur la mise en valeur de son image personnelle",
+        "Soin\tAnalyser les caractéristiques de la peau pour adapter le maquillage",
+        "Soin\tConcevoir des maquillages",
+        "Soin\tPratiquer des techniques manuelles drainantes, relaxantes, raffermissantes et stimulantes",
+        "Soin\tProdiguer des soins corporels et esthétiques",
+        "Soin\tRéaliser des maquillages",
+        "Soin\tRéaliser des soins d'épilation",
+        "Soin\tRéaliser des soins de manucure, pédicure",
+        "Soin\tRéaliser des soins de pose de faux-cils, bijoux de peau, tatouages temporaires",
+        "Soin\tRéaliser des soins du visage et du corps",
+        "Soin\tRéaliser un raccord de maquillage ou de coiffure",
+        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
+        "Maintenance, Réparation\tEntretenir un outil ou matériel",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tMaintenir l'hygiène des outils et produits de maquillage",
+        "Qualité\tVeiller à la conformité des machines et des soins des séances d'UV, spa, sauna, hammam",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Logistique\tGérer les rendez-vous et l'agenda des soins",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAccueillir le client et l'installer",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tMaintenir à jour les connaissances des tendances de maquillage",
+        "Développement commercial\tPrésenter et expliquer des techniques d'esthétique et de maquillage",
+        "Développement commercial\tVendre une prestation ou un produit",
+        "Organisation\tAssurer la confidentialité des informations client",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP en soins esthétiques et corporels. Un diplôme de niveau BAC (Brevet Professionnel, ...) ou BAC +2 (BTS, ...) en esthétique-cosmétique peut être requis."
+      ],
+      "publication": {
+        "creation": "2026-08-11T08:38:14.653Z",
+        "expiration": "2026-10-11T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
       "id": "6a79e4f322a147e1a1f92b99",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a79e4f322a147e1a1f92b99"
@@ -4736,112 +4928,6 @@
       "status": "Active"
     },
     "is_delegated": true
-  },
-  {
-    "identifier": {
-      "id": "6a621b031ae407c4c7bf19bd",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a621b031ae407c4c7bf19bd"
-    },
-    "workplace": {
-      "siret": "44058257500013",
-      "brand": null,
-      "legal_name": "SUP CARO LITTORAL",
-      "website": null,
-      "name": "SUP CARO LITTORAL",
-      "description": "Depuis plus de 45 ans, SUPCARO est une entreprise familiale reconnue à Béziers, spécialisée dans la vente de carrelage, parquet, salles de bain et revêtements pour l'habitat. À taille humaine, nous mettons un point d'honneur à offrir un accompagnement personnalisé à chacun de nos clients, grâce à une équipe passionnée et investie.",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "ROUTE DE NARBONNE 34440 COLOMBIERS",
-        "geopoint": {
-          "coordinates": [
-            3.136765,
-            43.319451
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "46.73A",
-          "label": "Commerce de gros (commerce interentreprises) de bois et de matériaux de construction"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a621b031ae407c4c7bf19bd/alternant-e-commerce-vente-en-showroom-carrelage-salle-de-bain",
-      "phone": "0467372627",
-      "recipient_id": "partners_6a621b031ae407c4c7bf19bd"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant(e) Commerce / Vente en Showroom Carrelage & Salle de Bain",
-      "rome_codes": [
-        "D1213"
-      ],
-      "description": "Le Vendeur grossiste en équipement du foyer est un professionnel de l'aménagement et de la décoration de la maison. Gère les stocks et l'approvisionnement des produits pour garantir la disponibilité des articles Négocie avec les fournisseurs pour obtenir les meilleurs prix et conditions Assure la présentation attractive des produits en magasin Traite les commandes, les livraisons et les retours de marchandises Maintient à jour ses connaissances sur les nouveaux produits et tendances du marché",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve d'autonomie",
-        "Faire preuve de contrôle de soi"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tCollaborer avec les équipes pour atteindre les objectifs de vente",
-        "Data et Nouvelles technologies\tRenseigner des outils de traçabilité des contacts clients ou prospects",
-        "Data et Nouvelles technologies\tRenseigner les logiciels de gestion",
-        "Data et Nouvelles technologies\tUtiliser des logiciels spécifiques",
-        "Qualité\tContrôler la qualité et la conformité d'un produit",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tEtablir un bon de commande",
-        "Transport\tOrganiser une livraison",
-        "Gestion administrative et comptable\tEtablir des éléments d'une commande",
-        "Gestion administrative et comptable\tOrganiser et planifier une activité",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Gestion et contrôle\tDéfinir des modalités de paiement adaptées",
-        "Droit, contentieux et négociation\tNégocier un contrat",
-        "Droit, contentieux et négociation\tTraiter les réclamations des clients",
-        "Relation client\tIdentifier, traiter une demande client",
-        "Relation client\tInformer sur la disponibilité des produits",
-        "Relation client\tInformer sur les conditions de vente",
-        "Relation client\tProposer des produits additionnels",
-        "Développement commercial\tConclure une vente",
-        "Développement commercial\tDévelopper des stratégies pour optimiser l'accès au marché",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tDévelopper un portefeuille clients et prospects",
-        "Développement commercial\tEtablir un devis",
-        "Développement commercial\tNégocier des conditions commerciales",
-        "Développement commercial\tOrganiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tReprésenter et mettre en valeur l'image de l'entreprise",
-        "Développement commercial\tRéaliser des animations commerciales dans l'espace de vente",
-        "Communication\tRendre compte de son action, de risques ou d'anomalies au responsable"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans le domaine du commerce ou de la relation client. Cependant, il est également accessible sans diplôme particulier, avec une expérience professionnelle dans le commerce de gros."
-      ],
-      "publication": {
-        "creation": "2026-07-23T13:45:39.810Z",
-        "expiration": "2026-09-23T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
   },
   {
     "identifier": {
@@ -12068,6 +12154,290 @@
   },
   {
     "identifier": {
+      "id": "6a7ba1b6274d22102aa22967",
+      "partner_label": "France Travail",
+      "partner_job_id": "212JGDZ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34320 Margon",
+        "geopoint": {
+          "coordinates": [
+            3.305597,
+            43.487573
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212JGDZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T13:01:40.034Z",
+        "expiration": "2026-10-11T13:01:40.034Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22964",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HYFR"
+    },
+    "workplace": {
+      "siret": "94125510100029",
+      "brand": null,
+      "legal_name": "MOAELI",
+      "website": null,
+      "name": "MOAELI",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HYFR",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent de restauration rapide en apprentissage (h/f) (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Nous recherchons un apprenti motivé pour rejoindre notre équipe dynamique !\n\nOh My Bowl est un concept de restauration rapide qui vous propose de composer votre Poke-Bowl selon vos envies ou de choisir l'une de nos recettes signatures. Nous mettons l'accent sur des ingrédients frais, locaux et de saison pour offrir à nos clients une expérience culinaire saine et savoureuse. Nos bowls sont préparés avec soin, alliant saveurs variées et équilibre nutritionnel.\n\nMissions principales :\n\nGestion de la caisse et des transactions financières\nPrise de commandes et service client\nMise en place et préparation des espaces de travail\nGestion des stocks et approvisionnements\nParticipation à la préparation des plats et au service en salle\n\nProfil recherché :\n\nMotivation et dynamisme\nSens du contact et du service client\nCapacité à travailler en équipe\nRigueur et organisation\nIntérêt pour le secteur de la restauration",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Types de sandwichs et produits snacking",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Préparer, assembler des plats simples"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T10:15:03.568Z",
+        "expiration": "2026-10-11T10:15:03.568Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22965",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HXJT"
+    },
+    "workplace": {
+      "siret": "41815315100034",
+      "brand": null,
+      "legal_name": "P.S.I GRAND SUD",
+      "website": "https://www.psisecurite.fr/",
+      "name": "P.S.I GRAND SUD",
+      "description": "Créé en 1998, le Groupe PSI Sécurité (Protection Sécurité Industrie) est une société française basée à Montpellier dans l?Hérault.Elle est un acteur référent au plan régional et national pour sa capacité à apporter des réponses globales de protection.Conscients et soucieux de l?environnement dans lequel nous évoluons, nous développons et mettons en place des solutions modernes adaptées aux besoins de nos différents clients.",
+      "size": "250 à 499 salariés",
+      "location": {
+        "address": "Route de Lodève 34080 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.826472,
+            43.61488
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "80.10Z",
+          "label": "Activités de sécurité privée"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HXJT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
+      "rome_codes": [
+        "M1501"
+      ],
+      "description": "Le GROUPE PSI SECURITE recrute un(e) Assistant(e) Ressources Humaines en contrat au rythme de l'alternance afin de participer à la mise en œuvre et au suivi des missions liées au domaine des Ressources Humaines et du Droit social, sous la tutelle des Responsable RH/ Juriste en Droit social et DRH.\n\nVous serez notamment chargé(e) de :\n\n- De l'Administration du personnel (DPAE, contrats de travail, avenants, suivi des visites médicales.),\n- De la gestion du présentéisme (maladie, absences injustifiées, retards, départs anticipés.),\n- Du suivi des salariés au cours de leur vie contractuelle (congés payés, inaptitude, projet de transition professionnelle, maternité/paternité.),\n- Du recrutement du personnel en collaboration avec le service exploitation (offre d'emploi, tri des CV, relation candidats.), \n- Du suivi de la formation (suivi de la validité des formations des salariés, organisation des recyclages.),\n- Du soutien dans le suivi des agendas / de la veille au respect des délais et procédures ...\n- Du relai des informations et des décisions de la société, etc..\n\nType de contrat:\nPoste en contrat à durée déterminée au rythme de l'alternance (contrat d'apprentissage).\nTravail du lundi au vendredi\nEn présentiel\nHoraires de travail : 8h30 - 12h00 et 14h00 - 17h30\n\nFormations exigées:\n- Vous préparez un diplôme supérieur spécialisé dans les ressources humaines d'un niveau idéal de BAC +2, au plus BAC+3\n- Aptitudes de base en RH: le relationnel, la communication, l'écoute\n- Formation de base en gestion administrative : Aisance avec les outils informatiques, bonne organisation générale\n- Parfaite aisance dans l'expression écrite et la communication orale.\n\nProfil recherché :\n\n- Bon sens du relationnel, \n- Rigueur / bonne organisation\n- Autonomie\n- Réactivité\n- Esprit d'équipe\n- Disponibilité\n- Capacités d'adaptation\n- Sens de l'écoute\n- Respect strict des règles en vigueur et de la confidentialité\n\nCe que nous offrons:\nUne formation complète en Droit social / RH \nUne expérience enrichissante au sein d'une entreprise qui ne cesse de s'accroitre\nUn domaine d'activité fort de sens, en constante évolution, avec des besoins quotidiens,\nUn environnement de travail dynamique et bienveillant,\n\nNous sommes impatients de découvrir votre profil, et peut être, de vous accueillir au sein de notre équipe!\n\nDans le cadre de sa politique diversité, le Groupe PSI Sécurité soutient l'égalité Femmes/ Hommes et favorise l'insertion professionnelle, l'accès et le maintien dans l'emploi des personnes en situation de handicap.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Législation sociale",
+        "Concevoir des supports de suivi et de gestion",
+        "Réaliser des déclarations réglementaires"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T09:55:29.998Z",
+        "expiration": "2026-10-11T09:55:29.998Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22968",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HNCY"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34320 Margon",
+        "geopoint": {
+          "coordinates": [
+            3.305597,
+            43.487573
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HNCY",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Cuisinier apprenti (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service",
+        "Assurer la propreté de la zone de travail",
+        "Préparer des plats culinaires"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-10T16:40:46.638Z",
+        "expiration": "2026-10-10T16:40:46.638Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a7a508044b96218e0f5e240",
       "partner_label": "France Travail",
       "partner_job_id": "212GVYS"
@@ -12417,6 +12787,80 @@
       "publication": {
         "creation": "2026-08-07T16:56:17.481Z",
         "expiration": "2026-10-07T16:56:17.481Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa2296a",
+      "partner_label": "France Travail",
+      "partner_job_id": "212GGFP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34120 Pézenas",
+        "geopoint": {
+          "coordinates": [
+            3.418941,
+            43.456901
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.76Z",
+          "label": "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GGFP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Fleuriste en apprentissage (H/F)",
+      "rome_codes": [
+        "D1209"
+      ],
+      "description": "Vous souhaitez vous perfectionner et découvrir d'autres aspects de votre métier ? Rejoignez-nous ! \nNous recrutons un fleuriste (H/F) passionné en vue de valider un BP. \n\nVous êtes motivé(e), créatif(ve), dynamique et avez le sens du service.\n\n* Vous aimez le travail en équipe et souhaitez développer votre savoir-faire auprès de professionnels expérimentés.\n* Le permis B est un plus.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Présenter et valoriser un produit ou un service",
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Développer et fidéliser la relation client",
+        "Effectuer l'entretien de végétaux",
+        "Procéder à l'encaissement"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-07T15:55:38.453Z",
+        "expiration": "2026-10-07T15:55:38.453Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -13074,71 +13518,6 @@
       "publication": {
         "creation": "2026-08-06T14:10:51.076Z",
         "expiration": "2026-10-06T14:10:51.076Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a750ae94c6efee3da6a361c",
-      "partner_label": "France Travail",
-      "partner_job_id": "212DVHQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34370 Maraussan",
-        "geopoint": {
-          "coordinates": [
-            3.16054,
-            43.364911
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.34Z",
-          "label": "Travaux de peinture et vitrerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212DVHQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant administratif et commercial (H/F) en apprentissage",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "LC Peinture, entreprise spécialisée dans les travaux de peinture, placo et revêtements de sols, recherche un(e) Assistant(e) Administratif(ve) &amp; Commercial(e) en apprentissage dans le cadre de son développement.\n\nTu souhaites intégrer une entreprise à taille humaine, dynamique et en pleine croissance, tout en développant des compétences concrètes dans les domaines de l'administration, du commerce et de la communication digitale? Cette alternance est faite pour toi !\n\nTu seras accompagné(e) au quotidien et tu participeras directement au fonctionnement et au développement de l'entreprise.\n\nTes missions :\n\nGestion administrative\n\n* Accueil téléphonique et gestion des demandes clients\n* Gestion des mails et courriers\n* Création, classement et suivi des dossiers clients\n* Préparation et suivi des devis et factures\n* Suivi des règlements et relances clients\n* Mise à jour des tableaux de suivi\n* Classement et archivage des documents\n* Gestion et suivi de différents documents administratifs\n* Relation avec les clients, fournisseurs et partenaires\n\nCommercial\n\n* Réception et qualification des demandes clients\n* Prise de rendez-vous\n* Suivi des prospects\n* Relance des devis\n* Mise à jour du fichier clients et prospects\n* Suivi de la satisfaction client\n* Participation au développement commercial de l'entreprise\n* Recherche de nouveaux prospects et partenaires\n* Participation à la mise en place d'actions commerciales\n\nCommunication &amp; réseaux sociaux\n\nTu participeras également activement au développement de l'image de l'entreprise sur les réseaux sociaux :\n\n* Gestion et animation des comptes Instagram, Facebook et LinkedIn\n* Création et publication de contenus\n* Création de publications et stories\n* Mise en avant des chantiers réalisés\n* Prise de photos et vidéos sur les chantiers\n* Réponse aux messages et interactions sur les réseaux sociaux\n* Développement de la visibilité de l'entreprise\n* Participation à la création de campagnes de communication et d'offres commerciales\n* Suivi des statistiques et des performances des publications\n\nProfil recherché\n\nTu prépares un diplôme ou une formation en alternance dans le domaine de :\n\n* Assistant(e) de gestion / gestion PME\n* Administration\n* Commerce / développement commercial\n* Communication / marketing digital\n* Ou formation similaire\n\nAucune expérience professionnelle significative n'est exigée. Nous recherchons avant tout une personne motivée, curieuse et ayant envie d'apprendre.\n\nTu es à l'aise avec les outils informatiques et tu apprécies particulièrement les réseaux sociaux, la création de contenu et le contact avec les clients.\n\nLa connaissance de Canva, Excel, Word, Instagram, Facebook ou LinkedIn est un plus.\n\nNous recherchons une personne qui.\n\n* Est dynamique et motivée\n* Est organisée et rigoureuse\n* A un bon relationnel\n* Est à l'aise au téléphone\n* Possède une bonne expression orale et écrite\n* Aime le contact avec les clients\n* Est curieuse et force de proposition\n* S'intéresse aux réseaux sociaux et à la communication\n* Sait travailler en équipe\n* A envie de progresser et de prendre progressivement des responsabilités\n\nL'objectif est de te permettre de développer progressivement ton autonomie et tes compétences dans plusieurs domaines :\n\nAdministratif → Commercial → Relation client → Communication → Réseaux sociaux → Gestion d'entreprise\n\nTu seras directement impliqué(e) dans la vie de l'entreprise et tu travailleras aux côtés de l'équipe dirigeante.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T12:53:50.570Z",
-        "expiration": "2026-10-06T12:53:50.570Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14020,68 +14399,6 @@
   },
   {
     "identifier": {
-      "id": "6a6e7330ae98af4affb3d4d4",
-      "partner_label": "France Travail",
-      "partner_job_id": "5630792"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Super U Ganges",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://app.swipelink.fr//public/offer/4f6ca5e3-6020-4403-8875-b47b85800578?origin=france_travail",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boucher / Bouchère (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Apprendre le métier en accompagnant l'équipe au quotidien. Réaliser la mise en valeur du rayon et le suivi de la fraîcheur des produits. Conseiller les clients sur les morceaux, les quantités et les modes de cuisson. Appliquer strictement les règles d'hygiène et la chaîne du froid.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-01T02:02:15.416Z",
-        "expiration": "2026-10-01T02:02:15.416Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -14501,71 +14818,6 @@
       "publication": {
         "creation": "2026-07-30T12:20:05.901Z",
         "expiration": "2026-09-30T12:20:05.901Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d53",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564110"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuODQ3NzUuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur crèmerie Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Alternance - Vendeur crèmerie (H/F) \n\nLieu : Montpellier- site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre) \n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du rayon fromagerie et libre-service frais, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Couper et préparer les fromages pour la vente\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce (CAP à Bac+2 idéalement)\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15213,78 +15465,6 @@
   },
   {
     "identifier": {
-      "id": "6a67dcb6b6d4ce760a1d29ed",
-      "partner_label": "France Travail",
-      "partner_job_id": "211SRSM"
-    },
-    "workplace": {
-      "siret": "38946989100037",
-      "brand": null,
-      "legal_name": "MATERIEL SOUDURE",
-      "website": null,
-      "name": "MATERIEL SOUDURE",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34630 Saint-Thibéry",
-        "geopoint": {
-          "coordinates": [
-            3.413962,
-            43.394328
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1404,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "46.62Z",
-          "label": "Commerce de gros (commerce interentreprises) de machines-outils"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SRSM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Préparateur de commande (H/F) en apprentissage (H/F)",
-      "rome_codes": [
-        "N1103"
-      ],
-      "description": "Préparateur(trice) de commandes en apprentissage - Matériel de soudure.\n\nMatériel Soudure, spécialiste de la vente en ligne de matériel de soudure, recherche 1 Préparateur(trice) de commandes en apprentissage pour rejoindre son équipe logistique.\nPoste ouvert aux candidats éligibles au dispositif d'apprentissage, âgés de 16 à 29 ans révolus (sans limite d'âge pour les bénéficiaires d'une RQTH).\n\nEncadré(e) et formé(e) tout au long de votre parcours, vous participerez activement au bon déroulement des opérations logistiques :\n- Préparation des commandes clients issues des ventes en ligne : vérification des références, conditionnement, étiquetage\n- Réception, contrôle et stockage des marchandises\n- Gestion des stocks et participation aux inventaires\n- Respect des procédures de qualité et de sécurité\n- Contribution à l'amélioration continue de l'organisation et des process logistiques\n\nVous aurez également l'opportunité de développer vos connaissances en vente en ligne et de comprendre le fonctionnement global d'une entreprise e-commerce spécialisée (gestion des commandes, organisation des flux, optimisation des process).\n\nProfil recherché :\n- Préparation d'un diplôme en commerce, Logistique ou domaine similaire (CAP, Bac Pro, BTS, DUT)\n- Rigueur, dynamisme, autonomie, sens de l'organisation\n- Bon relationnel et goût du travail en équipe\n- Une première expérience en entrepôt (stage, job saisonnier) serait un plus\n\nPrise de poste : dès que possible, conformément à la réglementation autorisant un démarrage jusqu'à 3 mois avant le début de la formation (prévue en septembre).\nVous souhaitez vous investir au sein d'une équipe jeune et dynamique et développer vos compétences dans un environnement e-commerce spécialisé en constante évolution ? Nous serions ravis de recevoir votre candidature !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Charger, décharger, manutentionner des produits",
-        "Prélever les produits selon les instructions de préparation de commande et constituer les colis, lots, etc",
-        "Identifier les conditions de réalisation d'une commande",
-        "Se coordonner avec d'autres services pour optimiser les processus logistiques",
-        "Traiter les commandes et préparer les expéditions",
-        "Traiter les informations relatives aux commandes et aux spécifications des clients"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-27T21:09:49.822Z",
-        "expiration": "2026-09-27T21:09:49.822Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a692e05b6d4ce760a1dd9c0",
       "partner_label": "France Travail",
       "partner_job_id": "211SLHX"
@@ -15550,198 +15730,6 @@
       "publication": {
         "creation": "2026-07-24T17:09:30.940Z",
         "expiration": "2026-09-24T17:09:30.940Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac71876",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396831"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Shop manager (H/F)",
-      "rome_codes": [
-        "N3206"
-      ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac71881",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396828"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576114?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de commerce (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac7187f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396832"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576123?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technico-commercial / Technico-commerciale (H/F)",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16597,68 +16585,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6c",
-      "partner_label": "France Travail",
-      "partner_job_id": "5187630"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Notre partenaire , recrute plusieurs apprentis .\n\nPostes à pourvoir immédiatement\n\nFormation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie et pratique en entreprise.\n\nPlusieurs profils recherchés - rejoignez nous vite !\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576111?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T03:20:28.000Z",
-        "expiration": "2026-09-21T03:20:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb65",
       "partner_label": "France Travail",
       "partner_job_id": "5187727"
@@ -16713,73 +16639,6 @@
       "publication": {
         "creation": "2026-07-21T03:20:28.000Z",
         "expiration": "2026-09-21T03:20:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ea23a6cce1228eac433ce",
-      "partner_label": "France Travail",
-      "partner_job_id": "211KHVD"
-    },
-    "workplace": {
-      "siret": "99424774000016",
-      "brand": "AMORE",
-      "legal_name": "COUP DE COEUR",
-      "website": null,
-      "name": "COUP DE COEUR",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211KHVD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE Cuisinier / Cuisinière (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Nous sommes un nouveau restaurant italien situé au cœur du quartier dynamique d'Antigone à Montpellier. Notre établissement, AMORE, s'apprête à ouvrir ses portes et nous recherchons des talents passionnés pour rejoindre notre équipe. Nous nous engageons à offrir une expérience culinaire authentique et un service exceptionnel à notre clientèle.\n\nPoste à pourvoir : Nous recrutons 2 apprentis Cuisinier(iere) pour un Contrat en CDD.\n\nNous recrutons un(e) apprenti(e) cuisinier(ère) pour un Contrat à Durée Déterminée (CDD) d'un an. Vous serez formé(e) et encadré(e) par notre chef cuisinier expérimenté et participerez à la préparation des plats, à la gestion des stocks et au maintien des normes d'hygiène et de sécurité en cuisine.\n\nProfil recherché :\n\nPassion pour la cuisine et motivation pour apprendre les techniques culinaires italiennes.\nDynamisme, rigueur et capacité à travailler en équipe.\nSens de l'hygiène et respect des normes de sécurité alimentaire.\n\nConditions de travail :\n\nType de contrat : CDD d'un an (contrat d'apprentissage)\nSalaire : Selon la grille de rémunération des apprentis \nHoraires : Temps plein, horaires variables incluant week-ends et jours fériés\nLieu de travail : Montpellier Antigone\n\nAvantages :\n\nFormation encadrée par un chef cuisinier expérimenté.\nOpportunité de participer à l'ouverture d'un nouveau restaurant et de contribuer à son succès.\nEnvironnement de travail convivial et professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T13:15:31.168Z",
-        "expiration": "2026-09-20T13:15:31.168Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16847,77 +16706,6 @@
       "publication": {
         "creation": "2026-07-20T11:08:59.750Z",
         "expiration": "2026-09-20T11:08:59.750Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ea23a6cce1228eac433d0",
-      "partner_label": "France Travail",
-      "partner_job_id": "211JZXX"
-    },
-    "workplace": {
-      "siret": "49245343600015",
-      "brand": null,
-      "legal_name": "LA CHICHOUMEILLE",
-      "website": null,
-      "name": "LA CHICHOUMEILLE",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.910191,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JZXX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) cuisinier(ère) (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Vous avez envie de préparer un CAP Cuisine en alternance ? Rejoignez-nous au restaurant traditionnel Pura Vida\n\nEn collaboration avec un Centre de Formation des Apprentis (CFA), nous vous proposons de développer vos compétences et d'acquérir une expérience précieuse en effectuant le service du midi et du soir.\n\nDurée de la formation : Possibilité de préparer le CAP en un an ou deux ans, selon vos préférences et votre situation.\n\nCe que nous recherchons :\n\nMotivation et passion pour la cuisine\nCapacité à travailler en équipe\nPonctualité et sérieux\nCe que nous offrons :\n\nFormation de qualité en partenariat avec un CFA\nExpérience pratique dans un environnement traditionnel\nAccompagnement et soutien tout au long de votre apprentissage\nNe manquez pas cette opportunité de développer vos talents culinaires et de faire partie de notre équipe dynamique à Pura Vida !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Préparer les viandes et les poissons",
-        "Préparer des repas",
-        "Cuire des viandes, poissons ou légumes",
-        "Doser des ingrédients culinaires",
-        "Eplucher des légumes et des fruits"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T10:46:16.343Z",
-        "expiration": "2026-09-20T10:46:16.343Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18743,74 +18531,6 @@
   },
   {
     "identifier": {
-      "id": "6a4d82c4dea3d72aa22e0c69",
-      "partner_label": "France Travail",
-      "partner_job_id": "210WTQB"
-    },
-    "workplace": {
-      "siret": "41459471300029",
-      "brand": null,
-      "legal_name": "LOLI SA",
-      "website": null,
-      "name": "LOLI SA",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210WTQB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de Commerce en Alternance (H/F) -",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Missions\nAccueil et conseil des clients\nPréparation glaces, gaufres, boissons.\nGestion des stocks et réapprovisionnement des bacs\nParticipation à la mise en place des produits et à la tenue du magasin\nUtilisation des outils de caisse et gestion des transactions\nRespect des normes d'hygiène et de sécurité\nProfil recherché\nÂge : 18 à 21 ans idéalement\n\nQualités : Dynamisme, sens du contact, rigueur, capacité à travailler en équipe\nExpérience : Une première expérience en vente serait un plus\nConditions de travail\nHoraires variables incluant week-ends et jours fériés\nFormation en alternance avec un centre de formation agréé\nPossibilité d'évolution au sein de l'entreprise",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Préparer, assembler des plats simples"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T15:37:21.380Z",
-        "expiration": "2026-09-07T15:37:21.380Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4d82c4dea3d72aa22e0c6f",
       "partner_label": "France Travail",
       "partner_job_id": "4646937"
@@ -19580,71 +19300,6 @@
   },
   {
     "identifier": {
-      "id": "6a3b0aac49326ae93058a7cc",
-      "partner_label": "France Travail",
-      "partner_job_id": "4151430"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "VIVERIO",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34790 Grabels",
-        "geopoint": {
-          "coordinates": [
-            3.808524,
-            43.652876
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.22Z",
-          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://viverio.softy.pro/offre/211480?idt=5&h=2114800",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP EQUIPIER POLYVALENT DU COMMERCE H/F - H/F",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T19:33:58.000Z",
-        "expiration": "2026-08-23T19:33:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3b0aac49326ae93058a7d2",
       "partner_label": "France Travail",
       "partner_job_id": "4151446"
@@ -19695,6 +19350,71 @@
         "D1101"
       ],
       "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-23T19:33:58.000Z",
+        "expiration": "2026-08-23T19:33:58.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3b0aac49326ae93058a7cc",
+      "partner_label": "France Travail",
+      "partner_job_id": "4151430"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "VIVERIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34790 Grabels",
+        "geopoint": {
+          "coordinates": [
+            3.808524,
+            43.652876
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://viverio.softy.pro/offre/211480?idt=5&h=2114800",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP EQUIPIER POLYVALENT DU COMMERCE H/F - H/F",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20044,9 +19764,9 @@
   },
   {
     "identifier": {
-      "id": "6a3472ee8846a43a71e4d6c3",
+      "id": "6a7ba1b6274d22102aa22967",
       "partner_label": "France Travail",
-      "partner_job_id": "209QGBZ"
+      "partner_job_id": "212JGDZ"
     },
     "workplace": {
       "siret": null,
@@ -20057,11 +19777,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34725 Saint-Félix-de-Lodez",
+        "address": "34320 Margon",
         "geopoint": {
           "coordinates": [
-            3.459331,
-            43.664404
+            3.305597,
+            43.487573
           ],
           "type": "Point"
         }
@@ -20070,13 +19790,228 @@
         "idcc": null,
         "opco": null,
         "naf": {
-          "code": "43.32B",
-          "label": "Travaux de menuiserie métallique et serrurerie"
+          "code": "56.30Z",
+          "label": "Débits de boissons"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/209QGBZ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212JGDZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T13:01:40.034Z",
+        "expiration": "2026-10-11T13:01:40.034Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22964",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HYFR"
+    },
+    "workplace": {
+      "siret": "94125510100029",
+      "brand": null,
+      "legal_name": "MOAELI",
+      "website": null,
+      "name": "MOAELI",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HYFR",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent de restauration rapide en apprentissage (h/f) (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Nous recherchons un apprenti motivé pour rejoindre notre équipe dynamique !\n\nOh My Bowl est un concept de restauration rapide qui vous propose de composer votre Poke-Bowl selon vos envies ou de choisir l'une de nos recettes signatures. Nous mettons l'accent sur des ingrédients frais, locaux et de saison pour offrir à nos clients une expérience culinaire saine et savoureuse. Nos bowls sont préparés avec soin, alliant saveurs variées et équilibre nutritionnel.\n\nMissions principales :\n\nGestion de la caisse et des transactions financières\nPrise de commandes et service client\nMise en place et préparation des espaces de travail\nGestion des stocks et approvisionnements\nParticipation à la préparation des plats et au service en salle\n\nProfil recherché :\n\nMotivation et dynamisme\nSens du contact et du service client\nCapacité à travailler en équipe\nRigueur et organisation\nIntérêt pour le secteur de la restauration",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Types de sandwichs et produits snacking",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Préparer, assembler des plats simples"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T10:15:03.568Z",
+        "expiration": "2026-10-11T10:15:03.568Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22965",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HXJT"
+    },
+    "workplace": {
+      "siret": "41815315100034",
+      "brand": null,
+      "legal_name": "P.S.I GRAND SUD",
+      "website": "https://www.psisecurite.fr/",
+      "name": "P.S.I GRAND SUD",
+      "description": "Créé en 1998, le Groupe PSI Sécurité (Protection Sécurité Industrie) est une société française basée à Montpellier dans l?Hérault.Elle est un acteur référent au plan régional et national pour sa capacité à apporter des réponses globales de protection.Conscients et soucieux de l?environnement dans lequel nous évoluons, nous développons et mettons en place des solutions modernes adaptées aux besoins de nos différents clients.",
+      "size": "250 à 499 salariés",
+      "location": {
+        "address": "Route de Lodève 34080 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.826472,
+            43.61488
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "80.10Z",
+          "label": "Activités de sécurité privée"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HXJT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
+      "rome_codes": [
+        "M1501"
+      ],
+      "description": "Le GROUPE PSI SECURITE recrute un(e) Assistant(e) Ressources Humaines en contrat au rythme de l'alternance afin de participer à la mise en œuvre et au suivi des missions liées au domaine des Ressources Humaines et du Droit social, sous la tutelle des Responsable RH/ Juriste en Droit social et DRH.\n\nVous serez notamment chargé(e) de :\n\n- De l'Administration du personnel (DPAE, contrats de travail, avenants, suivi des visites médicales.),\n- De la gestion du présentéisme (maladie, absences injustifiées, retards, départs anticipés.),\n- Du suivi des salariés au cours de leur vie contractuelle (congés payés, inaptitude, projet de transition professionnelle, maternité/paternité.),\n- Du recrutement du personnel en collaboration avec le service exploitation (offre d'emploi, tri des CV, relation candidats.), \n- Du suivi de la formation (suivi de la validité des formations des salariés, organisation des recyclages.),\n- Du soutien dans le suivi des agendas / de la veille au respect des délais et procédures ...\n- Du relai des informations et des décisions de la société, etc..\n\nType de contrat:\nPoste en contrat à durée déterminée au rythme de l'alternance (contrat d'apprentissage).\nTravail du lundi au vendredi\nEn présentiel\nHoraires de travail : 8h30 - 12h00 et 14h00 - 17h30\n\nFormations exigées:\n- Vous préparez un diplôme supérieur spécialisé dans les ressources humaines d'un niveau idéal de BAC +2, au plus BAC+3\n- Aptitudes de base en RH: le relationnel, la communication, l'écoute\n- Formation de base en gestion administrative : Aisance avec les outils informatiques, bonne organisation générale\n- Parfaite aisance dans l'expression écrite et la communication orale.\n\nProfil recherché :\n\n- Bon sens du relationnel, \n- Rigueur / bonne organisation\n- Autonomie\n- Réactivité\n- Esprit d'équipe\n- Disponibilité\n- Capacités d'adaptation\n- Sens de l'écoute\n- Respect strict des règles en vigueur et de la confidentialité\n\nCe que nous offrons:\nUne formation complète en Droit social / RH \nUne expérience enrichissante au sein d'une entreprise qui ne cesse de s'accroitre\nUn domaine d'activité fort de sens, en constante évolution, avec des besoins quotidiens,\nUn environnement de travail dynamique et bienveillant,\n\nNous sommes impatients de découvrir votre profil, et peut être, de vous accueillir au sein de notre équipe!\n\nDans le cadre de sa politique diversité, le Groupe PSI Sécurité soutient l'égalité Femmes/ Hommes et favorise l'insertion professionnelle, l'accès et le maintien dans l'emploi des personnes en situation de handicap.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Législation sociale",
+        "Concevoir des supports de suivi et de gestion",
+        "Réaliser des déclarations réglementaires"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-11T09:55:29.998Z",
+        "expiration": "2026-10-11T09:55:29.998Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a7ba1b6274d22102aa22968",
+      "partner_label": "France Travail",
+      "partner_job_id": "212HNCY"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34320 Margon",
+        "geopoint": {
+          "coordinates": [
+            3.305597,
+            43.487573
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HNCY",
       "phone": null,
       "recipient_id": null
     },
@@ -20089,24 +20024,22 @@
       "remote": null
     },
     "offer": {
-      "title": "Métallier poseur / Métallière poseuse de menuiseries métalliques (H/F)",
+      "title": "Cuisinier apprenti (H/F)",
       "rome_codes": [
-        "F1614"
+        "G1609"
       ],
-      "description": "Au sein d'une entreprise de menuiserie métallique et PVC vous préparerez le CAP Serrurier Métallier.\nVos missions: \nParticiper à la pose et à la réparation d'ouvrages en métal (portails, fenêtres, escaliers, etc.).\nApprendre à lire et interpréter des plans techniques.\nUtiliser des outils et machines spécifiques à la métallerie et à la serrurerie.\nRespecter les normes de sécurité et de qualité.\n\nProfil recherché :\n\nMotivation pour le métier de métallier-serrurier.\nIntérêt pour le travail manuel et la précision.\nCapacité à travailler en équipe et à suivre des consignes.\n\nVous interviendrez essentiellement sur des chantiers en pose et réparation \n\nEtablissement mal desservi par les transports en commun, vous êtes en capacité de venir à l'entreprise par vos propres moyens\n\nPoste à pourvoir en septembre 2026",
+      "description": "Le restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Techniques de maçonnerie",
-        "Couper les éléments de fermetures menuisées",
-        "Démonter une fermeture menuisée et vérifier l'état du support",
-        "Fixer des éléments menuisés",
-        "Réaliser l'étanchéité de l'ensemble support et châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, etc"
+        "Dresser des plats pour le service",
+        "Assurer la propreté de la zone de travail",
+        "Préparer des plats culinaires"
       ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-06-11T13:38:59.824Z",
-        "expiration": "2026-08-11T13:38:59.824Z"
+        "creation": "2026-08-10T16:40:46.638Z",
+        "expiration": "2026-10-10T16:40:46.638Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20866,6 +20799,80 @@
   },
   {
     "identifier": {
+      "id": "6a7ba1b6274d22102aa2296a",
+      "partner_label": "France Travail",
+      "partner_job_id": "212GGFP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34120 Pézenas",
+        "geopoint": {
+          "coordinates": [
+            3.418941,
+            43.456901
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.76Z",
+          "label": "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GGFP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Fleuriste en apprentissage (H/F)",
+      "rome_codes": [
+        "D1209"
+      ],
+      "description": "Vous souhaitez vous perfectionner et découvrir d'autres aspects de votre métier ? Rejoignez-nous ! \nNous recrutons un fleuriste (H/F) passionné en vue de valider un BP. \n\nVous êtes motivé(e), créatif(ve), dynamique et avez le sens du service.\n\n* Vous aimez le travail en équipe et souhaitez développer votre savoir-faire auprès de professionnels expérimentés.\n* Le permis B est un plus.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Présenter et valoriser un produit ou un service",
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Développer et fidéliser la relation client",
+        "Effectuer l'entretien de végétaux",
+        "Procéder à l'encaissement"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-07T15:55:38.453Z",
+        "expiration": "2026-10-07T15:55:38.453Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a765c4452e165fd1b089bb8",
       "partner_label": "France Travail",
       "partner_job_id": "212FTRP"
@@ -21515,71 +21522,6 @@
       "publication": {
         "creation": "2026-08-06T14:10:51.076Z",
         "expiration": "2026-10-06T14:10:51.076Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a750ae94c6efee3da6a361c",
-      "partner_label": "France Travail",
-      "partner_job_id": "212DVHQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34370 Maraussan",
-        "geopoint": {
-          "coordinates": [
-            3.16054,
-            43.364911
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.34Z",
-          "label": "Travaux de peinture et vitrerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212DVHQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant administratif et commercial (H/F) en apprentissage",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "LC Peinture, entreprise spécialisée dans les travaux de peinture, placo et revêtements de sols, recherche un(e) Assistant(e) Administratif(ve) &amp; Commercial(e) en apprentissage dans le cadre de son développement.\n\nTu souhaites intégrer une entreprise à taille humaine, dynamique et en pleine croissance, tout en développant des compétences concrètes dans les domaines de l'administration, du commerce et de la communication digitale? Cette alternance est faite pour toi !\n\nTu seras accompagné(e) au quotidien et tu participeras directement au fonctionnement et au développement de l'entreprise.\n\nTes missions :\n\nGestion administrative\n\n* Accueil téléphonique et gestion des demandes clients\n* Gestion des mails et courriers\n* Création, classement et suivi des dossiers clients\n* Préparation et suivi des devis et factures\n* Suivi des règlements et relances clients\n* Mise à jour des tableaux de suivi\n* Classement et archivage des documents\n* Gestion et suivi de différents documents administratifs\n* Relation avec les clients, fournisseurs et partenaires\n\nCommercial\n\n* Réception et qualification des demandes clients\n* Prise de rendez-vous\n* Suivi des prospects\n* Relance des devis\n* Mise à jour du fichier clients et prospects\n* Suivi de la satisfaction client\n* Participation au développement commercial de l'entreprise\n* Recherche de nouveaux prospects et partenaires\n* Participation à la mise en place d'actions commerciales\n\nCommunication &amp; réseaux sociaux\n\nTu participeras également activement au développement de l'image de l'entreprise sur les réseaux sociaux :\n\n* Gestion et animation des comptes Instagram, Facebook et LinkedIn\n* Création et publication de contenus\n* Création de publications et stories\n* Mise en avant des chantiers réalisés\n* Prise de photos et vidéos sur les chantiers\n* Réponse aux messages et interactions sur les réseaux sociaux\n* Développement de la visibilité de l'entreprise\n* Participation à la création de campagnes de communication et d'offres commerciales\n* Suivi des statistiques et des performances des publications\n\nProfil recherché\n\nTu prépares un diplôme ou une formation en alternance dans le domaine de :\n\n* Assistant(e) de gestion / gestion PME\n* Administration\n* Commerce / développement commercial\n* Communication / marketing digital\n* Ou formation similaire\n\nAucune expérience professionnelle significative n'est exigée. Nous recherchons avant tout une personne motivée, curieuse et ayant envie d'apprendre.\n\nTu es à l'aise avec les outils informatiques et tu apprécies particulièrement les réseaux sociaux, la création de contenu et le contact avec les clients.\n\nLa connaissance de Canva, Excel, Word, Instagram, Facebook ou LinkedIn est un plus.\n\nNous recherchons une personne qui.\n\n* Est dynamique et motivée\n* Est organisée et rigoureuse\n* A un bon relationnel\n* Est à l'aise au téléphone\n* Possède une bonne expression orale et écrite\n* Aime le contact avec les clients\n* Est curieuse et force de proposition\n* S'intéresse aux réseaux sociaux et à la communication\n* Sait travailler en équipe\n* A envie de progresser et de prendre progressivement des responsabilités\n\nL'objectif est de te permettre de développer progressivement ton autonomie et tes compétences dans plusieurs domaines :\n\nAdministratif → Commercial → Relation client → Communication → Réseaux sociaux → Gestion d'entreprise\n\nTu seras directement impliqué(e) dans la vie de l'entreprise et tu travailleras aux côtés de l'équipe dirigeante.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T12:53:50.570Z",
-        "expiration": "2026-10-06T12:53:50.570Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -22852,68 +22794,6 @@
   },
   {
     "identifier": {
-      "id": "6a6e7330ae98af4affb3d4d4",
-      "partner_label": "France Travail",
-      "partner_job_id": "5630792"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Super U Ganges",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://app.swipelink.fr//public/offer/4f6ca5e3-6020-4403-8875-b47b85800578?origin=france_travail",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boucher / Bouchère (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Apprendre le métier en accompagnant l'équipe au quotidien. Réaliser la mise en valeur du rayon et le suivi de la fraîcheur des produits. Conseiller les clients sur les morceaux, les quantités et les modes de cuisson. Appliquer strictement les règles d'hygiène et la chaîne du froid.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-01T02:02:15.416Z",
-        "expiration": "2026-10-01T02:02:15.416Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -23406,71 +23286,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d57",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564074"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6bd07a96004791b08a0d56",
       "partner_label": "France Travail",
       "partner_job_id": "5564100"
@@ -23536,9 +23351,9 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d53",
+      "id": "6a6bd07a96004791b08a0d57",
       "partner_label": "France Travail",
-      "partner_job_id": "5564110"
+      "partner_job_id": "5564074"
     },
     "workplace": {
       "siret": null,
@@ -23549,11 +23364,11 @@
       "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
       "size": null,
       "location": {
-        "address": "34000 Montpellier",
+        "address": "34500 Béziers",
         "geopoint": {
           "coordinates": [
-            3.87048,
-            43.610476
+            3.233465,
+            43.343264
           ],
           "type": "Point"
         }
@@ -23568,7 +23383,7 @@
       }
     },
     "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuODQ3NzUuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
+      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
       "phone": null,
       "recipient_id": null
     },
@@ -23581,11 +23396,11 @@
       "remote": null
     },
     "offer": {
-      "title": "Alternance - Vendeur crèmerie Grand frais (H/F)",
+      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
       "rome_codes": [
         "D1106"
       ],
-      "description": "Alternance - Vendeur crèmerie (H/F) \n\nLieu : Montpellier- site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre) \n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du rayon fromagerie et libre-service frais, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Couper et préparer les fromages pour la vente\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce (CAP à Bac+2 idéalement)\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
+      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -24372,78 +24187,6 @@
   },
   {
     "identifier": {
-      "id": "6a67dcb6b6d4ce760a1d29ed",
-      "partner_label": "France Travail",
-      "partner_job_id": "211SRSM"
-    },
-    "workplace": {
-      "siret": "38946989100037",
-      "brand": null,
-      "legal_name": "MATERIEL SOUDURE",
-      "website": null,
-      "name": "MATERIEL SOUDURE",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34630 Saint-Thibéry",
-        "geopoint": {
-          "coordinates": [
-            3.413962,
-            43.394328
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1404,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "46.62Z",
-          "label": "Commerce de gros (commerce interentreprises) de machines-outils"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SRSM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Préparateur de commande (H/F) en apprentissage (H/F)",
-      "rome_codes": [
-        "N1103"
-      ],
-      "description": "Préparateur(trice) de commandes en apprentissage - Matériel de soudure.\n\nMatériel Soudure, spécialiste de la vente en ligne de matériel de soudure, recherche 1 Préparateur(trice) de commandes en apprentissage pour rejoindre son équipe logistique.\nPoste ouvert aux candidats éligibles au dispositif d'apprentissage, âgés de 16 à 29 ans révolus (sans limite d'âge pour les bénéficiaires d'une RQTH).\n\nEncadré(e) et formé(e) tout au long de votre parcours, vous participerez activement au bon déroulement des opérations logistiques :\n- Préparation des commandes clients issues des ventes en ligne : vérification des références, conditionnement, étiquetage\n- Réception, contrôle et stockage des marchandises\n- Gestion des stocks et participation aux inventaires\n- Respect des procédures de qualité et de sécurité\n- Contribution à l'amélioration continue de l'organisation et des process logistiques\n\nVous aurez également l'opportunité de développer vos connaissances en vente en ligne et de comprendre le fonctionnement global d'une entreprise e-commerce spécialisée (gestion des commandes, organisation des flux, optimisation des process).\n\nProfil recherché :\n- Préparation d'un diplôme en commerce, Logistique ou domaine similaire (CAP, Bac Pro, BTS, DUT)\n- Rigueur, dynamisme, autonomie, sens de l'organisation\n- Bon relationnel et goût du travail en équipe\n- Une première expérience en entrepôt (stage, job saisonnier) serait un plus\n\nPrise de poste : dès que possible, conformément à la réglementation autorisant un démarrage jusqu'à 3 mois avant le début de la formation (prévue en septembre).\nVous souhaitez vous investir au sein d'une équipe jeune et dynamique et développer vos compétences dans un environnement e-commerce spécialisé en constante évolution ? Nous serions ravis de recevoir votre candidature !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Charger, décharger, manutentionner des produits",
-        "Prélever les produits selon les instructions de préparation de commande et constituer les colis, lots, etc",
-        "Identifier les conditions de réalisation d'une commande",
-        "Se coordonner avec d'autres services pour optimiser les processus logistiques",
-        "Traiter les commandes et préparer les expéditions",
-        "Traiter les informations relatives aux commandes et aux spécifications des clients"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-27T21:09:49.822Z",
-        "expiration": "2026-09-27T21:09:49.822Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a692e05b6d4ce760a1dd9c0",
       "partner_label": "France Travail",
       "partner_job_id": "211SLHX"
@@ -24974,198 +24717,6 @@
         "expiration": "2026-09-22T07:42:20.015Z"
       },
       "opening_count": 2,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac7187f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396832"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans les secteurs de la grande distribution , du commerce de gros alimentaire , de la vente de produits ainsi que dans le domaine de l'aménagement , nos partenaires recherchent des candidats pour intégrer une formation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie en centre et pratique en entreprise.\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576123?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technico-commercial / Technico-commerciale (H/F)",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Description du poste Prospecter de nouveaux clients (terrain, téléphone, salons Identifier les besoins techniques des clients et proposer des solutions adaptées***Négocier les offres commerciales et conclure les ventes***Assurer le suivi client : devis, commandes, livraisons, SAV***Atteindre les objectifs de vente fixés***Collaborer avec les équipes techniques pour assurer la faisabilité des offres\n\nDescription du profil Excellent sens de la communication et de la négociation***Goût du challenge commercial et de la relation client***Intérêt pour les produits techniques (formation interne possible)***Autonomie, rigueur et esprit d'initiative***Permis B apprécié (déplacements possibles)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac71881",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396828"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Employé(e) Commercial(e) dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau III (CAP/BEP), sur une durée de 12 mois .\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576114?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de commerce (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Description du poste :\n\nEncadré(e) par votre tuteur en entreprise, vous participerez à la bonne gestion de l'espace de vente. Vos missions principales seront Accueillir, orienter et conseiller les clients en magasin***Mettre en rayon les produits (facing, balisage, étiquetage)***Vérifier les stocks et approvisionner les rayons***Participer aux opérations de mise en avant (promotions, nouveautés)***Encaisser les ventes et assurer un service client de qualité***Veiller à la propreté et au bon agencement de l'espace de vente\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous aimez le contact avec la clientèle et le travail en équipe***Vous êtes ponctuel(le), organisé(e) et dynamique***Vous avez une présentation soignée et un bon sens du service***Vous souhaitez acquérir une première expérience professionnelle solide***Vous êtes motivé(e) par les métiers du commerce et de la grande distribution",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac71876",
-      "partner_label": "France Travail",
-      "partner_job_id": "5396831"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "IDMN Groupe , spécialiste de la formation en présentiel, recrute pour le compte de son entreprise partenaire, une société dynamique en plein développement, un(e) Manager d'Unité Marchande dans le cadre de la préparation d'une formation diplômante reconnue par l'État de niveau V (Bac +2), sur une durée de 12 mois\n\nLe poste est à pourvoir au sein de notre entreprise partenaire. Aucun frais a prévoir pour le candidat qui sera libre de choisir son école.",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576110?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Shop manager (H/F)",
-      "rome_codes": [
-        "N3206"
-      ],
-      "description": "Description du poste :\n\nEn tant qu'apprenti(e) Manager d'Unités Marchandes, vous serez formé(e) pour Piloter l'activité commerciale d'un point de vente ou d'un rayon***Animer et encadrer une équipe de vente***Suivre les indicateurs de performance et optimiser les résultats***Participer à la mise en place des actions marketing et commerciales***Assurer la satisfaction client et garantir la qualité de service\n\nDescription du profil Vous êtes dynamique, organisé(e) et avez le sens du commerce***Vous aimez le travail en équipe et avez un bon relationnel***Vous souhaitez évoluer vers un poste à responsabilités***Vous êtes motivé(e) par l'alternance et disponible rapidement",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T03:19:47.000Z",
-        "expiration": "2026-09-24T03:19:47.000Z"
-      },
-      "opening_count": 1,
       "status": "Active"
     },
     "is_delegated": false
@@ -25967,68 +25518,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb67",
       "partner_label": "France Travail",
       "partner_job_id": "5205301"
@@ -26076,6 +25565,68 @@
         "I1623"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb6f",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205256"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -26215,135 +25766,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6c",
-      "partner_label": "France Travail",
-      "partner_job_id": "5187630"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Notre partenaire , recrute plusieurs apprentis .\n\nPostes à pourvoir immédiatement\n\nFormation en contrat d'apprentissage de 12 mois chez IDMN Groupe , alliant théorie et pratique en entreprise.\n\nPlusieurs profils recherchés - rejoignez nous vite !\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55576111?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T03:20:28.000Z",
-        "expiration": "2026-09-21T03:20:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ea23a6cce1228eac433ce",
-      "partner_label": "France Travail",
-      "partner_job_id": "211KHVD"
-    },
-    "workplace": {
-      "siret": "99424774000016",
-      "brand": "AMORE",
-      "legal_name": "COUP DE COEUR",
-      "website": null,
-      "name": "COUP DE COEUR",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211KHVD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE Cuisinier / Cuisinière (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Nous sommes un nouveau restaurant italien situé au cœur du quartier dynamique d'Antigone à Montpellier. Notre établissement, AMORE, s'apprête à ouvrir ses portes et nous recherchons des talents passionnés pour rejoindre notre équipe. Nous nous engageons à offrir une expérience culinaire authentique et un service exceptionnel à notre clientèle.\n\nPoste à pourvoir : Nous recrutons 2 apprentis Cuisinier(iere) pour un Contrat en CDD.\n\nNous recrutons un(e) apprenti(e) cuisinier(ère) pour un Contrat à Durée Déterminée (CDD) d'un an. Vous serez formé(e) et encadré(e) par notre chef cuisinier expérimenté et participerez à la préparation des plats, à la gestion des stocks et au maintien des normes d'hygiène et de sécurité en cuisine.\n\nProfil recherché :\n\nPassion pour la cuisine et motivation pour apprendre les techniques culinaires italiennes.\nDynamisme, rigueur et capacité à travailler en équipe.\nSens de l'hygiène et respect des normes de sécurité alimentaire.\n\nConditions de travail :\n\nType de contrat : CDD d'un an (contrat d'apprentissage)\nSalaire : Selon la grille de rémunération des apprentis \nHoraires : Temps plein, horaires variables incluant week-ends et jours fériés\nLieu de travail : Montpellier Antigone\n\nAvantages :\n\nFormation encadrée par un chef cuisinier expérimenté.\nOpportunité de participer à l'ouverture d'un nouveau restaurant et de contribuer à son succès.\nEnvironnement de travail convivial et professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T13:15:31.168Z",
-        "expiration": "2026-09-20T13:15:31.168Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ea23a6cce1228eac433cf",
       "partner_label": "France Travail",
       "partner_job_id": "211KCBK"
@@ -26403,77 +25825,6 @@
       "publication": {
         "creation": "2026-07-20T11:08:59.750Z",
         "expiration": "2026-09-20T11:08:59.750Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ea23a6cce1228eac433d0",
-      "partner_label": "France Travail",
-      "partner_job_id": "211JZXX"
-    },
-    "workplace": {
-      "siret": "49245343600015",
-      "brand": null,
-      "legal_name": "LA CHICHOUMEILLE",
-      "website": null,
-      "name": "LA CHICHOUMEILLE",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.910191,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JZXX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) cuisinier(ère) (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Vous avez envie de préparer un CAP Cuisine en alternance ? Rejoignez-nous au restaurant traditionnel Pura Vida\n\nEn collaboration avec un Centre de Formation des Apprentis (CFA), nous vous proposons de développer vos compétences et d'acquérir une expérience précieuse en effectuant le service du midi et du soir.\n\nDurée de la formation : Possibilité de préparer le CAP en un an ou deux ans, selon vos préférences et votre situation.\n\nCe que nous recherchons :\n\nMotivation et passion pour la cuisine\nCapacité à travailler en équipe\nPonctualité et sérieux\nCe que nous offrons :\n\nFormation de qualité en partenariat avec un CFA\nExpérience pratique dans un environnement traditionnel\nAccompagnement et soutien tout au long de votre apprentissage\nNe manquez pas cette opportunité de développer vos talents culinaires et de faire partie de notre équipe dynamique à Pura Vida !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Préparer les viandes et les poissons",
-        "Préparer des repas",
-        "Cuire des viandes, poissons ou légumes",
-        "Doser des ingrédients culinaires",
-        "Eplucher des légumes et des fruits"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T10:46:16.343Z",
-        "expiration": "2026-09-20T10:46:16.343Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -28634,74 +27985,6 @@
   },
   {
     "identifier": {
-      "id": "6a4d82c4dea3d72aa22e0c69",
-      "partner_label": "France Travail",
-      "partner_job_id": "210WTQB"
-    },
-    "workplace": {
-      "siret": "41459471300029",
-      "brand": null,
-      "legal_name": "LOLI SA",
-      "website": null,
-      "name": "LOLI SA",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210WTQB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de Commerce en Alternance (H/F) -",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Missions\nAccueil et conseil des clients\nPréparation glaces, gaufres, boissons.\nGestion des stocks et réapprovisionnement des bacs\nParticipation à la mise en place des produits et à la tenue du magasin\nUtilisation des outils de caisse et gestion des transactions\nRespect des normes d'hygiène et de sécurité\nProfil recherché\nÂge : 18 à 21 ans idéalement\n\nQualités : Dynamisme, sens du contact, rigueur, capacité à travailler en équipe\nExpérience : Une première expérience en vente serait un plus\nConditions de travail\nHoraires variables incluant week-ends et jours fériés\nFormation en alternance avec un centre de formation agréé\nPossibilité d'évolution au sein de l'entreprise",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Préparer, assembler des plats simples"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T15:37:21.380Z",
-        "expiration": "2026-09-07T15:37:21.380Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4d82c4dea3d72aa22e0c6f",
       "partner_label": "France Travail",
       "partner_job_id": "4646937"
@@ -30115,6 +29398,401 @@
       "publication": {
         "creation": "2026-06-23T00:00:00.000Z",
         "expiration": "2026-08-22T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a39b94549326ae93057cfd3",
+      "partner_label": "France Travail",
+      "partner_job_id": "210CDHH"
+    },
+    "workplace": {
+      "siret": "45105338301009",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34330 La Salvetat-sur-Agout",
+        "geopoint": {
+          "coordinates": [
+            2.683864,
+            43.607176
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210CDHH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F (H/F)",
+      "rome_codes": [
+        "K1311"
+      ],
+      "description": "Votre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\nAccompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\nAdapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\nÊtre attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\nIncarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :\nFaire preuve d'empathie, de patience et de respect\nÊtre à l'écoute et savoir s'adapter aux situations imprévues\nÊtre fiable, ponctuel(le) et responsable\n\nUne rémunération valorisante : salaire en fonction du smic 78 à 100 %\nDes déplacements indemnisés : remboursement intégral du titre de transport ou 0,40\n€/km + temps de trajet payé  (selon règles internes)\nUne mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\nUn service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\nDes événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer les courses d'une personne",
+        "Communiquer avec l'entourage de la personne accompagnée",
+        "Donner les informations pertinentes en fonction du contexte (oralement, par écrit via de la documentation, la signalétique, etc.)",
+        "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-22T10:29:54.805Z",
+        "expiration": "2026-08-22T10:29:54.805Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a353f8c6fa5902550b19ffb",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a353f8c6fa5902550b19ffb"
+    },
+    "workplace": {
+      "siret": "92911930300014",
+      "brand": null,
+      "legal_name": "ELITEPHONE 34",
+      "website": null,
+      "name": "ELITEPHONE 34",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "9 Chemin de la Croix de Fer 34450 Vias",
+        "geopoint": {
+          "coordinates": [
+            3.420275,
+            43.309387
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a353f8c4acef524be41b02c",
+      "phone": "0948205939",
+      "recipient_id": "partners_6a353f8c6fa5902550b19ffb"
+    },
+    "contract": {
+      "start": "2026-06-22T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Téléopérateur / Téléopératrice",
+      "rome_codes": [
+        "D1408"
+      ],
+      "description": "Le conseiller clientèle à distance est un professionnel qui aide et renseigne les clients par des moyens de communication à distance, tels que le téléphone, les courriels, les chats en ligne, ou les réseaux sociaux. \\nRépond aux demandes d'information et résout les problèmes des clients\\nPropose des produits et services adaptés aux besoins des clients pour améliorer leur satisfaction\\nGère les réclamations des clients de manière professionnelle et efficace\\nAssure le suivi des dossiers clients pour garantir une qualité de service continue\\nParticipe à l'amélioration des procédures de service client en fournissant des retours d'expérience\\nMaintient à jour ses connaissances sur les produits et services proposés par l'entreprise",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-19T13:09:32.458Z",
+        "expiration": "2026-08-18T13:09:32.454Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a353eb46fa5902550b19f9a",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a353eb46fa5902550b19f9a"
+    },
+    "workplace": {
+      "siret": "93816883800010",
+      "brand": null,
+      "legal_name": "SELAS PHARMACIE DES ARBOUSIERS",
+      "website": null,
+      "name": "SELAS PHARMACIE DES ARBOUSIERS",
+      "description": "",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34150 Aniane",
+        "geopoint": {
+          "coordinates": [
+            3.588969,
+            43.685696
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.73Z",
+          "label": "Commerce de détail de produits pharmaceutiques en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a353eb34acef524be41b00c",
+      "phone": "0467577001",
+      "recipient_id": "partners_6a353eb46fa5902550b19f9a"
+    },
+    "contract": {
+      "start": "2026-08-24T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Préparateur / Préparatrice en pharmacie",
+      "rome_codes": [
+        "J1307"
+      ],
+      "description": "Le Préparateur en pharmacie, en collaboration étroite avec le pharmacien, assure la préparation, la gestion et la délivrance des médicaments aux patients.\\nPrépare et délivre les médicaments sous la supervision d'un pharmacien\\nConseille et informe les clients sur l'utilisation des produits pharmaceutiques et la compatibilité avec d'autres\\nGère les stocks de médicaments et passe les commandes nécessaires\\nAssure le suivi des dossiers patients et la mise à jour des informations\\nParticipe à la réalisation des préparations magistrales et officinales\\nVeille au respect des normes d'hygiène et de sécurité dans l'espace de travail",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-19T13:05:55.950Z",
+        "expiration": "2026-08-18T13:05:55.947Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a34e50277fc74de6679a47d",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a34e50277fc74de6679a47d"
+    },
+    "workplace": {
+      "siret": "91781138200022",
+      "brand": null,
+      "legal_name": "MARINE BEAUTY",
+      "website": null,
+      "name": "MARINE BEAUTY",
+      "description": "",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "15 Rue du Jeu de Ballon 34570 Pignan",
+        "geopoint": {
+          "coordinates": [
+            3.761343,
+            43.583238
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a34e5024acef524be41ab81",
+      "phone": "0761023689",
+      "recipient_id": "partners_6a34e50277fc74de6679a47d"
+    },
+    "contract": {
+      "start": "2026-07-01T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien / Esthéticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-19T06:43:14.671Z",
+        "expiration": "2026-08-18T06:43:14.668Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3473368846a43a71e4e7fd",
+      "partner_label": "France Travail",
+      "partner_job_id": "3916357"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "DELTANOV",
+      "description": "Rejoignez une entreprise industrielle en mouvement, où la technicité, l’innovation et l’humain font la différence. Depuis 30 ans, DELTANOV conçoit et intègre des solutions en automatisme, électricité industrielle et maintenance pour des secteurs exigeants : industrie, aéronautique, spatial, énergies. Basée à Béziers, notre PME rassemble 50 passionnés engagés sur des projets à f",
+      "size": null,
+      "location": {
+        "address": "34420 Villeneuve-lès-Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.280901,
+            43.324569
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "33.20D",
+          "label": "Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/812335?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé RH en alternance H/F",
+      "rome_codes": [
+        "M1501"
+      ],
+      "description": "Description du poste : Sous la responsabilité de la Responsable des Ressources Humaines, l’alternant(e) participera activement à la gestion quotidienne des RH et contribuera à des projets transverses liés au recrutement, à l’administration du personnel, à l’intégration des collaborateurs et au développement des outils RH. Ce poste offre une vision globale de la fonction RH dans un environnement PME dynamique et en croissance. Vos missions : - Participer au processus de recrutement : diffusion des annonces, présélection des candidatures, organisation des entretiens et suivi des candidats - Contribuer à l’administration du personnel : préparation des dossiers d’embauche, suivi des entrées/sorties, mise à jour des dossiers salariés et des tableaux de bord RH - Assurer le suivi administratif de la mutuelle et de la prévoyance : affiliations, radiations, mises à jour et lien avec les organismes - Participer à l’organisation et au suivi des visites médicales en lien avec le service de santé au travail - Contribuer au suivi de la formation : recueil des besoins, organisation logistique, convocations et suivi administratif - Participer à la collecte et à la transmission des variables de paie - Accompagner l’intégration des nouveaux collaborateurs et le suivi des parcours d’alternance ou de stage - Appuyer l’équipe RH dans la préparation des communications internes et des projets RH - Contribuer à l’amélioration continue des outils, process et supports du service Compétences requises Savoirs : connaissance des fondamentaux en gestion des ressources humaines, droit social, recrutement et administration du personnel. Savoir-faire : bonne maîtrise des outils bureautiques, capacités rédactionnelles, sens de l’organisation, rigueur dans le suivi administratif et aptitude à travailler sur plusieurs sujets en parallèle. Savoir-être : discrétion, sens de la confidentialité, bon relationnel, curiosité, autonomie, esprit d’initiative et envie d’apprendre. Vous préparez une formation supérieure en Ressources Humaines de niveau Licence ou Master et vous recherchez une alternance vous permettant de développer des compétences opérationnelles au sein d’un service RH polyvalent. Une première expérience en RH (alternance ou emploi) serait un véritable atout. Vous êtes à l’aise dans un environnement exigeant, appréciez le travail en équipe et faites preuve de sérieux et de professionnalisme.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-17T20:28:54.000Z",
+        "expiration": "2026-08-17T20:28:54.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3473368846a43a71e4e801",
+      "partner_label": "France Travail",
+      "partner_job_id": "3914335"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ENSIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34430 Saint-Jean-de-Védas",
+        "geopoint": {
+          "coordinates": [
+            3.832002,
+            43.574823
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "78.20Z",
+          "label": "Activités des agences de travail temporaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://ensio.softy.pro/offre/210817?idt=5&h=2108170",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI MAGASINIER /PRÉPARATEUR DE COMMANDES CHANTIERS - H/F",
+      "rome_codes": [
+        "F1710"
+      ],
+      "description": "Description :\n\n\nDÉPÔT AU CARRÉ ET PROPRE ! C'EST ÇA QUI VOUS PLAIT ! \n\nVENEZ COLLABORER AVEC SANDRINE, NOTRE RESPONSABLE MAGASIN QUI VOUS FORMERA AU 5S, À TENIR UN DÉPÔT TELLE UNE VITRINE DE MAGASIN! \n\nL'ÉQUIPE ? \n\nSANDRINE : sera votre tuteur et votre binôme. \n\nVOTRE MISSION PRINCIPALE? \n\nVous serez former à la réception, la préparation des fournitures et à l'optimisation du dépôt. \n\nVOTRE FORMATION PORTERA SUR : \n\n * Assurer la réception de produits, le chargement et déchargement de camions\n * Suivre le stock, réaliser des inventaires,\n * Gestion des EPI, \n * Déplacer les produits (manutention)\n * Surveiller la conformité des fournitures aux termes du contrat et aux normes de qualité\n * Nettoyer et ranger la zone de travail\n * Gestion informatisée des entrées et sorties de stocks sur notre logiciel interne (formation prévue) \n * Conduire le chariot élévateur pour la manipulation des charges lourdes.\n * Suivi du process 5S\n\nDÉTAILS SUR LE DÉPÔT: entrepôt intérieur 100 mètres carrés + parc poteaux à gérer + parc tourets + parc extérieur 500 mètres\n\n  \n  \nProfil recherché :\n  \n  \nQUI EST VOUS? \n\n * Vous préparez un diplôme d'agent magasinier\n * Vous aimez que chaque chose soit à sa place\n * Vous aimez que votre endroit de travail soit propre\n * Vous savez que 3 x 8 = .......   ou 12 + 6 = .... en bref , vous êtes à l'aise avec les chiffres. \n * Vous savez utiliser une tablette ou un ordi et pas que pour jouer à Minecraft...\n\n5 BONNES RAISONS DE REJOINDRE NOS ÉQUIPES:\n\n * Donner du sens à ce que vous faites au quotidien\n * Nos perspectives d'évolution sont avérées et non inventées\n * Nous avons le sens de la reconnaissance et de la récompense\n * Nos équipes savent mettre en place et maintenir une bonne ambiance\n * Vous apprendre en quoi consiste le mot \"Agile\"\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\nGagnons du temps dans notre processus de recrutement :\n\n * Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? (https://www.linkedin.com/in/clemence-moustier/)\n * Etape 2 : Entretien d'environ 45 minutes avec Michael et Cédric, notre directeur d'agence\n * Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-17T19:33:44.000Z",
+        "expiration": "2026-08-17T19:33:44.000Z"
       },
       "opening_count": 1,
       "status": "Active"
