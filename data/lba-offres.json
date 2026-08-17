@@ -10541,7 +10541,7 @@
       "recipient_id": "partners_6a39564b93947690a1e606c8"
     },
     "contract": {
-      "start": "2026-08-15T06:05:40.180Z",
+      "start": "2026-08-16T15:25:35.998Z",
       "duration": 24,
       "type": [
         "Apprentissage"
@@ -10602,7 +10602,7 @@
       ],
       "publication": {
         "creation": "2026-06-22T15:35:39.449Z",
-        "expiration": "2026-10-15T00:00:00.000Z"
+        "expiration": "2026-10-16T00:00:00.000Z"
       },
       "opening_count": 3,
       "status": "Active"
@@ -11168,7 +11168,7 @@
       "recipient_id": "partners_6a39373f93947690a1e5dbd8"
     },
     "contract": {
-      "start": "2026-08-15T06:05:47.093Z",
+      "start": "2026-08-16T15:25:40.979Z",
       "duration": 24,
       "type": [
         "Apprentissage"
@@ -11230,7 +11230,7 @@
       ],
       "publication": {
         "creation": "2026-06-22T13:23:11.207Z",
-        "expiration": "2026-10-15T00:00:00.000Z"
+        "expiration": "2026-10-16T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -12141,6 +12141,73 @@
       "publication": {
         "creation": "2026-05-18T07:07:23.686Z",
         "expiration": "2026-09-16T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8238da38b5d9aee1ace007",
+      "partner_label": "France Travail",
+      "partner_job_id": "212MVHK"
+    },
+    "workplace": {
+      "siret": "43176533800014",
+      "brand": null,
+      "legal_name": "AGMENCE",
+      "website": null,
+      "name": "AGMENCE",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212MVHK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Cuisine (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le Restaurant Le Patio recherche un(e) apprenti(e) motivé(e) préparant un CAP ou un BP Cuisine.\n\nVous participerez à la mise en place, à la préparation des plats, au service et à l'entretien du poste de travail, accompagné(e) par notre équipe.\n\nProfil recherché : sérieux, ponctualité, motivation, esprit d'équipe et envie d'apprendre.\n\nPoste à pourvoir dès que possible à Béziers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-16T15:13:47.423Z",
+        "expiration": "2026-10-16T15:13:47.423Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15142,71 +15209,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d57",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564074"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6bd07a96004791b08a0d56",
       "partner_label": "France Travail",
       "partner_job_id": "5564100"
@@ -15257,6 +15259,71 @@
         "D1106"
       ],
       "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-30T00:33:00.000Z",
+        "expiration": "2026-09-30T00:33:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6bd07a96004791b08a0d57",
+      "partner_label": "France Travail",
+      "partner_job_id": "5564074"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "PROSOL",
+      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.29Z",
+          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -16261,6 +16328,75 @@
   },
   {
     "identifier": {
+      "id": "6a61451a6cce1228eac5a81e",
+      "partner_label": "France Travail",
+      "partner_job_id": "211MMRK"
+    },
+    "workplace": {
+      "siret": "83371841400026",
+      "brand": null,
+      "legal_name": "CHICKEN SHARE TIME'S",
+      "website": null,
+      "name": "CHICKEN SHARE TIME'S",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1501,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MMRK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé(e) polyvalent(e) de restauration (H/F) en apprentissage",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Vous souhaitez vous former dans les métiers de la restauration ? Être au contact de la clientèle tout en préparant le repas ? Apprenez les bases du métier en préparant un Titre Pro Employé(é) Polyvalent de Restauration en alternance avec H&amp;C Conseil.\nAvec 1 jour de formation par semaine et aucun frais à votre charge, préparez un diplôme en étant rémunéré !\n\nÀ Béziers un établissement recherche un.e employé(e) polyvalent de restauration pour un contrat d'apprentissage d'une durée de 12 mois en vue de valider un Titre Professionnel.\nVos principales Missions :\n- Vous assurez le service à la clientèle au comptoir et en salle\n- Vous maintenez propre et approvisionnez l'ensemble des zones du restaurant\n- Vous préparez les produits conformément aux fiches de contrôle de poste dans le respect des normes HACCP\nVos qualités :\n* Vous êtes motivé.e, polyvalent\n* Vous avez de l'expérience dans ce poste en restauration\n* Vous avez le sens de l'organisation et du travail en équipe\n* Vous êtes dynamique et efficace\n\nType d'emploi : Temps plein, CDD\n\nPour postuler :\nhttps://cfahcconseil.ymag.cloud/index.php/preinscription/\nType d'emploi : Temps plein, CDD, Alternance\nDurée du contrat : 12 mois\nLieu du poste : En présentiel",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Types de sandwichs et produits snacking",
+        "Préparer, assembler des plats simples",
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-22T09:02:38.781Z",
+        "expiration": "2026-09-22T09:02:38.781Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb69",
       "partner_label": "France Travail",
       "partner_job_id": "5217392"
@@ -16960,71 +17096,6 @@
       "publication": {
         "creation": "2026-07-19T01:01:51.000Z",
         "expiration": "2026-09-19T01:01:51.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5aadbd6cce1228eac1fda3",
-      "partner_label": "France Travail",
-      "partner_job_id": "211JDJR"
-    },
-    "workplace": {
-      "siret": "42501418000052",
-      "brand": null,
-      "legal_name": "OCEASOFT",
-      "website": null,
-      "name": "OCEASOFT",
-      "description": "Reconnu pour sa culture de l'innovation, son expertise technologique et ses valeurs humaines, Dickson est un des leaders mondiaux des dispositifs de surveillance de l'environnement destins aux industries hautement rglementes.Depuis 1923, Dickson conoit et commercialise des solutions connectes pour la surveillance et la traabilit de paramtres physiques tels que la temprature, l'humidit, le taux de CO2, pour l'industrie des sciences de la vie, de la sant, et d'autres marchs .",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "26.51B",
-          "label": "Fabrication d'instrumentation scientifique et technique"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JDJR",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien Support IT (en apprentissage) (H/F)",
-      "rome_codes": [
-        "M1806"
-      ],
-      "description": "Rattaché(e) au DSI, vous intégrez une équipe IT à taille humaine avec un réel périmètre de responsabilités. Le support utilisateurs est au cœur du poste. \nEn fonction de votre engagement, de votre curiosité et de votre envie de progresser, vous pourrez également être amené(e) à contribuer à des projets plus structurants, notamment notre démarche de certification ISO 27001 en cours. Ici, l'apprentissage et la montée en compétences se construisent aussi à l'initiative de chacun.\nVos missions :\n. Maintenir le réseau et le parc informatique afin d'en garantir la performance, la sécurité et la fiabilité  \n. Assurer le support technique aux utilisateurs (poste de travail, réseau, téléphonie, logiciels)  \n. Gérer les comptes utilisateurs (Office 365, téléphonie cloud, domaine Windows)  \n. Administrer le parc informatique (installations, mises à jour, onboarding / offboarding)  \n. Contrôler les sauvegardes et les rapports de sécurité  \n. Participer à l'administration des serveurs et des environnements virtualisés (en binôme avec le DSI)  \n. Suivre les abonnements (licences, certificats SSL, etc.)  \n. Mettre à jour et garantir l'application des procédures (sécurité, confidentialité, sauvegarde.)  \n. Contribuer aux projets IT et coordonner certaines actions avec le DSI et le Responsable Qualité  \n. Assurer une veille technologique et réglementaire",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-17T15:03:08.504Z",
-        "expiration": "2026-09-17T15:03:08.504Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18887,71 +18958,6 @@
   },
   {
     "identifier": {
-      "id": "6a3b0aac49326ae93058a7d2",
-      "partner_label": "France Travail",
-      "partner_job_id": "4151446"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "VIVERIO",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.22Z",
-          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://viverio.softy.pro/offre/211481?idt=5&h=2114810",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP BOUCHER H/F - H/F",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T19:33:58.000Z",
-        "expiration": "2026-08-23T19:33:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3b0aac49326ae93058a7cc",
       "partner_label": "France Travail",
       "partner_job_id": "4151430"
@@ -19002,6 +19008,71 @@
         "D1106"
       ],
       "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-23T19:33:58.000Z",
+        "expiration": "2026-08-23T19:33:58.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3b0aac49326ae93058a7d2",
+      "partner_label": "France Travail",
+      "partner_job_id": "4151446"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "VIVERIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://viverio.softy.pro/offre/211481?idt=5&h=2114810",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP BOUCHER H/F - H/F",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19208,6 +19279,73 @@
       "publication": {
         "creation": "2026-06-17T14:44:58.048Z",
         "expiration": "2026-08-17T14:44:58.048Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8238da38b5d9aee1ace007",
+      "partner_label": "France Travail",
+      "partner_job_id": "212MVHK"
+    },
+    "workplace": {
+      "siret": "43176533800014",
+      "brand": null,
+      "legal_name": "AGMENCE",
+      "website": null,
+      "name": "AGMENCE",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212MVHK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Cuisine (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le Restaurant Le Patio recherche un(e) apprenti(e) motivé(e) préparant un CAP ou un BP Cuisine.\n\nVous participerez à la mise en place, à la préparation des plats, au service et à l'entretien du poste de travail, accompagné(e) par notre équipe.\n\nProfil recherché : sérieux, ponctualité, motivation, esprit d'équipe et envie d'apprendre.\n\nPoste à pourvoir dès que possible à Béziers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-16T15:13:47.423Z",
+        "expiration": "2026-10-16T15:13:47.423Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20460,9 +20598,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212943"
     },
     "workplace": {
       "siret": null,
@@ -20473,11 +20611,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "34350 Vendres",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.240806,
+            43.26519
           ],
           "type": "Point"
         }
@@ -20489,7 +20627,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
       "phone": null,
       "recipient_id": null
     },
@@ -20522,9 +20660,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -20535,11 +20673,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34350 Vendres",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.240806,
-            43.26519
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -20551,7 +20689,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -23321,71 +23459,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d56",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564100"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6bd07a96004791b08a0d57",
       "partner_label": "France Travail",
       "partner_job_id": "5564074"
@@ -23436,6 +23509,71 @@
         "D1106"
       ],
       "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-30T00:33:00.000Z",
+        "expiration": "2026-09-30T00:33:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6bd07a96004791b08a0d56",
+      "partner_label": "France Travail",
+      "partner_job_id": "5564100"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "PROSOL",
+      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.29Z",
+          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -24965,6 +25103,75 @@
   },
   {
     "identifier": {
+      "id": "6a61451a6cce1228eac5a81e",
+      "partner_label": "France Travail",
+      "partner_job_id": "211MMRK"
+    },
+    "workplace": {
+      "siret": "83371841400026",
+      "brand": null,
+      "legal_name": "CHICKEN SHARE TIME'S",
+      "website": null,
+      "name": "CHICKEN SHARE TIME'S",
+      "description": "",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1501,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211MMRK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé(e) polyvalent(e) de restauration (H/F) en apprentissage",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Vous souhaitez vous former dans les métiers de la restauration ? Être au contact de la clientèle tout en préparant le repas ? Apprenez les bases du métier en préparant un Titre Pro Employé(é) Polyvalent de Restauration en alternance avec H&amp;C Conseil.\nAvec 1 jour de formation par semaine et aucun frais à votre charge, préparez un diplôme en étant rémunéré !\n\nÀ Béziers un établissement recherche un.e employé(e) polyvalent de restauration pour un contrat d'apprentissage d'une durée de 12 mois en vue de valider un Titre Professionnel.\nVos principales Missions :\n- Vous assurez le service à la clientèle au comptoir et en salle\n- Vous maintenez propre et approvisionnez l'ensemble des zones du restaurant\n- Vous préparez les produits conformément aux fiches de contrôle de poste dans le respect des normes HACCP\nVos qualités :\n* Vous êtes motivé.e, polyvalent\n* Vous avez de l'expérience dans ce poste en restauration\n* Vous avez le sens de l'organisation et du travail en équipe\n* Vous êtes dynamique et efficace\n\nType d'emploi : Temps plein, CDD\n\nPour postuler :\nhttps://cfahcconseil.ymag.cloud/index.php/preinscription/\nType d'emploi : Temps plein, CDD, Alternance\nDurée du contrat : 12 mois\nLieu du poste : En présentiel",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Types de sandwichs et produits snacking",
+        "Préparer, assembler des plats simples",
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-22T09:02:38.781Z",
+        "expiration": "2026-09-22T09:02:38.781Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a60c5e4e5fa1b20ee17c4f9",
       "partner_label": "Emploi Territorial",
       "partner_job_id": "6a60c5e4e5fa1b20ee17c4f9"
@@ -25288,68 +25495,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb6f",
       "partner_label": "France Travail",
       "partner_job_id": "5205256"
@@ -25397,6 +25542,68 @@
         "I1606"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb67",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205301"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -25798,71 +26005,6 @@
       "publication": {
         "creation": "2026-07-19T01:01:51.000Z",
         "expiration": "2026-09-19T01:01:51.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5aadbd6cce1228eac1fda3",
-      "partner_label": "France Travail",
-      "partner_job_id": "211JDJR"
-    },
-    "workplace": {
-      "siret": "42501418000052",
-      "brand": null,
-      "legal_name": "OCEASOFT",
-      "website": null,
-      "name": "OCEASOFT",
-      "description": "Reconnu pour sa culture de l'innovation, son expertise technologique et ses valeurs humaines, Dickson est un des leaders mondiaux des dispositifs de surveillance de l'environnement destins aux industries hautement rglementes.Depuis 1923, Dickson conoit et commercialise des solutions connectes pour la surveillance et la traabilit de paramtres physiques tels que la temprature, l'humidit, le taux de CO2, pour l'industrie des sciences de la vie, de la sant, et d'autres marchs .",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "26.51B",
-          "label": "Fabrication d'instrumentation scientifique et technique"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JDJR",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien Support IT (en apprentissage) (H/F)",
-      "rome_codes": [
-        "M1806"
-      ],
-      "description": "Rattaché(e) au DSI, vous intégrez une équipe IT à taille humaine avec un réel périmètre de responsabilités. Le support utilisateurs est au cœur du poste. \nEn fonction de votre engagement, de votre curiosité et de votre envie de progresser, vous pourrez également être amené(e) à contribuer à des projets plus structurants, notamment notre démarche de certification ISO 27001 en cours. Ici, l'apprentissage et la montée en compétences se construisent aussi à l'initiative de chacun.\nVos missions :\n. Maintenir le réseau et le parc informatique afin d'en garantir la performance, la sécurité et la fiabilité  \n. Assurer le support technique aux utilisateurs (poste de travail, réseau, téléphonie, logiciels)  \n. Gérer les comptes utilisateurs (Office 365, téléphonie cloud, domaine Windows)  \n. Administrer le parc informatique (installations, mises à jour, onboarding / offboarding)  \n. Contrôler les sauvegardes et les rapports de sécurité  \n. Participer à l'administration des serveurs et des environnements virtualisés (en binôme avec le DSI)  \n. Suivre les abonnements (licences, certificats SSL, etc.)  \n. Mettre à jour et garantir l'application des procédures (sécurité, confidentialité, sauvegarde.)  \n. Contribuer aux projets IT et coordonner certaines actions avec le DSI et le Responsable Qualité  \n. Assurer une veille technologique et réglementaire",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-17T15:03:08.504Z",
-        "expiration": "2026-09-17T15:03:08.504Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -28450,71 +28592,6 @@
   },
   {
     "identifier": {
-      "id": "6a3b0aac49326ae93058a7cc",
-      "partner_label": "France Travail",
-      "partner_job_id": "4151430"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "VIVERIO",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34790 Grabels",
-        "geopoint": {
-          "coordinates": [
-            3.808524,
-            43.652876
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.22Z",
-          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://viverio.softy.pro/offre/211480?idt=5&h=2114800",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP EQUIPIER POLYVALENT DU COMMERCE H/F - H/F",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T19:33:58.000Z",
-        "expiration": "2026-08-23T19:33:58.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3b0aac49326ae93058a7d2",
       "partner_label": "France Travail",
       "partner_job_id": "4151446"
@@ -28565,6 +28642,71 @@
         "D1101"
       ],
       "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-23T19:33:58.000Z",
+        "expiration": "2026-08-23T19:33:58.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3b0aac49326ae93058a7cc",
+      "partner_label": "France Travail",
+      "partner_job_id": "4151430"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "VIVERIO",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34790 Grabels",
+        "geopoint": {
+          "coordinates": [
+            3.808524,
+            43.652876
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://viverio.softy.pro/offre/211480?idt=5&h=2114800",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP EQUIPIER POLYVALENT DU COMMERCE H/F - H/F",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Description :\n\n\nAu cours de vos 2 années en CAP EQUIPIER POLYVALENT DU COMMERCE, vous serez amené à :\n\n-   Identifier le besoin du client et le conseiller ;\n\n-   Réaliser des ventes ;\n\n-   Réaliser des ventes additionnelles ;\n\n-   Préparer et prendre des commandes client ;\n\n-   Participer à l'approvisionnement des vitrines tout au long de la journée ;\n\n-   Mettre en avant les produits et promotions ;\n\n-   Participer à la réalisation de préparations bouchères ;\n\n-   Réaliser des coupes simples ;\n\n-   Suivre le facing et achalander le rayon tout au long de la journée ;\n\n-   Contrôler et suivre l'aspect visuel et la fraîcheur du produit tout au long de la journée ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Souriant(e) et accueillant(e) ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
