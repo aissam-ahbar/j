@@ -1,6 +1,127 @@
 [
   {
     "identifier": {
+      "id": "6a870fba11eaba00f75cc8eb",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a870fba11eaba00f75cc8eb"
+    },
+    "workplace": {
+      "siret": "92231587400011",
+      "brand": "BRASSERIE LE XV",
+      "legal_name": "ST JACQUES",
+      "website": null,
+      "name": "ST JACQUES",
+      "description": "Brasserie dans un village de la métropole Montpellieraine.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "4 PLACE DU 11 NOVEMBRE 1918 34690 FABREGUES",
+        "geopoint": {
+          "coordinates": [
+            3.776528,
+            43.551905
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a870fba11eaba00f75cc8eb/second-seconde-de-cuisine",
+      "phone": "0643111436",
+      "recipient_id": "partners_6a870fba11eaba00f75cc8eb"
+    },
+    "contract": {
+      "start": "2026-08-20T14:31:22.010Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Second / Seconde de cuisine",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le Cuisinier, créateur de saveurs et d'expériences culinaires, est au cœur de l'art gastronomique. Prépare et cuisine des mets selon un plan de production culinaire, les règles d'hygiène et de sécurité alimentaires et la charte qualité de l'établissement Coordonne une équipe en cuisine lors de la préparation des plats Assure la mise en valeur des plats, en respectant les techniques de dressage et de décoration. Gère les stocks et approvisionnements de produits nécessaires à la réalisation des mets Peut élaborer de nouveaux menus et recettes en fonction des saisons et des tendances culinaires Contrôle la propreté de la cuisine et des équipements utilisés",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Management\tAnticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+        "Management\tIdentifier les besoins et définir les actions de formation à mettre en place afin de développer les compétences de ses équipes en cuisine",
+        "Management\tPlanifier et organiser l'activité du personnel relevant de sa responsabilité",
+        "Gestion des Ressources Humaines\tAménager un poste et les conditions de travail",
+        "Conseil, Transmission\tFormer le personnel aux nouvelles techniques culinaires",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Communication, Multimédia\tOrganiser des événements culinaires spéciaux",
+        "Production, Fabrication\tAdapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)",
+        "Production, Fabrication\tConcevoir des recettes et menus",
+        "Production, Fabrication\tCréer des menus saisonniers pour refléter la diversité des produits",
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tGoûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir",
+        "Production, Fabrication\tGérer le timing de préparation pour un service efficace",
+        "Production, Fabrication\tParticiper à l'élaboration des menus et des cartes avec le responsable de restaurant ou d'établissement",
+        "Production, Fabrication\tPréparer des glaces et des sorbets",
+        "Production, Fabrication\tPréparer des plats culinaires",
+        "Production, Fabrication\tPréparer des plats à base de produits locaux",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tSuperviser la préparation des produits culinaires",
+        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
+        "Maintenance, Réparation\tEntretenir des équipements de cuisine professionnelle",
+        "Qualité\tAnalyser les possibles dysfonctionnements présents en cuisine, et proposer des mesures correctives afin d'y remédier",
+        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
+        "Qualité\tContrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine",
+        "Qualité\tOptimiser les coûts des ingrédients tout en maintenant la qualité",
+        "Qualité\tRéaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tGérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock",
+        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Pilotage et maîtrise des coûts\tCommander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région",
+        "Pilotage et maîtrise des coûts\tDéterminer les coûts de revient des préparations culinaires",
+        "Pilotage et maîtrise des coûts\tLutter contre le gaspillage alimentaire",
+        "Pilotage et maîtrise des coûts\tRéaliser les fiches techniques pour chaque plat (ingrédients, quantités, prix, ...)",
+        "Gestion et contrôle\tSuivre le budget de fonctionnement du périmètre confié",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Développement commercial\tEvaluer la satisfaction client",
+        "Développement commercial\tInnover dans la présentation des plats et des menus",
+        "Communication\tFavoriser un environnement de travail collaboratif",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tGérer les urgences et les imprévus en cuisine"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible principalement avec une certification de niveau CAP à Bac de l'hôtellerie-restauration, selon expérience."
+      ],
+      "publication": {
+        "creation": "2026-08-20T14:31:22.010Z",
+        "expiration": "2026-10-20T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a85c2928a7c7745ea74c028",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a85c2928a7c7745ea74c028"
@@ -1066,231 +1187,6 @@
       "publication": {
         "creation": "2026-08-17T08:25:22.873Z",
         "expiration": "2026-10-17T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7eb12255ef9d12e509806f",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a7eb12255ef9d12e509806f"
-    },
-    "workplace": {
-      "siret": "49144813000063",
-      "brand": null,
-      "legal_name": "INSTITUT DE FORMATION JOEL SAVATOFSKI",
-      "website": null,
-      "name": "INSTITUT DE FORMATION JOEL SAVATOFSKI",
-      "description": "!      Poste basé à DIJON QUETIGNY",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "CHEMIN DE BOUJAN 34500 BEZIERS",
-        "geopoint": {
-          "coordinates": [
-            3.290338,
-            43.354102
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7eb12255ef9d12e509806f/poste-basé-à-dijon-quetigny",
-      "phone": "0749109065",
-      "recipient_id": "partners_6a7eb12255ef9d12e509806f"
-    },
-    "contract": {
-      "start": "2026-08-14T06:09:38.941Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "! Poste basé à DIJON QUETIGNY",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "L'Attaché commercial dynamise efficacement l'offre de l'entreprise auprès de clients fidélisés ou de prospects. Développe et entretient des relations pour maximiser les ventes et la satisfaction client Identifie les besoins des clients et propose des solutions adaptées pour améliorer leur expérience Négocie les contrats et les conditions commerciales pour optimiser les résultats financiers Participe à augmenter les parts de marché de l'entreprise Assure le suivi des ventes et des indicateurs de performance pour ajuster les stratégies commerciales Participe à des salons professionnels et des événements pour promouvoir les produits et services de l'entreprise Collabore avec les équipes internes pour garantir la cohérence des offres et la qualité du service client",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [
-        "Faire preuve de persévérance",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Qualité\tRéaliser un suivi quantitatif et qualitatif des actions de prospection : type de contact, profil de l'interlocuteur, nature des échanges (éventuellement via un logiciel CRM/GRC)",
-        "Gestion administrative et comptable\tAssurer le suivi des chiffres de vente et réaliser le reporting associé",
-        "Droit, contentieux et négociation\tConnaitre et respecter la législation commerciale liée au secteur d'activité",
-        "Droit, contentieux et négociation\tGérer les réclamations ainsi que les litiges commerciaux",
-        "Droit, contentieux et négociation\tNégocier un contrat",
-        "Droit, contentieux et négociation\tSuivre un contrat, vérifier le respect des clauses contractuelles",
-        "Relation client\tAnalyser les besoins des clients pour proposer des services adaptés",
-        "Relation client\tAssurer la qualité des relations avec les clients",
-        "Relation client\tCollaborer avec les équipes internes pour répondre aux demandes clients",
-        "Relation client\tDétecter les besoins et enjeux des prospects ou clients en lien avec l'offre de services ou produits de l'entreprise",
-        "Relation client\tFaire remonter les besoins clients en interne pour adapter l'offre aux enjeux émergents",
-        "Développement commercial\tAnalyser les appels d'offres et évaluer la capacité de l'entreprise à y répondre",
-        "Développement commercial\tConcevoir des propositions commerciales ou promouvoir des produits ou des offres personnalisés",
-        "Développement commercial\tConduire les négociations commerciales : prix, délais, promotions et conclure la vente (bons de commande, contrats de vente...)",
-        "Développement commercial\tDresser une liste de prospects et concevoir un plan de prospection : qui approcher quand et comment",
-        "Développement commercial\tDévelopper des stratégies pour améliorer l'expérience client",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tDévelopper un portefeuille clients et prospects",
-        "Développement commercial\tEffectuer une démonstration devant un client ou un public",
-        "Développement commercial\tEntrer en contact avec les prospects via tous les médias possibles et pertinents (appels téléphoniques, salons, foires, partenaires commerciaux, via les réseaux sociaux professionnels...)",
-        "Développement commercial\tEtablir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)",
-        "Développement commercial\tEvaluer la satisfaction client et ajuster les services",
-        "Développement commercial\tIdentifier les forces et faiblesses de l'offre au contact du réel, pour adapter l'offre à la réalité du terrain",
-        "Développement commercial\tMettre en oeuvre des actions commerciales et promotionnelles",
-        "Développement commercial\tMettre en œuvre des campagnes de marketing ciblées",
-        "Développement commercial\tParticiper aux actions de marketing opérationnel : tenir un stand sur des salons, des foires, des événements sportifs, mener des opérations promotionnelles sur le terrain",
-        "Développement commercial\tParticiper à la définition précise et à l'actualisation du profil des prospects à démarcher au regard du secteur d'activité et du profil d'entreprise",
-        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
-        "Stratégie de développement\tAssurer le suivi des indicateurs de performance",
-        "Stratégie de développement\tContrôler la rentabilité des contrats et missions (concerne en particulier les commerciaux vendant de la délégation de personnel)",
-        "Stratégie de développement\tRéaliser un suivi régulier sur l'activité commerciale : nombre de clients rencontrés, propositions commerciales rédigées, présentées, vendues, relances réalisées...",
-        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
-        "Communication\tConvaincre de la pertinence des produits, des services développés par l'entreprise",
-        "Communication\tDévelopper et animer un réseau de partenaires commerciaux susceptibles de favoriser la mise en relation avec des prospects"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une formation à partir d'un Bac + 2 à Bac + 5 en commerce et vente. Les diplômes proposés incluent BTS en management commercial, commerce international, et technico-commercial, DUT et BUT en techniques de commercialisation, ainsi que des diplômes d'école de commerce et d'ingénieurs."
-      ],
-      "publication": {
-        "creation": "2026-08-14T06:09:38.941Z",
-        "expiration": "2026-10-14T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7ea8fa55ef9d12e5097d5c",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a7ea8fa55ef9d12e5097d5c"
-    },
-    "workplace": {
-      "siret": "49144813000063",
-      "brand": null,
-      "legal_name": "INSTITUT DE FORMATION JOEL SAVATOFSKI",
-      "website": null,
-      "name": "INSTITUT DE FORMATION JOEL SAVATOFSKI",
-      "description": "POSTE ALTERNANCE A DIJON/QUETIGNY",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "CHEMIN DE BOUJAN 34500 BEZIERS",
-        "geopoint": {
-          "coordinates": [
-            3.290338,
-            43.354102
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7ea8fa55ef9d12e5097d5c/chargé-chargée-de-formation-en-organisme-de-formation",
-      "phone": "0749109065",
-      "recipient_id": "partners_6a7ea8fa55ef9d12e5097d5c"
-    },
-    "contract": {
-      "start": "2026-08-14T05:34:50.693Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé / Chargée de formation en organisme de formation",
-      "rome_codes": [
-        "K2142"
-      ],
-      "description": "L' Animateur-coordinateur de formation dynamise et organise les parcours de formation. Conçoit et met en œuvre des programmes de formation adaptés aux besoins des apprenants Anime des sessions de formation en présentiel ou à distance Coordonne les activités des formateurs et des intervenants externes Évalue l'efficacité des formations et propose des améliorations Assure le suivi administratif et pédagogique des formations Développe des partenariats avec des institutions ou entreprises pour enrichir l'offre de formation",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Etre ouvert aux changements",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tEncadrer des équipes de formateurs",
-        "Gestion des Ressources Humaines\tSoutenir le développement professionnel continu des formateurs",
-        "Conseil, Transmission\tAdapter un parcours ou une séquence pédagogique selon le niveau et la progression des apprenants",
-        "Conseil, Transmission\tAnimer des sessions de formation",
-        "Conseil, Transmission\tAssurer la liaison entre les formateurs et les apprenants",
-        "Conseil, Transmission\tAssurer le suivi de la formation et le tracer dans les outils de suivi pédagogique à disposition",
-        "Conseil, Transmission\tChoisir les méthodes d'apprentissage (présentiel, e-learning, blended learning, etc.) et les outils pédagogiques appropriés (supports numériques, vidéos, quiz, serious games, etc.)",
-        "Conseil, Transmission\tConcevoir des modules de formation",
-        "Conseil, Transmission\tConcevoir des supports et outils pédagogiques (matériel pédagogique, logiciel éducatif, sujet d'examen)",
-        "Conseil, Transmission\tCoordonner les intervenants externes pour des formations",
-        "Conseil, Transmission\tCorriger des évaluations (exercices, travaux pratiques, examens)",
-        "Conseil, Transmission\tDéfinir un objectif d'apprentissage et le programme des activités pédagogiques",
-        "Conseil, Transmission\tGérer les supports de formation",
-        "Conseil, Transmission\tIdentifier les axes de progrès individuels et collectifs des pratiquants",
-        "Conseil, Transmission\tMesurer l'impact d'une action de formation",
-        "Conseil, Transmission\tOptimiser les ressources pédagogiques disponibles",
-        "Conseil, Transmission\tOrganiser des sessions de formation continue",
-        "Conseil, Transmission\tProposer des améliorations des contenus pédagogiques",
-        "Conseil, Transmission\tRespecter les normes de qualité et les réglementations en vigueur dans la formation",
-        "Conseil, Transmission\tSuperviser le programme pédagogique des formateurs",
-        "Conseil, Transmission\tTransmettre des bases théoriques, des techniques et gestes en combinant plusieurs modalités pédagogiques",
-        "Conseil, Transmission\tVeiller à la qualité et à la pertinence des contenus pédagogiques, en ligne avec les standards académiques et les besoins du marché du travail",
-        "Conseil, Transmission\tVérifier les prérequis, sélectionner les candidats à une formation",
-        "Recherche, Innovation\tAssurer une veille pédagogique pour rester à jour sur les méthodes d'enseignement",
-        "Qualité\tContrôler le déroulement d'un plan de formation d'établissement",
-        "Qualité\tEvaluer l'efficacité des méthodes pédagogiques utilisées",
-        "Qualité\tMettre en oeuvre un processus d'évaluation des formations",
-        "Qualité\tRéaliser le bilan pédagogique d'une formation",
-        "Gestion administrative et comptable\tAssurer le suivi administratif des stagiaires (attestations de participation, transmission des informations aux préfectures, etc)",
-        "Gestion administrative et comptable\tAssurer le suivi post-formation des stagiaires",
-        "Gestion administrative et comptable\tDocumenter les progrès et les difficultés des apprenants",
-        "Pilotage et maîtrise des coûts\tAssurer la liaison avec les formateurs externes pour des programmes spécialisés",
-        "Stratégie de développement\tCoordonner les actions à venir avec les différents intervenants (formateurs, secrétariat)",
-        "Stratégie de développement\tEtablir des partenariats avec d'autres institutions de formation pour échanger des ressources",
-        "Stratégie de développement\tEtre en capacité de travailler en mode projets",
-        "Stratégie de développement\tInformer les formateurs de leur calendrier d'interventions",
-        "Stratégie de développement\tRenforcer les compétences en gestion de projet des formateurs",
-        "Stratégie de développement\tSuivre les horaires : feuilles d'émargement des stagiaires et suivi horaire des formateurs",
-        "Communication\tPréparer et animer une réunion, un groupe de travail, un atelier"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une Licence ou Master."
-      ],
-      "publication": {
-        "creation": "2026-08-14T05:34:50.693Z",
-        "expiration": "2026-10-14T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -3276,112 +3172,6 @@
       "status": "Active"
     },
     "is_delegated": true
-  },
-  {
-    "identifier": {
-      "id": "6a79ca634a68727735273a11",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a79ca634a68727735273a11"
-    },
-    "workplace": {
-      "siret": "82371572700025",
-      "brand": "MATIM",
-      "legal_name": "MATIM",
-      "website": null,
-      "name": "MATIM",
-      "description": "MATIM est une agence montpelliéraine en forte croissance, qui accompagne les propriétaires et investisseurs sur tout le cycle de vie de leur bien : achat, gestion locative, conciergerie et investissement. Notre différence : nous exerçons ces quatre métiers sous le même toit, ce qui nous permet de conseiller nos clients en toute indépendance, sans jamais pousser une solution plutôt qu'une autre juste ce qui est le mieux pour eux.\n\nNous structurons aujourd'hui notre communication et notre présence digitale, et nous cherchons un(e) alternant(e) motivé(e) pour prendre ce sujet en main avec un vrai niveau de responsabilité dès les premiers mois : réseaux sociaux, référencement, contenu, notoriété locale. Une équipe à taille humaine, où chaque idée compte.",
-      "size": "Non diffusé",
-      "location": {
-        "address": "18 RUE DE RETHEL 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.883024,
-            43.600565
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "68.31Z",
-          "label": "Agences immobilières"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79ca634a68727735273a11/alternant-e-communication-développement-digital",
-      "phone": "0680824951",
-      "recipient_id": "partners_6a79ca634a68727735273a11"
-    },
-    "contract": {
-      "start": "2026-08-10T12:56:03.705Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant(e) Communication & Développement Digital",
-      "rome_codes": [
-        "E1112"
-      ],
-      "description": "Le Chargé de communication est un acteur clé dans la stratégie de valorisation de l'image de marque d'une entreprise. Gère la relation avec les médias et autres partenaires de communication Met en œuvre et évalue la stratégie de communication interne et externe de l'entreprise Rédige et diffuse des contenus, garantit la visibilité numérique de l'entreprise Organise régulièrement des événements externes et internes à l'organisation",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Etre force de proposition",
-        "Faire preuve de créativité, d'inventivité",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Communication, Multimédia\tAssurer le suivi des projets de communication, de la conception à la réalisation",
-        "Communication, Multimédia\tConcevoir des supports de communication audiovisuels",
-        "Communication, Multimédia\tGérer les relations avec les médias, les partenaires et les autres services",
-        "Communication, Multimédia\tIntégrer des éléments graphiques et visuels en respectant les standards web",
-        "Communication, Multimédia\tMettre en oeuvre des actions de communication",
-        "Communication, Multimédia\tOrganiser des manifestations et des événements internes ou externes destinés aux clients, aux collaborateurs ou au personnel de l'entreprise",
-        "Communication, Multimédia\tRéaliser des actions de relation publique, de diffusion et de promotion de l'information",
-        "Communication, Multimédia\tRéaliser des supports de communication multimédia",
-        "Communication, Multimédia\tRéaliser la mise à jour d'un site web",
-        "Communication, Multimédia\tRédiger et diffuser des communiqués de presse",
-        "Communication, Multimédia\tRédiger le contenu d'un support de communication",
-        "Recherche, Innovation\tAssurer une veille technique ou artistique afin d'être force de proposition en matière d'innovation",
-        "Recherche, Innovation\tSurveiller les tendances du marché digital",
-        "Data et Nouvelles technologies\tAnalyser les données d'audience pour améliorer les stratégies",
-        "Data et Nouvelles technologies\tOptimiser les performances d'un site web",
-        "Droit, contentieux et négociation\tRespecter les normes éthiques et légales en vigueur",
-        "Développement commercial\tAdapter une campagne promotionnelle à une cible ou un produit",
-        "Développement commercial\tDévelopper des stratégies de contenu pour différents publics",
-        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
-        "Développement commercial\tVeiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
-        "Stratégie de développement\tAdministrer un site web",
-        "Stratégie de développement\tAnalyser les retours et ajuster les stratégies de communication",
-        "Stratégie de développement\tDévelopper un réseau, relancer les journalistes et les supports presse (écrite, radio, TV, Internet) lors des opérations de communication",
-        "Stratégie de développement\tEvaluer l'efficacité des campagnes promotionnelles",
-        "Stratégie de développement\tMettre en oeuvre une stratégie de communication",
-        "Stratégie de développement\tOptimiser le référencement naturel (SEO) des sites web",
-        "Stratégie de développement\tOptimiser les campagnes de communication digitale",
-        "Stratégie de développement\tRéaliser le bilan des actions de communication",
-        "Organisation\tEvaluer l'e-réputation d'un site web",
-        "Organisation\tRéaliser une revue de presse"
-      ],
-      "access_conditions": [
-        "Cet emploi est généralement accessible avec un diplôme de niveau Bac+3 à Bac+5."
-      ],
-      "publication": {
-        "creation": "2026-08-10T12:56:03.705Z",
-        "expiration": "2026-10-10T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
   },
   {
     "identifier": {
@@ -12922,6 +12712,326 @@
   },
   {
     "identifier": {
+      "id": "6a877ebd62ee9421b6910a13",
+      "partner_label": "France Travail",
+      "partner_job_id": "212SDZS"
+    },
+    "workplace": {
+      "siret": "84986640500012",
+      "brand": null,
+      "legal_name": "NIL",
+      "website": null,
+      "name": "NIL",
+      "description": "",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SDZS",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE Serveur / Serveuse de restaurant (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Réaliser la mise en place de la salle et de l'office",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T15:34:18.252Z",
+        "expiration": "2026-10-20T15:34:18.252Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a11",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142715"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55811226?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "PREPARATEUR DRIVE (H/F) EN CONTRAT DE PROFESSIONNALISATION",
+      "rome_codes": [
+        "N1113"
+      ],
+      "description": "Rejoindre le Groupement Les Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec 7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !Intermarché, c'est l'enseigne historique du Groupement Les Mousquetaires. Son positionnement unique de Producteurs &amp; Commerçants fait sa force. S'appuyant sur le pôle agroalimentaire du Groupement Les Mousquetaires, Intermarché propose des produits sains, accessibles et issus d'une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c'est l'engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l'ensemble du territoire.Le magasin Intermarché de FRONTIGNAN, renforce ses rayons en recrutant 1 PREPARATEUR ( PREPARATRICE) DRIVE H/F en contrat de professionnalisation.\n\nVous êtes motivé(e) et dynamique  : N'hésitez pas à postuler même sans expérience CDD 1 ANTemps complet 36h45/semaine répartis comme suit:-28h45 en entreprise, vous serez en charge de la mise en rayon et de la tenue de votre rayon, balisage , renseignement et aide clientèle .-8h00 de formation avec SO.DIGES ( gestion, calcul de marge,...) sur l'Intermarché de Frontignan.Grille se salaire entre 55 et 80% du SMic par rapport à votre âge et à votre niveau d'étude. entre 18 et 25 ans. \n\nprise de poste au plus tôt merci de postuler sur le site",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:07:00.145Z",
+        "expiration": "2026-10-20T12:07:00.145Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a17",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142633"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55513354?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CONTRAT DE PROFESSIONNALISATION EMPLOYÉ COMMERCIAL H/F",
+      "rome_codes": [
+        "H1102"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 8 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants !Roady et Rapid Pare-Brise proposent une offre complète dédiée à la mobilité. Chaque centre-auto dispose d'un espace atelier moderne afin de pouvoir réparer tous types de véhicules et d'un espace de vente libre-service proposant plus de références. La location de véhicules et l'activité 2 roues complètent l'offre de services à la clientèle.\n\nINTERMARCHÉ et NETTO Agde recrutent des Employés Commerciaux (H/F) en contrat de professionnalisation permettant d'obtenir une formation spécialisée en grande distribution : « Employé Commercial - Niveau 4 ».Vos missions seront les suivantes :Réceptionner les marchandises et participer aux opérations de déchargement ;Assurer la mise en rayon des produits ;Veiller à la rotation des produits dans le respect des dates de consommation (DLC/DDM) ;Participer à l'entretien et à l'attractivité des rayons ;Contribuer à la gestion des stocks et aux commandes ;Effectuer le balisage et l'étiquetage des produits ;Mettre en place les nouveaux produits selon les consignes d'implantation ;Respecter les règles d'hygiène et de sécurité ;Accueillir, renseigner et orienter la clientèle ;Réaliser les opérations d'encaissement selon les besoins du magasin.Type de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en alternance)Durée : 12 mois, entrée en formation à tout momentLieu de formation : AGDETemps de travail : 35h de travail effectif (27 H en magasin et 8 H en formation)Salaire : La rémunération est déterminée en fonction de l'âge et du niveau de qualification du bénéficiaire, conformément aux barèmes légaux applicables au contrat de professionnalisation. (De ,20 à ,30 euros BRUT mensuels / De 853,51 à ,46 euros NET mensuels)\n\nUne belle opportunité pour se former tout en acquérant une première expérience professionnelle.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:06:52.280Z",
+        "expiration": "2026-10-20T12:06:52.280Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a10",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142627"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55427829?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "HOTE DE CAISSE (H/F) CONTRAT DE PROFESSIONNALISATION CDD 1 AN",
+      "rome_codes": [
+        "D1505"
+      ],
+      "description": "Chez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ? Grâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée.\n\nSous la responsabilité de votre manager, vous avez un rôle clé dans la satisfaction de nos clients en étant disponible et bienveillant. En accueillant les clients au moment de leur passage en caisse, vous participez à leur fidélisation. Vous effectuez l'enregistrement des achats et réalisez l'encaissement dans le respect des procédures afin d'assurer le bon déroulement du passage en caisse. Vous êtes responsable de la bonne tenue de votre caisse dans un objectif d'amélioration de l'expérience client.Vous êtes motivé(e) dynamique et souriant, aimant le contact avec la clientèle : N'hésitez pas à postuler même sans expérience Temps complet 36h45/semaine répartis comme suit:-28h45 en entreprise, vous serez en charge de l'accueil et l'encaissement des clients.-8h00 de formation avec SO.DIGES ( gestion, calcul de marge,...) sur l'Intermarché de Frontignan.Grille se salaire entre 55 et 80% du SMic par rapport à votre âge et à votre niveau d'étude. entre 18 et 25 ans.\nATTENTION, CE N'EST PAS UN CONTRAT\n\nprise de poste au plus tôtLes 2 apres midi de formation ont lieu dans les locaux de l'Intermarchémerci de postuler sur le site ou à l'accueil en précisant  bien le poste pour lequel vous candidatez",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:06:51.698Z",
+        "expiration": "2026-10-20T12:06:51.698Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a15",
+      "partner_label": "France Travail",
+      "partner_job_id": "212RLPH"
+    },
+    "workplace": {
+      "siret": "41812222200031",
+      "brand": null,
+      "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
+      "website": null,
+      "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
+      "description": "",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34590 Marsillargues",
+        "geopoint": {
+          "coordinates": [
+            4.165214,
+            43.607696
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 7018,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "81.30Z",
+          "label": "Services d'aménagement paysager"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLPH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier Paysage en Sols Sportifs Engazonnés en alternance (H/F)",
+      "rome_codes": [
+        "A1220"
+      ],
+      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T08:48:23.927Z",
+        "expiration": "2026-10-20T08:48:23.927Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a862d234611e3d929beff68",
       "partner_label": "France Travail",
       "partner_job_id": "212QRTX"
@@ -14889,74 +14999,6 @@
         "expiration": "2026-10-12T11:00:52.960Z"
       },
       "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7cf362017bca832204c9bd",
-      "partner_label": "France Travail",
-      "partner_job_id": "212KBSZ"
-    },
-    "workplace": {
-      "siret": "41066521000051",
-      "brand": null,
-      "legal_name": "GEIQ BTP HERAULT",
-      "website": null,
-      "name": "GEIQ BTP HERAULT",
-      "description": "",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KBSZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 13,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Coffreur(se) bancheur(se) : formation avant embauche (H/F)",
-      "rome_codes": [
-        "F1704"
-      ],
-      "description": "Devenez Coffreur(se) Bancheur(se) en Alternance !\nLe GEIQ BTP 34 recherche une personne souhaitant se former au métier de coffreur bancheur : contrat de professionnalisation (salarié en alternance avec formation en centre de formation et en entreprise)\n\n\nCe que nous vous proposons :\nMissions :\n- Réalisation d'ouvrages en béton armé coffrés de manière traditionnelle ;\n- Construction d'ouvrages en béton armé banché ;\n- Participation à la pose et au liaisonnement d'éléments préfabriqués ;\n- Création de radiers, planchers de type dalle pleine, et tabliers d'ouvrages d'art courants ;\n- Et bien plus encore.\n\nProfil recherché :\n- Vous êtes motivé(e), rigoureux(se), et avez l'esprit d'équipe ;\n- Vous appréciez les défis physiques et le travail en extérieur.\n- Vous êtes apte au travail en hauteur (travail sur échafaudages)\n- Vous êtes à l'aise avec la langue française (écriture, lecture, compréhension) : nécessaire pour suivi de la formation et obtention du diplôme\n\nDurée : 13 mois\nLieu : Montpellier\nRémunération : définie selon la convention collective, et l'âge \n\nAvantages supplémentaires :\n- Formation pratique en entreprise avec des professionnels chevronnés ;\n- Acquisition d'une expérience concrète en parallèle de votre formation théorique ;\n- Accompagnement personnalisé par un(e) tuteur(trice) tout au long de votre parcours ;\n\n\nNe manquez pas cette chance de construire votre avenir dans un secteur porteur ! Postulez dès maintenant pour une carrière passionnante.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Déblayer, remblayer un terrain",
-        "Charger, décharger, manutentionner des produits"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-12T10:47:11.260Z",
-        "expiration": "2026-10-12T10:47:11.260Z"
-      },
-      "opening_count": 7,
       "status": "Active"
     },
     "is_delegated": false
@@ -18082,6 +18124,68 @@
   },
   {
     "identifier": {
+      "id": "6a877ebd62ee9421b6910a18",
+      "partner_label": "France Travail",
+      "partner_job_id": "5342227"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55752627?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Approvisionneur F/H",
+      "rome_codes": [
+        "N1303"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de chefs d'entreprise indépendants ! Ce sont aussi  collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Au sein du Groupement Mousquetaires, l'approvisionnement des  points de vente Intermarché et Netto est assurée par ITM LAI (logistique alimentaire). Notre filiale intégrée, spécialisée dans la logistique et le transport, rassemble plus de  collaborateurs. Notre objectif : garantir des livraisons 100 % conformes aux engagements de qualité et de délais.Chaque année, nos 36 entrepôts traitent près d'un milliard de colis.\n\nEnvie de découvrir les coulisses de la logistique et de comprendre comment les bons produits arrivent au bon endroit, au bon moment ?Au sein d'une logistique en mouvement et en pleine croissance, nous recherchons un(e) apprenti(e) en approvisionnement pour rejoindre le pôle Approvisionnement Epicerie sucrée basstrong&gt;Beziers.\nIntégré(e) à une équipe conviviale et accompagné(e) tout au long de l'alternance, vous découvrirez progressivement les enjeux de la gestion des flux et de la disponibilité des produits dans nos bases logistiques.Au fil de l'alternance, les missions pourront notamment consisterp&gt;? Suivre l'approvisionnement d'un portefeuille de produits et de fournisseurs;\n? Participer au suivi des stocks et à la gestion des commandes;\n? Échanger avec différents interlocuteurs : fournisseurs, équipes achats et bases logistiques;\n? Contribuer à l'analyse des ruptures et à la sécurisation des approvisionnements;\n? Suivre des indicateurs d'activité et participer à la construction de tableaux de bord;\n? Prendre part à des projets transverses liés à la supply chain.?Une alternance idéale pour découvrir concrètement le métier d'approvisionneur et comprendre les rouages de la chaîne logistique.\n\nNous rejoindre en alternance, c'est :Découvrir un métier clé de la supply chain; Être accompagné(e) par une équipe expérimentée et disponible;Monter progressivement en compétences sur des missions concrètes; Évoluer dans un environnement dynamique et collaboratif.Nous proposons également :Un environnement attentif à la qualité de vie au travail et à l'inclusion;Une rémunération sur 13 mois;Des avantages sociaux : mutuelle, dispositifs d'intéressement selon conditions, tickets restaurantli&gt; Seules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).https://www.carrieres-mousquetaires.com/node/",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-22T12:10:12.000Z",
+        "expiration": "2026-09-22T12:10:12.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb69",
       "partner_label": "France Travail",
       "partner_job_id": "5217392"
@@ -18783,6 +18887,68 @@
       "publication": {
         "creation": "2026-07-17T14:42:02.025Z",
         "expiration": "2026-09-17T14:42:02.025Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a19",
+      "partner_label": "France Travail",
+      "partner_job_id": "5079842"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55704104?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOULANGERS H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants.Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous fabriquerez et cuirez des pains, viennoiseries et pâtisseries selon les techniques et le savoir-faire propres au métier. Vous évaluerez les quantités de produits à fabriquer selon la saison, la période, le flux client. Vous veillerez à l'approvisionnement suffisant du rayon tout au long de la journée et vous mettrez en valeur les produits (théâtralisation, clarté des prix et de l'information, balisage). Vous veillerez à la sécurité alimentaire en suivant les procédures et les règles d'hygiène et de qualité. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-17T12:08:54.000Z",
+        "expiration": "2026-09-17T12:08:54.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -19735,7 +19901,7 @@
       "legal_name": null,
       "website": null,
       "name": "Qualiconsult Exploitation",
-      "description": "Le Groupe familial Qualiconsult à l'esprit pionnier, s'est développé à travers divers métiers :  la construction, les inspections volontaires et réglementaires, les diagnostics immobiliers, la Qualité Hygiène Sécurité Environnement, la formation et l'assistance à maîtrise d'ouvrage.\n\nNotre raison d'être est de partager nos savoirs au service d'un monde plus sûr, performant et durable.\n\nLe Groupe Qualiconsult recrute pour sa filiale Exploitation !",
+      "description": "",
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -19771,7 +19937,7 @@
       "rome_codes": [
         "M1607"
       ],
-      "description": "RESPONSABILITÉS : \n\nIntégré(e) au sein de l'agence, vous accompagnerez le Responsable d'Activité dans le suivi administratif et financier des affaires.\nVos missions principales seront les suivantes :\n - Assister le responsable d'agence dans la gestion administrative quotidienne.\n - Gérer la facturation et la mise à jour des données clients dans les outils internes.\n - Participer à la mise à jour de la rentabilité des affaires, en surveillant les coûts d'intervention et en les comparant aux revenus générés.\n\nPROFIL RECHERCHÉ : \n\nCette annonce vous parle ?\n - Vous recherchez une alternance dans le cadre d'un diplôme de niveau Bac +2 type BTS SAM, GPME ou Comptabilité/Gestion.\n - Vous êtes rigoureux(se), organisé(e) et doté(e) d'un bon sens du relationnel.\n - Vous êtes à l'aise avec les outils bureautiques (notamment Excel) et faites preuve de dynamisme.\nVous hésitez encore à rejoindre le Groupe ?\n - Nous vous proposons une montée en compétences avec de réelles opportunités de carrière : la plupart de nos Directeurs.rices d'Agence sont issus de la promotion interne\n - Nous développons des parcours de formation internes pour vous donner les moyens de vos ambitions                                                                        \n - L'intelligence collective est mise en avant : chacun peut prendre part aux décisions et aux projets qui le.la motive\n - L'esprit familial du Groupe est préservé par des moments de convivialité, locaux adéquats, accès aux boissons à volonté, évènements d'équipe, etc\n - Soucieuse d'améliorer le bien-être de nos collaborateurs jeunes parents, Qualiconsult s'est associée au réseau de crèches Les Petits Chaperons Rouges en mettant à disposition des berceaux pour des gardes régulières et d'urgence.\n\nSi vous avez envie de nous rejoindre, de vous développer personnellement et professionnellement en exerçant un métier qui a du sens, n'hésitez plus et soyez acteur de vos ambitions en venant nous rencontrer !\nLe Groupe Qualiconsult, fort de sa culture et de ses engagements, favorise l'inclusion et la diversité à travers sa politique de recrutement, d'intégration et de développement de ses collaborateurs.",
+      "description": "RESPONSABILITÉS : \n\nIntégré(e) au sein de l'agence, vous accompagnerez le Responsable d'Activité dans le suivi administratif et financier des affaires.\nVos missions principales seront les suivantes :\n - Saisir les devis, effectuer les relances auprès des clients (par mail ou téléphone) suite aux devis envoyés\n - Participer à la constitution des dossiers administratifs des Appels d'Offres\n - Assurer une partie de la facturation et la mise à jour des données clients dans les outils internes\n - Participer à la mise à jour de la rentabilité des affaires, en surveillant les coûts d'intervention et en les comparant aux revenus générés\n - En fonction de votre appétence et de l'organisation de l'agence, vous pourrez être amené à prendre des RDV clients pour le Responsable d'Agence\n\nPROFIL RECHERCHÉ : \n\nCette annonce vous parle ?\n - Vous recherchez une alternance dans le cadre d'un diplôme de niveau Bac +2 type BTS SAM, GPME ou Comptabilité/Gestion.\n - Vous êtes rigoureux(se), organisé(e) et doté(e) d'un bon sens du relationnel.\n - Vous êtes à l'aise avec les outils bureautiques (notamment Excel) et faites preuve de dynamisme.\nVous hésitez encore à rejoindre le Groupe ?\n - Nous vous proposons une montée en compétences avec de réelles opportunités de carrière : la plupart de nos Directeurs.rices d'Agence sont issus de la promotion interne\n - Nous développons des parcours de formation internes pour vous donner les moyens de vos ambitions                                                                        \n - L'intelligence collective est mise en avant : chacun peut prendre part aux décisions et aux projets qui le.la motive\n - L'esprit familial du Groupe est préservé par des moments de convivialité, locaux adéquats, accès aux boissons à volonté, évènements d'équipe, etc\n - Soucieuse d'améliorer le bien-être de nos collaborateurs jeunes parents, Qualiconsult s'est associée au réseau de crèches Les Petits Chaperons Rouges en mettant à disposition des berceaux pour des gardes régulières et d'urgence.\n\nSi vous avez envie de nous rejoindre, de vous développer personnellement et professionnellement en exerçant un métier qui a du sens, n'hésitez plus et soyez acteur de vos ambitions en venant nous rencontrer !\nLe Groupe Qualiconsult, fort de sa culture et de ses engagements, favorise l'inclusion et la diversité à travers sa politique de recrutement, d'intégration et de développement de ses collaborateurs.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19976,75 +20142,6 @@
   },
   {
     "identifier": {
-      "id": "6a46e7b1dd20b527ab6670a1",
-      "partner_label": "France Travail",
-      "partner_job_id": "210QNYD"
-    },
-    "workplace": {
-      "siret": "41900014600011",
-      "brand": null,
-      "legal_name": "FRANCES IMMOBILIER",
-      "website": null,
-      "name": "FRANCES IMMOBILIER",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1527,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "68.31Z",
-          "label": "Agences immobilières"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210QNYD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 36,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Bac Pro Administration (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Rejoignez une agence immobilière familiale reconnue depuis plus de 70 ans !\n\nImplantée à Montpellier depuis 1953, notre agence immobilière familiale est spécialisée dans la gestion locative et la transaction immobilière. Avec près de 1 400 biens en gestion et une équipe de 10 collaborateurs, nous recherchons un(e) alternant(e) préparant un Bac Professionnel afin de renforcer notre équipe administrative.\n\nVos missions\n\nEncadré(e) et accompagné(e) tout au long de votre formation, vous assisterez le pole comptabilité dans leurs taches administratives :\n\nGestion et classement des dossiers administratifs.\nNumérisation et archivage des documents.\nMise à jour de nos bases de données et de nos logiciels métiers.\nSuivi administratif des éléments comptables.\n\nProfil recherché\nVous préparez un Bac Professionnel en alternance.\nNous recherchons avant tout une personne :\nsérieuse et rigoureuse ;\norganisée ;\ncurieuse et volontaire ;\nà l'aise avec les outils informatiques ;\nayant une bonne expression orale et écrite ;\nappréciant le travail en équipe.\n\nAucune expérience dans l'immobilier n'est exigée. Votre motivation, votre envie d'apprendre et votre implication feront la différence.\n\nCe que nous vous proposons\nNous ne recherchons pas simplement un alternant pour effectuer des tâches administratives. Nous souhaitons former un véritable collaborateur qui découvrira le fonctionnement d'une agence immobilière, gagnera progressivement en autonomie et développera de réelles compétences professionnelles.\n\nVous évoluerez dans une entreprise familiale où la proximité, la confiance, l'esprit d'équipe et la qualité du travail sont des valeurs essentielles.\n\nSi vous êtes motivé(e), dynamique et souhaitez apprendre un métier concret au sein d'une équipe bienveillante et exigeante, envoyez-nous votre CV ainsi qu'un court message de présentation. Nous serons heureux de vous rencontrer.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-02T10:33:42.330Z",
-        "expiration": "2026-09-02T10:33:42.330Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a459666dd20b527ab65a9a9",
       "partner_label": "France Travail",
       "partner_job_id": "210PNJM"
@@ -20178,24 +20275,24 @@
   },
   {
     "identifier": {
-      "id": "6a4050791f2518e8d1c3bcc2",
+      "id": "6a877ebd62ee9421b6910a1a",
       "partner_label": "France Travail",
-      "partner_job_id": "4284292"
+      "partner_job_id": "4331036"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "ECP",
-      "description": "Leader européen du nettoyage ultra-propre pour des secteurs d'activité très variés (automobile, médical, semi-conducteur, pharmaceutique, ...), ECP procède au nettoyage de précision et au conditionnement en salle blanche de diverses pièces métalliques, plastiques ou en verre, allant de 1 à 800 mm de côté.\n\n\nEngagée dans une démarche d’amélioration continue portant sur l’effica",
+      "name": null,
+      "description": "",
       "size": null,
       "location": {
-        "address": "34740 Vendargues",
+        "address": "34990 Juvignac",
         "geopoint": {
           "coordinates": [
-            3.963982,
-            43.658046
+            3.801257,
+            43.620712
           ],
           "type": "Point"
         }
@@ -20203,14 +20300,11 @@
       "domain": {
         "idcc": null,
         "opco": null,
-        "naf": {
-          "code": "81.29B",
-          "label": "Autres activités de nettoyage n.c.a."
-        }
+        "naf": null
       }
     },
     "apply": {
-      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818365?utm_source=NQ==",
+      "url": "https://www.directemploi.com/candidatOffre/55461121?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "phone": null,
       "recipient_id": null
     },
@@ -20218,23 +20312,23 @@
       "start": null,
       "duration": 12,
       "type": [
-        "Apprentissage"
+        "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Chargé de mission Qualité en Alternance H/F",
+      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOUCHERS H/F",
       "rome_codes": [
-        "H1535"
+        "D1101"
       ],
-      "description": "Dans le cadre de votre mission, vous participerez à la préparation et aux audits de suivi en vous assurant de la conformité du système de management de la qualité avec les normes de certification ISO9001 et ISO13485.\n\n\nVous participerez activement au système de management de la Qualité et aurez notamment en charge :\n\n\nLa gestion documentaire,\nLa rédaction et la mise à jour des documents opérationnels et de processus en collaboration avec les fonctions impliquées\nL’ouverture, la gestion et le suivi des Fiches Anomalies internes, clients et/ou fournisseurs ainsi que le suivi des plans d’actions,\nL’enregistrement et le suivi des revues de processus et des indicateurs\nLa réalisation d’audit internes à la demande\n\n\nLa vérification des bonnes pratiques d’enregistrements qualité (dossiers de lot notamment) spécifiques,\nAmélioration continue : vous serez force de proposition afin d’optimiser les flux documentaires qualité et les flux d’information\n\nNous recherchons un/une apprenti(e) en dernière année de BUT ou d’école d’ingénieur ou encore en licence professionnelle avec d’excellentes capacités rédactionnelles ainsi qu’une facilité d’interaction avec les opérationnels. Maîtrise d’Excel et connaissance à minima de la norme ISO 9001.\n\n\nRémunération = % du SMIC en application de la convention collective de la métallurgie",
+      "description": "Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous sélectionnerez les viandes et assurerez leur transformation (désossage, dégraissage, découpe) et leur conservation. Vous assurerez la présentation marchande des produits (théâtralisation, clarté des prix et de l'information, etc.) en respectant la réglementation spécifique au rayon (traçabilité, étiquetage, hygiène qualité). Vous préparerez les commandes clients. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-06-27T01:01:52.000Z",
-        "expiration": "2026-08-27T01:01:52.000Z"
+        "creation": "2026-06-27T18:40:41.000Z",
+        "expiration": "2026-08-27T18:40:41.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20293,6 +20387,71 @@
         "H1404"
       ],
       "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant – Assistante Méthodes en apprentissage afin d’accompagner la mise en production de nouvelles prestations et l’optimisation de l’utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n·         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n·         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d’expériences, essais, documentation).\n\n\n·         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n·         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n·         Mesurer et optimiser les temps de prestations\n\n\n·         Participer à l’organisation des flux de production dans le respect des spécifications qualité\n\n\n·         Proposer des solutions d’amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d’école d’ingénieur généraliste ou de BUT en contrat d’alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-27T01:01:52.000Z",
+        "expiration": "2026-08-27T01:01:52.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4050791f2518e8d1c3bcc2",
+      "partner_label": "France Travail",
+      "partner_job_id": "4284292"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": "Leader européen du nettoyage ultra-propre pour des secteurs d'activité très variés (automobile, médical, semi-conducteur, pharmaceutique, ...), ECP procède au nettoyage de précision et au conditionnement en salle blanche de diverses pièces métalliques, plastiques ou en verre, allant de 1 à 800 mm de côté.\n\n\nEngagée dans une démarche d’amélioration continue portant sur l’effica",
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818365?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé de mission Qualité en Alternance H/F",
+      "rome_codes": [
+        "H1535"
+      ],
+      "description": "Dans le cadre de votre mission, vous participerez à la préparation et aux audits de suivi en vous assurant de la conformité du système de management de la qualité avec les normes de certification ISO9001 et ISO13485.\n\n\nVous participerez activement au système de management de la Qualité et aurez notamment en charge :\n\n\nLa gestion documentaire,\nLa rédaction et la mise à jour des documents opérationnels et de processus en collaboration avec les fonctions impliquées\nL’ouverture, la gestion et le suivi des Fiches Anomalies internes, clients et/ou fournisseurs ainsi que le suivi des plans d’actions,\nL’enregistrement et le suivi des revues de processus et des indicateurs\nLa réalisation d’audit internes à la demande\n\n\nLa vérification des bonnes pratiques d’enregistrements qualité (dossiers de lot notamment) spécifiques,\nAmélioration continue : vous serez force de proposition afin d’optimiser les flux documentaires qualité et les flux d’information\n\nNous recherchons un/une apprenti(e) en dernière année de BUT ou d’école d’ingénieur ou encore en licence professionnelle avec d’excellentes capacités rédactionnelles ainsi qu’une facilité d’interaction avec les opérationnels. Maîtrise d’Excel et connaissance à minima de la norme ISO 9001.\n\n\nRémunération = % du SMIC en application de la convention collective de la métallurgie",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20557,6 +20716,326 @@
       "publication": {
         "creation": "2026-06-23T19:33:57.000Z",
         "expiration": "2026-08-23T19:33:57.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a13",
+      "partner_label": "France Travail",
+      "partner_job_id": "212SDZS"
+    },
+    "workplace": {
+      "siret": "84986640500012",
+      "brand": null,
+      "legal_name": "NIL",
+      "website": null,
+      "name": "NIL",
+      "description": "",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SDZS",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE Serveur / Serveuse de restaurant (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Réaliser la mise en place de la salle et de l'office",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T15:34:18.252Z",
+        "expiration": "2026-10-20T15:34:18.252Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a11",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142715"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55811226?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "PREPARATEUR DRIVE (H/F) EN CONTRAT DE PROFESSIONNALISATION",
+      "rome_codes": [
+        "N1113"
+      ],
+      "description": "Rejoindre le Groupement Les Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec 7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !Intermarché, c'est l'enseigne historique du Groupement Les Mousquetaires. Son positionnement unique de Producteurs &amp; Commerçants fait sa force. S'appuyant sur le pôle agroalimentaire du Groupement Les Mousquetaires, Intermarché propose des produits sains, accessibles et issus d'une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c'est l'engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l'ensemble du territoire.Le magasin Intermarché de FRONTIGNAN, renforce ses rayons en recrutant 1 PREPARATEUR ( PREPARATRICE) DRIVE H/F en contrat de professionnalisation.\n\nVous êtes motivé(e) et dynamique  : N'hésitez pas à postuler même sans expérience CDD 1 ANTemps complet 36h45/semaine répartis comme suit:-28h45 en entreprise, vous serez en charge de la mise en rayon et de la tenue de votre rayon, balisage , renseignement et aide clientèle .-8h00 de formation avec SO.DIGES ( gestion, calcul de marge,...) sur l'Intermarché de Frontignan.Grille se salaire entre 55 et 80% du SMic par rapport à votre âge et à votre niveau d'étude. entre 18 et 25 ans. \n\nprise de poste au plus tôt merci de postuler sur le site",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:07:00.145Z",
+        "expiration": "2026-10-20T12:07:00.145Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a17",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142633"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55513354?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CONTRAT DE PROFESSIONNALISATION EMPLOYÉ COMMERCIAL H/F",
+      "rome_codes": [
+        "H1102"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 8 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants !Roady et Rapid Pare-Brise proposent une offre complète dédiée à la mobilité. Chaque centre-auto dispose d'un espace atelier moderne afin de pouvoir réparer tous types de véhicules et d'un espace de vente libre-service proposant plus de références. La location de véhicules et l'activité 2 roues complètent l'offre de services à la clientèle.\n\nINTERMARCHÉ et NETTO Agde recrutent des Employés Commerciaux (H/F) en contrat de professionnalisation permettant d'obtenir une formation spécialisée en grande distribution : « Employé Commercial - Niveau 4 ».Vos missions seront les suivantes :Réceptionner les marchandises et participer aux opérations de déchargement ;Assurer la mise en rayon des produits ;Veiller à la rotation des produits dans le respect des dates de consommation (DLC/DDM) ;Participer à l'entretien et à l'attractivité des rayons ;Contribuer à la gestion des stocks et aux commandes ;Effectuer le balisage et l'étiquetage des produits ;Mettre en place les nouveaux produits selon les consignes d'implantation ;Respecter les règles d'hygiène et de sécurité ;Accueillir, renseigner et orienter la clientèle ;Réaliser les opérations d'encaissement selon les besoins du magasin.Type de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en alternance)Durée : 12 mois, entrée en formation à tout momentLieu de formation : AGDETemps de travail : 35h de travail effectif (27 H en magasin et 8 H en formation)Salaire : La rémunération est déterminée en fonction de l'âge et du niveau de qualification du bénéficiaire, conformément aux barèmes légaux applicables au contrat de professionnalisation. (De ,20 à ,30 euros BRUT mensuels / De 853,51 à ,46 euros NET mensuels)\n\nUne belle opportunité pour se former tout en acquérant une première expérience professionnelle.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:06:52.280Z",
+        "expiration": "2026-10-20T12:06:52.280Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a10",
+      "partner_label": "France Travail",
+      "partner_job_id": "6142627"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55427829?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "HOTE DE CAISSE (H/F) CONTRAT DE PROFESSIONNALISATION CDD 1 AN",
+      "rome_codes": [
+        "D1505"
+      ],
+      "description": "Chez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ? Grâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée.\n\nSous la responsabilité de votre manager, vous avez un rôle clé dans la satisfaction de nos clients en étant disponible et bienveillant. En accueillant les clients au moment de leur passage en caisse, vous participez à leur fidélisation. Vous effectuez l'enregistrement des achats et réalisez l'encaissement dans le respect des procédures afin d'assurer le bon déroulement du passage en caisse. Vous êtes responsable de la bonne tenue de votre caisse dans un objectif d'amélioration de l'expérience client.Vous êtes motivé(e) dynamique et souriant, aimant le contact avec la clientèle : N'hésitez pas à postuler même sans expérience Temps complet 36h45/semaine répartis comme suit:-28h45 en entreprise, vous serez en charge de l'accueil et l'encaissement des clients.-8h00 de formation avec SO.DIGES ( gestion, calcul de marge,...) sur l'Intermarché de Frontignan.Grille se salaire entre 55 et 80% du SMic par rapport à votre âge et à votre niveau d'étude. entre 18 et 25 ans.\nATTENTION, CE N'EST PAS UN CONTRAT\n\nprise de poste au plus tôtLes 2 apres midi de formation ont lieu dans les locaux de l'Intermarchémerci de postuler sur le site ou à l'accueil en précisant  bien le poste pour lequel vous candidatez",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T12:06:51.698Z",
+        "expiration": "2026-10-20T12:06:51.698Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a15",
+      "partner_label": "France Travail",
+      "partner_job_id": "212RLPH"
+    },
+    "workplace": {
+      "siret": "41812222200031",
+      "brand": null,
+      "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
+      "website": null,
+      "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
+      "description": "",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34590 Marsillargues",
+        "geopoint": {
+          "coordinates": [
+            4.165214,
+            43.607696
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 7018,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "81.30Z",
+          "label": "Services d'aménagement paysager"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLPH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier Paysage en Sols Sportifs Engazonnés en alternance (H/F)",
+      "rome_codes": [
+        "A1220"
+      ],
+      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T08:48:23.927Z",
+        "expiration": "2026-10-20T08:48:23.927Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -21951,9 +22430,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -21964,11 +22443,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34350 Vendres",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.240806,
-            43.26519
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -21980,7 +22459,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -22013,9 +22492,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212943"
     },
     "workplace": {
       "siret": null,
@@ -22026,11 +22505,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "34350 Vendres",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.240806,
+            43.26519
           ],
           "type": "Point"
         }
@@ -22042,7 +22521,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
       "phone": null,
       "recipient_id": null
     },
@@ -23180,74 +23659,6 @@
         "expiration": "2026-10-12T11:00:52.960Z"
       },
       "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7cf362017bca832204c9bd",
-      "partner_label": "France Travail",
-      "partner_job_id": "212KBSZ"
-    },
-    "workplace": {
-      "siret": "41066521000051",
-      "brand": null,
-      "legal_name": "GEIQ BTP HERAULT",
-      "website": null,
-      "name": "GEIQ BTP HERAULT",
-      "description": "",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KBSZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 13,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Coffreur(se) bancheur(se) : formation avant embauche (H/F)",
-      "rome_codes": [
-        "F1704"
-      ],
-      "description": "Devenez Coffreur(se) Bancheur(se) en Alternance !\nLe GEIQ BTP 34 recherche une personne souhaitant se former au métier de coffreur bancheur : contrat de professionnalisation (salarié en alternance avec formation en centre de formation et en entreprise)\n\n\nCe que nous vous proposons :\nMissions :\n- Réalisation d'ouvrages en béton armé coffrés de manière traditionnelle ;\n- Construction d'ouvrages en béton armé banché ;\n- Participation à la pose et au liaisonnement d'éléments préfabriqués ;\n- Création de radiers, planchers de type dalle pleine, et tabliers d'ouvrages d'art courants ;\n- Et bien plus encore.\n\nProfil recherché :\n- Vous êtes motivé(e), rigoureux(se), et avez l'esprit d'équipe ;\n- Vous appréciez les défis physiques et le travail en extérieur.\n- Vous êtes apte au travail en hauteur (travail sur échafaudages)\n- Vous êtes à l'aise avec la langue française (écriture, lecture, compréhension) : nécessaire pour suivi de la formation et obtention du diplôme\n\nDurée : 13 mois\nLieu : Montpellier\nRémunération : définie selon la convention collective, et l'âge \n\nAvantages supplémentaires :\n- Formation pratique en entreprise avec des professionnels chevronnés ;\n- Acquisition d'une expérience concrète en parallèle de votre formation théorique ;\n- Accompagnement personnalisé par un(e) tuteur(trice) tout au long de votre parcours ;\n\n\nNe manquez pas cette chance de construire votre avenir dans un secteur porteur ! Postulez dès maintenant pour une carrière passionnante.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Déblayer, remblayer un terrain",
-        "Charger, décharger, manutentionner des produits"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-12T10:47:11.260Z",
-        "expiration": "2026-10-12T10:47:11.260Z"
-      },
-      "opening_count": 7,
       "status": "Active"
     },
     "is_delegated": false
@@ -27362,6 +27773,68 @@
   },
   {
     "identifier": {
+      "id": "6a877ebd62ee9421b6910a18",
+      "partner_label": "France Travail",
+      "partner_job_id": "5342227"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55752627?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Approvisionneur F/H",
+      "rome_codes": [
+        "N1303"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de chefs d'entreprise indépendants ! Ce sont aussi  collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Au sein du Groupement Mousquetaires, l'approvisionnement des  points de vente Intermarché et Netto est assurée par ITM LAI (logistique alimentaire). Notre filiale intégrée, spécialisée dans la logistique et le transport, rassemble plus de  collaborateurs. Notre objectif : garantir des livraisons 100 % conformes aux engagements de qualité et de délais.Chaque année, nos 36 entrepôts traitent près d'un milliard de colis.\n\nEnvie de découvrir les coulisses de la logistique et de comprendre comment les bons produits arrivent au bon endroit, au bon moment ?Au sein d'une logistique en mouvement et en pleine croissance, nous recherchons un(e) apprenti(e) en approvisionnement pour rejoindre le pôle Approvisionnement Epicerie sucrée basstrong&gt;Beziers.\nIntégré(e) à une équipe conviviale et accompagné(e) tout au long de l'alternance, vous découvrirez progressivement les enjeux de la gestion des flux et de la disponibilité des produits dans nos bases logistiques.Au fil de l'alternance, les missions pourront notamment consisterp&gt;? Suivre l'approvisionnement d'un portefeuille de produits et de fournisseurs;\n? Participer au suivi des stocks et à la gestion des commandes;\n? Échanger avec différents interlocuteurs : fournisseurs, équipes achats et bases logistiques;\n? Contribuer à l'analyse des ruptures et à la sécurisation des approvisionnements;\n? Suivre des indicateurs d'activité et participer à la construction de tableaux de bord;\n? Prendre part à des projets transverses liés à la supply chain.?Une alternance idéale pour découvrir concrètement le métier d'approvisionneur et comprendre les rouages de la chaîne logistique.\n\nNous rejoindre en alternance, c'est :Découvrir un métier clé de la supply chain; Être accompagné(e) par une équipe expérimentée et disponible;Monter progressivement en compétences sur des missions concrètes; Évoluer dans un environnement dynamique et collaboratif.Nous proposons également :Un environnement attentif à la qualité de vie au travail et à l'inclusion;Une rémunération sur 13 mois;Des avantages sociaux : mutuelle, dispositifs d'intéressement selon conditions, tickets restaurantli&gt; Seules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).https://www.carrieres-mousquetaires.com/node/",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-22T12:10:12.000Z",
+        "expiration": "2026-09-22T12:10:12.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a60c5e4e5fa1b20ee17c4f9",
       "partner_label": "Emploi Territorial",
       "partner_job_id": "6a60c5e4e5fa1b20ee17c4f9"
@@ -28197,6 +28670,68 @@
       "publication": {
         "creation": "2026-07-17T14:42:02.025Z",
         "expiration": "2026-09-17T14:42:02.025Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a19",
+      "partner_label": "France Travail",
+      "partner_job_id": "5079842"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55704104?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOULANGERS H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants.Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous fabriquerez et cuirez des pains, viennoiseries et pâtisseries selon les techniques et le savoir-faire propres au métier. Vous évaluerez les quantités de produits à fabriquer selon la saison, la période, le flux client. Vous veillerez à l'approvisionnement suffisant du rayon tout au long de la journée et vous mettrez en valeur les produits (théâtralisation, clarté des prix et de l'information, balisage). Vous veillerez à la sécurité alimentaire en suivant les procédures et les règles d'hygiène et de qualité. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-17T12:08:54.000Z",
+        "expiration": "2026-09-17T12:08:54.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -29484,7 +30019,7 @@
       "legal_name": null,
       "website": null,
       "name": "Qualiconsult Exploitation",
-      "description": "Le Groupe familial Qualiconsult à l'esprit pionnier, s'est développé à travers divers métiers :  la construction, les inspections volontaires et réglementaires, les diagnostics immobiliers, la Qualité Hygiène Sécurité Environnement, la formation et l'assistance à maîtrise d'ouvrage.\n\nNotre raison d'être est de partager nos savoirs au service d'un monde plus sûr, performant et durable.\n\nLe Groupe Qualiconsult recrute pour sa filiale Exploitation !",
+      "description": "",
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -29520,7 +30055,7 @@
       "rome_codes": [
         "M1607"
       ],
-      "description": "RESPONSABILITÉS : \n\nIntégré(e) au sein de l'agence, vous accompagnerez le Responsable d'Activité dans le suivi administratif et financier des affaires.\nVos missions principales seront les suivantes :\n - Assister le responsable d'agence dans la gestion administrative quotidienne.\n - Gérer la facturation et la mise à jour des données clients dans les outils internes.\n - Participer à la mise à jour de la rentabilité des affaires, en surveillant les coûts d'intervention et en les comparant aux revenus générés.\n\nPROFIL RECHERCHÉ : \n\nCette annonce vous parle ?\n - Vous recherchez une alternance dans le cadre d'un diplôme de niveau Bac +2 type BTS SAM, GPME ou Comptabilité/Gestion.\n - Vous êtes rigoureux(se), organisé(e) et doté(e) d'un bon sens du relationnel.\n - Vous êtes à l'aise avec les outils bureautiques (notamment Excel) et faites preuve de dynamisme.\nVous hésitez encore à rejoindre le Groupe ?\n - Nous vous proposons une montée en compétences avec de réelles opportunités de carrière : la plupart de nos Directeurs.rices d'Agence sont issus de la promotion interne\n - Nous développons des parcours de formation internes pour vous donner les moyens de vos ambitions                                                                        \n - L'intelligence collective est mise en avant : chacun peut prendre part aux décisions et aux projets qui le.la motive\n - L'esprit familial du Groupe est préservé par des moments de convivialité, locaux adéquats, accès aux boissons à volonté, évènements d'équipe, etc\n - Soucieuse d'améliorer le bien-être de nos collaborateurs jeunes parents, Qualiconsult s'est associée au réseau de crèches Les Petits Chaperons Rouges en mettant à disposition des berceaux pour des gardes régulières et d'urgence.\n\nSi vous avez envie de nous rejoindre, de vous développer personnellement et professionnellement en exerçant un métier qui a du sens, n'hésitez plus et soyez acteur de vos ambitions en venant nous rencontrer !\nLe Groupe Qualiconsult, fort de sa culture et de ses engagements, favorise l'inclusion et la diversité à travers sa politique de recrutement, d'intégration et de développement de ses collaborateurs.",
+      "description": "RESPONSABILITÉS : \n\nIntégré(e) au sein de l'agence, vous accompagnerez le Responsable d'Activité dans le suivi administratif et financier des affaires.\nVos missions principales seront les suivantes :\n - Saisir les devis, effectuer les relances auprès des clients (par mail ou téléphone) suite aux devis envoyés\n - Participer à la constitution des dossiers administratifs des Appels d'Offres\n - Assurer une partie de la facturation et la mise à jour des données clients dans les outils internes\n - Participer à la mise à jour de la rentabilité des affaires, en surveillant les coûts d'intervention et en les comparant aux revenus générés\n - En fonction de votre appétence et de l'organisation de l'agence, vous pourrez être amené à prendre des RDV clients pour le Responsable d'Agence\n\nPROFIL RECHERCHÉ : \n\nCette annonce vous parle ?\n - Vous recherchez une alternance dans le cadre d'un diplôme de niveau Bac +2 type BTS SAM, GPME ou Comptabilité/Gestion.\n - Vous êtes rigoureux(se), organisé(e) et doté(e) d'un bon sens du relationnel.\n - Vous êtes à l'aise avec les outils bureautiques (notamment Excel) et faites preuve de dynamisme.\nVous hésitez encore à rejoindre le Groupe ?\n - Nous vous proposons une montée en compétences avec de réelles opportunités de carrière : la plupart de nos Directeurs.rices d'Agence sont issus de la promotion interne\n - Nous développons des parcours de formation internes pour vous donner les moyens de vos ambitions                                                                        \n - L'intelligence collective est mise en avant : chacun peut prendre part aux décisions et aux projets qui le.la motive\n - L'esprit familial du Groupe est préservé par des moments de convivialité, locaux adéquats, accès aux boissons à volonté, évènements d'équipe, etc\n - Soucieuse d'améliorer le bien-être de nos collaborateurs jeunes parents, Qualiconsult s'est associée au réseau de crèches Les Petits Chaperons Rouges en mettant à disposition des berceaux pour des gardes régulières et d'urgence.\n\nSi vous avez envie de nous rejoindre, de vous développer personnellement et professionnellement en exerçant un métier qui a du sens, n'hésitez plus et soyez acteur de vos ambitions en venant nous rencontrer !\nLe Groupe Qualiconsult, fort de sa culture et de ses engagements, favorise l'inclusion et la diversité à travers sa politique de recrutement, d'intégration et de développement de ses collaborateurs.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -29725,75 +30260,6 @@
   },
   {
     "identifier": {
-      "id": "6a46e7b1dd20b527ab6670a1",
-      "partner_label": "France Travail",
-      "partner_job_id": "210QNYD"
-    },
-    "workplace": {
-      "siret": "41900014600011",
-      "brand": null,
-      "legal_name": "FRANCES IMMOBILIER",
-      "website": null,
-      "name": "FRANCES IMMOBILIER",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1527,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "68.31Z",
-          "label": "Agences immobilières"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210QNYD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 36,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Bac Pro Administration (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Rejoignez une agence immobilière familiale reconnue depuis plus de 70 ans !\n\nImplantée à Montpellier depuis 1953, notre agence immobilière familiale est spécialisée dans la gestion locative et la transaction immobilière. Avec près de 1 400 biens en gestion et une équipe de 10 collaborateurs, nous recherchons un(e) alternant(e) préparant un Bac Professionnel afin de renforcer notre équipe administrative.\n\nVos missions\n\nEncadré(e) et accompagné(e) tout au long de votre formation, vous assisterez le pole comptabilité dans leurs taches administratives :\n\nGestion et classement des dossiers administratifs.\nNumérisation et archivage des documents.\nMise à jour de nos bases de données et de nos logiciels métiers.\nSuivi administratif des éléments comptables.\n\nProfil recherché\nVous préparez un Bac Professionnel en alternance.\nNous recherchons avant tout une personne :\nsérieuse et rigoureuse ;\norganisée ;\ncurieuse et volontaire ;\nà l'aise avec les outils informatiques ;\nayant une bonne expression orale et écrite ;\nappréciant le travail en équipe.\n\nAucune expérience dans l'immobilier n'est exigée. Votre motivation, votre envie d'apprendre et votre implication feront la différence.\n\nCe que nous vous proposons\nNous ne recherchons pas simplement un alternant pour effectuer des tâches administratives. Nous souhaitons former un véritable collaborateur qui découvrira le fonctionnement d'une agence immobilière, gagnera progressivement en autonomie et développera de réelles compétences professionnelles.\n\nVous évoluerez dans une entreprise familiale où la proximité, la confiance, l'esprit d'équipe et la qualité du travail sont des valeurs essentielles.\n\nSi vous êtes motivé(e), dynamique et souhaitez apprendre un métier concret au sein d'une équipe bienveillante et exigeante, envoyez-nous votre CV ainsi qu'un court message de présentation. Nous serons heureux de vous rencontrer.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-02T10:33:42.330Z",
-        "expiration": "2026-09-02T10:33:42.330Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a459666dd20b527ab65a9a9",
       "partner_label": "France Travail",
       "partner_job_id": "210PNJM"
@@ -29919,6 +30385,68 @@
       "publication": {
         "creation": "2026-06-30T21:20:54.000Z",
         "expiration": "2026-08-30T21:20:54.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a877ebd62ee9421b6910a1a",
+      "partner_label": "France Travail",
+      "partner_job_id": "4331036"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34990 Juvignac",
+        "geopoint": {
+          "coordinates": [
+            3.801257,
+            43.620712
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55461121?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOUCHERS H/F",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous sélectionnerez les viandes et assurerez leur transformation (désossage, dégraissage, découpe) et leur conservation. Vous assurerez la présentation marchande des produits (théâtralisation, clarté des prix et de l'information, etc.) en respectant la réglementation spécifique au rayon (traçabilité, étiquetage, hygiène qualité). Vous préparerez les commandes clients. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-06-27T18:40:41.000Z",
+        "expiration": "2026-08-27T18:40:41.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -30179,393 +30707,6 @@
       "publication": {
         "creation": "2026-06-26T14:52:56.425Z",
         "expiration": "2026-08-25T14:52:56.422Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3e49c193947690a1ed896b",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3e49c193947690a1ed896b"
-    },
-    "workplace": {
-      "siret": "53179677900035",
-      "brand": "KANGOUROU KIDS",
-      "legal_name": "LSK ENFANCE",
-      "website": null,
-      "name": "LSK ENFANCE",
-      "description": "",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "9 Rue Jules Verne 34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.227224,
-            43.338262
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.09Z",
-          "label": "Autres services personnels n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3e49c14acef524be4459b4",
-      "phone": null,
-      "recipient_id": "partners_6a3e49c193947690a1ed896b"
-    },
-    "contract": {
-      "start": "2026-07-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Accompagnant éducatif / Accompagnante éducative petite enfance",
-      "rome_codes": [
-        "K1306"
-      ],
-      "description": "Travaille au sein d'une structure collective de jeunes enfants \\nAccompagne l'enfant de 0 à 3 ans dans son développement, ses apprentissages, l'acquisition de l'autonomie et la socialisation, en garantissant son bien-être et sa sécurité physique et affective.\\nParticipe aux tâches courantes de la structure (préparation des repas, entretien des locaux, du linge et des équipements dont jeux et jouets, gestion des stocks).\\nEtablit une relation quotidienne de qualité et de confiance avec les familles, dans une dynamique éducative et participative.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-26T09:43:29.164Z",
-        "expiration": "2026-08-25T09:43:29.162Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3e486aaaf462df621cdbf7",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3e486aaaf462df621cdbf7"
-    },
-    "workplace": {
-      "siret": "53194682000036",
-      "brand": null,
-      "legal_name": "LSK GROUPE",
-      "website": null,
-      "name": "LSK GROUPE",
-      "description": "",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "90 Rue Maryam Mirzakhani 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.921151,
-            43.595365
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3e486a4acef524be445995",
-      "phone": "0485440238",
-      "recipient_id": "partners_6a3e486aaaf462df621cdbf7"
-    },
-    "contract": {
-      "start": "2026-07-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Garde d'enfant",
-      "rome_codes": [
-        "K1303"
-      ],
-      "description": "Un garde d'enfant est une personne qui s'occupe des enfants directement au domicile des parents. \\nAide les enfants dans la réalisation des actes de la vie quotidienne (habillage, prise de repas, etc.)\\nMène avec eux des activités d'éveil (jeux, apprentissage de la vie collective, etc.)\\nAssure la sécurité et le bien-être des enfants\\nOrganise et met en place des activités éducatives et ludiques\\nGère les horaires de sommeil et surveille les siestes des enfants\\nPeut effectuer l'entretien du cadre de vie, ainsi que l'entretien du linge\\nSurveille un ou plusieurs enfants dans la réalisation de devoirs",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-26T09:37:46.289Z",
-        "expiration": "2026-08-25T09:37:46.285Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3e478e93947690a1ed86d2",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3e478e93947690a1ed86d2"
-    },
-    "workplace": {
-      "siret": "51944698300024",
-      "brand": null,
-      "legal_name": "LSK ENTRETIEN",
-      "website": null,
-      "name": "LSK ENTRETIEN",
-      "description": "",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.09Z",
-          "label": "Autres services personnels n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3e478e4acef524be44598c",
-      "phone": "0485440238",
-      "recipient_id": "partners_6a3e478e93947690a1ed86d2"
-    },
-    "contract": {
-      "start": "2026-06-29T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Accompagnant éducatif / Accompagnante éducative petite enfance",
-      "rome_codes": [
-        "K1306"
-      ],
-      "description": "Travaille au sein d'une structure collective de jeunes enfants \\nAccompagne l'enfant de 0 à 3 ans dans son développement, ses apprentissages, l'acquisition de l'autonomie et la socialisation, en garantissant son bien-être et sa sécurité physique et affective.\\nParticipe aux tâches courantes de la structure (préparation des repas, entretien des locaux, du linge et des équipements dont jeux et jouets, gestion des stocks).\\nEtablit une relation quotidienne de qualité et de confiance avec les familles, dans une dynamique éducative et participative.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-26T09:34:06.233Z",
-        "expiration": "2026-08-25T09:34:06.231Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3c5c4d49326ae930598a16",
-      "partner_label": "France Travail",
-      "partner_job_id": "4178802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans un monde en évolution permanente, VINCI Energies accélère la transition environnementale en concrétisant deux mutations majeures, numérique et énergétique. Ses équipes déploient des technologies et des solutions multitechniques sur mesure, de la conception à la réalisation, l'exploitation et la maintenance. Ancrées dans leurs territoires, agiles et innovantes, ses plus 2 100 entreprises sont au cœur des choix énergétiques de leurs clients, de leurs infrastructures et de leurs process pou...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://emploi.batiactu.com/offre-emploi/vf-travaux-occitanie-mediterranee-apprenti-e--technicien-ne--de-maintenance-cfo---cf-montpellier-923756.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/923756",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Technicien(ne) de Maintenance CFO / CFA F/H",
-      "rome_codes": [
-        "I1203"
-      ],
-      "description": "Et si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\n Basée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\n Nous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\n Dans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \n Un(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \n VOTRE MISSION :\n Dans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n Intervenir sur les automatismes des installations techniques.\n Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n Saisir vos interventions dans les outils de suivi (GMAO…).\n Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\n \n Liste non exhaustive, évolutive selon votre progression.\n VOTRE PROFIL :\n Formation &amp; compétences :\n Vous préparez un BTS Électrotechnique en alternance (titulaire d'un BAC, idéalement Bac Pro MELEC ou équivalent).\n Une première approche du métier (stages, projets) est un plus, mais ce sont avant tout votre motivation et votre envie d'apprendre qui feront la différence.\n Les habilitations électriques nécessaires (B0/H0V, puis B1V/BR/HTA selon votre progression) seront acquises et complétées au cours de votre alternance.\n Savoir-être :\n Vous êtes curieux.se, rigoureux.se et investi.e ?\n Vous avez envie d'apprendre un métier technique au contact d'une équipe expérimentée ?\n Vous aimez le travail en équipe et êtes à l'aise avec les outils informatiques ?\n Alors n'attendez plus et postulez dès maintenant !\nMission :\nEt si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\nBasée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\nNous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\nDans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \nUn(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \nVOTRE MISSION :\nDans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n- Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n- Intervenir sur les automatismes des installations techniques.\n- Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n- Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n- Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n- Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n- Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n- Saisir vos interventions dans les outils de suivi (GMAO…).\n- Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\nListe non exhaustive, évolutive selon votre progression.\nProfil demandé :\nVOTRE PROFIL :",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-24T12:11:53.000Z",
-        "expiration": "2026-08-24T12:11:53.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3b70e5aaf462df62188dee",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a3b70e5aaf462df62188dee"
-    },
-    "workplace": {
-      "siret": "83273234100017",
-      "brand": null,
-      "legal_name": "BL CARNOT",
-      "website": null,
-      "name": "BL CARNOT",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a3b70e54acef524be4432c3",
-      "phone": "07.50.01.03.44",
-      "recipient_id": "partners_6a3b70e5aaf462df62188dee"
-    },
-    "contract": {
-      "start": "2026-08-24T00:00:00.000Z",
-      "duration": 13,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1108"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-24T05:53:41.721Z",
-        "expiration": "2026-08-23T05:53:41.717Z"
-      },
-      "opening_count": 3,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3b0aac49326ae93058a7d2",
-      "partner_label": "France Travail",
-      "partner_job_id": "4151446"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "VIVERIO",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.22Z",
-          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://viverio.softy.pro/offre/211481?idt=5&h=2114810",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP BOUCHER H/F - H/F",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Description :\n\n\nAu cours de vos 2 années en CAP, vous serez amené à :\n\n-   Reconnaître les différentes espèces de viande ;\n\n-   Désosser et parer toutes les familles de viande ;\n\n-   Mettre en forme des rôtis, paupiettes, et réaliser des ficelages ;\n\n-   Réaliser des préparations bouchères à partir de fiches techniques ;\n\n-   Participer à la rotation des produits ;\n\n-   Réaliser des ventes ;\n\n-   Mettre en valeur la viande (présentation rayon, décoration, vérification des étiquettes) ;\n\n-   Affûter les couteaux ;\n\n-   Maîtriser les règles sanitaires : DLC, traçabilité, et en assurer le suivi ;\n\n-   Maîtriser les règles d'hygiène et de sécurité.\n\n  \n  \nProfil recherché :\n  \n  \nPour effectuer les différentes missions préalablement citées, nous recherchons un(e) candidat(e) :\n\n-   Ponctuel(le) et assidu(e) tant en entreprise qu'au CFA ;\n\n-   Respectueux(euse) des règles et de la hiérarchie ;\n\n-   Ayant une attitude professionnelle ;\n\n-   Organisé(e) et soigneux(euse) ;\n\n-   Qui sait travailler en équipe comme en autonomie ;\n\n-   Capable de travailler dans un environnement froid avec un stationnement debout prolongé ;\n\n-   Ayant une aptitude à toucher la matière.\n\n \n\nPour postuler en apprentissage, il faut avoir entre 16 ans révolus ou avoir terminé sa classe de 3ème, et moins de 30 ans.\n\nConcernant l'inscription au CFA, vous devrez faire les démarches d'inscription directement auprès du CFA.\n\nATTENTION ! Certains CFA demandent des dossiers de pré-inscription ! Rapprochez-vous de ces derniers.\n\nN'hésitez pas à vous rendre au sein de nos rayons pour découvrir notre univers.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-23T19:33:58.000Z",
-        "expiration": "2026-08-23T19:33:58.000Z"
       },
       "opening_count": 1,
       "status": "Active"
