@@ -1,6 +1,319 @@
 [
   {
     "identifier": {
+      "id": "6a8c4431c9494c8c3e5631cb",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a8c4431c9494c8c3e5631cb"
+    },
+    "workplace": {
+      "siret": "89481783200039",
+      "brand": null,
+      "legal_name": "FACTORY 456",
+      "website": null,
+      "name": "FACTORY 456",
+      "description": "Factory 456 conçoit et déploie une plateforme agentique destinée à automatiser les tâches répétitives et à optimiser les processus métiers des entreprises. Nous souhaitons renforcer notre équipe avec un(e)  consultant(e) junior en organisation, communication et automatisation IA, capable d’échanger avec les clients, de comprendre et formaliser leurs processus, puis de traduire leurs besoins de manière claire afin d’en permettre l’automatisation par nos agents IA.\n\nCette alternance est exclusivement ouverte aux étudiant(e)s inscrit(e)s dans une formation sans reste à charge pour l’entreprise, notamment en IUT, université, école publique ou toute autre formation dont le coût est intégralement pris en charge dans le cadre du contrat d’alternance.",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "10 PLACE FRANCOISE HERITIER 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.923067,
+            43.597269
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "62.01Z",
+          "label": "Programmation informatique"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c4431c9494c8c3e5631cb/consultant-consultante-en-organisation",
+      "phone": "0972103456",
+      "recipient_id": "partners_6a8c4431c9494c8c3e5631cb"
+    },
+    "contract": {
+      "start": "2026-08-24T13:16:33.789Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Consultant / Consultante en organisation",
+      "rome_codes": [
+        "M1402"
+      ],
+      "description": "Le Responsable en organisation en entreprise conçoit des améliorations de l'ensemble des processus managériaux et organisationnels sur un plan financier, technologique ou humain. Analyse et améliore les processus internes de l'entreprise Conçoit et met en œuvre des solutions organisationnelles adaptées aux besoins spécifiques de l'entreprise Collabore avec les différents départements pour assurer une mise en œuvre efficace des stratégies d'organisation Supervise les projets d'organisation et coordonne les équipes impliquées Évalue régulièrement l'efficacité des nouvelles méthodes organisationnelles Accompagne le changement et organise la formation du personnel aux nouvelles procédures et outils de gestion",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [
+        "Etre force de proposition",
+        "Faire preuve de leadership",
+        "Inspirer, donner du sens"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tConduire des réunions de projet pour aligner les équipes sur les objectifs",
+        "Management\tEncourager l'innovation au sein des équipes",
+        "Management\tOptimiser les effectifs, l'adéquation et l'allocation des ressources",
+        "Gestion des Ressources Humaines\tAccompagner le changement auprès des collaborateurs",
+        "Gestion des Ressources Humaines\tAnalyser les processus de travail pour identifier les forces et axes de progrès",
+        "Gestion des Ressources Humaines\tConcevoir et mettre en oeuvre un plan de développement des compétences",
+        "Gestion des Ressources Humaines\tMettre en oeuvre les actions de transformation nécessaires aux changements",
+        "Gestion des Ressources Humaines\tRéaliser un diagnostic organisationnel",
+        "Conseil, Transmission\tConseiller une structure dans la gestion de son activité",
+        "Conseil, Transmission\tEnseigner, transmettre des connaissances, développer des compétences",
+        "Communication, Multimédia\tDéfinir une stratégie de communication",
+        "Recherche, Innovation\tRéaliser une étude d'opportunité et de faisabilité technique et économique",
+        "Data et Nouvelles technologies\tAnalyser des données pour soutenir des décisions stratégiques",
+        "Data et Nouvelles technologies\tEtablir des scénarios prospectifs pour faciliter la prise de décision",
+        "Data et Nouvelles technologies\tFaciliter l'intégration de solutions d'intelligence artificielle dans les projets existants",
+        "Data et Nouvelles technologies\tFaire preuve d'appétence pour l'utilisation de logiciels numériques et de nouvelles technologies",
+        "Data et Nouvelles technologies\tIntégrer des solutions de big data pour l'analyse prédictive",
+        "Data et Nouvelles technologies\tRéaliser des études d'organisation et d'évolution de systèmes d'information",
+        "Qualité\tEvaluer régulièrement les processus internes",
+        "Qualité\tPiloter une démarche qualité, un processus d'amélioration continue",
+        "Qualité\tProposer des améliorations pour optimiser les processus",
+        "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
+        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+        "Gestion et contrôle\tConseiller la direction sur les décisions financières stratégiques",
+        "Gestion et contrôle\tElaborer, suivre et piloter un budget",
+        "Protection des personnes et de l'environnement\tPromouvoir les initiatives de développement durable au sein de l'entreprise",
+        "Relation client\tRecueillir et analyser les besoins client",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tRéaliser une veille de marché, une veille concurrentielle",
+        "Stratégie de développement\tAnalyser les données de performance de l'entreprise",
+        "Stratégie de développement\tConcevoir des outils de pilotage, indicateurs, tableaux de bord",
+        "Stratégie de développement\tConduire un projet de développement",
+        "Stratégie de développement\tDéterminer des objectifs de performance, suivre les réalisations et identifier les actions correctives",
+        "Stratégie de développement\tElaborer une stratégie de développement d'activité",
+        "Stratégie de développement\tIdentifier des solutions et des pistes d'actions au regard du diagnostic établi",
+        "Stratégie de développement\tMobiliser une vision stratégique et d'anticipation",
+        "Communication\tCommuniquer, lire et rédiger des documents techniques, des rapports, des notes en anglais",
+        "Communication\tConvaincre, négocier",
+        "Organisation\tAssurer une veille technologique et réglementaire active",
+        "Organisation\tRassembler, synthétiser et structurer les éléments nécessaires à une prise de décision (évolution produit/projet)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac+5 en management, gestion d'entreprise, ou stratégie d'entreprise et une expérience professionnelle confirmée. Des certifications en gestion de projet et management de changement ou des formations en ingénierie d'organisation sont également pertinentes."
+      ],
+      "publication": {
+        "creation": "2026-08-24T13:16:33.789Z",
+        "expiration": "2026-10-24T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8c40d2a9f7e898624c620b",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a8c40d2a9f7e898624c620b"
+    },
+    "workplace": {
+      "siret": "89481783200039",
+      "brand": null,
+      "legal_name": "FACTORY 456",
+      "website": null,
+      "name": "FACTORY 456",
+      "description": "Factory 456 conçoit et déploie une plateforme agentique destinée à automatiser les tâches répétitives et à optimiser les processus métiers des entreprises. Nous recherchons un(e) développeur(se) en alternance, curieux(se), rigoureux(se) et motivé(e) par l’IA, l’automatisation et les technologies modernes.\n\nCette alternance est exclusivement ouverte aux étudiant(e)s inscrit(e)s dans une formation sans reste à charge pour l’entreprise, notamment en IUT, université, école publique ou toute formation dont le coût pédagogique est intégralement pris en charge dans le cadre du contrat d’alternance.",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "10 PLACE FRANCOISE HERITIER 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.923067,
+            43.597269
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "62.01Z",
+          "label": "Programmation informatique"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c40d2a9f7e898624c620b/informaticien-informaticienne",
+      "phone": "0972103456",
+      "recipient_id": "partners_6a8c40d2a9f7e898624c620b"
+    },
+    "contract": {
+      "start": "2026-08-24T13:02:10.009Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Informaticien / Informaticienne",
+      "rome_codes": [
+        "M1805"
+      ],
+      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participe à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédige des documentations techniques et des guides d'utilisation pour les applications développées Assure la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collabore avec des équipes multidisciplinaires pour intégrer de nouvelles technologies et améliorer les processus de développement Effectue des tests et des validations pour s'assurer de la qualité et de la performance des applications",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [
+        "Faire preuve d'autonomie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Recherche, Innovation\tSurveiller les tendances du marché digital",
+        "Data et Nouvelles technologies\tCoder",
+        "Data et Nouvelles technologies\tCollaborer avec les développeurs pour améliorer la qualité du logiciel",
+        "Data et Nouvelles technologies\tDévelopper une application en lien avec une base de données",
+        "Data et Nouvelles technologies\tGérer les versions de logiciels et leurs mises à jour",
+        "Data et Nouvelles technologies\tIntégrer des outils IA/Data Science",
+        "Data et Nouvelles technologies\tMaintenir à jour la documentation technique et les manuels d'utilisation",
+        "Data et Nouvelles technologies\tPiloter les fonctionnalités des équipements et systèmes de sécurité informatique",
+        "Data et Nouvelles technologies\tRéaliser des études et développements informatiques",
+        "Data et Nouvelles technologies\tTester un logiciel, un système d'informations, une application",
+        "Prévention des risques\tConcevoir et maintenir un système de cybersécurité",
+        "Qualité\tOptimiser les processus de qualité pour assurer la fiabilité des logiciels",
+        "Pilotage et maîtrise des coûts\tVérifier la conformité d'une réalisation avec un cahier des charges",
+        "Stratégie de développement\tConcevoir et mettre en oeuvre une stratégie digitale",
+        "Stratégie de développement\tSuperviser, coordonner les réalisations ou développements informatiques (collaborateurs, sous-traitants)",
+        "Stratégie de développement\tTraiter les retours utilisateurs pour améliorer les systèmes",
+        "Communication\tArgumenter sur le choix des technologies à adopter",
+        "Organisation\tDocumenter les procédures techniques pour les utilisateurs",
+        "Organisation\tPromouvoir la collaboration entre les développeurs et les opérateurs pour une meilleure intégration",
+        "Organisation\tRespecter les normes de sécurité informatique dans le développement"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un niveau Bac+2 à Bac+5 dans le domaine de l'informatique. "
+      ],
+      "publication": {
+        "creation": "2026-08-24T13:02:10.009Z",
+        "expiration": "2026-10-24T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8c2dd6c9494c8c3e560ff0",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a8c2dd6c9494c8c3e560ff0"
+    },
+    "workplace": {
+      "siret": "90161486700025",
+      "brand": null,
+      "legal_name": "CARFOOLY",
+      "website": null,
+      "name": "CARFOOLY",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "65 RUE DE LA GARRIGUETTE 34130 SAINT-AUNES",
+        "geopoint": {
+          "coordinates": [
+            3.975339,
+            43.649708
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "58.21Z",
+          "label": "Édition de jeux électroniques"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c2dd6c9494c8c3e560ff0/media-buyer",
+      "phone": "0695040757",
+      "recipient_id": "partners_6a8c2dd6c9494c8c3e560ff0"
+    },
+    "contract": {
+      "start": "2026-08-24T11:41:10.468Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Media Buyer",
+      "rome_codes": [
+        "E1409"
+      ],
+      "description": "L' Acheteur média est chargé d'optimiser le choix et l'achat d'espaces publicitaires pour le compte d'un portefeuille de clients annonceurs. Négocie et achète les meilleurs emplacements et tarifs pour les espaces publicitaires sur divers médias Collabore étroitement avec les équipes de planification média et les équipes techniques pour optimiser les campagnes Analyse les performances des espaces achetés et ajuste les stratégies en conséquence Suit les tendances pour anticiper les opportunités d'achat sur les places de marché dédiées Gère le budget dédié aux achats médias et en assure le meilleur retour sur investissement",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Communication, Multimédia\tDéfinir une stratégie média",
+        "Communication, Multimédia\tGérer les campagnes de display en temps réel",
+        "Communication, Multimédia\tSélectionner des canaux de communication",
+        "Data et Nouvelles technologies\tAnalyser, exploiter, structurer des données",
+        "Data et Nouvelles technologies\tEtablir et faire évoluer des méthodologies et outils d'étude et de mesure médias",
+        "Gestion administrative et comptable\tAssurer le suivi des chiffres de vente et réaliser le reporting associé",
+        "Gestion administrative et comptable\tParticiper à la définition du planning, du budget global et des délais",
+        "Pilotage et maîtrise des coûts\tAcheter des espaces publicitaires",
+        "Pilotage et maîtrise des coûts\tEstimer les coûts et les délais d'une activité ou d'une prestation",
+        "Pilotage et maîtrise des coûts\tGérer les relations avec les fournisseurs de médias",
+        "Gestion et contrôle\tGérer les budgets alloués aux campagnes publicitaires",
+        "Droit, contentieux et négociation\tAssurer la conformité réglementaire des campagnes",
+        "Développement commercial\tAnalyser l'impact des campagnes publicitaires sur les ventes",
+        "Développement commercial\tAnalyser le retour sur investissement des campagnes publicitaires",
+        "Développement commercial\tAnalyser les tendances du marché publicitaire",
+        "Développement commercial\tCollecter des informations sur un produit, une marque",
+        "Développement commercial\tConcevoir et promouvoir une offre commerciale",
+        "Développement commercial\tDévelopper des stratégies de monétisation pour les espaces publicitaires",
+        "Développement commercial\tEvaluer l'impact des campagnes de communication sur le public cible",
+        "Développement commercial\tNégocier les conditions d'achat d'un espace publicitaire",
+        "Développement commercial\tRépondre à un appel d'offres",
+        "Stratégie de développement\tAdapter les stratégies en fonction des analyses de données",
+        "Stratégie de développement\tConcevoir des systèmes de reporting pour le suivi des performances",
+        "Stratégie de développement\tContrôler la qualité et la performance des placements médias",
+        "Stratégie de développement\tDévelopper et gérer des relations ou partenariats",
+        "Stratégie de développement\tOptimiser les campagnes de communication digitale",
+        "Stratégie de développement\tOptimiser les campagnes pour maximiser le retour sur investissement"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac+3 à Bac+5 en marketing, finance ou commerce. Une spécialisation en média ou publicité peut être un atout. Les compétences en négociation et en analyse de données sont essentielles."
+      ],
+      "publication": {
+        "creation": "2026-08-24T11:41:10.468Z",
+        "expiration": "2026-10-24T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a8aa268a9f7e898624b3f8c",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a8aa268a9f7e898624b3f8c"
@@ -3504,226 +3817,6 @@
       "publication": {
         "creation": "2026-08-09T08:10:44.493Z",
         "expiration": "2026-10-10T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a733611bb092dca9f14e472",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a733611bb092dca9f14e472"
-    },
-    "workplace": {
-      "siret": "89060906800022",
-      "brand": null,
-      "legal_name": "FABRIKUS WORLD",
-      "website": null,
-      "name": "FABRIKUS WORLD",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "172 VOIE COMMUNALE NO 7 DU TRICOT ET DES TOTS 34450 VIAS",
-        "geopoint": {
-          "coordinates": [
-            3.414971,
-            43.301438
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "93.21Z",
-          "label": "Activités des parcs d'attractions et parcs à thèmes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a733611bb092dca9f14e472/chargé-chargée-de-communication-digitale",
-      "phone": "0430410765",
-      "recipient_id": "partners_6a733611bb092dca9f14e472"
-    },
-    "contract": {
-      "start": "2026-08-05T13:09:37.293Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé / Chargée de communication digitale",
-      "rome_codes": [
-        "E1112"
-      ],
-      "description": "Le Chargé de communication est un acteur clé dans la stratégie de valorisation de l'image de marque d'une entreprise. Gère la relation avec les médias et autres partenaires de communication Met en œuvre et évalue la stratégie de communication interne et externe de l'entreprise Rédige et diffuse des contenus, garantit la visibilité numérique de l'entreprise Organise régulièrement des événements externes et internes à l'organisation",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Etre force de proposition",
-        "Faire preuve de créativité, d'inventivité",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tOrganiser des webinaires pour engager la communauté",
-        "Communication, Multimédia\tAssurer le suivi des projets de communication, de la conception à la réalisation",
-        "Communication, Multimédia\tConcevoir des supports de communication audiovisuels",
-        "Communication, Multimédia\tGérer les relations avec les médias, les partenaires et les autres services",
-        "Communication, Multimédia\tIntégrer des éléments graphiques et visuels en respectant les standards web",
-        "Communication, Multimédia\tMaîtriser les différents aspects de la communication (corporate, externe, interne, RP, communication de crise) et de leurs contraintes",
-        "Communication, Multimédia\tMettre en oeuvre des actions de communication",
-        "Communication, Multimédia\tOrganiser des manifestations et des événements internes ou externes destinés aux clients, aux collaborateurs ou au personnel de l'entreprise",
-        "Communication, Multimédia\tOrganiser une conférence de presse",
-        "Communication, Multimédia\tRéaliser des actions de relation publique, de diffusion et de promotion de l'information",
-        "Communication, Multimédia\tRéaliser des supports de communication multimédia",
-        "Communication, Multimédia\tRéaliser la mise à jour d'un site web",
-        "Communication, Multimédia\tRédiger et diffuser des communiqués de presse",
-        "Communication, Multimédia\tRédiger le contenu d'un support de communication",
-        "Recherche, Innovation\tAssurer une veille technique ou artistique afin d'être force de proposition en matière d'innovation",
-        "Recherche, Innovation\tSurveiller les tendances du marché digital",
-        "Data et Nouvelles technologies\tAnalyser les données d'audience pour améliorer les stratégies",
-        "Data et Nouvelles technologies\tOptimiser les performances d'un site web",
-        "Droit, contentieux et négociation\tRespecter les normes éthiques et légales en vigueur",
-        "Développement commercial\tAdapter une campagne promotionnelle à une cible ou un produit",
-        "Développement commercial\tDévelopper des stratégies de contenu pour différents publics",
-        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
-        "Développement commercial\tVeiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
-        "Stratégie de développement\tAdministrer un site web",
-        "Stratégie de développement\tAnalyser les retours et ajuster les stratégies de communication",
-        "Stratégie de développement\tDévelopper un réseau, relancer les journalistes et les supports presse (écrite, radio, TV, Internet) lors des opérations de communication",
-        "Stratégie de développement\tEvaluer l'efficacité des campagnes promotionnelles",
-        "Stratégie de développement\tMettre en oeuvre une stratégie de communication",
-        "Stratégie de développement\tOptimiser le référencement naturel (SEO) des sites web",
-        "Stratégie de développement\tOptimiser les campagnes de communication digitale",
-        "Stratégie de développement\tRéaliser le bilan des actions de communication",
-        "Communication\tConcevoir des présentations pour des réunions stratégiques",
-        "Organisation\tEvaluer l'e-réputation d'un site web",
-        "Organisation\tRéaliser une revue de presse"
-      ],
-      "access_conditions": [
-        "Cet emploi est généralement accessible avec un diplôme de niveau Bac+3 à Bac+5."
-      ],
-      "publication": {
-        "creation": "2026-08-05T13:09:37.293Z",
-        "expiration": "2026-10-05T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a73312070f5c146a441aaae",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a73312070f5c146a441aaae"
-    },
-    "workplace": {
-      "siret": "89060906800022",
-      "brand": null,
-      "legal_name": "FABRIKUS WORLD",
-      "website": null,
-      "name": "FABRIKUS WORLD",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "172 VOIE COMMUNALE NO 7 DU TRICOT ET DES TOTS 34450 VIAS",
-        "geopoint": {
-          "coordinates": [
-            3.414971,
-            43.301438
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "93.21Z",
-          "label": "Activités des parcs d'attractions et parcs à thèmes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a73312070f5c146a441aaae/chargé-chargée-de-communication-digitale",
-      "phone": "0430410765",
-      "recipient_id": "partners_6a73312070f5c146a441aaae"
-    },
-    "contract": {
-      "start": "2026-08-05T12:48:32.385Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé / Chargée de communication digitale",
-      "rome_codes": [
-        "E1112"
-      ],
-      "description": "Le Chargé de communication est un acteur clé dans la stratégie de valorisation de l'image de marque d'une entreprise. Gère la relation avec les médias et autres partenaires de communication Met en œuvre et évalue la stratégie de communication interne et externe de l'entreprise Rédige et diffuse des contenus, garantit la visibilité numérique de l'entreprise Organise régulièrement des événements externes et internes à l'organisation",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Etre force de proposition",
-        "Faire preuve de créativité, d'inventivité",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tOrganiser des webinaires pour engager la communauté",
-        "Communication, Multimédia\tAssurer le suivi des projets de communication, de la conception à la réalisation",
-        "Communication, Multimédia\tConcevoir des supports de communication audiovisuels",
-        "Communication, Multimédia\tGérer les relations avec les médias, les partenaires et les autres services",
-        "Communication, Multimédia\tIntégrer des éléments graphiques et visuels en respectant les standards web",
-        "Communication, Multimédia\tMaîtriser les différents aspects de la communication (corporate, externe, interne, RP, communication de crise) et de leurs contraintes",
-        "Communication, Multimédia\tMettre en oeuvre des actions de communication",
-        "Communication, Multimédia\tOrganiser des manifestations et des événements internes ou externes destinés aux clients, aux collaborateurs ou au personnel de l'entreprise",
-        "Communication, Multimédia\tOrganiser une conférence de presse",
-        "Communication, Multimédia\tRéaliser des actions de relation publique, de diffusion et de promotion de l'information",
-        "Communication, Multimédia\tRéaliser des supports de communication multimédia",
-        "Communication, Multimédia\tRéaliser la mise à jour d'un site web",
-        "Communication, Multimédia\tRédiger et diffuser des communiqués de presse",
-        "Communication, Multimédia\tRédiger le contenu d'un support de communication",
-        "Recherche, Innovation\tAssurer une veille technique ou artistique afin d'être force de proposition en matière d'innovation",
-        "Recherche, Innovation\tSurveiller les tendances du marché digital",
-        "Data et Nouvelles technologies\tAnalyser les données d'audience pour améliorer les stratégies",
-        "Data et Nouvelles technologies\tOptimiser les performances d'un site web",
-        "Droit, contentieux et négociation\tRespecter les normes éthiques et légales en vigueur",
-        "Développement commercial\tAdapter une campagne promotionnelle à une cible ou un produit",
-        "Développement commercial\tDévelopper des stratégies de contenu pour différents publics",
-        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
-        "Développement commercial\tVeiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
-        "Stratégie de développement\tAdministrer un site web",
-        "Stratégie de développement\tAnalyser les retours et ajuster les stratégies de communication",
-        "Stratégie de développement\tDévelopper un réseau, relancer les journalistes et les supports presse (écrite, radio, TV, Internet) lors des opérations de communication",
-        "Stratégie de développement\tEvaluer l'efficacité des campagnes promotionnelles",
-        "Stratégie de développement\tMettre en oeuvre une stratégie de communication",
-        "Stratégie de développement\tOptimiser le référencement naturel (SEO) des sites web",
-        "Stratégie de développement\tOptimiser les campagnes de communication digitale",
-        "Stratégie de développement\tRéaliser le bilan des actions de communication",
-        "Communication\tConcevoir des présentations pour des réunions stratégiques",
-        "Organisation\tEvaluer l'e-réputation d'un site web",
-        "Organisation\tRéaliser une revue de presse"
-      ],
-      "access_conditions": [
-        "Cet emploi est généralement accessible avec un diplôme de niveau Bac+3 à Bac+5."
-      ],
-      "publication": {
-        "creation": "2026-08-05T12:48:32.385Z",
-        "expiration": "2026-10-05T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -11496,103 +11589,6 @@
   },
   {
     "identifier": {
-      "id": "6a43d18400807024be31b123",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a43d18400807024be31b123"
-    },
-    "workplace": {
-      "siret": "32922456200614",
-      "brand": null,
-      "legal_name": "LA COMPAGNIE DE FORMATION",
-      "website": null,
-      "name": "LA COMPAGNIE DE FORMATION",
-      "description": "Dans le cadre de son partenariat avec Pigier Montpellier, école de référence dans la formation en alternance, une concession automobile partenaire recherche un(e) Conseiller(ère) Vendeur(se) Automobile en alternance, préparant un MBA Commerce.\n\nCe poste s’inscrit dans une démarche professionnalisante visant à développer des compétences avancées en commerce, négociation et gestion de la relation client dans le secteur automobile.\n\nAccompagné(e) par votre tuteur et intégré(e) à l’équipe commerciale, vous contribuerez activement au développement de l’activité de la concession tout en bénéficiant d’une formation pratique en lien avec votre cursus.",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "Allée Jean-Marie Tjibaou 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.802879,
-            43.683682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a43d18400807024be31b123/commercial-commerciale-en-automobiles",
-      "phone": "0608369894",
-      "recipient_id": "partners_6a43d18400807024be31b123"
-    },
-    "contract": {
-      "start": "2026-06-30T14:24:04.365Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial / Commerciale en automobiles",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Le vendeur automobile, dans le cadre de directives fixées par la hiérarchie, réalise l'ensemble des activités contribuant à l'acte de vente de véhicules neufs et d'occasion. Accueille les clients et prospects, physiquement ou à distance, et identifie leurs demandes Procède à la vente de véhicules, de solution de mobilité et de produits périphériques Estime les véhicules d'occasion dans le cadre de la reprise Propose des solutions de financement et des services (assurance, extension de garantie, contrat d'entretien) Suit les dossiers clients",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [
-        "Etre force de proposition",
-        "Faire preuve d'autonomie",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Data et Nouvelles technologies\tRenseigner et exploiter une base de données clients et prospects",
-        "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
-        "Gestion et contrôle\tConseiller sur les options de financement",
-        "Droit, contentieux et négociation\tAssurer la conformité des pratiques commerciales avec la réglementation",
-        "Relation client\tAccueillir en face à face le client pour créer un climat de confiance favorable à l'entretien de vente",
-        "Relation client\tAccueillir et renseigner le client sur un espace virtuel",
-        "Relation client\tConduire un entretien d'identification des motivations d'achat de véhicule du client",
-        "Relation client\tConseiller le client sur les bonnes pratiques d'usage d'un véhicule électrique ou hybride",
-        "Développement commercial\tApporter un conseil d'achat de véhicule adapté au besoin et attentes du client",
-        "Développement commercial\tArgumenter les caractéristiques techniques d'un véhicule automobile",
-        "Développement commercial\tConclure une vente de véhicule en obtenant l'accord du client",
-        "Développement commercial\tConstruire, présenter et négocier une offre globale d'achat de véhicule adapté aux besoins du client",
-        "Développement commercial\tElaborer et proposer une offre de financement de véhicule adapté au besoin du client",
-        "Développement commercial\tElaborer et proposer une offre de produits et services périphériques adaptés au besoin du client",
-        "Développement commercial\tEstimer la valeur de reprise d'un véhicule d'occasion",
-        "Développement commercial\tMettre en relation le client en situation de handicap avec les interlocuteurs adaptés pour étudier les aménagements du véhicule",
-        "Développement commercial\tMettre en œuvre et assurer le suivi de plans de prospection et de fidélisation de la clientèle",
-        "Développement commercial\tOrganiser et réaliser une livraison personnalisée du véhicule",
-        "Développement commercial\tProspecter un client sur le terrain ou par téléphone pour développer la vente de véhicules",
-        "Développement commercial\tPrésenter et justifier un prix de reprise d'un véhicule d'occasion",
-        "Développement commercial\tPrésenter un véhicule adapté au client, de façon statique ou dynamique, pour valoriser les qualités du véhicule",
-        "Développement commercial\tRéaliser une veille commerciale sur les évolutions du marché automobile"
-      ],
-      "access_conditions": [
-        "Cet emploi est essentiellement accessible avec un Titre à Finalité Professionnelle (TFP) vendeur automobile, mais un autre diplôme dans le domaine du commerce et de la vente peut également être requis."
-      ],
-      "publication": {
-        "creation": "2026-06-30T14:24:04.365Z",
-        "expiration": "2026-08-30T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": true
-  },
-  {
-    "identifier": {
       "id": "6a3427cb6e356e71b4d4b1ff",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a3427cb6e356e71b4d4b1ff"
@@ -12410,6 +12406,76 @@
       "publication": {
         "creation": "2026-05-18T07:07:23.686Z",
         "expiration": "2026-09-16T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8cc49ab62614f04244a551",
+      "partner_label": "France Travail",
+      "partner_job_id": "212VFVH"
+    },
+    "workplace": {
+      "siret": "82442818900024",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": null,
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chef de secteur en contrat d'apprentissage (H/F)",
+      "rome_codes": [
+        "D1517"
+      ],
+      "description": "L'IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un Chef de secteur (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l'IFRIA et Montpellier Management ? Cette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * Assurer le suivi ou la prospection d'un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)\n * Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente\n * Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, .)\n * Gérer votre secteur en totale autonomie\n * Remonter les informations « terrain » à la direction",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Mettre en oeuvre des actions commerciales et promotionnelles"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T11:23:35.556Z",
+        "expiration": "2026-10-24T11:23:35.556Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14109,68 +14175,6 @@
   },
   {
     "identifier": {
-      "id": "6a8b730abc5fc2963e110bf0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6053985"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50438610?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Développeur web (H/F)",
-      "rome_codes": [
-        "M1855"
-      ],
-      "description": "Description du poste :\n\nNotre organisme de formation est à la recherche du candidat idéal pour le poste de  Développeur Web en alternance pour l'un de nos partenaire.   Renforcer l'équipe technique et participer à la conception, au développement et à l'évolution de site.\n\nMissions\n\nEncadré(e) par un développeur confirmé, tu interviendras sur les missions suivantes Développement et maintenance de sites et applications web***Intégration de maquettes (HTML, CSS, JavaScript)***Participation au développement back-end (selon profil : PHP, Python, Node.js, etc Optimisation des performances et de l'accessibilité***Participation aux tests, corrections de bugs et mises en production***Veille technologique et propositions d'amélioration\n\nDescription du profil :\n\nProfil recherché\n\n- Formation développeur Frontend et ou Backend en alternance\n- Capacité à analyser et comprendre des exigences, appliquer et proposer des solutions \n- Sens de l'écoute et capacité d'empathie Créatif(ve) et curieux(se Résilient(e), persévérant(e) et rigoureux(se Avant toute chose, guidé(e) par l'intérêt de l'utilisateur dans le cadre de la solution",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T03:19:41.651Z",
-        "expiration": "2026-10-18T03:19:41.651Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dbadd07de55f764638dd",
       "partner_label": "France Travail",
       "partner_job_id": "6053948"
@@ -15274,7 +15278,7 @@
       "rome_codes": [
         "G1803"
       ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (15 ans sous certaines conditions).\n\nLe Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
+      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
@@ -15417,7 +15421,7 @@
       "rome_codes": [
         "G1609"
       ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (15 ans sous certaines conditions).\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
+      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -15787,10 +15791,7 @@
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Présenter et valoriser un produit ou un service",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Développer et fidéliser la relation client",
-        "Effectuer l'entretien de végétaux",
-        "Procéder à l'encaissement"
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
       ],
       "access_conditions": [],
       "publication": {
@@ -17285,6 +17286,71 @@
   },
   {
     "identifier": {
+      "id": "6a8cc3fcb62614f042447f93",
+      "partner_label": "France Travail",
+      "partner_job_id": "5510128"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Mutuelle des Motards",
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, la Mutuelle des Motards (490 salariés, 35 Maisons des Motards en France et 90 délégués bénévoles) est reconnue pour sa qualité de service et son implication dans la pratique du 2 roues.\n\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :",
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "65.12Z",
+          "label": "Autres assurances"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci4xMzQ0Ny42NzA2QGFtZG0uYXBsaXRyYWsuY29t",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) chargé(e) marketing territorial H/F",
+      "rome_codes": [
+        "M1620"
+      ],
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\n\nApprenti(e) Chargé(e) Marketing Territorial F/H\n\nDans ce cadre-là, vos missions principales seront :\nEtre soutien à la déclinaison d'animations territoriales\no Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.\no Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations\no Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial\n\nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise\n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.\n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.\n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.\n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.\n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.\n\nVous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.\nUne première expérience (stage/projet) en marketing est un plus.\nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.\nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,.).\nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.\nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.\n\nL'intérêt pour l'univers moto / motards est fortement apprécié.\n\nAutonomie progressive dans la réalisation des missions confiées.\n\nPoste à pourvoir pour 2 ans en alternance idéalement\n\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-28T14:06:56.000Z",
+        "expiration": "2026-09-28T14:06:56.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a6bd07a96004791b08a0d59",
       "partner_label": "France Travail",
       "partner_job_id": "211TDVZ"
@@ -18501,10 +18567,10 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
+        "Organiser, aménager un espace de vente",
         "Réaliser l'étiquetage de produits",
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
         "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Organiser, aménager un espace de vente"
+        "Contrôler le balisage et l'étiquetage des produits en rayon"
       ],
       "access_conditions": [],
       "publication": {
@@ -19584,74 +19650,6 @@
   },
   {
     "identifier": {
-      "id": "6a459666dd20b527ab65a9a9",
-      "partner_label": "France Travail",
-      "partner_job_id": "210PNJM"
-    },
-    "workplace": {
-      "siret": "94123424700018",
-      "brand": null,
-      "legal_name": "GURMINO",
-      "website": null,
-      "name": "GURMINO",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832007,
-            43.574701
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "10.89Z",
-          "label": "Fabrication d'autres produits alimentaires n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PNJM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boulanger / Boulangère (H/F) en alternance",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "ENTREPRISE\nLaboratoire artisanal spécialisé en boulangerie d'inspiration italienne, nous produisons chaque jour des pains et produits boulangers de qualité destinés aux professionnels (restaurants, grossistes, traiteurs).\nNous mettons un point d'honneur au fait maison, au travail des fermentations, et à une production soignée et régulière.\n\nDans le cadre de notre développement, nous recherchons un(e) apprenti(e) en boulangerie motivé(e), curieux(se) et désireux(se) d'apprendre le métier dans un environnement artisanal.\nEncadré(e) par le responsable de production, vous participerez à l'ensemble des étapes de fabrication :\n\nMISSIONS\nPréparation des pâtes (pétrissage, pointage, façonnage)\nTravail sur les fermentations longues\nCuisson des produits\nRespect des règles d'hygiène et de sécurité alimentaire\nParticipation à l'organisation et au nettoyage du laboratoire\n\nVous préparez un CAP, BP ou autre diplôme en boulangerie en alternance\nVous êtes motivé(e), sérieux(se) et ponctuel(le)\nVous aimez le travail manuel et le travail en équipe\nUne première expérience ou un intérêt pour la boulangerie artisanale est un plus (mais pas obligatoire)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-01T13:33:40.195Z",
-        "expiration": "2026-09-01T13:33:40.195Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4444c83506434f18389756",
       "partner_label": "France Travail",
       "partner_job_id": "4417872"
@@ -19779,24 +19777,24 @@
   },
   {
     "identifier": {
-      "id": "6a3c5c4d49326ae930598a16",
-      "partner_label": "France Travail",
-      "partner_job_id": "4178802"
+      "id": "6a8cc5b798c379c251783cc2",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56303541"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": null,
-      "description": "Dans un monde en évolution permanente, VINCI Energies accélère la transition environnementale en concrétisant deux mutations majeures, numérique et énergétique. Ses équipes déploient des technologies et des solutions multitechniques sur mesure, de la conception à la réalisation, l'exploitation et la maintenance. Ancrées dans leurs territoires, agiles et innovantes, ses plus 2 100 entreprises sont au cœur des choix énergétiques de leurs clients, de leurs infrastructures et de leurs process pou...",
+      "name": "ADECCO",
+      "description": "Vous cherchez un job pour quelques heures, quelques jours ou pour toujours ? <br /> <br /> <br /> Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec <strong>850 agences partout en France</strong> , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via <strong>nos applications Adecco &amp; Moi et QAPA</strong> , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. <strong>Parce qu'un job, ce n'est pas seulement un contrat</strong> . C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un <strong>accompagnement personnalisé</strong> , d' <strong>avantages exclusifs</strong> et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, <strong>CDD, CDI ou formation : à chacun sa voie, à chacun son rythme</strong> . Adecco, toujours à vos côtés !",
       "size": null,
       "location": {
-        "address": "34000 Montpellier",
+        "address": "34400 Lunel",
         "geopoint": {
           "coordinates": [
-            3.87048,
-            43.610476
+            4.134701,
+            43.682153
           ],
           "type": "Point"
         }
@@ -19808,31 +19806,304 @@
       }
     },
     "apply": {
-      "url": "https://emploi.batiactu.com/offre-emploi/vf-travaux-occitanie-mediterranee-apprenti-e--technicien-ne--de-maintenance-cfo---cf-montpellier-923756.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/923756",
+      "url": "https://www.meteojob.com/jobs/56303541?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": 24,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé du Recrutement (h/f)",
+      "rome_codes": [
+        "M1502"
+      ],
+      "description": "<p>Envie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !</p> <p>Notre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.</p> <p>  <strong>Vos missions :</strong> </p> <p>  GESTION  : </p> <ul>  <li>Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données</li>  <li>Gérer administrativement les intérimaires et/ou collaborateurs</li>  <li>Rédiger les contrats de mission et de mise à disposition</li> </ul> <p>  RECRUTEMENT  : </p> <ul>  <li>Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs</li>  <li>Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail</li>  <li>Rédiger les annonces d'emploi</li>  <li>Effectuer du Sourcing</li> </ul> <p>  VENTE: </p> <ul>  <li>S'assurer de la satisfaction des intérimaires et/ou des clients</li>  <li>Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation</li> </ul> <br />\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Chargé du recrutement (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <em>   Avantages:  </em> </p> <ul>  <li>Tickets Restaurant</li>  <li>Prise en charge partielle (70%) du titre de transport en commun</li>  <li>Tutorat</li> </ul> <p>Vous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.</p> <p>Curieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.</p> <p>  <strong>Vous êtes en cours de formation de Bac + 2 à Bac + 5, vous recherchez une entreprise pour réaliser votre stage.</strong> </p> <p>  <strong>N'hésitez plus, rejoigniez nous en postulant à cette offre!</strong> </p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T15:33:51.806Z",
+        "expiration": "2026-10-24T15:33:51.806Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8cc5b698c379c251783cba",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56300920"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "CLIMAVIE SARL",
+      "description": "<p>Notre société Climavie située à Mauguio proche de Montpellier dans l'Hérault (34) est spécialisée dans l'installation et la maintenance de systèmes de climatisation et chauffage, pompes à chaleur, chaudières, chauffe eau, systèmes de ventilation et tous types d'équipements utilisant les énergies renouvelables.</p> <p>Créée en 2000 par Hugues Moreau, elle bénéficie de 22 années de savoir-faire dans le génie climatique et énergétique.</p> <p>CLIMAVIE apporte une importance toute particulière à la satisfaction client, met un point d'honneur à exercer une transparence et une écoute attentive à ses techniciens. Nous recherchons des candidats motivés et prêts à s'investir pleinement afin de mener à bien leurs missions.</p>",
+      "size": null,
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.995434,
+            43.59327
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/56300920?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Gestion et Comptabilité en Alternance F/H",
+      "rome_codes": [
+        "M1213"
+      ],
+      "description": "<p>Assistant(e) Gestion et Comptabilité en Alternance (H/F) - Bachelor</p> <p>CLIMAVIE , entreprise spécialisée dans le génie climatique ET SAVIE entreprise spécialisée dans la maintenance et le dépannage des installations climatiques, recherche un(e) alternant(e) motivé(e) pour réorganiser et épauler notre équipe administrative et financière.</p> <p>  <strong>Vos missions :</strong> </p> <p>Sous la responsabilité du dirigeant / du responsable administratif, vous participez activement à la gestion quotidienne de l'entreprise :</p> <ul>  <li>   <p>    <strong>Comptabilité courante :</strong>    Saisie des factures fournisseurs, suivi des règlements, rapprochements bancaires et relances clients.   </p>  </li>  <li>   <p>    <strong>Gestion administrative :</strong>    Traitement du courrier, classement, archivage et tenue des dossiers du personnel.   </p>  </li>  <li>   <p>    <strong>Suivi d'activité :</strong>    Saisie et contrôle des bons de commande, élaboration des devis/factures et mise à jour des tableaux de bord (Excel).   </p>  </li>  <li>   <p>    <strong>Achats &amp; Fournisseurs :</strong>    Contrôle de la conformité des livraisons et gestion des litiges simples.   </p>  </li> </ul>\r\n\r\nSecteur: BTP - Bâtiment Travaux Publics\r\n\r\nPoste: Assistant de gestion - comptabilité (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 966 € - 1 825 €\r\n\r\nProfil: <ul>  <li>   <p>    Vous préparez un    <strong>Bachelor (Bac+3)</strong>    en Gestion, Comptabilité ou Administration des Entreprises (ex. Bachelor Gestion-Finance, DCG, Bachelor Management).   </p>  </li>  <li>   <p>    Bonne maîtrise d'    <strong>Excel</strong>    (fonctions courantes, suivi de données) et idéalement d'un logiciel de gestion/comptabilité.   </p>  </li>  <li>   <p>Rigueur, sens de l'organisation et autonomie.</p>  </li>  <li>   <p>Bonnes qualités relationnelles (contacts fournisseurs, clients et techniciens).</p>  </li> </ul>",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T14:35:53.840Z",
+        "expiration": "2026-10-24T14:35:53.840Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8cc49ab62614f04244a551",
+      "partner_label": "France Travail",
+      "partner_job_id": "212VFVH"
+    },
+    "workplace": {
+      "siret": "82442818900024",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": null,
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": "",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
       "type": [
         "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Apprenti(e) Technicien(ne) de Maintenance CFO / CFA F/H",
+      "title": "Chef de secteur en contrat d'apprentissage (H/F)",
       "rome_codes": [
-        "I1203"
+        "D1517"
       ],
-      "description": "Et si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\n Basée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\n Nous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\n Dans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \n Un(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \n VOTRE MISSION :\n Dans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n Intervenir sur les automatismes des installations techniques.\n Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n Saisir vos interventions dans les outils de suivi (GMAO…).\n Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\n \n Liste non exhaustive, évolutive selon votre progression.\n VOTRE PROFIL :\n Formation &amp; compétences :\n Vous préparez un BTS Électrotechnique en alternance (titulaire d'un BAC, idéalement Bac Pro MELEC ou équivalent).\n Une première approche du métier (stages, projets) est un plus, mais ce sont avant tout votre motivation et votre envie d'apprendre qui feront la différence.\n Les habilitations électriques nécessaires (B0/H0V, puis B1V/BR/HTA selon votre progression) seront acquises et complétées au cours de votre alternance.\n Savoir-être :\n Vous êtes curieux.se, rigoureux.se et investi.e ?\n Vous avez envie d'apprendre un métier technique au contact d'une équipe expérimentée ?\n Vous aimez le travail en équipe et êtes à l'aise avec les outils informatiques ?\n Alors n'attendez plus et postulez dès maintenant !\nMission :\nEt si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\nBasée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\nNous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\nDans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \nUn(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \nVOTRE MISSION :\nDans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n- Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n- Intervenir sur les automatismes des installations techniques.\n- Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n- Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n- Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n- Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n- Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n- Saisir vos interventions dans les outils de suivi (GMAO…).\n- Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\nListe non exhaustive, évolutive selon votre progression.\nProfil demandé :\nVOTRE PROFIL :",
-      "target_diploma": null,
+      "description": "L'IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un Chef de secteur (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l'IFRIA et Montpellier Management ? Cette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * Assurer le suivi ou la prospection d'un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)\n * Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente\n * Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, .)\n * Gérer votre secteur en totale autonomie\n * Remonter les informations « terrain » à la direction",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Mettre en oeuvre des actions commerciales et promotionnelles"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T11:23:35.556Z",
+        "expiration": "2026-10-24T11:23:35.556Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8bfa86c9494c8c3e55d1d4",
+      "partner_label": "Taleez",
+      "partner_job_id": "9fg84r16dr2h1"
+    },
+    "workplace": {
+      "siret": "82442818900016",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": "https://www.ifria-occitanie.fr/",
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": "<p>L’IFRIA Occitanie vous attend !</p><p>Nous faisons partie d'un réseau de 8 centres de formation dédiés aux industries agroalimentaires répartis dans toute la France. Un secteur riche de nombreuses familles d’activité telles que les filières des boissons, lait, viande, céréales, confiserie, huiles, plats cuisinés, produits diététiques…</p><p>En région, l’IFRIA Occitanie propose des formations diplômantes du Bac au Bac+5, par la voie de l'apprentissage répondant aux besoins en compétences des industries alimentaires (en Production, Maintenance, Qualité, Commerce …)</p><p>En tant qu’Organisme de branche, l’IFRIA accompagne également ses entreprises partenaires sur des projets de Formation Professionnelle</p>",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "3840 Avenue Georges Frêche 34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.947523,
+            43.572138
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying?utm_source=La%20bonne%20alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:01.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Manager de projet en Agroalimentaire en alternance F/H - Occitanie",
+      "rome_codes": [
+        "H2105"
+      ],
+      "description": "<p>L’IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un <strong>Manager de projet en Agroalimentaire (H/F) en contrat d’apprentissage</strong>.</p><p>Rentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.</p><p>Vous êtes titulaire d’un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE…,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l’IFRIA Occitanie et l’Ecole Supérieure La Raque ?</p><p>Cette offre d’apprentissage est faite pour vous !</p><p><strong>Missions :</strong></p><ul><li>La création et l’amélioration de fiches produit et des standards de production,</li><li>La création et l’amélioration des modes opératoires</li><li>L’harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance</li><li>Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations</li><li>Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance…)</li></ul><p>Vous définissez et planifiez les activités, maîtrisez l’échéancier et gérez les risques tout en étant garant de l’atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)</p><p>Enfin vous accompagnez l’entreprise dans l’élaboration de stratégies de transformation, d’adaptation et de conduite de changement</p><p></p><p><strong>Informations complémentaires :</strong></p><ul><li>Lieu : Ecole à Castelnaudary – Entreprise Occitanie – PACA - AURA</li><li>Type de contrat : Apprentissage</li><li>Formation : Aucun frais de formation ne sera à la charge de l’apprenti.e</li><li>Rémunération selon niveau d’études + âge</li><li>Cette opportunité est ouverte aux personnes en situation de handicap.</li></ul><p><strong>À propos de nous :</strong></p><p>L’IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.</p><p>Type d'emploi : Apprentissage</p>",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-06-24T12:11:53.000Z",
-        "expiration": "2026-08-24T12:11:53.000Z"
+        "creation": "2026-08-24T08:02:14.691Z",
+        "expiration": "2026-10-23T22:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8bfa78c9494c8c3e55d1c4",
+      "partner_label": "Taleez",
+      "partner_job_id": "3nve6h4ke4s7k"
+    },
+    "workplace": {
+      "siret": "82442818900016",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": "https://www.ifria-occitanie.fr/",
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": "<p>L’IFRIA Occitanie vous attend !</p><p>Nous faisons partie d'un réseau de 8 centres de formation dédiés aux industries agroalimentaires répartis dans toute la France. Un secteur riche de nombreuses familles d’activité telles que les filières des boissons, lait, viande, céréales, confiserie, huiles, plats cuisinés, produits diététiques…</p><p>En région, l’IFRIA Occitanie propose des formations diplômantes du Bac au Bac+5, par la voie de l'apprentissage répondant aux besoins en compétences des industries alimentaires (en Production, Maintenance, Qualité, Commerce …)</p><p>En tant qu’Organisme de branche, l’IFRIA accompagne également ses entreprises partenaires sur des projets de Formation Professionnelle</p>",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "3840 Avenue Georges Frêche 34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.947523,
+            43.572138
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying?utm_source=La%20bonne%20alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-09-01T00:00:01.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "hybrid"
+    },
+    "offer": {
+      "title": "Chef de secteur en alternance F/H",
+      "rome_codes": [
+        "D1510"
+      ],
+      "description": "<p>L’IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un <strong>Chef de secteur (H/F) en contrat d’apprentissage</strong>.</p><p>Rentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.</p><p>Vous êtes titulaire d’un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l’IFRIA et Montpellier Management ? Cette offre d’apprentissage est faite pour vous !</p><p><strong>Missions :</strong></p><ul><li>Assurer le suivi ou la prospection d’un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)</li><li>Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente</li><li>Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, …)</li><li>Gérer votre secteur en totale autonomie</li><li>Remonter les informations « terrain » à la direction</li></ul><p></p><p><strong>Informations complémentaires :</strong></p><ul><li>Lieu : Occitanie</li><li>Type de contrat : Apprentissage</li><li>Formation : Aucun frais de formation ne sera à la charge de l’apprenti.e</li><li>Rémunération de 1221 € à 1822 € brut/mois selon l’âge (Nb : 3ème année du barème légal du contrat d'apprentissage)</li><li>Cette opportunité est ouverte aux personnes en situation de handicap.</li></ul><p></p><p><strong>À propos de nous :</strong></p><p>L’IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.</p><p>Type d'emploi : Apprentissage</p><p>Permis/certification: Permis B (Requis)</p>",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T08:02:00.944Z",
+        "expiration": "2026-10-23T22:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -21793,68 +22064,6 @@
   },
   {
     "identifier": {
-      "id": "6a8b730abc5fc2963e110bf0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6053985"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50438610?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Développeur web (H/F)",
-      "rome_codes": [
-        "M1855"
-      ],
-      "description": "Description du poste :\n\nNotre organisme de formation est à la recherche du candidat idéal pour le poste de  Développeur Web en alternance pour l'un de nos partenaire.   Renforcer l'équipe technique et participer à la conception, au développement et à l'évolution de site.\n\nMissions\n\nEncadré(e) par un développeur confirmé, tu interviendras sur les missions suivantes Développement et maintenance de sites et applications web***Intégration de maquettes (HTML, CSS, JavaScript)***Participation au développement back-end (selon profil : PHP, Python, Node.js, etc Optimisation des performances et de l'accessibilité***Participation aux tests, corrections de bugs et mises en production***Veille technologique et propositions d'amélioration\n\nDescription du profil :\n\nProfil recherché\n\n- Formation développeur Frontend et ou Backend en alternance\n- Capacité à analyser et comprendre des exigences, appliquer et proposer des solutions \n- Sens de l'écoute et capacité d'empathie Créatif(ve) et curieux(se Résilient(e), persévérant(e) et rigoureux(se Avant toute chose, guidé(e) par l'intérêt de l'utilisateur dans le cadre de la solution",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T03:19:41.651Z",
-        "expiration": "2026-10-18T03:19:41.651Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dbadd07de55f764638dd",
       "partner_label": "France Travail",
       "partner_job_id": "6053948"
@@ -22318,68 +22527,6 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "34800 Clermont-l'Hérault",
-        "geopoint": {
-          "coordinates": [
-            3.434565,
-            43.625912
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-17T00:00:00.000Z",
-        "expiration": "2026-10-17T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
       "partner_job_id": "2026-212943"
@@ -22489,6 +22636,68 @@
         "M1603"
       ],
       "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-17T00:00:00.000Z",
+        "expiration": "2026-10-17T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168ac0",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212950"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "34800 Clermont-l'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.434565,
+            43.625912
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -23539,7 +23748,7 @@
       "rome_codes": [
         "G1803"
       ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (15 ans sous certaines conditions).\n\nLe Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
+      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe Petit Margonnais vient de rouvrir ses portes à Margon (34320) et nous recherchons notre futur(e) apprenti(e) serveur(se) pour rejoindre l'aventure !\n\n   Notre univers ?\n\nUne brasserie fine aux inspirations méditerranéennes et aux influences du Moyen-Orient, où l'on aime les beaux produits, les assiettes soignées et surtout. le plaisir de recevoir !\nChez nous, tout est pensé pour offrir une véritable expérience aux clients : produits frais, cuisine maison de A à Z, savoir-faire et convivialité.\n\n  Ton terrain de jeu ?\n\nEn tant qu'apprenti(e) en 1ère année de CAP Service, tu découvriras les coulisses du métier et apprendras à maîtriser les fondamentaux du service :\n\n- Accueillir, installer et conseiller les clients\n- Préparer et assurer le service (plats, boissons ...) \n- Veiller aux détails qui font la différence (entretien des espaces )\n- Travailler en équipe en lien direct avec la cuisine, bon de commande, organisation ...) \n- Développer ton savoir-faire et ton autonomie\n\nNotre objectif : te transmettre notre passion et notre expérience pour te permettre de progresser et de devenir un(e) vrai(e) professionnel(le) du service.\n\n  Le profil que nous recherchons : \nPas besoin de tout savoir, nous sommes là pour t'apprendre !\nMais nous cherchons quelqu'un qui possède :\n\n* De l'écoute\n* Une vraie capacité d'adaptation\n* De la rigueur\n* De la ponctualité\n* L'envie d'apprendre et de faire plaisir\n\nSi tu es motivé(e), curieux(se), dynamique et que tu as envie de faire tes premiers pas dans un restaurant où la passion et la transmission sont au cœur du métier.  Alors, viens rejoindre Le Petit Margonnais !",
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
@@ -23682,7 +23891,7 @@
       "rome_codes": [
         "G1609"
       ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (15 ans sous certaines conditions).\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
+      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -24119,10 +24328,7 @@
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Présenter et valoriser un produit ou un service",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Développer et fidéliser la relation client",
-        "Effectuer l'entretien de végétaux",
-        "Procéder à l'encaissement"
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
       ],
       "access_conditions": [],
       "publication": {
@@ -25685,71 +25891,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d56",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564100"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6bd07a96004791b08a0d57",
       "partner_label": "France Travail",
       "partner_job_id": "5564074"
@@ -25800,6 +25941,71 @@
         "D1106"
       ],
       "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-30T00:33:00.000Z",
+        "expiration": "2026-09-30T00:33:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6bd07a96004791b08a0d56",
+      "partner_label": "France Travail",
+      "partner_job_id": "5564100"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "PROSOL",
+      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.29Z",
+          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -26002,6 +26208,71 @@
       "publication": {
         "creation": "2026-07-29T15:25:49.858Z",
         "expiration": "2026-09-27T15:25:49.855Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8cc3fcb62614f042447f93",
+      "partner_label": "France Travail",
+      "partner_job_id": "5510128"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Mutuelle des Motards",
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, la Mutuelle des Motards (490 salariés, 35 Maisons des Motards en France et 90 délégués bénévoles) est reconnue pour sa qualité de service et son implication dans la pratique du 2 roues.\n\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :",
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "65.12Z",
+          "label": "Autres assurances"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci4xMzQ0Ny42NzA2QGFtZG0uYXBsaXRyYWsuY29t",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) chargé(e) marketing territorial H/F",
+      "rome_codes": [
+        "M1620"
+      ],
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\n\nApprenti(e) Chargé(e) Marketing Territorial F/H\n\nDans ce cadre-là, vos missions principales seront :\nEtre soutien à la déclinaison d'animations territoriales\no Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.\no Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations\no Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial\n\nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise\n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.\n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.\n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.\n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.\n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.\n\nVous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.\nUne première expérience (stage/projet) en marketing est un plus.\nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.\nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,.).\nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.\nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.\n\nL'intérêt pour l'univers moto / motards est fortement apprécié.\n\nAutonomie progressive dans la réalisation des missions confiées.\n\nPoste à pourvoir pour 2 ans en alternance idéalement\n\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-28T14:06:56.000Z",
+        "expiration": "2026-09-28T14:06:56.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -26527,71 +26798,6 @@
       "publication": {
         "creation": "2026-07-27T16:11:22.731Z",
         "expiration": "2026-09-27T16:11:22.731Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a677a229e9ea39cf1cc1deb",
-      "partner_label": "Veritone",
-      "partner_job_id": "6a677a229e9ea39cf1cc1deb"
-    },
-    "workplace": {
-      "siret": "32853833500824",
-      "brand": null,
-      "legal_name": "ASSURANCE MUTUELLE DES MOTARDS",
-      "website": "",
-      "name": "ASSURANCE MUTUELLE DES MOTARDS",
-      "description": "Vous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.\r\nUne première expérience (stage/projet) en marketing est un plus.\r\nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.\r\nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,…).\r\nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.\r\nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.\r\n\r\nL'intérêt pour l'univers moto / motards est fortement apprécié.\r\n\r\nAutonomie progressive dans la réalisation des missions confiées.\r\n\r\nPoste à pourvoir pour 2 ans en alternance idéalement\r\n\r\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\r\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
-      "size": "250 à 499 salariés",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1672,
-        "opco": "ATLAS",
-        "naf": {
-          "code": "65.12Z",
-          "label": "Autres assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci4xMzQ0Ny4xMzY4MEBhbWRtLmFwbGl0cmFrLmNvbQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-09-03T00:00:00.000Z",
-      "duration": 0,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "hybrid"
-    },
-    "offer": {
-      "title": "Apprenti(e) chargé(e) marketing territorial H/F",
-      "rome_codes": [
-        "D1434"
-      ],
-      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues. \r\n\r\nVous êtes passionné(e) de 2/3 roues ? Vous souhaitez travailler dans un environnement dynamique et challengeant ? Vous êtes motivé(e) et prêt(e) à relever les défis avec nous ? Vous souhaitez donner plus de sens à votre carrière en travaillant pour une entreprise de l'Economie Sociale et Solidaire ? Nos équipes vous attendent !\n\nSpécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.\r\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\r\n\r\nApprenti(e) Chargé(e) Marketing Territorial F/H\r\n\r\nDans ce cadre-là, vos missions principales seront :\r\nEtre soutien à la déclinaison d'animations territoriales\r\no Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.\r\no Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations\r\no Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial\r\n\r\nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise\r\n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.\r\n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.\r\n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.\r\n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.\r\n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-27T15:32:50.000Z",
-        "expiration": "2026-08-24T15:32:50.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -27489,10 +27695,10 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
+        "Organiser, aménager un espace de vente",
         "Réaliser l'étiquetage de produits",
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
         "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Organiser, aménager un espace de vente"
+        "Contrôler le balisage et l'étiquetage des produits en rayon"
       ],
       "access_conditions": [],
       "publication": {
@@ -28834,74 +29040,6 @@
   },
   {
     "identifier": {
-      "id": "6a459666dd20b527ab65a9a9",
-      "partner_label": "France Travail",
-      "partner_job_id": "210PNJM"
-    },
-    "workplace": {
-      "siret": "94123424700018",
-      "brand": null,
-      "legal_name": "GURMINO",
-      "website": null,
-      "name": "GURMINO",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832007,
-            43.574701
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "10.89Z",
-          "label": "Fabrication d'autres produits alimentaires n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PNJM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boulanger / Boulangère (H/F) en alternance",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "ENTREPRISE\nLaboratoire artisanal spécialisé en boulangerie d'inspiration italienne, nous produisons chaque jour des pains et produits boulangers de qualité destinés aux professionnels (restaurants, grossistes, traiteurs).\nNous mettons un point d'honneur au fait maison, au travail des fermentations, et à une production soignée et régulière.\n\nDans le cadre de notre développement, nous recherchons un(e) apprenti(e) en boulangerie motivé(e), curieux(se) et désireux(se) d'apprendre le métier dans un environnement artisanal.\nEncadré(e) par le responsable de production, vous participerez à l'ensemble des étapes de fabrication :\n\nMISSIONS\nPréparation des pâtes (pétrissage, pointage, façonnage)\nTravail sur les fermentations longues\nCuisson des produits\nRespect des règles d'hygiène et de sécurité alimentaire\nParticipation à l'organisation et au nettoyage du laboratoire\n\nVous préparez un CAP, BP ou autre diplôme en boulangerie en alternance\nVous êtes motivé(e), sérieux(se) et ponctuel(le)\nVous aimez le travail manuel et le travail en équipe\nUne première expérience ou un intérêt pour la boulangerie artisanale est un plus (mais pas obligatoire)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-01T13:33:40.195Z",
-        "expiration": "2026-09-01T13:33:40.195Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4444c83506434f18389756",
       "partner_label": "France Travail",
       "partner_job_id": "4417872"
@@ -29346,68 +29484,6 @@
       "publication": {
         "creation": "2026-06-26T09:34:06.233Z",
         "expiration": "2026-08-25T09:34:06.231Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3c5c4d49326ae930598a16",
-      "partner_label": "France Travail",
-      "partner_job_id": "4178802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Dans un monde en évolution permanente, VINCI Energies accélère la transition environnementale en concrétisant deux mutations majeures, numérique et énergétique. Ses équipes déploient des technologies et des solutions multitechniques sur mesure, de la conception à la réalisation, l'exploitation et la maintenance. Ancrées dans leurs territoires, agiles et innovantes, ses plus 2 100 entreprises sont au cœur des choix énergétiques de leurs clients, de leurs infrastructures et de leurs process pou...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://emploi.batiactu.com/offre-emploi/vf-travaux-occitanie-mediterranee-apprenti-e--technicien-ne--de-maintenance-cfo---cf-montpellier-923756.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/923756",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Technicien(ne) de Maintenance CFO / CFA F/H",
-      "rome_codes": [
-        "I1203"
-      ],
-      "description": "Et si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\n Basée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\n Nous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\n Dans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \n Un(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \n VOTRE MISSION :\n Dans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n Intervenir sur les automatismes des installations techniques.\n Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n Saisir vos interventions dans les outils de suivi (GMAO…).\n Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\n \n Liste non exhaustive, évolutive selon votre progression.\n VOTRE PROFIL :\n Formation &amp; compétences :\n Vous préparez un BTS Électrotechnique en alternance (titulaire d'un BAC, idéalement Bac Pro MELEC ou équivalent).\n Une première approche du métier (stages, projets) est un plus, mais ce sont avant tout votre motivation et votre envie d'apprendre qui feront la différence.\n Les habilitations électriques nécessaires (B0/H0V, puis B1V/BR/HTA selon votre progression) seront acquises et complétées au cours de votre alternance.\n Savoir-être :\n Vous êtes curieux.se, rigoureux.se et investi.e ?\n Vous avez envie d'apprendre un métier technique au contact d'une équipe expérimentée ?\n Vous aimez le travail en équipe et êtes à l'aise avec les outils informatiques ?\n Alors n'attendez plus et postulez dès maintenant !\nMission :\nEt si vous intégriez une entreprise à taille humaine, appartenant à un groupe de forte notoriété, animée par des projets passionnants ?\nBasée à Montpellier, VINCI Facilities Occitanie Méditerranée fait partie du réseau d'entreprises de VINCI Energies et a pour mission de gérer tout ou partie des installations techniques et des services aux occupants de bâtiments professionnels tout en optimisant les coûts et la qualité.\nNous privilégions l'autonomie, la responsabilisation et l'évolution de nos collaborateurs.\nDans le cadre de son évolution, VINCI Facilities Occitanie Méditerranée, recherche :\n \nUn(e) Apprenti(e) Technicien(ne) de Maintenance CFO / CFA (H/F) – BTS Électrotechnique en alternance\n \nVOTRE MISSION :\nDans le cadre de la préparation de votre BTS Électrotechnique et accompagné(e) au quotidien par votre tuteur, vous montez progressivement en compétences au sein de l'équipe d'exploitation. Vous participerez et serez formé(e) à :\n- Réaliser des petits travaux d'électricité (raccordements, remplacements, modifications d'installations).\n- Intervenir sur les automatismes des installations techniques.\n- Réaliser des contrôles préventifs par thermographie infrarouge (caméra thermique) sur les installations et armoires électriques.\n- Participer, sous supervision, aux interventions sur les réseaux haute tension (HTA).\n- Assurer la maintenance et le suivi des tableaux et armoires électriques d'étage (tableaux divisionnaires).\n- Diagnostiquer les pannes, analyser les défaillances et proposer les actions adaptées.\n- Préparer vos interventions (matériel, sécurité, pièces nécessaires).\n- Saisir vos interventions dans les outils de suivi (GMAO…).\n- Veiller au respect des règles de sécurité et adopter un fort esprit de service vis-à-vis des clients.\nListe non exhaustive, évolutive selon votre progression.\nProfil demandé :\nVOTRE PROFIL :",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-24T12:11:53.000Z",
-        "expiration": "2026-08-24T12:11:53.000Z"
       },
       "opening_count": 1,
       "status": "Active"
