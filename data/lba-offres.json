@@ -1,6 +1,127 @@
 [
   {
     "identifier": {
+      "id": "6a9141a134e41ad4a834a525",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9141a134e41ad4a834a525"
+    },
+    "workplace": {
+      "siret": "93443330100017",
+      "brand": null,
+      "legal_name": "L'INSTANT",
+      "website": null,
+      "name": "L'INSTANT",
+      "description": "petit restaurant sur agde, pizzas, pâtes, gnocchis et desserts. Ouvert du mardi au dimanche midi et soir. \nAmbiance conviviale et sympathique. \nNouvelle carte, nouveau nom, projet de réouverture",
+      "size": "Non diffusé",
+      "location": {
+        "address": "8 CAMIN DEL CACAIRE 34300 AGDE",
+        "geopoint": {
+          "coordinates": [
+            3.474015,
+            43.287021
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9141a134e41ad4a834a525/premier-commis-première-commise-de-cuisine",
+      "phone": "0646739454",
+      "recipient_id": "partners_6a9141a134e41ad4a834a525"
+    },
+    "contract": {
+      "start": "2026-08-28T08:06:57.606Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Premier commis / Première commise de cuisine",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le Cuisinier, créateur de saveurs et d'expériences culinaires, est au cœur de l'art gastronomique. Prépare et cuisine des mets selon un plan de production culinaire, les règles d'hygiène et de sécurité alimentaires et la charte qualité de l'établissement Coordonne une équipe en cuisine lors de la préparation des plats Assure la mise en valeur des plats, en respectant les techniques de dressage et de décoration. Gère les stocks et approvisionnements de produits nécessaires à la réalisation des mets Peut élaborer de nouveaux menus et recettes en fonction des saisons et des tendances culinaires Contrôle la propreté de la cuisine et des équipements utilisés",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Management\tAnticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+        "Management\tIdentifier les besoins et définir les actions de formation à mettre en place afin de développer les compétences de ses équipes en cuisine",
+        "Management\tPlanifier et organiser l'activité du personnel relevant de sa responsabilité",
+        "Gestion des Ressources Humaines\tAménager un poste et les conditions de travail",
+        "Conseil, Transmission\tFormer le personnel aux nouvelles techniques culinaires",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Communication, Multimédia\tOrganiser des événements culinaires spéciaux",
+        "Production, Fabrication\tAdapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)",
+        "Production, Fabrication\tConcevoir des recettes et menus",
+        "Production, Fabrication\tCréer des menus saisonniers pour refléter la diversité des produits",
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tGoûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir",
+        "Production, Fabrication\tGérer le timing de préparation pour un service efficace",
+        "Production, Fabrication\tParticiper à l'élaboration des menus et des cartes avec le responsable de restaurant ou d'établissement",
+        "Production, Fabrication\tPréparer des glaces et des sorbets",
+        "Production, Fabrication\tPréparer des plats culinaires",
+        "Production, Fabrication\tPréparer des plats à base de produits locaux",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tSuperviser la préparation des produits culinaires",
+        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
+        "Maintenance, Réparation\tEntretenir des équipements de cuisine professionnelle",
+        "Qualité\tAnalyser les possibles dysfonctionnements présents en cuisine, et proposer des mesures correctives afin d'y remédier",
+        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
+        "Qualité\tContrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine",
+        "Qualité\tOptimiser les coûts des ingrédients tout en maintenant la qualité",
+        "Qualité\tRéaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tGérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock",
+        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Pilotage et maîtrise des coûts\tCommander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région",
+        "Pilotage et maîtrise des coûts\tDéterminer les coûts de revient des préparations culinaires",
+        "Pilotage et maîtrise des coûts\tLutter contre le gaspillage alimentaire",
+        "Pilotage et maîtrise des coûts\tRéaliser les fiches techniques pour chaque plat (ingrédients, quantités, prix, ...)",
+        "Gestion et contrôle\tSuivre le budget de fonctionnement du périmètre confié",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Développement commercial\tEvaluer la satisfaction client",
+        "Développement commercial\tInnover dans la présentation des plats et des menus",
+        "Communication\tFavoriser un environnement de travail collaboratif",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tGérer les urgences et les imprévus en cuisine"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible principalement avec une certification de niveau CAP à Bac de l'hôtellerie-restauration, selon expérience."
+      ],
+      "publication": {
+        "creation": "2026-08-28T08:06:57.606Z",
+        "expiration": "2026-10-28T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a8ebc81cc26d36574c4218d",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a8ebc81cc26d36574c4218d"
@@ -11333,6 +11454,68 @@
   },
   {
     "identifier": {
+      "id": "6a90b9241d31377ab1f72e7a",
+      "partner_label": "France Travail",
+      "partner_job_id": "6344103"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56153306?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Technicien/ne d'inspection électricité/ levage en alternance H/F",
+      "rome_codes": [
+        "H1504"
+      ],
+      "description": "Prêt/e à partager votre expertise chez DEKRA ? DEKRA Industrial, recherche son/sa futur/e Technicien/ne d'Inspection en électricité et levage en alternance à Montpellier.Vous rejoindrez une équipe de 7 personnes.Votre rôle :En tant que Technicien/ne d'Inspection en alternance et accompagné/e de votre tuteur vos principales missions seront:- Identifier les anomalies, les non-conformités et les facteurs de risques des engins de levage, installations électriques...- Renseigner des constats et des diagnostics au travers d'un rapport d'intervention- Conseiller le clientVous accompagnerez nos clients sur le Languedoc. Vous aussi, vous voulez faire partie de l'aventure DEKRA et rejoindre notre communauté de collaborateur/rices passionné/es ? À l'occasion de son anniversaire, DEKRA célèbre 100 ans d'engagement en faveur d'un monde plus sûr et plus durable. En devenant collaborateur/rice DEKRA, vous participerez activement à notre mission.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-27T12:40:48.725Z",
+        "expiration": "2026-10-27T12:40:48.725Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a8f67a11d31377ab1f65563",
       "partner_label": "France Travail",
       "partner_job_id": "212YJSB"
@@ -12147,68 +12330,6 @@
   },
   {
     "identifier": {
-      "id": "6a8a218cbc5fc2963e1032cd",
-      "partner_label": "France Travail",
-      "partner_job_id": "6206526"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56094786?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant administratif et accueil - Montpellier (F/H)",
-      "rome_codes": [
-        "M1602"
-      ],
-      "description": "Accueillir les adhérents, visiteurs et partenaires.Gérer les appels téléphoniques entrants.Assurer les prises de rendez-vous.Gestion du courrier entrant et sortant et de l'archivage des dossiers physiques et numériques.Soutenir la gestion administrative quotidienne des adhérents (préparation de documents administratifs, mise à jour du CRM, relances).Gérer les réservations de location de salle.Éditer des devis, factures et notes de frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-22T11:53:02.800Z",
-        "expiration": "2026-10-22T11:53:02.800Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8a218cbc5fc2963e1032ce",
       "partner_label": "France Travail",
       "partner_job_id": "6175887"
@@ -12721,73 +12842,6 @@
   },
   {
     "identifier": {
-      "id": "6a8e15f2a49c76b718322087",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLXM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34720 Caux",
-        "geopoint": {
-          "coordinates": [
-            3.375498,
-            43.50905
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T09:02:13.808Z",
-        "expiration": "2026-10-20T09:02:13.808Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a877ebd62ee9421b6910a15",
       "partner_label": "France Travail",
       "partner_job_id": "212RLPH"
@@ -12837,7 +12891,7 @@
       "rome_codes": [
         "A1220"
       ],
-      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
+      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron. Il reste quelques places.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -12845,77 +12899,6 @@
       "publication": {
         "creation": "2026-08-20T08:48:23.927Z",
         "expiration": "2026-10-20T08:48:23.927Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a862d234611e3d929beff68",
-      "partner_label": "France Travail",
-      "partner_job_id": "212QRTX"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.71Z",
-          "label": "Commerce de détail d'habillement en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212QRTX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Conseiller de vente Sportwear H/F",
-      "rome_codes": [
-        "D1214"
-      ],
-      "description": "Accueillir les clients et les accompagner dans leur parcours d'achat ;\nIdentifier leurs besoins et les conseiller sur les produits adaptés ;\nParticiper au développement des ventes et à la satisfaction des clients ;\nContribuer à la fidélisation de la clientèle ;\nRéceptionner les marchandises et contrôler la conformité des livraisons, notamment en vérifiant les bons de livraison (BL) par rapport aux bons de commande (BC) ;",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'encaissement",
-        "Techniques de mise en rayon",
-        "Organiser, aménager un espace de vente",
-        "Présenter et valoriser un produit ou un service",
-        "Développer et fidéliser la relation client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-19T11:46:12.101Z",
-        "expiration": "2026-10-19T11:46:12.101Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -13249,78 +13232,6 @@
       "publication": {
         "creation": "2026-08-18T11:41:12.811Z",
         "expiration": "2026-10-18T11:41:12.811Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638d4",
-      "partner_label": "France Travail",
-      "partner_job_id": "212PMRT"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34480 Laurens",
-        "geopoint": {
-          "coordinates": [
-            3.196573,
-            43.522331
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PMRT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant dentaire en apprentissage (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Nous recherchons un assistant dentaire H/F en alternance pour rejoindre notre cabinet dentaire. Sous la supervision de la praticienne et de l'assistant dentaire référent , vous serez chargé (e) d'assister lors des consultations, des interventions et des soins dentaires.\nVous alternerez les périodes en entreprise et en centre de formation.\n\nMissions :\n-Préparer les instruments et les matériaux nécessaires aux soins dentaires.\n-Assister le dentiste dans la réalisation des actes de soins.\n-Accueillir les patients et les installer.\n-Suivre les dossiers des patients\n-Assurer l'hygiène et la stérilisation de l'équipement.\n-Assurer l'approvisionnement des produits\n-Gérer les rendez-vous et les dossiers des patients.\n-Fournir des conseils de prévention et d'hygiène bucco-dentaire.\n\nProfil recherché :\n-Posséder un niveau de formation 5 à minima (CAP/BEP)\n-Être inscrit ou s'inscrire dans une formation d'assistant dentaire en alternance.\n-Avoir un bon relationnel et le sens du contact.\n-Être rigoureux et organisé.\n-Sens de l'initiative et capacité à travailler en équipe.\n\nUn bon niveau d'anglais est souhaité \nexpérience dans le médical souhaitée\n\n***Poste à pourvoir de suite***",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Renseigner des documents médico-administratifs",
-        "Accueillir, orienter et renseigner un patient",
-        "Relayer de l'information"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T11:37:57.731Z",
-        "expiration": "2026-10-18T11:37:57.731Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14240,68 +14151,6 @@
   },
   {
     "identifier": {
-      "id": "6a7e448fa59fa8a8f3593554",
-      "partner_label": "France Travail",
-      "partner_job_id": "5957885"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34980 Saint-Clément-de-Rivière",
-        "geopoint": {
-          "coordinates": [
-            3.842956,
-            43.681197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56005877?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de rayon EPCS (F/H) Titre professionnel en alternance - ST CLEMENT DE RIVier(ère)",
-      "rome_codes": [
-        "N1110"
-      ],
-      "description": "Le saviez-vous ?\n \nCréateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader mondial de la distribution, nous sommes engagés pour la diversité, la RSE et la transformation digitale, tout en créant un environnement de travail inclusif et stimulant.\nNos atouts pour y parvenir ?\nUn réseau multi format, multi métiers avec des collaborateurs passionnés, qui s'engagent, pour réussir la transition alimentaire pour tous.\n \nCarrefour recherche pour son hypermarché un(e) :\nEmployé de rayon électronique - photo - ciné - son (F/H)\nObtenir un Certificat de Qualification professionnelle (CQP) et un titre de professionnalisation en alternance\nNotre enjeu principal chez Carrefour est de satisfaire notre client tout au long de son parcours d'achat (magasin et/ou via Carrefour.fr) et votre rôle principal sera d'y contribuer en effectuant les missions qui vous seront confiées.\nTout en étant rémunéré, nous vous proposons de vous former et d'obtenir un CQP et un titre de professionnalisation pour ainsi acquérir les bonnes pratiques de la gestion des rayons et des réserves.\nLa formation vous permet d'obtenir un certificat reconnu par notre branche et toutes les enseignes de grandes distributions.\nIl est également enregistré au Répertoire National des Certifications Professionnelles (RNCP).\nCet emploi certifiant sera un vrai booster d'employabilité pour vous !\nVous allez apprendrestrong&gt;\nMaintenir l'attractivité des rayons tout en respectant l'implantation, la qualité, la rotation des produits et la gestion des stocks.Réapprovisionner les rayons tout au long de la journée.Développer les ventes en fidélisant les clients.Accueillir et conseiller les clients du rayon.Procéder au transport, au rangement, conditionnement, étiquetage des produits en rayon et si besoin l'affichage des signalétiques et promotions.Trier et enregistrer les marchandises non vendables.Réaliser des opérations de nettoyage et d'entretien des outils de travail et des linéaires.\n\nVos missions :\nGarantir l'attractivité de son rayon tout en respectant l'implantation, la qualité, la rotation des produits et la gestion des stocks.Accueillir et conseiller les clients du rayon.Procéder au transport, au rangement, conditionnement et étiquetage des produits en rayon.Trier et enregistrer les marchandises non vendables.Effectuer le remplissage des rayons .\n\nVotre contrat pendant cette formation :\ncontrat de professionnalisation CDD / 35h par semaine.vous percevez une rémunération en pourcentage  de 55 à 100% du SMC.\n\nLes avantages Carrefour :\nEntreprise où l'ambiance de travail est conviviale, multiculturelle et où il existe des perspectives d'évolution en interneRémunération attractiveMutuelle et régime de prévoyancePolitique active de formation\n\nChez Carrefour, nous avons à cœur de ne passer à côté d'aucun talent et sommes fiers de compter des équipes représentatives de la société dans son ensemble.\n \nNous encourageons ainsi tous types de profils à postuler à cette offre et garantissons un processus de recrutement dénué de toutes formes de discriminations.\n \nRetrouvez nos vidéos témoignages à cette adresse :  https://bit.ly/2XR57a5",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-13T11:59:48.720Z",
-        "expiration": "2026-10-13T11:59:48.720Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7e448fa59fa8a8f3593555",
       "partner_label": "France Travail",
       "partner_job_id": "212KYCF"
@@ -14566,68 +14415,6 @@
   },
   {
     "identifier": {
-      "id": "6a7cf362017bca832204c9be",
-      "partner_label": "France Travail",
-      "partner_job_id": "5933794"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55987525?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant Chargé d'affaires - Mauguio (F/H)",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "Gestion back-office et administrative du chargé d'affaires.Commandes fournisseurs.Demandes de tarification.Constitution d'offres.Prise de rendez-vous.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-12T12:11:49.769Z",
-        "expiration": "2026-10-12T12:11:49.769Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7cf362017bca832204c9bc",
       "partner_label": "France Travail",
       "partner_job_id": "212KFNF"
@@ -14809,7 +14596,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Serveur / Serveuse (H/F)",
+      "title": "Serveur en Apprentissage (H/F)",
       "rome_codes": [
         "G1803"
       ],
@@ -15671,68 +15458,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a361a",
-      "partner_label": "France Travail",
-      "partner_job_id": "5777377"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Synanto",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.jobposting.pro/emploi-2662329-120",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé de recrutement IT (H/F)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "Synanto est une ESN à taille humaine avec un management de proximité, une culture et des valeurs qui inscrivent nos collaborateurs au cœur de son développement. En effet, la relation avec nos consultants est un des leviers de notre proposition de valeur nous permettant d'instaurer une relation durable, tout en les accompagnant à devenir des experts.\n\nEn ce sens, intégrer Synanto - devenir un Talent - - c'est l'assurance de se voir proposer des missions stimulantes et d'évoluer en ayant un véritable plan de carrière.\nNos secteurs d'intervention sont variés (Industrie, Energie, Transports, Distribution, Edition de logiciels ou Secteur public), avec une expertise qui reste dominante dans le secteur Banque, Finance et Assurance.\n\nAujourd'hui, Synanto, ce sont :\n- 4 agences en France (Paris, Lyon, Aix-en-Provence et Montpellier) et 2 à l'étranger (Luxembourg et Tunisie)\n- 260 collaborateurs\n- 1 spécialisation dans le domaine Banque / Finance / Assurance\n- 1 promesse : Vos Projets, Nos Talents, Une Rencontre\n- 5 valeurs fortes : Synergie, Entraide, Transparence, Diversité, Optimisme\n\nDe nombreux talents ont déjà rejoint notre équipe, pour une vision différente, des opportunités de carrière et des projets innovants. Pourquoi pas vous !?... Venez écrire l'histoire d'une entreprise, experte des SI à dimension humaine.\n\n\nLe poste : \n\nL'équipe recrutement recrute ! Pas étonnant, car nous devons répondre à des besoins croissants d'intégration de nouveaux consultants pour l'agence de Montpellier, en pleine expansion. \n\nObjectif - intervenir sur le recrutement de profils cadres et évoluant dans les métiers du numérique et des nouvelles technologies d'information. \n\nNous sommes de ceux qui savent que le recrutement n'est plus un sous-domaine de la Gestion des Ressources Humaines, mais un métier à part entière qui requiert intelligence, curiosité, analyse et ingéniosité. Vous avez un rôle central dans l'activité ce l'entreprise et c'est dans cet esprit que vous êtes intégré(e), formé(e) et accompagné(e). \n\nDe manière plus concrète, votre rôle s'articule autour des missions suivantes : \n- Analyse des besoins en recrutement directement avec les ingénieurs d'affaires et managers\n- Sourcing intelligent et assidu sur les CVthèques et les jobboards\n- Qualification éclairée et synthétique des candidat(e)s potentiel(le)s\n- Conduite d'entretien dans le but de sélectionner et de présenter les atouts attractifs de l'entreprise \n- Production de comptes rendus suite aux qualifications réalisées \n- Formatage de CV au template Synanto\n- Mise en œuvre de la stratégie de développement de notre marque employeur (salons spécialisés, job dating, cooptation, etc...) \n- Veille continue sur l'actualité du marché du travail, du recrutement, des nouvelles technologies et des ESN\nProposition de nouvelles sources de recrutement et de nouvelles actions pour améliorer l'attractivité de l'entreprise auprès de talents en pénurie\n- Participation à l'intégration et au suivi des collaborateur(trice)s\n- Etc...\n\nVotre montée en compétence et votre intégration est assurée par notre Directeur d'agence et plus globalement par toute l'équipe d'de Montpellier, à travers un parcours personnalisé de formation et de coaching. \n\nEn interne, vous bénéficiez du support de notre organisation : avant-vente, experts, ressources humaines, marketing et communication. \n\n\n\n\n\nProfil recherché : \n\nVous êtes à la recherche d'une opportunité en tant que chargé(e) de recrutement en alternance basée à Montpellier. \nVous avez une sensibilité commerciale certaine.\n\nPassionné(e) par le recrutement,  vous avez le goût du challenge et portez un véritable intérêt pour les nouvelles technologies. Vous êtes aussi reconnu(e) pour votre esprit critique, analytique et votre pugnacité. Réactif(ve) et dynamique, vous avez une culture véritablement orientée service et résultat. \n\nVous avez un  très bon sens relationnel et aimez travailler en équipe. Vous avez aussi su démontrer une certaine forme de créativité, d'autonomie tout en étant force de proposition et organisé(e). \n\nA compétences égales, tous nos postes sont accessibles aux personnes en situation de handicap.\n\nPackage : \n- Contrat en alternance à pourvoir dès que possible, en fonction de la disponibilité des candidat(e)s\n- Lieu de travail : Montpellier\n- Package salarial : Fixe + variable + titre restaurant \n\nChez Synanto, voici ce que nous vous proposons :\n- Des tickets restaurant d'une valeur de 9€ par jour travaillé (60% pris en charge par Synanto)\n -Une prime pour vos vacances d'été\n- Une prime d'intéressement et la mise en place d'un Plan Épargne Salariale (PES)\n- Une bonne couverture mutuelle (SwissLife)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T11:21:37.000Z",
-        "expiration": "2026-10-06T11:21:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a750ae94c6efee3da6a3618",
       "partner_label": "France Travail",
       "partner_job_id": "212DKJG"
@@ -16431,201 +16156,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d56",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564100"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d57",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564074"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d50",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564059"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "UCANSS",
-      "description": "Organisme de Sécurité Sociale",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "65.12Z",
-          "label": "Autres assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=Y2Fyc2F0cm91c3NpbGxvbi43NjYwMy42NzA2QHVjYW5zcy5hcGxpdHJhay5jb20",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Accueil en agence retraite - 2009 (H/F)",
-      "rome_codes": [
-        "M1601"
-      ],
-      "description": "Contexte\n\nLa Carsat, ça vous parle ?\n\nIl s'agit d'un organisme de sécurité sociale qui mène trois grandes missions de service public :\n\n * La préparation et le paiement des retraites,\n * L'accompagnement des assurés fragilisés,\n * La prévention-tarification des risques professionnels.\n\nD'un rayonnement régional, notre structure de droit privé de 800 salariés intervient auprès d'une pluralité d'acteurs : actifs, retraités et les entreprises.\n\nNous rejoindre, c'est intégrer des équipes impliquées et motivées au service des assurés, qui proposent une information et des services neutres, fiables et sans intérêt commercial.\n\nMission/Activités\n\nNous recherchons un alternant-une alternante pour occuper le poste de Coordonnateur-Coordinatrice d'accueil en agence retraite.\n\nVéritable pilier de la relation assurés, vous jouez un rôle essentiel en apportant écoute, clarté et réponses à chaque arrivée.\n\nAu quotidien, vous offrez une orientation précise grâce à votre capacité à analyser rapidement les situations.\n\nConcrètement vous aurez pour missions de :\n\n * Assurer le premier niveau de renseignement des assurés,\n * Contribuer à la promotion de service retraite de la CARSAT,\n * Assurer l'orientation des sollicitations de niveau 2 vers les bons interlocuteurs\n\nInformations complémentaires\n\nModalités du poste : \n\n * Nature du contrat : contrat d'alternance\n * Durée de l'alternance : 2 ans\n * Lieu de travail : Agence retraite de Montpellier\n * Date de prise de fonction : 01/09/2026\n * Modalités et méthodes de recrutement : Test éventuel et entretien en présentiel au sein de notre siège social, qui se dérouleront sur le mois de juin.\n\nRémunération : \n\n * Rémunération de référence : 1 917 € bruts mensuels (niveau 3). Le salaire de l'apprenti-apprentie sera calculé sur cette base, dans le respect des dispositions légales et réglementaires applicables aux contrats d'apprentissage.\n * En complément, vous bénéficierez des titres-restaurants et d'une participation de l'employeur à la complémentaire santé.\n\nIntégrer la Carsat L-R, c'est aussi intégrer une entreprise :\n\n * Engagée dans le bien-être au travail et la conciliation vie pro/vie perso,\n * Inscrite dans une politique de développement durable (abonnement transport, forfait mobilité, .),\n * Proposant de nombreux avantages complémentaires (primes diverses, offres CE, .).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:32:59.000Z",
-        "expiration": "2026-09-30T00:32:59.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6bd07a96004791b08a0d59",
       "partner_label": "France Travail",
       "partner_job_id": "211TDVZ"
@@ -17072,68 +16602,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a18",
-      "partner_label": "France Travail",
-      "partner_job_id": "5342227"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55752627?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Approvisionneur F/H",
-      "rome_codes": [
-        "N1303"
-      ],
-      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de chefs d'entreprise indépendants ! Ce sont aussi  collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Au sein du Groupement Mousquetaires, l'approvisionnement des  points de vente Intermarché et Netto est assurée par ITM LAI (logistique alimentaire). Notre filiale intégrée, spécialisée dans la logistique et le transport, rassemble plus de  collaborateurs. Notre objectif : garantir des livraisons 100 % conformes aux engagements de qualité et de délais.Chaque année, nos 36 entrepôts traitent près d'un milliard de colis.\n\nEnvie de découvrir les coulisses de la logistique et de comprendre comment les bons produits arrivent au bon endroit, au bon moment ?Au sein d'une logistique en mouvement et en pleine croissance, nous recherchons un(e) apprenti(e) en approvisionnement pour rejoindre le pôle Approvisionnement Epicerie sucrée basstrong&gt;Beziers.\nIntégré(e) à une équipe conviviale et accompagné(e) tout au long de l'alternance, vous découvrirez progressivement les enjeux de la gestion des flux et de la disponibilité des produits dans nos bases logistiques.Au fil de l'alternance, les missions pourront notamment consisterp&gt;? Suivre l'approvisionnement d'un portefeuille de produits et de fournisseurs;\n? Participer au suivi des stocks et à la gestion des commandes;\n? Échanger avec différents interlocuteurs : fournisseurs, équipes achats et bases logistiques;\n? Contribuer à l'analyse des ruptures et à la sécurisation des approvisionnements;\n? Suivre des indicateurs d'activité et participer à la construction de tableaux de bord;\n? Prendre part à des projets transverses liés à la supply chain.?Une alternance idéale pour découvrir concrètement le métier d'approvisionneur et comprendre les rouages de la chaîne logistique.\n\nNous rejoindre en alternance, c'est :Découvrir un métier clé de la supply chain; Être accompagné(e) par une équipe expérimentée et disponible;Monter progressivement en compétences sur des missions concrètes; Évoluer dans un environnement dynamique et collaboratif.Nous proposons également :Un environnement attentif à la qualité de vie au travail et à l'inclusion;Une rémunération sur 13 mois;Des avantages sociaux : mutuelle, dispositifs d'intéressement selon conditions, tickets restaurantli&gt; Seules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).https://www.carrieres-mousquetaires.com/node/",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-22T12:10:12.000Z",
-        "expiration": "2026-09-22T12:10:12.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb68",
       "partner_label": "France Travail",
       "partner_job_id": "5206982"
@@ -17196,68 +16664,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb6f",
       "partner_label": "France Travail",
       "partner_job_id": "5205256"
@@ -17305,6 +16711,68 @@
         "I1606"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb67",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205301"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -18121,6 +17589,130 @@
   },
   {
     "identifier": {
+      "id": "6a90b8451d31377ab1f6fb6e",
+      "partner_label": "France Travail",
+      "partner_job_id": "4888405"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55653091?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Responsable Communication et Marketing Digital - Montpellier (F/H)",
+      "rome_codes": [
+        "E1109"
+      ],
+      "description": "Rattaché à la gérante de l'entreprise, vos missions seront de :Définir et faire évoluer la stratégie de communication globale, Renforcer le positionnement haut de gamme, Assurer la cohérence de l'image de la Maison, Adapter la communication en fonction de la cible BtoB et BtoC, Concevoir, rédiger et envoyer des newsletters avec le logiciel BREVO, Élaborer le calendrier éditorial, programmation, Créer, rédiger et publier des contenus,",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-12T03:48:57.000Z",
+        "expiration": "2026-09-12T03:48:57.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a90b8441d31377ab1f6fb53",
+      "partner_label": "France Travail",
+      "partner_job_id": "4871544"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55638727?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant(e) RH - Septembre 2026 - Montpellier (F/H)",
+      "rome_codes": [
+        "M1503"
+      ],
+      "description": "Missions principales : Vous assistez l'équipe de direction dans l'exercice de ses fonctions, en assurant la gestion des dossiers des ressources humaines, la qualité, l'encadrement des soins ainsi que la communication dans le respect des procédures et des dispositions réglementaires. Plus précisément vos missions seront les suivantes:\nAdministration et gestion du personnel :\nParticiper à l'élaboration des plannings et gérer les entrées et les sorties du personnel (rédaction contrats et avenants, DPAE, registre du personnel.)\nEffectuer la gestion des temps et activités sous le logiciel OCTIME (suivi des différents types d'absences, contrôle des heures supplémentaires...)\nTenir à jour les dossiers du personnel et faire circuler les informations\nPaie :\nSaisir les éléments variables\nVérifier les bulletins de salaire\nRéaliser et valider les soldes de tout compte\nRecrutement :\nRédiger et publier des annonces\nRechercher des remplacements\nGérer l'intégration des collaborateurs\nFormation :\nOrganiser et mettre en œuvre des formations internes et externes\nÉtablir les conventions de formation\nEffectuer le suivi des formations\nQualité :\nMettre à jour les protocoles qualité\nRéaliser des audits internes\nSaisie et suivi des questionnaires de satisfaction (patients, personnel, restauration.)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-11T15:49:54.000Z",
+        "expiration": "2026-09-11T15:49:54.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a517396dea3d72aa2304f77",
       "partner_label": "France Travail",
       "partner_job_id": "4783941"
@@ -18642,9 +18234,9 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a1a",
+      "id": "6a90b9241d31377ab1f72e7a",
       "partner_label": "France Travail",
-      "partner_job_id": "4331036"
+      "partner_job_id": "6344103"
     },
     "workplace": {
       "siret": null,
@@ -18655,11 +18247,11 @@
       "description": "",
       "size": null,
       "location": {
-        "address": "34990 Juvignac",
+        "address": "34000 Montpellier",
         "geopoint": {
           "coordinates": [
-            3.801257,
-            43.620712
+            3.87048,
+            43.610476
           ],
           "type": "Point"
         }
@@ -18671,31 +18263,31 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55461121?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "url": "https://www.directemploi.com/candidatOffre/56153306?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": 12,
+      "duration": 24,
       "type": [
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOUCHERS H/F",
+      "title": "Technicien/ne d'inspection électricité/ levage en alternance H/F",
       "rome_codes": [
-        "D1101"
+        "H1504"
       ],
-      "description": "Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous sélectionnerez les viandes et assurerez leur transformation (désossage, dégraissage, découpe) et leur conservation. Vous assurerez la présentation marchande des produits (théâtralisation, clarté des prix et de l'information, etc.) en respectant la réglementation spécifique au rayon (traçabilité, étiquetage, hygiène qualité). Vous préparerez les commandes clients. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "description": "Prêt/e à partager votre expertise chez DEKRA ? DEKRA Industrial, recherche son/sa futur/e Technicien/ne d'Inspection en électricité et levage en alternance à Montpellier.Vous rejoindrez une équipe de 7 personnes.Votre rôle :En tant que Technicien/ne d'Inspection en alternance et accompagné/e de votre tuteur vos principales missions seront:- Identifier les anomalies, les non-conformités et les facteurs de risques des engins de levage, installations électriques...- Renseigner des constats et des diagnostics au travers d'un rapport d'intervention- Conseiller le clientVous accompagnerez nos clients sur le Languedoc. Vous aussi, vous voulez faire partie de l'aventure DEKRA et rejoindre notre communauté de collaborateur/rices passionné/es ? À l'occasion de son anniversaire, DEKRA célèbre 100 ans d'engagement en faveur d'un monde plus sûr et plus durable. En devenant collaborateur/rice DEKRA, vous participerez activement à notre mission.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-06-27T18:40:41.000Z",
-        "expiration": "2026-08-27T18:40:41.000Z"
+        "creation": "2026-08-27T12:40:48.725Z",
+        "expiration": "2026-10-27T12:40:48.725Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18761,6 +18353,145 @@
       "publication": {
         "creation": "2026-08-27T03:08:01.000Z",
         "expiration": "2026-09-26T03:09:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a90b43ad2e7191cf208e1b3",
+      "partner_label": "EDF",
+      "partner_job_id": "180256"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "EDF",
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "Saint-marcel 34230 Saint-Pargoire",
+        "geopoint": {
+          "coordinates": [
+            3.526693,
+            43.541999
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "35.11Z",
+          "label": "Production d'électricité"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27436?idOrigine=502",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Formation Usineur (TPM) F/H",
+      "rome_codes": [
+        "H2906"
+      ],
+      "description": "NOUS FORMONS NOS FUTURS TALENTS EN USINAGE !\r\nL’usine Framatome de Saint-Marcel (Saône-et-Loire) recherche ses  futurs talents pour des postes d'usineurs pour une intégration en octobre 2026.\r\nNous vous proposons un accompagnement sur mesure dans un centre de formation spécialisé.\r\nCette formation a pour finalité d’obtenir un diplôme d'usineur et de rejoindre Framatome pour :\r\n - réaliser en atelier des travaux d’usinage en toute sécurité sur des machines à commandes numériques et conventionnelles, avec un apprentissage complet du métier.\r\n- effectuer la maintenance de 1er niveau de nos outils de production et mettre en œuvre sous la directive d’un chef d’équipe, des fiches d’instruction d’usinage, des procédures, modes opératoires et outillages nécessaires à l'activité.\r\n- respecter les consignes de sécurité de l'atelier, les rituels et standards (5S, réunion d'équipe, REX..), vérifier les opérations et signer les documents selon les procédures existantes.\r\n\r\nConditions d’accès :\r\nTout profil accepté, sous réserve d’aptitude médicale.\r\n\r\nDéroulement de la formation :\r\nCette formation d’une durée de 12 mois sera dispensée au GEIQ industrie, l'ensemble de la partie pratique se fera sur notre usine de Saint-Marcel.\r\nVous souhaitez prendre un nouveau départ? Vous souhaitez rejoindre durablement une entreprise dynamique dans un secteur porteur de sens et vous investir dans une carrière d'usineur? Nous vous attendons pour relever ce défi !\n\nProfil recherché :\n\nEn recherche d'emploi ou en reconversion professionnelle\r\n\r\nQualités attendues :\r\n- Exemplarité en matière de sécurité\r\n - Respect strict des consignes données\r\n - Précision\r\n - Sérieux\r\n\r\nConditions :\r\n- Contrat de professionnalisation d’une durée de 12 mois\r\n- Salaire attractif : selon le barème légal + prime de douche + majoration liée au cycle posté + 13ème mois + prime transport\r\n- Rythme horaire : travail posté en 4x8 (pas de travail le dimanche)\r\n- Perspectives importantes de CDI à l'issue de la formation\r\n \r\n Si vous êtes intéressé, postulez en ligne et vous serez recontacté.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Exploitation / Production"
+      ],
+      "access_conditions": [
+        "Débutant"
+      ],
+      "publication": {
+        "creation": "2026-08-27T00:00:00.000Z",
+        "expiration": "2026-10-27T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a4446cdb611be0d00217d41",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55104961"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPE NICOLLIN",
+      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55104961?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier espaces verts H/F",
+      "rome_codes": [
+        "A1203"
+      ],
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <ul>  <li>Dans le cadre du développement de notre filière</li> </ul> <p>  <b>Espaces Verts</b>  , nous recherchons un·e  <b>ouvrier/ère espaces verts</b>  en  <b>contrat d'apprentissage</b>  , basé·e à  <b>Castelnau-le-Lez (34)</b>  . </p> <p>  <b>   <br />   Vos missions :   <br />  </b>  L'entretien des gazons naturels et/ou synthétiques La tonte, le traçage et les différentes opérations de préparation des terrains Les travaux de fertilisation, de regarnissage et d'aération des surfaces sportives L'entretien des systèmes d'arrosage et des équipements liés aux terrains L'utilisation et l'entretien du matériel spécifique Le respect des règles de sécurité, de qualité et de protection de l'environnement </p>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Ouvrier des espaces verts (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Titulaire d'un diplôme dans le domaine des espaces verts</li>  <li>Vous préparez un Certificat de Spécialisation (CS) Entretien des terrains de sport</li>  <li>Passionné·e par les espaces verts et l'univers du sport</li>  <li>Rigoureux/se, organisé·e et volontaire</li>  <li>Apprécié·e pour votre esprit d'équipe et votre sens de la collaboration</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <b>Horaires</b>   : 35h  </li>  <li>   <strong>Rémunération</strong>   : Selon grille alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> GNB",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-26T22:07:42.738Z",
+        "expiration": "2026-10-26T22:07:42.738Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -19582,68 +19313,6 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87658,
-            43.605936
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-25T00:00:00.000Z",
-        "expiration": "2026-10-25T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
       "partner_job_id": "2026-212950"
@@ -19753,6 +19422,68 @@
         "M1603"
       ],
       "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-25T00:00:00.000Z",
+        "expiration": "2026-10-25T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168af6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212749"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87658,
+            43.605936
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20364,68 +20095,6 @@
   },
   {
     "identifier": {
-      "id": "6a8a218cbc5fc2963e1032cd",
-      "partner_label": "France Travail",
-      "partner_job_id": "6206526"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56094786?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant administratif et accueil - Montpellier (F/H)",
-      "rome_codes": [
-        "M1602"
-      ],
-      "description": "Accueillir les adhérents, visiteurs et partenaires.Gérer les appels téléphoniques entrants.Assurer les prises de rendez-vous.Gestion du courrier entrant et sortant et de l'archivage des dossiers physiques et numériques.Soutenir la gestion administrative quotidienne des adhérents (préparation de documents administratifs, mise à jour du CRM, relances).Gérer les réservations de location de salle.Éditer des devis, factures et notes de frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-22T11:53:02.800Z",
-        "expiration": "2026-10-22T11:53:02.800Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a838afd07d4b431a412d569",
       "partner_label": "Meteojob",
       "partner_job_id": "54988749"
@@ -20812,72 +20481,6 @@
   },
   {
     "identifier": {
-      "id": "6a4446cdb611be0d00217d41",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55104961"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55104961?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Ouvrier espaces verts H/F",
-      "rome_codes": [
-        "A1203"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <ul>  <li>Dans le cadre du développement de notre filière</li> </ul> <p>  <b>Espaces Verts</b>  , nous recherchons un·e  <b>ouvrier/ère espaces verts</b>  en  <b>contrat d'apprentissage</b>  , basé·e à  <b>Castelnau-le-Lez (34)</b>  . </p> <p>  <b>   <br />   Vos missions :   <br />  </b>  L'entretien des gazons naturels et/ou synthétiques La tonte, le traçage et les différentes opérations de préparation des terrains Les travaux de fertilisation, de regarnissage et d'aération des surfaces sportives L'entretien des systèmes d'arrosage et des équipements liés aux terrains L'utilisation et l'entretien du matériel spécifique Le respect des règles de sécurité, de qualité et de protection de l'environnement </p>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Ouvrier des espaces verts (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Titulaire d'un diplôme dans le domaine des espaces verts</li>  <li>Vous préparez un Certificat de Spécialisation (CS) Entretien des terrains de sport</li>  <li>Passionné·e par les espaces verts et l'univers du sport</li>  <li>Rigoureux/se, organisé·e et volontaire</li>  <li>Apprécié·e pour votre esprit d'équipe et votre sens de la collaboration</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <b>Horaires</b>   : 35h  </li>  <li>   <strong>Rémunération</strong>   : Selon grille alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> GNB",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T23:05:53.846Z",
-        "expiration": "2026-10-20T23:05:53.846Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a877ebd62ee9421b6910a13",
       "partner_label": "France Travail",
       "partner_job_id": "212SDZS"
@@ -21133,73 +20736,6 @@
   },
   {
     "identifier": {
-      "id": "6a8e15f2a49c76b718322087",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLXM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34720 Caux",
-        "geopoint": {
-          "coordinates": [
-            3.375498,
-            43.50905
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T09:02:13.808Z",
-        "expiration": "2026-10-20T09:02:13.808Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a877ebd62ee9421b6910a15",
       "partner_label": "France Travail",
       "partner_job_id": "212RLPH"
@@ -21249,7 +20785,7 @@
       "rome_codes": [
         "A1220"
       ],
-      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
+      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron. Il reste quelques places.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21257,77 +20793,6 @@
       "publication": {
         "creation": "2026-08-20T08:48:23.927Z",
         "expiration": "2026-10-20T08:48:23.927Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a862d234611e3d929beff68",
-      "partner_label": "France Travail",
-      "partner_job_id": "212QRTX"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.71Z",
-          "label": "Commerce de détail d'habillement en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212QRTX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Conseiller de vente Sportwear H/F",
-      "rome_codes": [
-        "D1214"
-      ],
-      "description": "Accueillir les clients et les accompagner dans leur parcours d'achat ;\nIdentifier leurs besoins et les conseiller sur les produits adaptés ;\nParticiper au développement des ventes et à la satisfaction des clients ;\nContribuer à la fidélisation de la clientèle ;\nRéceptionner les marchandises et contrôler la conformité des livraisons, notamment en vérifiant les bons de livraison (BL) par rapport aux bons de commande (BC) ;",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'encaissement",
-        "Techniques de mise en rayon",
-        "Organiser, aménager un espace de vente",
-        "Présenter et valoriser un produit ou un service",
-        "Développer et fidéliser la relation client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-19T11:46:12.101Z",
-        "expiration": "2026-10-19T11:46:12.101Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -21727,78 +21192,6 @@
       "publication": {
         "creation": "2026-08-18T11:41:12.811Z",
         "expiration": "2026-10-18T11:41:12.811Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638d4",
-      "partner_label": "France Travail",
-      "partner_job_id": "212PMRT"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34480 Laurens",
-        "geopoint": {
-          "coordinates": [
-            3.196573,
-            43.522331
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PMRT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant dentaire en apprentissage (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Nous recherchons un assistant dentaire H/F en alternance pour rejoindre notre cabinet dentaire. Sous la supervision de la praticienne et de l'assistant dentaire référent , vous serez chargé (e) d'assister lors des consultations, des interventions et des soins dentaires.\nVous alternerez les périodes en entreprise et en centre de formation.\n\nMissions :\n-Préparer les instruments et les matériaux nécessaires aux soins dentaires.\n-Assister le dentiste dans la réalisation des actes de soins.\n-Accueillir les patients et les installer.\n-Suivre les dossiers des patients\n-Assurer l'hygiène et la stérilisation de l'équipement.\n-Assurer l'approvisionnement des produits\n-Gérer les rendez-vous et les dossiers des patients.\n-Fournir des conseils de prévention et d'hygiène bucco-dentaire.\n\nProfil recherché :\n-Posséder un niveau de formation 5 à minima (CAP/BEP)\n-Être inscrit ou s'inscrire dans une formation d'assistant dentaire en alternance.\n-Avoir un bon relationnel et le sens du contact.\n-Être rigoureux et organisé.\n-Sens de l'initiative et capacité à travailler en équipe.\n\nUn bon niveau d'anglais est souhaité \nexpérience dans le médical souhaitée\n\n***Poste à pourvoir de suite***",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Renseigner des documents médico-administratifs",
-        "Accueillir, orienter et renseigner un patient",
-        "Relayer de l'information"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T11:37:57.731Z",
-        "expiration": "2026-10-18T11:37:57.731Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -22926,7 +22319,7 @@
       "legal_name": null,
       "website": null,
       "name": "E.Leclerc",
-      "description": "<p>Les 533 adhérents E.Leclerc exploitant 726 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 41 milliards d'euros (hors carburant) en 2021 et est le leader de la distribution française avec une part de marché de 22.5%.</p> <p>Employeurs engagés, les centres E.Leclerc accueillent chaque année près de 4.000 alternants (dont 2800 apprentis) et 10.000 stagiaires pour concourir à leur formation. Ils s'investissent également aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
+      "description": "<p>Les 533 adhérents E.Leclerc exploitant 726 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 41 milliards d'euros (hors carburant) en 2021 et est le leader de la distribution française avec une part de marché de 22.5%.</p> <p>Employeurs engagés, les centres E.Leclerc accueillent chaque année près de 4.000 alternants (dont 2800 apprentis) et 10.000 stagiaires pour concourir à leur formation. Ils s'investissent ��galement aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -22971,68 +22364,6 @@
       "publication": {
         "creation": "2026-08-13T22:09:50.193Z",
         "expiration": "2026-10-13T22:09:50.193Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7e448fa59fa8a8f3593554",
-      "partner_label": "France Travail",
-      "partner_job_id": "5957885"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34980 Saint-Clément-de-Rivière",
-        "geopoint": {
-          "coordinates": [
-            3.842956,
-            43.681197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56005877?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé de rayon EPCS (F/H) Titre professionnel en alternance - ST CLEMENT DE RIVier(ère)",
-      "rome_codes": [
-        "N1110"
-      ],
-      "description": "Le saviez-vous ?\n \nCréateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader mondial de la distribution, nous sommes engagés pour la diversité, la RSE et la transformation digitale, tout en créant un environnement de travail inclusif et stimulant.\nNos atouts pour y parvenir ?\nUn réseau multi format, multi métiers avec des collaborateurs passionnés, qui s'engagent, pour réussir la transition alimentaire pour tous.\n \nCarrefour recherche pour son hypermarché un(e) :\nEmployé de rayon électronique - photo - ciné - son (F/H)\nObtenir un Certificat de Qualification professionnelle (CQP) et un titre de professionnalisation en alternance\nNotre enjeu principal chez Carrefour est de satisfaire notre client tout au long de son parcours d'achat (magasin et/ou via Carrefour.fr) et votre rôle principal sera d'y contribuer en effectuant les missions qui vous seront confiées.\nTout en étant rémunéré, nous vous proposons de vous former et d'obtenir un CQP et un titre de professionnalisation pour ainsi acquérir les bonnes pratiques de la gestion des rayons et des réserves.\nLa formation vous permet d'obtenir un certificat reconnu par notre branche et toutes les enseignes de grandes distributions.\nIl est également enregistré au Répertoire National des Certifications Professionnelles (RNCP).\nCet emploi certifiant sera un vrai booster d'employabilité pour vous !\nVous allez apprendrestrong&gt;\nMaintenir l'attractivité des rayons tout en respectant l'implantation, la qualité, la rotation des produits et la gestion des stocks.Réapprovisionner les rayons tout au long de la journée.Développer les ventes en fidélisant les clients.Accueillir et conseiller les clients du rayon.Procéder au transport, au rangement, conditionnement, étiquetage des produits en rayon et si besoin l'affichage des signalétiques et promotions.Trier et enregistrer les marchandises non vendables.Réaliser des opérations de nettoyage et d'entretien des outils de travail et des linéaires.\n\nVos missions :\nGarantir l'attractivité de son rayon tout en respectant l'implantation, la qualité, la rotation des produits et la gestion des stocks.Accueillir et conseiller les clients du rayon.Procéder au transport, au rangement, conditionnement et étiquetage des produits en rayon.Trier et enregistrer les marchandises non vendables.Effectuer le remplissage des rayons .\n\nVotre contrat pendant cette formation :\ncontrat de professionnalisation CDD / 35h par semaine.vous percevez une rémunération en pourcentage  de 55 à 100% du SMC.\n\nLes avantages Carrefour :\nEntreprise où l'ambiance de travail est conviviale, multiculturelle et où il existe des perspectives d'évolution en interneRémunération attractiveMutuelle et régime de prévoyancePolitique active de formation\n\nChez Carrefour, nous avons à cœur de ne passer à côté d'aucun talent et sommes fiers de compter des équipes représentatives de la société dans son ensemble.\n \nNous encourageons ainsi tous types de profils à postuler à cette offre et garantissons un processus de recrutement dénué de toutes formes de discriminations.\n \nRetrouvez nos vidéos témoignages à cette adresse :  https://bit.ly/2XR57a5",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-13T11:59:48.720Z",
-        "expiration": "2026-10-13T11:59:48.720Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23297,68 +22628,6 @@
       "publication": {
         "creation": "2026-08-12T15:17:47.400Z",
         "expiration": "2026-10-12T15:17:47.400Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7cf362017bca832204c9be",
-      "partner_label": "France Travail",
-      "partner_job_id": "5933794"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55987525?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant Chargé d'affaires - Mauguio (F/H)",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "Gestion back-office et administrative du chargé d'affaires.Commandes fournisseurs.Demandes de tarification.Constitution d'offres.Prise de rendez-vous.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-12T12:11:49.769Z",
-        "expiration": "2026-10-12T12:11:49.769Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23682,7 +22951,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Serveur / Serveuse (H/F)",
+      "title": "Serveur en Apprentissage (H/F)",
       "rome_codes": [
         "G1803"
       ],
@@ -24677,68 +23946,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a361a",
-      "partner_label": "France Travail",
-      "partner_job_id": "5777377"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Synanto",
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.jobposting.pro/emploi-2662329-120",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé de recrutement IT (H/F)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "Synanto est une ESN à taille humaine avec un management de proximité, une culture et des valeurs qui inscrivent nos collaborateurs au cœur de son développement. En effet, la relation avec nos consultants est un des leviers de notre proposition de valeur nous permettant d'instaurer une relation durable, tout en les accompagnant à devenir des experts.\n\nEn ce sens, intégrer Synanto - devenir un Talent - - c'est l'assurance de se voir proposer des missions stimulantes et d'évoluer en ayant un véritable plan de carrière.\nNos secteurs d'intervention sont variés (Industrie, Energie, Transports, Distribution, Edition de logiciels ou Secteur public), avec une expertise qui reste dominante dans le secteur Banque, Finance et Assurance.\n\nAujourd'hui, Synanto, ce sont :\n- 4 agences en France (Paris, Lyon, Aix-en-Provence et Montpellier) et 2 à l'étranger (Luxembourg et Tunisie)\n- 260 collaborateurs\n- 1 spécialisation dans le domaine Banque / Finance / Assurance\n- 1 promesse : Vos Projets, Nos Talents, Une Rencontre\n- 5 valeurs fortes : Synergie, Entraide, Transparence, Diversité, Optimisme\n\nDe nombreux talents ont déjà rejoint notre équipe, pour une vision différente, des opportunités de carrière et des projets innovants. Pourquoi pas vous !?... Venez écrire l'histoire d'une entreprise, experte des SI à dimension humaine.\n\n\nLe poste : \n\nL'équipe recrutement recrute ! Pas étonnant, car nous devons répondre à des besoins croissants d'intégration de nouveaux consultants pour l'agence de Montpellier, en pleine expansion. \n\nObjectif - intervenir sur le recrutement de profils cadres et évoluant dans les métiers du numérique et des nouvelles technologies d'information. \n\nNous sommes de ceux qui savent que le recrutement n'est plus un sous-domaine de la Gestion des Ressources Humaines, mais un métier à part entière qui requiert intelligence, curiosité, analyse et ingéniosité. Vous avez un rôle central dans l'activité ce l'entreprise et c'est dans cet esprit que vous êtes intégré(e), formé(e) et accompagné(e). \n\nDe manière plus concrète, votre rôle s'articule autour des missions suivantes : \n- Analyse des besoins en recrutement directement avec les ingénieurs d'affaires et managers\n- Sourcing intelligent et assidu sur les CVthèques et les jobboards\n- Qualification éclairée et synthétique des candidat(e)s potentiel(le)s\n- Conduite d'entretien dans le but de sélectionner et de présenter les atouts attractifs de l'entreprise \n- Production de comptes rendus suite aux qualifications réalisées \n- Formatage de CV au template Synanto\n- Mise en œuvre de la stratégie de développement de notre marque employeur (salons spécialisés, job dating, cooptation, etc...) \n- Veille continue sur l'actualité du marché du travail, du recrutement, des nouvelles technologies et des ESN\nProposition de nouvelles sources de recrutement et de nouvelles actions pour améliorer l'attractivité de l'entreprise auprès de talents en pénurie\n- Participation à l'intégration et au suivi des collaborateur(trice)s\n- Etc...\n\nVotre montée en compétence et votre intégration est assurée par notre Directeur d'agence et plus globalement par toute l'équipe d'de Montpellier, à travers un parcours personnalisé de formation et de coaching. \n\nEn interne, vous bénéficiez du support de notre organisation : avant-vente, experts, ressources humaines, marketing et communication. \n\n\n\n\n\nProfil recherché : \n\nVous êtes à la recherche d'une opportunité en tant que chargé(e) de recrutement en alternance basée à Montpellier. \nVous avez une sensibilité commerciale certaine.\n\nPassionné(e) par le recrutement,  vous avez le goût du challenge et portez un véritable intérêt pour les nouvelles technologies. Vous êtes aussi reconnu(e) pour votre esprit critique, analytique et votre pugnacité. Réactif(ve) et dynamique, vous avez une culture véritablement orientée service et résultat. \n\nVous avez un  très bon sens relationnel et aimez travailler en équipe. Vous avez aussi su démontrer une certaine forme de créativité, d'autonomie tout en étant force de proposition et organisé(e). \n\nA compétences égales, tous nos postes sont accessibles aux personnes en situation de handicap.\n\nPackage : \n- Contrat en alternance à pourvoir dès que possible, en fonction de la disponibilité des candidat(e)s\n- Lieu de travail : Montpellier\n- Package salarial : Fixe + variable + titre restaurant \n\nChez Synanto, voici ce que nous vous proposons :\n- Des tickets restaurant d'une valeur de 9€ par jour travaillé (60% pris en charge par Synanto)\n -Une prime pour vos vacances d'été\n- Une prime d'intéressement et la mise en place d'un Plan Épargne Salariale (PES)\n- Une bonne couverture mutuelle (SwissLife)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T11:21:37.000Z",
-        "expiration": "2026-10-06T11:21:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4446f9b611be0d0021872d",
       "partner_label": "FranceTravail CEGID",
       "partner_job_id": "2026-88771"
@@ -25634,201 +24841,6 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d56",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564100"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuNDMzNDcuNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Alternance - Vendeur fruits et légumes (H/F)\n\nLieu : Montpellier - site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nSi vous aimez les bons produits, le bon sens et la bonne ambiance, cette alternance est faite pour vous !\n\n \n\nQui sommes-nous ?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nLes univers fruits et légumes, crèmerie chez Grand Frais sont exploités par Prosol.\n\nDepuis plus de 30 ans, Prosol est le spécialiste du produit frais en France, avec une offre large, diversifiée et accessible dans plus de 450 magasins. Sa force réside dans un modèle intégré, du champ à l'assiette, garantissant fraîcheur, goût et qualité jusqu'aux points de vente.\n\nEnvie de rejoindre une aventure humaine et savoureuse ? Rejoignez les passionnés du bon !\n\nAmbiance bienveillante, esprit d'équipe et apprentissage garanti !\n\n \n\nPourquoi cette alternance ? Parce que c'est l'opportunité de :\n\n- Travailler au contact direct des clients et des produits\n\n- Gagner en autonomie et en compétences dans un environnement concret\n\n- Développer une expérience valorisante dans une entreprise reconnue pour la qualité de ses produits\n\n \n\nCe que vous allez faire (et apprendre)\n\nRattaché(e) au Responsable de rayon, vous contribuez activement à l'accueil et au conseil client,\n\nà la gestion et à l'animation du fruits et légumes, tout en développant des compétences en gestion des produits, merchandising et fidélisation clients.\n\nVotre manager sera chargé de vous accompagner dans votre montée en compétences et de suivre votre évolution. Autrement dit : vous serez au cœur du concret, entre produits et clients.\n\n \n\nDes missions aux saveurs bien dosées :\n\n- Accueillir, conseiller et fidéliser les clients\n\n- Réceptionner, contrôler et mettre en rayon les produits\n\n- Assurer la tenue du rayon et le réapprovisionnement\n\n- Participer à la mise en avant des promotions et nouveautés\n\n \n\nDes atouts bien cultivés :\n\n- Étudiant(e) en formation vente/commerce\n\n- Un bon relationnel et le sens du service client\n\n- Un intérêt pour les produits frais et le travail en équipe\n\n- Du dynamisme, une réelle motivation et de la rigueur\n\n \n\nParce que vous ne comptez pas pour du beurre, nous vous proposons :\n\n- Prime individuelle mensuelle\n\n- 520€ de bons cadeaux par an\n\n \n\nProcessus de recrutement :\n\n1. Premier contact téléphonique avec votre futur manager\n\n2. Si ça colle, vous rencontrez votre futur manager\n\n \n\nPrêt(e) à relever le défi et à devenir un véritable ambassadeur de nos filières ?\n\n \n\nRejoignez-nous et faites rayonner l'excellence de nos produits auprès de milliers de clients chaque jour !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d57",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564074"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PROSOL",
-      "description": "Qui sommes-nous?\n\nChaque jour, nos équipes déploient toutes leurs forces et leurs savoir-faire pour proposer les meilleurs produits dans nos magasins Grand Frais.\n\nNous offrons les produits les plus frais, les plus savoureux et les plus diversifiés au sein de nos univers : fruits et légumes, marée, crèmerie, boucherie, charcuterie, traiteur et volaille.\n\nBons produits, bon sens, bonne ambiance. Rejoignez les passionnés du bon !",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.29Z",
-          "label": "Autres commerces de détail alimentaires en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=TWFub25TY2FuZmYuMzE4MjguNjcwNkBwcm9zb2wuYXBsaXRyYWsuY29t",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Vendeur fruits et légumes/marée Grand frais (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Lieu : site peu desservi par les transports en commun\n\nDurée : 12 à 24 mois - à partir de septembre 2026\n\nNiveau : Idéalement niveau CAP\n\n \n\nAu quotidien :\n\n- On démarre tôt pour garantir la fraicheur de nos produits\n\n- Rotation des équipes jusqu'à la fermeture du magasin\n\n- Port de charges\n\n \n\nVos missions au sein du rayon fruits et légumes/marée :\n\n * L'accueil client, le conseil et la fidélisation,\n * La réception, le contrôle et la mise en rayon des produits,\n * La tenue du rayon et le réapprovisionnement,\n * Le respect des normes d'hygiène et de la charte de retrait des produits.\n\nVotre profil :\n\nVotre envie de rejoindre notre univers fruits et légumes/marée et votre personnalité nous intéressent.\n\nVous aimez :\n\n * Le contact client,\n * Les bons produits,\n * Le travail en équipe.\n\nVous vous reconnaissez dans cette offre ? Postulez et rejoignez une entreprise offrant de belles perspectives d'évolution !\n\nNous vous proposons :\n\nUn contrat en alternance entre 12 et 24 mois,\nUne rémunération selon l'âge et le niveau de formation,\nChaque heure supplémentaire rémunérée,\nDes bons d'achat mensuels à valoir dans nos enseignes,\nUne formation par notre École des Métiers du Frais pour faire de vous un véritable spécialiste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:33:00.000Z",
-        "expiration": "2026-09-30T00:33:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d50",
-      "partner_label": "France Travail",
-      "partner_job_id": "5564059"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "UCANSS",
-      "description": "Organisme de Sécurité Sociale",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "65.12Z",
-          "label": "Autres assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.aplitrak.com/?adid=Y2Fyc2F0cm91c3NpbGxvbi43NjYwMy42NzA2QHVjYW5zcy5hcGxpdHJhay5jb20",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Accueil en agence retraite - 2009 (H/F)",
-      "rome_codes": [
-        "M1601"
-      ],
-      "description": "Contexte\n\nLa Carsat, ça vous parle ?\n\nIl s'agit d'un organisme de sécurité sociale qui mène trois grandes missions de service public :\n\n * La préparation et le paiement des retraites,\n * L'accompagnement des assurés fragilisés,\n * La prévention-tarification des risques professionnels.\n\nD'un rayonnement régional, notre structure de droit privé de 800 salariés intervient auprès d'une pluralité d'acteurs : actifs, retraités et les entreprises.\n\nNous rejoindre, c'est intégrer des équipes impliquées et motivées au service des assurés, qui proposent une information et des services neutres, fiables et sans intérêt commercial.\n\nMission/Activités\n\nNous recherchons un alternant-une alternante pour occuper le poste de Coordonnateur-Coordinatrice d'accueil en agence retraite.\n\nVéritable pilier de la relation assurés, vous jouez un rôle essentiel en apportant écoute, clarté et réponses à chaque arrivée.\n\nAu quotidien, vous offrez une orientation précise grâce à votre capacité à analyser rapidement les situations.\n\nConcrètement vous aurez pour missions de :\n\n * Assurer le premier niveau de renseignement des assurés,\n * Contribuer à la promotion de service retraite de la CARSAT,\n * Assurer l'orientation des sollicitations de niveau 2 vers les bons interlocuteurs\n\nInformations complémentaires\n\nModalités du poste : \n\n * Nature du contrat : contrat d'alternance\n * Durée de l'alternance : 2 ans\n * Lieu de travail : Agence retraite de Montpellier\n * Date de prise de fonction : 01/09/2026\n * Modalités et méthodes de recrutement : Test éventuel et entretien en présentiel au sein de notre siège social, qui se dérouleront sur le mois de juin.\n\nRémunération : \n\n * Rémunération de référence : 1 917 € bruts mensuels (niveau 3). Le salaire de l'apprenti-apprentie sera calculé sur cette base, dans le respect des dispositions légales et réglementaires applicables aux contrats d'apprentissage.\n * En complément, vous bénéficierez des titres-restaurants et d'une participation de l'employeur à la complémentaire santé.\n\nIntégrer la Carsat L-R, c'est aussi intégrer une entreprise :\n\n * Engagée dans le bien-être au travail et la conciliation vie pro/vie perso,\n * Inscrite dans une politique de développement durable (abonnement transport, forfait mobilité, .),\n * Proposant de nombreux avantages complémentaires (primes diverses, offres CE, .).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T00:32:59.000Z",
-        "expiration": "2026-09-30T00:32:59.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6a1c0d1afdac9d88494845",
       "partner_label": "OPCO EP",
       "partner_job_id": "6a6a1c0d1afdac9d88494845"
@@ -26529,68 +25541,6 @@
       "publication": {
         "creation": "2026-07-23T09:51:45.775Z",
         "expiration": "2026-09-23T09:51:45.775Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a877ebd62ee9421b6910a18",
-      "partner_label": "France Travail",
-      "partner_job_id": "5342227"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55752627?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Approvisionneur F/H",
-      "rome_codes": [
-        "N1303"
-      ],
-      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de chefs d'entreprise indépendants ! Ce sont aussi  collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.Au sein du Groupement Mousquetaires, l'approvisionnement des  points de vente Intermarché et Netto est assurée par ITM LAI (logistique alimentaire). Notre filiale intégrée, spécialisée dans la logistique et le transport, rassemble plus de  collaborateurs. Notre objectif : garantir des livraisons 100 % conformes aux engagements de qualité et de délais.Chaque année, nos 36 entrepôts traitent près d'un milliard de colis.\n\nEnvie de découvrir les coulisses de la logistique et de comprendre comment les bons produits arrivent au bon endroit, au bon moment ?Au sein d'une logistique en mouvement et en pleine croissance, nous recherchons un(e) apprenti(e) en approvisionnement pour rejoindre le pôle Approvisionnement Epicerie sucrée basstrong&gt;Beziers.\nIntégré(e) à une équipe conviviale et accompagné(e) tout au long de l'alternance, vous découvrirez progressivement les enjeux de la gestion des flux et de la disponibilité des produits dans nos bases logistiques.Au fil de l'alternance, les missions pourront notamment consisterp&gt;? Suivre l'approvisionnement d'un portefeuille de produits et de fournisseurs;\n? Participer au suivi des stocks et à la gestion des commandes;\n? Échanger avec différents interlocuteurs : fournisseurs, équipes achats et bases logistiques;\n? Contribuer à l'analyse des ruptures et à la sécurisation des approvisionnements;\n? Suivre des indicateurs d'activité et participer à la construction de tableaux de bord;\n? Prendre part à des projets transverses liés à la supply chain.?Une alternance idéale pour découvrir concrètement le métier d'approvisionneur et comprendre les rouages de la chaîne logistique.\n\nNous rejoindre en alternance, c'est :Découvrir un métier clé de la supply chain; Être accompagné(e) par une équipe expérimentée et disponible;Monter progressivement en compétences sur des missions concrètes; Évoluer dans un environnement dynamique et collaboratif.Nous proposons également :Un environnement attentif à la qualité de vie au travail et à l'inclusion;Une rémunération sur 13 mois;Des avantages sociaux : mutuelle, dispositifs d'intéressement selon conditions, tickets restaurantli&gt; Seules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).https://www.carrieres-mousquetaires.com/node/",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-22T12:10:12.000Z",
-        "expiration": "2026-09-22T12:10:12.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -27781,6 +26731,130 @@
   },
   {
     "identifier": {
+      "id": "6a90b8451d31377ab1f6fb6e",
+      "partner_label": "France Travail",
+      "partner_job_id": "4888405"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55653091?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Responsable Communication et Marketing Digital - Montpellier (F/H)",
+      "rome_codes": [
+        "E1109"
+      ],
+      "description": "Rattaché à la gérante de l'entreprise, vos missions seront de :Définir et faire évoluer la stratégie de communication globale, Renforcer le positionnement haut de gamme, Assurer la cohérence de l'image de la Maison, Adapter la communication en fonction de la cible BtoB et BtoC, Concevoir, rédiger et envoyer des newsletters avec le logiciel BREVO, Élaborer le calendrier éditorial, programmation, Créer, rédiger et publier des contenus,",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-12T03:48:57.000Z",
+        "expiration": "2026-09-12T03:48:57.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a90b8441d31377ab1f6fb53",
+      "partner_label": "France Travail",
+      "partner_job_id": "4871544"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55638727?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant(e) RH - Septembre 2026 - Montpellier (F/H)",
+      "rome_codes": [
+        "M1503"
+      ],
+      "description": "Missions principales : Vous assistez l'équipe de direction dans l'exercice de ses fonctions, en assurant la gestion des dossiers des ressources humaines, la qualité, l'encadrement des soins ainsi que la communication dans le respect des procédures et des dispositions réglementaires. Plus précisément vos missions seront les suivantes:\nAdministration et gestion du personnel :\nParticiper à l'élaboration des plannings et gérer les entrées et les sorties du personnel (rédaction contrats et avenants, DPAE, registre du personnel.)\nEffectuer la gestion des temps et activités sous le logiciel OCTIME (suivi des différents types d'absences, contrôle des heures supplémentaires...)\nTenir à jour les dossiers du personnel et faire circuler les informations\nPaie :\nSaisir les éléments variables\nVérifier les bulletins de salaire\nRéaliser et valider les soldes de tout compte\nRecrutement :\nRédiger et publier des annonces\nRechercher des remplacements\nGérer l'intégration des collaborateurs\nFormation :\nOrganiser et mettre en œuvre des formations internes et externes\nÉtablir les conventions de formation\nEffectuer le suivi des formations\nQualité :\nMettre à jour les protocoles qualité\nRéaliser des audits internes\nSaisie et suivi des questionnaires de satisfaction (patients, personnel, restauration.)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-11T15:49:54.000Z",
+        "expiration": "2026-09-11T15:49:54.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a517396dea3d72aa2304f77",
       "partner_label": "France Travail",
       "partner_job_id": "4783941"
@@ -28361,68 +27435,6 @@
       "publication": {
         "creation": "2026-06-30T21:20:54.000Z",
         "expiration": "2026-08-30T21:20:54.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a877ebd62ee9421b6910a1a",
-      "partner_label": "France Travail",
-      "partner_job_id": "4331036"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34990 Juvignac",
-        "geopoint": {
-          "coordinates": [
-            3.801257,
-            43.620712
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55461121?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOUCHERS H/F",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous sélectionnerez les viandes et assurerez leur transformation (désossage, dégraissage, découpe) et leur conservation. Vous assurerez la présentation marchande des produits (théâtralisation, clarté des prix et de l'information, etc.) en respectant la réglementation spécifique au rayon (traçabilité, étiquetage, hygiène qualité). Vous préparerez les commandes clients. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-06-27T18:40:41.000Z",
-        "expiration": "2026-08-27T18:40:41.000Z"
       },
       "opening_count": 1,
       "status": "Active"
