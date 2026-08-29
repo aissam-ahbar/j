@@ -11454,6 +11454,335 @@
   },
   {
     "identifier": {
+      "id": "6a920a97e67033cb14ec91a9",
+      "partner_label": "France Travail",
+      "partner_job_id": "213CCSG"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CCSG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti cuisinier / cuisinière en alternance  (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Poste d'apprentissage du métier de cuisinier dans un restaurant traditionnel de centre ville de Montpellier en alternance avec une formation théorique chez HC Conseil.\nle contrat sera un CDD d'une année à 35h hebdomadaire. \nOrganisation :1 journée de 7 heures par semaine en formation chez HC conseil et 4 jours dans le restaurant. \nL'objectif sera durant cette année d'apprendre toutes les bases de la cuisine. Tous les postes seront exploités et l'ensemble du référentiel pour apprendre le métier sera exécuté. Le restaurant forme des apprentis depuis plus de 15 ans. Vous serez toujours encadré mais l'objectif est que vous acquerriez rapidement votre autonomie.\n\nVotre atout pour ce poste: du dynamisme, de la motivation, l'envie d'apprendre, être organisé, respecter les règles d'hygiène.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T16:12:58.589Z",
+        "expiration": "2026-10-28T16:12:58.589Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a6",
+      "partner_label": "France Travail",
+      "partner_job_id": "6391323"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "LEVANDIS",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2878929&NoLangue=1&NoSource=16001",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "E.Leclerc - Assistant(e) Qualité (alternance) - H/F",
+      "rome_codes": [
+        "H1527"
+      ],
+      "description": "DESCRIPTIF DE L'OFFRE\n\nE. LECLERC EST UN ACTEUR MILITANT DE L'APPRENTISSAGE. NOUS SOMMES ATTACHÉS À LA TRANSMISSION DES SAVOIR-FAIRE, ET L'ALTERNANCE EST UN BON MOYEN DE RÉUSSIR SON ENTRÉE DANS LA VIE ACTIVE. CHAQUE ANNÉE, PLUS DE 4.000 ALTERNANTS SONT ACCUEILLIS DANS L'ENSEIGNE.\n\nPOUR LA RENTRÉE DE SEPTEMBRE 2026, NOUS RECHERCHONS UN(E) ASSISTANT(E) QUALITÉ EN ALTERNANCE.\n\nAUX CÔTÉS DE LA RESPONSABLE QUALITÉ, VOUS PARTICIPEREZ AUX MISSIONS DE CONTRÔLE DE LA QUALITÉ DES PRODUITS ET DU RESPECT DE LA RÉGLEMENTATION EN VIGUEUR. VOUS PARTICIPEREZ AUX TÂCHES QUOTIDIENNES DU SERVICE DANS LE CADRE DU SUIVI DE L'HYGIÈNE ALIMENTAIRE, DES RETRAITS RAPPELS DE PRODUITS, LA PRÉPARATION DES AUDITS QUALITÉ ET DE LA CERTIFICATION DE SERVICES E. LECLERC.\n\n\nPROFIL RECHERCHÉ\n\nVOUS PRÉPAREZ UN BTS OU UNE LICENCE\n\nVOUS FAITES PREUVE DE RIGUEUR, D'AUTONOMIE, ÊTES MOTIVÉ(E) PAR LE TRAVAIL EN ÉQUIPE ET VOUS POSSÉDEZ UN BON RELATIONNEL.\n\nSI CE POSTE VOUS INTÉRESSE, N'HÉSITEZ PAS  À POSTULER POUR NOUS REJOINDRE. VOUS INTÉGREREZ L'ÉQUIPE EN CONTRAT D'APPRENTISSAGE/ALTERNANCE POUR UNE DURÉE DE 12 OU 24 MOIS.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T15:56:41.596Z",
+        "expiration": "2026-10-28T15:56:41.596Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a7",
+      "partner_label": "France Travail",
+      "partner_job_id": "213BXRH"
+    },
+    "workplace": {
+      "siret": "95381486000011",
+      "brand": "BOULANGERIE GAELLE",
+      "legal_name": "MMC PAULHAN",
+      "website": null,
+      "name": "MMC PAULHAN",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34230 Paulhan",
+        "geopoint": {
+          "coordinates": [
+            3.464212,
+            43.541973
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213BXRH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Boulanger H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "En contrat d'apprentissage pour préparer un CAP ou BP Boulangerie, vous serez en charge de la cuisson des pains, façonnage, viennoiseries...",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Caractéristiques des farines levure, additifs",
+        "Bouler et effectuer la tourne ou le façonnage des pâtons"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T14:37:52.967Z",
+        "expiration": "2026-10-28T14:37:52.967Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a5",
+      "partner_label": "France Travail",
+      "partner_job_id": "213BRXM"
+    },
+    "workplace": {
+      "siret": "33026769103330",
+      "brand": "CHAUSSEA",
+      "legal_name": "CHAUSSEA SAS",
+      "website": null,
+      "name": "CHAUSSEA SAS",
+      "description": null,
+      "size": "2 000 à 4 999 salariés",
+      "location": {
+        "address": "34130 Saint-Aunès",
+        "geopoint": {
+          "coordinates": [
+            3.962108,
+            43.63586
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 468,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.72A",
+          "label": "Commerce de détail de la chaussure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213BRXM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti/e Vendeur/se en Chaussures (H/F)",
+      "rome_codes": [
+        "D1246"
+      ],
+      "description": "Au sein d'une boutique de vente de chaussures hommes, femmes et enfants vous serez chargé/e de toutes les opérations de vente, conseil, accueil physique et téléphonique, réception des marchandises, mise en rayon, encaissement, fidélisation...\nVous serez en alternance en distanciel avec le centre de formation Chausséa pour valider une certification professionnelle de niveau Bac. Vous devez pouvoir vous rendre sur St Aunès tous les jours et être disponible les samedis.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de mise en rayon",
+        "Organiser, aménager un espace de vente",
+        "Présenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T12:24:22.057Z",
+        "expiration": "2026-10-28T12:24:22.057Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a4",
+      "partner_label": "France Travail",
+      "partner_job_id": "6383470"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56158067?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Employé polyvalent (H/F) - Montpellier (F/H)",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "Préparer et servir les clients\nÉlaborer des préparations à partir de fiches recettes\nRespecter les règles d'hygiène et veiller à l'entretien et à la propreté du local\nTraiter les commandes en ligne (livraison)\nL'encaissement des clientsCommunication sur les réseaux",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T12:20:34.301Z",
+        "expiration": "2026-10-28T12:20:34.301Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a90b9241d31377ab1f72e7a",
       "partner_label": "France Travail",
       "partner_job_id": "6344103"
@@ -11464,7 +11793,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -11526,7 +11855,7 @@
       "legal_name": "MYLO",
       "website": null,
       "name": "MYLO",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34470 Pérols",
@@ -11596,7 +11925,7 @@
       "legal_name": "MYLO",
       "website": null,
       "name": "MYLO",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34470 Pérols",
@@ -11668,7 +11997,7 @@
       "legal_name": "CABINET ZEROUATI",
       "website": null,
       "name": "CABINET ZEROUATI",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -11751,7 +12080,7 @@
       "legal_name": "LA PLATEFORME",
       "website": null,
       "name": "LA PLATEFORME",
-      "description": "",
+      "description": null,
       "size": "2 000 à 4 999 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -11821,7 +12150,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34400 Lunel",
@@ -11883,7 +12212,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -11945,7 +12274,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -12007,7 +12336,7 @@
       "legal_name": "L'ARTIMON SARL",
       "website": null,
       "name": "L'ARTIMON SARL",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34250 Palavas-les-Flots",
@@ -12065,6 +12394,77 @@
   },
   {
     "identifier": {
+      "id": "6a920a73e67033cb14ec8949",
+      "partner_label": "France Travail",
+      "partner_job_id": "212VFWP"
+    },
+    "workplace": {
+      "siret": "82442818900024",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": null,
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chef de projet / Cheffe de projet (Project Management Officer) (H/F)",
+      "rome_codes": [
+        "M1828"
+      ],
+      "description": "L'IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un Manager de projet en Agroalimentaire (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE.,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l'IFRIA Occitanie et l'Ecole Supérieure La Raque ?\n\nCette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * La création et l'amélioration de fiches produit et des standards de production,\n * La création et l'amélioration des modes opératoires\n * L'harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance\n * Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations\n * Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance.)\n\nVous définissez et planifiez les activités, maîtrisez l'échéancier et gérez les risques tout en étant garant de l'atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)\n\nEnfin vous accompagnez l'entreprise dans l'élaboration de stratégies de transformation, d'adaptation et de conduite de changement\n\n\n\nInformations complémentaires :\n\n * Lieu : Ecole à Castelnaudary - Entreprise Occitanie - PACA - AURA\n * Type de contrat : Apprentissage\n * Formation : Aucun frais de formation ne sera à la charge de l'apprenti.e\n * Rémunération selon niveau d'études + âge\n * Cette opportunité est ouverte aux personnes en situation de handicap.\n\nÀ propos de nous :\n\nL'IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.\n\nType d'emploi : Apprentissage\n\n * Vous êtes titulaire d'un BAC +3 à orientation technologique IAA, scientifique, biologie, biochimie ou gestion de projet (LP, BUT, L3.)\n * Vous avez une première expérience en Agroalimentaire (Production, Qualité...)\n * Vous êtes éligible à un contrat d'apprentissage.\n * Vous êtes organisé(e), rigoureux(se), avec un bon esprit d'analyse et un excellent relationnel.\n\nSeuls les candidats intéressés pour suivre cette formation à l'IFRIA Occitanie pourront être présentés à l'entreprise et bénéficier de notre accompagnement (coaching) dans leur recherche d'alternance.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Allouer et organiser les ressources d'un projet selon les besoins et contraintes",
+        "Assurer la conformité des livrables de projet",
+        "Expliquer et faire respecter les règles et procédures",
+        "Planifier et suivre les échéances de projet",
+        "Préparer et animer une réunion, un groupe de travail, un atelier"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T11:24:34.564Z",
+        "expiration": "2026-10-24T11:24:34.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a8cc49ab62614f04244a551",
       "partner_label": "France Travail",
       "partner_job_id": "212VFVH"
@@ -12075,7 +12475,7 @@
       "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
       "website": null,
       "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -12145,7 +12545,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34120 Pézenas",
@@ -12210,7 +12610,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -12275,7 +12675,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34400 Lunel",
@@ -12340,7 +12740,7 @@
       "legal_name": null,
       "website": null,
       "name": "INTERIM NATION MONTPELLIER",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34970 Lattes",
@@ -12405,7 +12805,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34140 Mèze",
@@ -12467,7 +12867,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -12529,7 +12929,7 @@
       "legal_name": "MIZADOCK",
       "website": null,
       "name": "MIZADOCK",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34560 Villeveyrac",
@@ -12587,75 +12987,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a13",
-      "partner_label": "France Travail",
-      "partner_job_id": "212SDZS"
-    },
-    "workplace": {
-      "siret": "84986640500012",
-      "brand": null,
-      "legal_name": "NIL",
-      "website": null,
-      "name": "NIL",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SDZS",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE Serveur / Serveuse de restaurant (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Réaliser la mise en place de la salle et de l'office",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T15:34:18.252Z",
-        "expiration": "2026-10-20T15:34:18.252Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a877ebd62ee9421b6910a11",
       "partner_label": "France Travail",
       "partner_job_id": "6142715"
@@ -12666,7 +12997,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -12728,7 +13059,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34300 Agde",
@@ -12790,7 +13121,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -12852,7 +13183,7 @@
       "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
       "website": null,
       "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "description": "",
+      "description": null,
       "size": "20 à 49 salariés",
       "location": {
         "address": "34590 Marsillargues",
@@ -12917,7 +13248,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -12987,7 +13318,7 @@
       "legal_name": null,
       "website": null,
       "name": "ENSIO",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -13052,7 +13383,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34130 Mauguio",
@@ -13114,7 +13445,7 @@
       "legal_name": "SARL CHEZ AZORIN",
       "website": null,
       "name": "SARL CHEZ AZORIN",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34700 Lodève",
@@ -13181,7 +13512,7 @@
       "legal_name": "LUCARA",
       "website": null,
       "name": "LUCARA",
-      "description": "",
+      "description": null,
       "size": "20 à 49 salariés",
       "location": {
         "address": "34110 Frontignan",
@@ -13250,7 +13581,7 @@
       "legal_name": "LUIS FERREIRA",
       "website": null,
       "name": "LUIS FERREIRA",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34520 Le Caylar",
@@ -13321,7 +13652,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -13383,7 +13714,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34570 Vailhauquès",
@@ -13445,7 +13776,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34200 Sète",
@@ -13507,7 +13838,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -13569,7 +13900,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13631,7 +13962,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13693,7 +14024,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34970 Lattes",
@@ -13755,7 +14086,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13817,7 +14148,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13879,7 +14210,7 @@
       "legal_name": null,
       "website": null,
       "name": "Ninkasi",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -13944,7 +14275,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34450 Vias",
@@ -14014,7 +14345,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34550 Bessan",
@@ -14094,7 +14425,7 @@
       "legal_name": "AGMENCE",
       "website": null,
       "name": "AGMENCE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34500 Béziers",
@@ -14161,7 +14492,7 @@
       "legal_name": "BK SAINT JEAN",
       "website": null,
       "name": "BK SAINT JEAN",
-      "description": "",
+      "description": null,
       "size": "50 à 99 salariés",
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -14226,7 +14557,7 @@
       "legal_name": null,
       "website": null,
       "name": "Dyneff SAS",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -14288,7 +14619,7 @@
       "legal_name": "PIMADOCI",
       "website": null,
       "name": "PIMADOCI",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34340 Marseillan",
@@ -14355,7 +14686,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34230 Bélarga",
@@ -14425,7 +14756,7 @@
       "legal_name": "HOTELLERIE DE BALAJAN",
       "website": null,
       "name": "HOTELLERIE DE BALAJAN",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34110 Vic-la-Gardiole",
@@ -14494,7 +14825,7 @@
       "legal_name": "FELICE",
       "website": null,
       "name": "FELICE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -14561,7 +14892,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34320 Margon",
@@ -14635,7 +14966,7 @@
       "legal_name": "MOAELI",
       "website": null,
       "name": "MOAELI",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34000 Montpellier",
@@ -14704,7 +15035,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34320 Margon",
@@ -14771,7 +15102,7 @@
       "legal_name": "FRANCK PROVOST COIFFURE",
       "website": null,
       "name": "FRANCK PROVOST COIFFURE",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34470 Pérols",
@@ -14841,7 +15172,7 @@
       "legal_name": null,
       "website": null,
       "name": "Groupe Nicollin",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -14906,7 +15237,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34140 Mèze",
@@ -14986,7 +15317,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34110 Frontignan",
@@ -15066,7 +15397,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34120 Pézenas",
@@ -15137,7 +15468,7 @@
       "legal_name": null,
       "website": null,
       "name": "NOLA COFFEE",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -15199,7 +15530,7 @@
       "legal_name": "SCIC LA PALANQUEE",
       "website": null,
       "name": "SCIC LA PALANQUEE",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -15264,7 +15595,7 @@
       "legal_name": "STANDYR",
       "website": null,
       "name": "STANDYR",
-      "description": "",
+      "description": null,
       "size": "250 à 499 salariés",
       "location": {
         "address": "34540 Balaruc-le-Vieux",
@@ -15329,7 +15660,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34440 Colombiers",
@@ -15397,7 +15728,7 @@
       "legal_name": "BIKKIBEACH",
       "website": null,
       "name": "BIKKIBEACH",
-      "description": "",
+      "description": null,
       "size": "1 ou 2 salariés",
       "location": {
         "address": "34420 Portiragnes",
@@ -15458,79 +15789,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a3618",
-      "partner_label": "France Travail",
-      "partner_job_id": "212DKJG"
-    },
-    "workplace": {
-      "siret": "56292047002395",
-      "brand": "POINT.P.",
-      "legal_name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "website": null,
-      "name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "description": "",
-      "size": "1 000 à 1 999 salariés",
-      "location": {
-        "address": "34190 Ganges",
-        "geopoint": {
-          "coordinates": [
-            3.710699,
-            43.937614
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "46.73A",
-          "label": "Commerce de gros (commerce interentreprises) de bois et de matériaux de construction"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=317306&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur Conseil (H/F) - Ganges (34)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Pourquoi a-t-on besoin de vous?\nTu es à la recherche d'une expérience enrichissante, où tu apprendras à accompagner des clients professionnels et particuliers dans leurs projets de construction et à développer tes compétences commerciales ? Rejoins nous en tant que Vendeur.se Conseil en alternance !\n\nVoici tes principales missions :\n Tu es un véritable ambassadeur auprès de nos clients\n Tu accueilles nos clients dans le point de vente et tu les conseilles sur la meilleure solution pour leurs projets.\n Tu veux devenir un expert de la vente\n Tu vends l'ensemble de notre gamme de produits et services et tu animes les actions commerciales en cours.\n Tu élabores des devis adaptés aux projets des clients et les transformes en commandes.\n Tu es un as de l'organisation (et du jeu Tetris )\n Tu contribues à l'attractivité et à la bonne tenue de l'espace de vente.\nLa mise en avant de nos produits et étiquetages n'auront plus de secrets pour toi!\nEnfin, nous te ferons découvrir les moments importants dans la vie d'une agence, comme les inventaires tournants, les évènements clients, les opérations commerciales...\n \nCe poste est-il fait pour vous ?\n Étudiant(e) en Bac +2/3, c'est surtout ta personnalité qui fera la différence !\n Tu es curieux.se, à l'écoute et motivé.e pour apprendre les techniques de vente et découvrir les produits du bâtiment\n Tu aimes le contact humain et tu es reconnu(e) pour ton sens du service\n Tu fais preuve d'énergie et de rigueur pour mener tes missions avec autonomie et organisation\n Tu es à l'aise avec les outils informatiques et tu as envie de développer de nouvelles compétences techniques\n Une première expérience dans la vente ou une appétence pour le secteur du bâtiment est un plus, mais ta motivation fera la différence !",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T09:10:57.048Z",
-        "expiration": "2026-10-06T09:10:57.048Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a73b923ae98af4affb657bb",
       "partner_label": "France Travail",
       "partner_job_id": "212DDFC"
@@ -15541,7 +15799,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34990 Juvignac",
@@ -15608,7 +15866,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34570 Vailhauquès",
@@ -15676,7 +15934,7 @@
       "legal_name": null,
       "website": null,
       "name": "Super U",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34790 Grabels",
@@ -15741,7 +15999,7 @@
       "legal_name": "SOCIETE NATIONALE SNCF",
       "website": null,
       "name": "SOCIETE NATIONALE SNCF",
-      "description": "",
+      "description": null,
       "size": "10 000 salariés et plus",
       "location": {
         "address": "34000 Montpellier",
@@ -15812,7 +16070,7 @@
       "legal_name": "ODONATES",
       "website": null,
       "name": "ODONATES",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34750 Villeneuve-lès-Maguelone",
@@ -15880,7 +16138,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -15942,7 +16200,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34550 Bessan",
@@ -16097,7 +16355,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34980 Montferrier-sur-Lez",
@@ -16166,7 +16424,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34340 Marseillan",
@@ -16246,7 +16504,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34450 Vias",
@@ -16326,7 +16584,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34300 Agde",
@@ -16406,7 +16664,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34270 Saint-Mathieu-de-Tréviers",
@@ -16459,6 +16717,68 @@
       "publication": {
         "creation": "2026-07-28T10:02:30.139Z",
         "expiration": "2026-09-28T10:02:30.139Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6539706cce1228eac7d408",
+      "partner_label": "France Travail",
+      "partner_job_id": "5436641"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34350 Vendres",
+        "geopoint": {
+          "coordinates": [
+            3.240806,
+            43.26519
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54382535?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Facteur / Factrice (H/F)",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "Description du poste :\n\nVous préparez et distribuez le courrier auprès d'une clientèle de particuliers et d'entreprises en respectant les standards de qualité de service. Vous développez au quotidien une relation de qualité avec vos clients. Vous contribuez au développement du chiffre d'affaires en commercialisant les produits courrier et services de proximité.\n\nSens de la relation client, esprit d'équipe et de service.\n\nAu sein d'une plateforme de distribution de courrier/colis, le facteur (H/F) prépare et distribue le courrier et les colis auprès d'une clientèle de particuliers et d'entreprises, en respectant les standards de qualité de service. Avec l'évolution de l'offre de La Poste Groupe, le facteur est également amené à proposer des services de proximité auprès des clients.\n\nLes missions Vous distribuez courriers et colis quotidiennement Vous réalisez des services de proximité en assurant une relation client de qualité Vous êtes en charge de promouvoir les offres du Groupe La Poste Vous réalisez , en sécurité, des livraisons ponctuelles ou régulières avec un véhicule utilitaire léger pour des particuliers ou des entreprises, vous adaptez l'organisation de la tournée en fonction des contraintes et vous adoptez une attitude commerciale lors de la livraison ou du dépôt ou lors des enlèvements de marchandises.\n\nDescription du profil Être éligible au contrat d'apprentissage* (moins de 30 ans à la signature du contrat) et/ou de professionnalisation (pas de limite d'âge, être demandeur d'emploi)\n* Justifier d'un niveau brevet des collèges\n* Être titulaire du permis B boite manuelle (au plus tard le jour de la signature du contrat, un permis B automatique sera considéré comme un permis en cours)\n* Justifier d'une expérience professionnelle de 3 mois minimum (stages et jobs d'été inclus Avoir un casier judiciaire vierge (Bulletin numéro 3)\n\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe.\n\n*conformément aux dispositions légales, pas de limite d'âge pour les personnes reconnues travailleurs handicapés",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-25T03:19:38.000Z",
+        "expiration": "2026-09-25T03:19:38.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16542,7 +16862,7 @@
       "legal_name": "MICHEL GONZALEZ",
       "website": null,
       "name": "MICHEL GONZALEZ",
-      "description": "",
+      "description": null,
       "size": "1 ou 2 salariés",
       "location": {
         "address": "34160 Saint-Geniès-des-Mourgues",
@@ -16915,73 +17235,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ea23a6cce1228eac433cf",
-      "partner_label": "France Travail",
-      "partner_job_id": "211KCBK"
-    },
-    "workplace": {
-      "siret": "41066521000051",
-      "brand": null,
-      "legal_name": "GEIQ BTP HERAULT",
-      "website": "https://www.geiqbtp34.fr",
-      "name": "GEIQ BTP HERAULT",
-      "description": "L'entrepriseDepuis 1997, le GEIQ BTP HERAULT met à disposition des entreprises adhérentes issues du secteur du BTP du personnel, par le biais de contrats en alternance.Son activité se porte sur les métiers du B T P (Bâtiment et Travaux Publics)Ses actions restent localisées sur le département de l'Hérault (bassin de Montpellier - bassin de Lunel - bassin de Béziers - bassin de Sète Ile de Thau ...) .Il recrute, pour un adhérent acteur majeur du secteur du secteur de la construction.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211KCBK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 13,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CANALISATEUR EN ALTERNANCE (H/F)",
-      "rome_codes": [
-        "F1705"
-      ],
-      "description": "Rejoignez-nous en tant que Canalisateur(trice) en Alternance !\nNous recrutons un(e) canalisateur(trice) en contrat de professionnalisation pour intégrer l'une de nos entreprises adhérentes. \nSaisissez cette occasion unique d'allier formation et expérience professionnelle au sein d'une équipe dynamique.\n\nCe que nous vous proposons :\nMissions variées et stimulantes :\n- Préparation des chantiers de canalisations enterrées ;\n- Construction de réseaux d'assainissement ;\n- Création de réseaux d'adduction d'eau potable ;\n- Et bien plus encore...\n\nProfil recherché :\n- Vous êtes motivé(e), rigoureux(se) et appréciez le travail en équipe ;\n- Vous aimez relever des défis en extérieur.\n\nDurée : 13 mois\nLieu : Lunel\nRémunération : SMIC\n\nAvantages supplémentaires :\n- Formation pratique aux côtés de professionnels expérimentés ;\n- Accompagnement personnalisé tout au long de votre parcours par un(e) tuteur(trice) dédié(e) ;\n- Suivi régulier en entreprise et en centre de formation.\n\nDes perspectives :\nUne possibilité d'évolution au sein de l'entreprise à l'issue de votre contrat !\n\nNe laissez pas passer cette opportunité ! Postulez dès maintenant et commencez une carrière passionnante dans un secteur en pleine croissance.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Assembler des manchons, chaussettes, joints, vannes et robinets"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T11:08:59.750Z",
-        "expiration": "2026-09-20T11:08:59.750Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5d50536cce1228eac37bad",
       "partner_label": "France Travail",
       "partner_job_id": "5118937"
@@ -17054,7 +17307,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34190 Ganges",
@@ -17124,7 +17377,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -17310,7 +17563,7 @@
       "legal_name": "VOLETS 34",
       "website": null,
       "name": "VOLETS 34",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34740 Vendargues",
@@ -17384,7 +17637,7 @@
       "legal_name": "ANNE-CATHERINE FONTAINE",
       "website": null,
       "name": "ANNE-CATHERINE FONTAINE",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34520 Le Caylar",
@@ -17445,80 +17698,6 @@
   },
   {
     "identifier": {
-      "id": "6a5809b2dea3d72aa233dd53",
-      "partner_label": "France Travail",
-      "partner_job_id": "211FBJP"
-    },
-    "workplace": {
-      "siret": "84521083000012",
-      "brand": null,
-      "legal_name": "SAS THERON THIERRY METIERS DU FER",
-      "website": null,
-      "name": "SAS THERON THIERRY METIERS DU FER",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.32B",
-          "label": "Travaux de menuiserie métallique et serrurerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FBJP",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Métallier (H/F)",
-      "rome_codes": [
-        "B1601"
-      ],
-      "description": "Titulaire du CAP métallier , vous préparerez le BP métallier en alternance\n\nQualités recherchées: sérieux et motivation pour apprendre le métier\n\nLe serrurier-métallier travaille tout type de construction métallique (serrurerie, rampe d'escalier, porte, fenêtre, véranda, pont, passerelle...).\nVous apprendrez à  fabriquer un ouvrage ou une de ses parties et analyser les dessins et la gamme de fabrication, choisir le moyen à mettre en œuvre.\n\nVous serez aussi amené à intervenir sur de la restauration de monuments historiques.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de soudure",
-        "Relever et reporter des cotes",
-        "Découper du métal",
-        "Réaliser les travaux de montage, d'assemblage",
-        "Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-15T11:14:36.969Z",
-        "expiration": "2026-09-15T11:14:36.969Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5809b2dea3d72aa233dd58",
       "partner_label": "France Travail",
       "partner_job_id": "211CNHY"
@@ -17529,7 +17708,7 @@
       "legal_name": "NOELIE",
       "website": null,
       "name": "NOELIE",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34980 Saint-Gély-du-Fesc",
@@ -17599,7 +17778,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -17661,7 +17840,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -17775,77 +17954,6 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3b2",
-      "partner_label": "France Travail",
-      "partner_job_id": "210XWLQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.12A",
-          "label": "Travaux de terrassement courants et travaux préparatoires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XWLQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Mécanicien réparateur / Mécanicienne réparatrice poids lourds (H/F)",
-      "rome_codes": [
-        "I1613"
-      ],
-      "description": "RECRUTEMENT APPRENTI(E) MÉCANICIEN(NE) TP H/F \n\nLa SARL ROUVIER, entreprise basée à Lodève (34), spécialisée dans les travaux publics - Terrassement et VRD, recherche un(e) apprenti(e) Mécanicien(ne) TP pour accompagner le développement de ses activités.\n\n&gt; Votre mission : \n\nEncadré(e) par notre responsable d'atelier et intégré(e) à nos équipes, vous participerez à l'entretien et à la réparation de nos matériels TP :\n\n      - Préparation des pièces et de l'outillage avant intervention ;\n      - Entretien préventif et curatif des engins TP ;\n      - Participation aux diagnostics des pannes ;\n      - Réalisation des opérations de maintenance (vidanges, graissage, contrôles...) ;\n       - Vérification du bon fonctionnement des matériels après intervention ;\n       - Respect des règles de sécurité et participation à l'organisation de l'atelier.\n\nCette formation vous permettra d'acquérir une expérience concrète de la maintenance des matériels TP et de développer progressivement vos compétences techniques.\n\n&gt; Profil recherché\n\n Vous préparez un diplôme dans le domaine de la maintenance des matériels :\n\n      - CAP Maintenance des Matériels TP ;\n      - Bac Professionnel Maintenance des Matériels ;\n      - BTS MMCM ou formation équivalente.\n\n&gt; Vous êtes :\n\n        - Motivé(e) et impliqué(e) ;\n - Organisé(e) et rigoureux(se) ;\n - À l'aise avec le travail en équipe ;\n - Attiré(e) par le terrain et les responsabilités.\n\nLe permis B constitue un atout.\n\n&gt; Ce que nous vous offrons :\n\n - Un accompagnement personnalisé tout au long de votre formation ;\n - Une immersion au cœur de projets variés ;\n - Une montée en compétences progressive auprès de professionnels expérimentés ;\n - De réelles perspectives d'évolution au sein de l'entreprise.\n\n Lieu : Lodève (34)\n Contrat : Apprentissage / Alternance\n Prise de poste : À définir selon le calendrier de formation\n\nRejoignez la SARL ROUVIER !\nVous souhaitez apprendre un métier d'avenir, développer vos compétences sur le terrain et participer à des projets concrets ?",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'entretien de véhicules",
-        "Techniques de réparation rapide",
-        "Assurer la maintenance des outils et équipements de l'atelier",
-        "Déposer et Poser des équipements et accessoires des véhicules industriels",
-        "Déterminer une solution technique de remise en état du véhicule et des équipements"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-08T12:02:39.899Z",
-        "expiration": "2026-09-08T12:02:39.899Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7f951e9e6c7d0c91e10366",
       "partner_label": "France Travail",
       "partner_job_id": "210XSNB"
@@ -17856,7 +17964,7 @@
       "legal_name": "AU PETIT MEZOIS",
       "website": null,
       "name": "AU PETIT MEZOIS",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34140 Mèze",
@@ -17913,76 +18021,6 @@
   },
   {
     "identifier": {
-      "id": "6a4d82c5dea3d72aa22e0c7a",
-      "partner_label": "France Travail",
-      "partner_job_id": "210WXJX"
-    },
-    "workplace": {
-      "siret": "35188924100011",
-      "brand": null,
-      "legal_name": "SARL ROUVIER",
-      "website": null,
-      "name": "SARL ROUVIER",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1702,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.12A",
-          "label": "Travaux de terrassement courants et travaux préparatoires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210WXJX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef / Cheffe de chantier du BTP (H/F)",
-      "rome_codes": [
-        "F1202"
-      ],
-      "description": "La SARL ROUVIER, entreprise basée à Lodève (34), spécialisée dans les travaux publics -\nTerrassement et VRD, recherche un(e) apprenti(e) Chef de Chantier pour accompagner le\ndéveloppement de ses activités.\nVotre mission\nEncadré(e) par un tuteur expérimenté et intégré(e) à nos équipes, vous participerez à la\ngestion et au suivi de nos chantiers :\n- Préparation et organisation des travaux ;\n- Suivi de l'avancement des chantiers ;\n- Coordination des équipes et des intervenants ;\n- Gestion des approvisionnements et du matériel ;\n- Contrôle du respect des délais, de la qualité et des règles de sécurité ;\n- Participation aux réunions et au reporting de chantier.\nCette formation vous permettra d'acquérir une expérience concrète du terrain et de développer\nprogressivement vos compétences en management et en conduite de travaux.\nProfil recherché\n Vous préparez un diplôme dans le domaine du BTP :\n- BTS Bâtiment ou Travaux Publics ;\n- BUT Génie Civil ;\n- Licence Professionnelle ;\n- École d'ingénieur ou formation équivalente.\n Vous êtes :\n- Motivé(e) et impliqué(e) ;\n- Organisé(e) et rigoureux(se) ;\n- À l'aise avec le travail en équipe ;\n- Attiré(e) par le terrain et les responsabilités.\nLe permis B constitue un atout.\nCe que nous vous offrons\n- Un accompagnement personnalisé tout au long de votre formation ;\n- Une immersion au cœur de projets variés ;\n- Une montée en compétences progressive auprès de professionnels expérimentés ;\n- De réelles perspectives d'évolution au sein de l'entreprise.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Préparer l'exécution du chantier"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T16:23:36.603Z",
-        "expiration": "2026-09-07T16:23:36.603Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4d82c3dea3d72aa22e0c2d",
       "partner_label": "France Travail",
       "partner_job_id": "4629409"
@@ -17993,7 +18031,7 @@
       "legal_name": null,
       "website": null,
       "name": "Qualiconsult Exploitation",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -18234,6 +18272,335 @@
   },
   {
     "identifier": {
+      "id": "6a920a97e67033cb14ec91a9",
+      "partner_label": "France Travail",
+      "partner_job_id": "213CCSG"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CCSG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti cuisinier / cuisinière en alternance  (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Poste d'apprentissage du métier de cuisinier dans un restaurant traditionnel de centre ville de Montpellier en alternance avec une formation théorique chez HC Conseil.\nle contrat sera un CDD d'une année à 35h hebdomadaire. \nOrganisation :1 journée de 7 heures par semaine en formation chez HC conseil et 4 jours dans le restaurant. \nL'objectif sera durant cette année d'apprendre toutes les bases de la cuisine. Tous les postes seront exploités et l'ensemble du référentiel pour apprendre le métier sera exécuté. Le restaurant forme des apprentis depuis plus de 15 ans. Vous serez toujours encadré mais l'objectif est que vous acquerriez rapidement votre autonomie.\n\nVotre atout pour ce poste: du dynamisme, de la motivation, l'envie d'apprendre, être organisé, respecter les règles d'hygiène.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T16:12:58.589Z",
+        "expiration": "2026-10-28T16:12:58.589Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a6",
+      "partner_label": "France Travail",
+      "partner_job_id": "6391323"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "LEVANDIS",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2878929&NoLangue=1&NoSource=16001",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "E.Leclerc - Assistant(e) Qualité (alternance) - H/F",
+      "rome_codes": [
+        "H1527"
+      ],
+      "description": "DESCRIPTIF DE L'OFFRE\n\nE. LECLERC EST UN ACTEUR MILITANT DE L'APPRENTISSAGE. NOUS SOMMES ATTACHÉS À LA TRANSMISSION DES SAVOIR-FAIRE, ET L'ALTERNANCE EST UN BON MOYEN DE RÉUSSIR SON ENTRÉE DANS LA VIE ACTIVE. CHAQUE ANNÉE, PLUS DE 4.000 ALTERNANTS SONT ACCUEILLIS DANS L'ENSEIGNE.\n\nPOUR LA RENTRÉE DE SEPTEMBRE 2026, NOUS RECHERCHONS UN(E) ASSISTANT(E) QUALITÉ EN ALTERNANCE.\n\nAUX CÔTÉS DE LA RESPONSABLE QUALITÉ, VOUS PARTICIPEREZ AUX MISSIONS DE CONTRÔLE DE LA QUALITÉ DES PRODUITS ET DU RESPECT DE LA RÉGLEMENTATION EN VIGUEUR. VOUS PARTICIPEREZ AUX TÂCHES QUOTIDIENNES DU SERVICE DANS LE CADRE DU SUIVI DE L'HYGIÈNE ALIMENTAIRE, DES RETRAITS RAPPELS DE PRODUITS, LA PRÉPARATION DES AUDITS QUALITÉ ET DE LA CERTIFICATION DE SERVICES E. LECLERC.\n\n\nPROFIL RECHERCHÉ\n\nVOUS PRÉPAREZ UN BTS OU UNE LICENCE\n\nVOUS FAITES PREUVE DE RIGUEUR, D'AUTONOMIE, ÊTES MOTIVÉ(E) PAR LE TRAVAIL EN ÉQUIPE ET VOUS POSSÉDEZ UN BON RELATIONNEL.\n\nSI CE POSTE VOUS INTÉRESSE, N'HÉSITEZ PAS  À POSTULER POUR NOUS REJOINDRE. VOUS INTÉGREREZ L'ÉQUIPE EN CONTRAT D'APPRENTISSAGE/ALTERNANCE POUR UNE DURÉE DE 12 OU 24 MOIS.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T15:56:41.596Z",
+        "expiration": "2026-10-28T15:56:41.596Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a7",
+      "partner_label": "France Travail",
+      "partner_job_id": "213BXRH"
+    },
+    "workplace": {
+      "siret": "95381486000011",
+      "brand": "BOULANGERIE GAELLE",
+      "legal_name": "MMC PAULHAN",
+      "website": null,
+      "name": "MMC PAULHAN",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34230 Paulhan",
+        "geopoint": {
+          "coordinates": [
+            3.464212,
+            43.541973
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213BXRH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Boulanger H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "En contrat d'apprentissage pour préparer un CAP ou BP Boulangerie, vous serez en charge de la cuisson des pains, façonnage, viennoiseries...",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Caractéristiques des farines levure, additifs",
+        "Bouler et effectuer la tourne ou le façonnage des pâtons"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T14:37:52.967Z",
+        "expiration": "2026-10-28T14:37:52.967Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a5",
+      "partner_label": "France Travail",
+      "partner_job_id": "213BRXM"
+    },
+    "workplace": {
+      "siret": "33026769103330",
+      "brand": "CHAUSSEA",
+      "legal_name": "CHAUSSEA SAS",
+      "website": null,
+      "name": "CHAUSSEA SAS",
+      "description": null,
+      "size": "2 000 à 4 999 salariés",
+      "location": {
+        "address": "34130 Saint-Aunès",
+        "geopoint": {
+          "coordinates": [
+            3.962108,
+            43.63586
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 468,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.72A",
+          "label": "Commerce de détail de la chaussure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213BRXM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti/e Vendeur/se en Chaussures (H/F)",
+      "rome_codes": [
+        "D1246"
+      ],
+      "description": "Au sein d'une boutique de vente de chaussures hommes, femmes et enfants vous serez chargé/e de toutes les opérations de vente, conseil, accueil physique et téléphonique, réception des marchandises, mise en rayon, encaissement, fidélisation...\nVous serez en alternance en distanciel avec le centre de formation Chausséa pour valider une certification professionnelle de niveau Bac. Vous devez pouvoir vous rendre sur St Aunès tous les jours et être disponible les samedis.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de mise en rayon",
+        "Organiser, aménager un espace de vente",
+        "Présenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T12:24:22.057Z",
+        "expiration": "2026-10-28T12:24:22.057Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a920a97e67033cb14ec91a4",
+      "partner_label": "France Travail",
+      "partner_job_id": "6383470"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56158067?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Employé polyvalent (H/F) - Montpellier (F/H)",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "Préparer et servir les clients\nÉlaborer des préparations à partir de fiches recettes\nRespecter les règles d'hygiène et veiller à l'entretien et à la propreté du local\nTraiter les commandes en ligne (livraison)\nL'encaissement des clientsCommunication sur les réseaux",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-28T12:20:34.301Z",
+        "expiration": "2026-10-28T12:20:34.301Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a90b9241d31377ab1f72e7a",
       "partner_label": "France Travail",
       "partner_job_id": "6344103"
@@ -18244,7 +18611,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -18371,7 +18738,7 @@
       "legal_name": null,
       "website": null,
       "name": "EDF",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "Saint-marcel 34230 Saint-Pargoire",
@@ -18576,7 +18943,7 @@
       "legal_name": "MYLO",
       "website": null,
       "name": "MYLO",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34470 Pérols",
@@ -18646,7 +19013,7 @@
       "legal_name": "MYLO",
       "website": null,
       "name": "MYLO",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34470 Pérols",
@@ -18784,7 +19151,7 @@
       "legal_name": "CABINET ZEROUATI",
       "website": null,
       "name": "CABINET ZEROUATI",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -18933,7 +19300,7 @@
       "legal_name": "LA PLATEFORME",
       "website": null,
       "name": "LA PLATEFORME",
-      "description": "",
+      "description": null,
       "size": "2 000 à 4 999 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -19069,7 +19436,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34400 Lunel",
@@ -19131,7 +19498,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -19193,7 +19560,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -19255,7 +19622,7 @@
       "legal_name": "L'ARTIMON SARL",
       "website": null,
       "name": "L'ARTIMON SARL",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34250 Palavas-les-Flots",
@@ -19313,9 +19680,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168af6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212749"
     },
     "workplace": {
       "siret": null,
@@ -19326,11 +19693,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "Place Alexandre Laissac 34000 Montpellier",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.87658,
+            43.605936
           ],
           "type": "Point"
         }
@@ -19342,7 +19709,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
       "phone": null,
       "recipient_id": null
     },
@@ -19359,7 +19726,7 @@
       "rome_codes": [
         "M1603"
       ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19437,9 +19804,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -19450,11 +19817,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.87658,
-            43.605936
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -19466,7 +19833,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -19483,7 +19850,7 @@
       "rome_codes": [
         "M1603"
       ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19628,6 +19995,77 @@
   },
   {
     "identifier": {
+      "id": "6a920a73e67033cb14ec8949",
+      "partner_label": "France Travail",
+      "partner_job_id": "212VFWP"
+    },
+    "workplace": {
+      "siret": "82442818900024",
+      "brand": null,
+      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "website": null,
+      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3109,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "94.99Z",
+          "label": "Autres organisations fonctionnant par adhésion volontaire"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chef de projet / Cheffe de projet (Project Management Officer) (H/F)",
+      "rome_codes": [
+        "M1828"
+      ],
+      "description": "L'IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un Manager de projet en Agroalimentaire (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE.,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l'IFRIA Occitanie et l'Ecole Supérieure La Raque ?\n\nCette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * La création et l'amélioration de fiches produit et des standards de production,\n * La création et l'amélioration des modes opératoires\n * L'harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance\n * Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations\n * Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance.)\n\nVous définissez et planifiez les activités, maîtrisez l'échéancier et gérez les risques tout en étant garant de l'atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)\n\nEnfin vous accompagnez l'entreprise dans l'élaboration de stratégies de transformation, d'adaptation et de conduite de changement\n\n\n\nInformations complémentaires :\n\n * Lieu : Ecole à Castelnaudary - Entreprise Occitanie - PACA - AURA\n * Type de contrat : Apprentissage\n * Formation : Aucun frais de formation ne sera à la charge de l'apprenti.e\n * Rémunération selon niveau d'études + âge\n * Cette opportunité est ouverte aux personnes en situation de handicap.\n\nÀ propos de nous :\n\nL'IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.\n\nType d'emploi : Apprentissage\n\n * Vous êtes titulaire d'un BAC +3 à orientation technologique IAA, scientifique, biologie, biochimie ou gestion de projet (LP, BUT, L3.)\n * Vous avez une première expérience en Agroalimentaire (Production, Qualité...)\n * Vous êtes éligible à un contrat d'apprentissage.\n * Vous êtes organisé(e), rigoureux(se), avec un bon esprit d'analyse et un excellent relationnel.\n\nSeuls les candidats intéressés pour suivre cette formation à l'IFRIA Occitanie pourront être présentés à l'entreprise et bénéficier de notre accompagnement (coaching) dans leur recherche d'alternance.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Allouer et organiser les ressources d'un projet selon les besoins et contraintes",
+        "Assurer la conformité des livrables de projet",
+        "Expliquer et faire respecter les règles et procédures",
+        "Planifier et suivre les échéances de projet",
+        "Préparer et animer une réunion, un groupe de travail, un atelier"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-24T11:24:34.564Z",
+        "expiration": "2026-10-24T11:24:34.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a8cc49ab62614f04244a551",
       "partner_label": "France Travail",
       "partner_job_id": "212VFVH"
@@ -19638,7 +20076,7 @@
       "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
       "website": null,
       "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -19910,7 +20348,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34120 Pézenas",
@@ -19975,7 +20413,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -20040,7 +20478,7 @@
       "legal_name": null,
       "website": null,
       "name": "ACTUAL TALENT",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34400 Lunel",
@@ -20105,7 +20543,7 @@
       "legal_name": null,
       "website": null,
       "name": "Fiducial",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34120 Pézenas",
@@ -20171,7 +20609,7 @@
       "legal_name": null,
       "website": null,
       "name": "INTERIM NATION MONTPELLIER",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34970 Lattes",
@@ -20236,7 +20674,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34140 Mèze",
@@ -20298,7 +20736,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -20423,7 +20861,7 @@
       "legal_name": "MIZADOCK",
       "website": null,
       "name": "MIZADOCK",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34560 Villeveyrac",
@@ -20481,75 +20919,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a13",
-      "partner_label": "France Travail",
-      "partner_job_id": "212SDZS"
-    },
-    "workplace": {
-      "siret": "84986640500012",
-      "brand": null,
-      "legal_name": "NIL",
-      "website": null,
-      "name": "NIL",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212SDZS",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE Serveur / Serveuse de restaurant (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Réaliser la mise en place de la salle et de l'office",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T15:34:18.252Z",
-        "expiration": "2026-10-20T15:34:18.252Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a877ebd62ee9421b6910a11",
       "partner_label": "France Travail",
       "partner_job_id": "6142715"
@@ -20560,7 +20929,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -20622,7 +20991,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34300 Agde",
@@ -20684,7 +21053,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -20746,7 +21115,7 @@
       "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
       "website": null,
       "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "description": "",
+      "description": null,
       "size": "20 à 49 salariés",
       "location": {
         "address": "34590 Marsillargues",
@@ -20811,7 +21180,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -20881,7 +21250,7 @@
       "legal_name": "PEOPLESPHERES",
       "website": "https://rhalternance.com/companies/peoplespheres-8767267",
       "name": "PEOPLESPHERES",
-      "description": "",
+      "description": null,
       "size": "50 à 99 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -20947,7 +21316,7 @@
       "legal_name": null,
       "website": null,
       "name": "ENSIO",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -21012,7 +21381,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34130 Mauguio",
@@ -21074,7 +21443,7 @@
       "legal_name": "SARL CHEZ AZORIN",
       "website": null,
       "name": "SARL CHEZ AZORIN",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34700 Lodève",
@@ -21141,7 +21510,7 @@
       "legal_name": "LUCARA",
       "website": null,
       "name": "LUCARA",
-      "description": "",
+      "description": null,
       "size": "20 à 49 salariés",
       "location": {
         "address": "34110 Frontignan",
@@ -21210,7 +21579,7 @@
       "legal_name": "LUIS FERREIRA",
       "website": null,
       "name": "LUIS FERREIRA",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34520 Le Caylar",
@@ -21281,7 +21650,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -21343,7 +21712,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34570 Vailhauquès",
@@ -21405,7 +21774,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34200 Sète",
@@ -21467,7 +21836,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -21529,7 +21898,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -21591,7 +21960,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -21653,7 +22022,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34970 Lattes",
@@ -21715,7 +22084,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -21777,7 +22146,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -21839,7 +22208,7 @@
       "legal_name": null,
       "website": null,
       "name": "Ninkasi",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -21904,7 +22273,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34450 Vias",
@@ -21974,7 +22343,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34550 Bessan",
@@ -22054,7 +22423,7 @@
       "legal_name": "AGMENCE",
       "website": null,
       "name": "AGMENCE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34500 Béziers",
@@ -22121,7 +22490,7 @@
       "legal_name": null,
       "website": null,
       "name": "L'industrie recrute",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -22253,7 +22622,7 @@
       "legal_name": null,
       "website": null,
       "name": "L'industrie recrute",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -22319,7 +22688,7 @@
       "legal_name": null,
       "website": null,
       "name": "E.Leclerc",
-      "description": "<p>Les 533 adhérents E.Leclerc exploitant 726 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 41 milliards d'euros (hors carburant) en 2021 et est le leader de la distribution française avec une part de marché de 22.5%.</p> <p>Employeurs engagés, les centres E.Leclerc accueillent chaque année près de 4.000 alternants (dont 2800 apprentis) et 10.000 stagiaires pour concourir à leur formation. Ils s'investissent ��galement aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
+      "description": "<p>Les 533 adhérents E.Leclerc exploitant 726 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 41 milliards d'euros (hors carburant) en 2021 et est le leader de la distribution française avec une part de marché de 22.5%.</p> <p>Employeurs engagés, les centres E.Leclerc accueillent chaque année près de 4.000 alternants (dont 2800 apprentis) et 10.000 stagiaires pour concourir à leur formation. Ils s'investissent également aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
       "size": null,
       "location": {
         "address": "34500 Béziers",
@@ -22382,7 +22751,7 @@
       "legal_name": "BK SAINT JEAN",
       "website": null,
       "name": "BK SAINT JEAN",
-      "description": "",
+      "description": null,
       "size": "50 à 99 salariés",
       "location": {
         "address": "34430 Saint-Jean-de-Védas",
@@ -22447,7 +22816,7 @@
       "legal_name": null,
       "website": null,
       "name": "Dyneff SAS",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -22509,7 +22878,7 @@
       "legal_name": "PIMADOCI",
       "website": null,
       "name": "PIMADOCI",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34340 Marseillan",
@@ -22576,7 +22945,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34230 Bélarga",
@@ -22646,7 +23015,7 @@
       "legal_name": "HOTELLERIE DE BALAJAN",
       "website": null,
       "name": "HOTELLERIE DE BALAJAN",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34110 Vic-la-Gardiole",
@@ -22715,7 +23084,7 @@
       "legal_name": "FELICE",
       "website": null,
       "name": "FELICE",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -22916,7 +23285,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34320 Margon",
@@ -22990,7 +23359,7 @@
       "legal_name": "MOAELI",
       "website": null,
       "name": "MOAELI",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34000 Montpellier",
@@ -23059,7 +23428,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34320 Margon",
@@ -23126,7 +23495,7 @@
       "legal_name": "FRANCK PROVOST COIFFURE",
       "website": null,
       "name": "FRANCK PROVOST COIFFURE",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34470 Pérols",
@@ -23263,7 +23632,7 @@
       "legal_name": null,
       "website": null,
       "name": "Groupe Nicollin",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -23328,7 +23697,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34140 Mèze",
@@ -23408,7 +23777,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34110 Frontignan",
@@ -23488,7 +23857,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34120 Pézenas",
@@ -23625,7 +23994,7 @@
       "legal_name": null,
       "website": null,
       "name": "NOLA COFFEE",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -23687,7 +24056,7 @@
       "legal_name": "SCIC LA PALANQUEE",
       "website": null,
       "name": "SCIC LA PALANQUEE",
-      "description": "",
+      "description": null,
       "size": "6 à 9 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -23752,7 +24121,7 @@
       "legal_name": "STANDYR",
       "website": null,
       "name": "STANDYR",
-      "description": "",
+      "description": null,
       "size": "250 à 499 salariés",
       "location": {
         "address": "34540 Balaruc-le-Vieux",
@@ -23817,7 +24186,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34440 Colombiers",
@@ -23885,7 +24254,7 @@
       "legal_name": "BIKKIBEACH",
       "website": null,
       "name": "BIKKIBEACH",
-      "description": "",
+      "description": null,
       "size": "1 ou 2 salariés",
       "location": {
         "address": "34420 Portiragnes",
@@ -24012,79 +24381,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a3618",
-      "partner_label": "France Travail",
-      "partner_job_id": "212DKJG"
-    },
-    "workplace": {
-      "siret": "56292047002395",
-      "brand": "POINT.P.",
-      "legal_name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "website": null,
-      "name": "LA MERIDIONALE DES BOIS ET MATERIAUX",
-      "description": "",
-      "size": "1 000 à 1 999 salariés",
-      "location": {
-        "address": "34190 Ganges",
-        "geopoint": {
-          "coordinates": [
-            3.710699,
-            43.937614
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "46.73A",
-          "label": "Commerce de gros (commerce interentreprises) de bois et de matériaux de construction"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://joinus.saint-gobain.com/description?nPostingTargetId=317306&id=Q2FFK026203F3VBQBLO7V8M1O&LG=FR&languageSelect=FR&cType=JobBoard&sType=FranceTravail",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur Conseil (H/F) - Ganges (34)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Pourquoi a-t-on besoin de vous?\nTu es à la recherche d'une expérience enrichissante, où tu apprendras à accompagner des clients professionnels et particuliers dans leurs projets de construction et à développer tes compétences commerciales ? Rejoins nous en tant que Vendeur.se Conseil en alternance !\n\nVoici tes principales missions :\n Tu es un véritable ambassadeur auprès de nos clients\n Tu accueilles nos clients dans le point de vente et tu les conseilles sur la meilleure solution pour leurs projets.\n Tu veux devenir un expert de la vente\n Tu vends l'ensemble de notre gamme de produits et services et tu animes les actions commerciales en cours.\n Tu élabores des devis adaptés aux projets des clients et les transformes en commandes.\n Tu es un as de l'organisation (et du jeu Tetris )\n Tu contribues à l'attractivité et à la bonne tenue de l'espace de vente.\nLa mise en avant de nos produits et étiquetages n'auront plus de secrets pour toi!\nEnfin, nous te ferons découvrir les moments importants dans la vie d'une agence, comme les inventaires tournants, les évènements clients, les opérations commerciales...\n \nCe poste est-il fait pour vous ?\n Étudiant(e) en Bac +2/3, c'est surtout ta personnalité qui fera la différence !\n Tu es curieux.se, à l'écoute et motivé.e pour apprendre les techniques de vente et découvrir les produits du bâtiment\n Tu aimes le contact humain et tu es reconnu(e) pour ton sens du service\n Tu fais preuve d'énergie et de rigueur pour mener tes missions avec autonomie et organisation\n Tu es à l'aise avec les outils informatiques et tu as envie de développer de nouvelles compétences techniques\n Une première expérience dans la vente ou une appétence pour le secteur du bâtiment est un plus, mais ta motivation fera la différence !",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-06T09:10:57.048Z",
-        "expiration": "2026-10-06T09:10:57.048Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a73b923ae98af4affb657bb",
       "partner_label": "France Travail",
       "partner_job_id": "212DDFC"
@@ -24095,7 +24391,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34990 Juvignac",
@@ -24162,7 +24458,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34570 Vailhauquès",
@@ -24230,7 +24526,7 @@
       "legal_name": null,
       "website": null,
       "name": "Super U",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34790 Grabels",
@@ -24295,7 +24591,7 @@
       "legal_name": "SOCIETE NATIONALE SNCF",
       "website": null,
       "name": "SOCIETE NATIONALE SNCF",
-      "description": "",
+      "description": null,
       "size": "10 000 salariés et plus",
       "location": {
         "address": "34000 Montpellier",
@@ -24366,7 +24662,7 @@
       "legal_name": "ODONATES",
       "website": null,
       "name": "ODONATES",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34750 Villeneuve-lès-Maguelone",
@@ -24434,7 +24730,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -24496,7 +24792,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34550 Bessan",
@@ -24651,7 +24947,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34980 Montferrier-sur-Lez",
@@ -24785,7 +25081,7 @@
       "legal_name": "PEOPLESPHERES",
       "website": "https://rhalternance.com/companies/peoplespheres-8767267",
       "name": "PEOPLESPHERES",
-      "description": "",
+      "description": null,
       "size": "50 à 99 salariés",
       "location": {
         "address": "34000 Montpellier",
@@ -24981,7 +25277,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34340 Marseillan",
@@ -25061,7 +25357,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34450 Vias",
@@ -25141,7 +25437,7 @@
       "legal_name": "VITALLIANCE",
       "website": null,
       "name": "VITALLIANCE",
-      "description": "",
+      "description": null,
       "size": "5 000 à 9 999 salariés",
       "location": {
         "address": "34300 Agde",
@@ -25221,7 +25517,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34270 Saint-Mathieu-de-Tréviers",
@@ -25340,6 +25636,68 @@
       "publication": {
         "creation": "2026-07-26T18:12:21.156Z",
         "expiration": "2026-09-18T01:00:58.869Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a6539706cce1228eac7d408",
+      "partner_label": "France Travail",
+      "partner_job_id": "5436641"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34350 Vendres",
+        "geopoint": {
+          "coordinates": [
+            3.240806,
+            43.26519
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54382535?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Facteur / Factrice (H/F)",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "Description du poste :\n\nVous préparez et distribuez le courrier auprès d'une clientèle de particuliers et d'entreprises en respectant les standards de qualité de service. Vous développez au quotidien une relation de qualité avec vos clients. Vous contribuez au développement du chiffre d'affaires en commercialisant les produits courrier et services de proximité.\n\nSens de la relation client, esprit d'équipe et de service.\n\nAu sein d'une plateforme de distribution de courrier/colis, le facteur (H/F) prépare et distribue le courrier et les colis auprès d'une clientèle de particuliers et d'entreprises, en respectant les standards de qualité de service. Avec l'évolution de l'offre de La Poste Groupe, le facteur est également amené à proposer des services de proximité auprès des clients.\n\nLes missions Vous distribuez courriers et colis quotidiennement Vous réalisez des services de proximité en assurant une relation client de qualité Vous êtes en charge de promouvoir les offres du Groupe La Poste Vous réalisez , en sécurité, des livraisons ponctuelles ou régulières avec un véhicule utilitaire léger pour des particuliers ou des entreprises, vous adaptez l'organisation de la tournée en fonction des contraintes et vous adoptez une attitude commerciale lors de la livraison ou du dépôt ou lors des enlèvements de marchandises.\n\nDescription du profil Être éligible au contrat d'apprentissage* (moins de 30 ans à la signature du contrat) et/ou de professionnalisation (pas de limite d'âge, être demandeur d'emploi)\n* Justifier d'un niveau brevet des collèges\n* Être titulaire du permis B boite manuelle (au plus tard le jour de la signature du contrat, un permis B automatique sera considéré comme un permis en cours)\n* Justifier d'une expérience professionnelle de 3 mois minimum (stages et jobs d'été inclus Avoir un casier judiciaire vierge (Bulletin numéro 3)\n\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe.\n\n*conformément aux dispositions légales, pas de limite d'âge pour les personnes reconnues travailleurs handicapés",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-25T03:19:38.000Z",
+        "expiration": "2026-09-25T03:19:38.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -25489,7 +25847,7 @@
       "legal_name": "MICHEL GONZALEZ",
       "website": null,
       "name": "MICHEL GONZALEZ",
-      "description": "",
+      "description": null,
       "size": "1 ou 2 salariés",
       "location": {
         "address": "34160 Saint-Geniès-des-Mourgues",
@@ -25611,68 +25969,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb6f",
       "partner_label": "France Travail",
       "partner_job_id": "5205256"
@@ -25720,6 +26016,68 @@
         "I1606"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb67",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205301"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -25862,73 +26220,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ea23a6cce1228eac433cf",
-      "partner_label": "France Travail",
-      "partner_job_id": "211KCBK"
-    },
-    "workplace": {
-      "siret": "41066521000051",
-      "brand": null,
-      "legal_name": "GEIQ BTP HERAULT",
-      "website": "https://www.geiqbtp34.fr",
-      "name": "GEIQ BTP HERAULT",
-      "description": "L'entrepriseDepuis 1997, le GEIQ BTP HERAULT met à disposition des entreprises adhérentes issues du secteur du BTP du personnel, par le biais de contrats en alternance.Son activité se porte sur les métiers du B T P (Bâtiment et Travaux Publics)Ses actions restent localisées sur le département de l'Hérault (bassin de Montpellier - bassin de Lunel - bassin de Béziers - bassin de Sète Ile de Thau ...) .Il recrute, pour un adhérent acteur majeur du secteur du secteur de la construction.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211KCBK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 13,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CANALISATEUR EN ALTERNANCE (H/F)",
-      "rome_codes": [
-        "F1705"
-      ],
-      "description": "Rejoignez-nous en tant que Canalisateur(trice) en Alternance !\nNous recrutons un(e) canalisateur(trice) en contrat de professionnalisation pour intégrer l'une de nos entreprises adhérentes. \nSaisissez cette occasion unique d'allier formation et expérience professionnelle au sein d'une équipe dynamique.\n\nCe que nous vous proposons :\nMissions variées et stimulantes :\n- Préparation des chantiers de canalisations enterrées ;\n- Construction de réseaux d'assainissement ;\n- Création de réseaux d'adduction d'eau potable ;\n- Et bien plus encore...\n\nProfil recherché :\n- Vous êtes motivé(e), rigoureux(se) et appréciez le travail en équipe ;\n- Vous aimez relever des défis en extérieur.\n\nDurée : 13 mois\nLieu : Lunel\nRémunération : SMIC\n\nAvantages supplémentaires :\n- Formation pratique aux côtés de professionnels expérimentés ;\n- Accompagnement personnalisé tout au long de votre parcours par un(e) tuteur(trice) dédié(e) ;\n- Suivi régulier en entreprise et en centre de formation.\n\nDes perspectives :\nUne possibilité d'évolution au sein de l'entreprise à l'issue de votre contrat !\n\nNe laissez pas passer cette opportunité ! Postulez dès maintenant et commencez une carrière passionnante dans un secteur en pleine croissance.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Assembler des manchons, chaussettes, joints, vannes et robinets"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-20T11:08:59.750Z",
-        "expiration": "2026-09-20T11:08:59.750Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5d50536cce1228eac37bad",
       "partner_label": "France Travail",
       "partner_job_id": "5118937"
@@ -26001,7 +26292,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34190 Ganges",
@@ -26071,7 +26362,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34110 Frontignan",
@@ -26257,7 +26548,7 @@
       "legal_name": "VOLETS 34",
       "website": null,
       "name": "VOLETS 34",
-      "description": "",
+      "description": null,
       "size": "10 à 19 salariés",
       "location": {
         "address": "34740 Vendargues",
@@ -26331,7 +26622,7 @@
       "legal_name": "ANNE-CATHERINE FONTAINE",
       "website": null,
       "name": "ANNE-CATHERINE FONTAINE",
-      "description": "",
+      "description": null,
       "size": "Non diffusé",
       "location": {
         "address": "34520 Le Caylar",
@@ -26587,80 +26878,6 @@
   },
   {
     "identifier": {
-      "id": "6a5809b2dea3d72aa233dd53",
-      "partner_label": "France Travail",
-      "partner_job_id": "211FBJP"
-    },
-    "workplace": {
-      "siret": "84521083000012",
-      "brand": null,
-      "legal_name": "SAS THERON THIERRY METIERS DU FER",
-      "website": null,
-      "name": "SAS THERON THIERRY METIERS DU FER",
-      "description": "",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.32B",
-          "label": "Travaux de menuiserie métallique et serrurerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211FBJP",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Métallier (H/F)",
-      "rome_codes": [
-        "B1601"
-      ],
-      "description": "Titulaire du CAP métallier , vous préparerez le BP métallier en alternance\n\nQualités recherchées: sérieux et motivation pour apprendre le métier\n\nLe serrurier-métallier travaille tout type de construction métallique (serrurerie, rampe d'escalier, porte, fenêtre, véranda, pont, passerelle...).\nVous apprendrez à  fabriquer un ouvrage ou une de ses parties et analyser les dessins et la gamme de fabrication, choisir le moyen à mettre en œuvre.\n\nVous serez aussi amené à intervenir sur de la restauration de monuments historiques.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de soudure",
-        "Relever et reporter des cotes",
-        "Découper du métal",
-        "Réaliser les travaux de montage, d'assemblage",
-        "Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-15T11:14:36.969Z",
-        "expiration": "2026-09-15T11:14:36.969Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5809b2dea3d72aa233dd58",
       "partner_label": "France Travail",
       "partner_job_id": "211CNHY"
@@ -26671,7 +26888,7 @@
       "legal_name": "NOELIE",
       "website": null,
       "name": "NOELIE",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34980 Saint-Gély-du-Fesc",
@@ -26741,7 +26958,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -26803,7 +27020,7 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -26984,77 +27201,6 @@
   },
   {
     "identifier": {
-      "id": "6a4ed03adea3d72aa22ed3b2",
-      "partner_label": "France Travail",
-      "partner_job_id": "210XWLQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "",
-      "size": null,
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.12A",
-          "label": "Travaux de terrassement courants et travaux préparatoires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210XWLQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Mécanicien réparateur / Mécanicienne réparatrice poids lourds (H/F)",
-      "rome_codes": [
-        "I1613"
-      ],
-      "description": "RECRUTEMENT APPRENTI(E) MÉCANICIEN(NE) TP H/F \n\nLa SARL ROUVIER, entreprise basée à Lodève (34), spécialisée dans les travaux publics - Terrassement et VRD, recherche un(e) apprenti(e) Mécanicien(ne) TP pour accompagner le développement de ses activités.\n\n&gt; Votre mission : \n\nEncadré(e) par notre responsable d'atelier et intégré(e) à nos équipes, vous participerez à l'entretien et à la réparation de nos matériels TP :\n\n      - Préparation des pièces et de l'outillage avant intervention ;\n      - Entretien préventif et curatif des engins TP ;\n      - Participation aux diagnostics des pannes ;\n      - Réalisation des opérations de maintenance (vidanges, graissage, contrôles...) ;\n       - Vérification du bon fonctionnement des matériels après intervention ;\n       - Respect des règles de sécurité et participation à l'organisation de l'atelier.\n\nCette formation vous permettra d'acquérir une expérience concrète de la maintenance des matériels TP et de développer progressivement vos compétences techniques.\n\n&gt; Profil recherché\n\n Vous préparez un diplôme dans le domaine de la maintenance des matériels :\n\n      - CAP Maintenance des Matériels TP ;\n      - Bac Professionnel Maintenance des Matériels ;\n      - BTS MMCM ou formation équivalente.\n\n&gt; Vous êtes :\n\n        - Motivé(e) et impliqué(e) ;\n - Organisé(e) et rigoureux(se) ;\n - À l'aise avec le travail en équipe ;\n - Attiré(e) par le terrain et les responsabilités.\n\nLe permis B constitue un atout.\n\n&gt; Ce que nous vous offrons :\n\n - Un accompagnement personnalisé tout au long de votre formation ;\n - Une immersion au cœur de projets variés ;\n - Une montée en compétences progressive auprès de professionnels expérimentés ;\n - De réelles perspectives d'évolution au sein de l'entreprise.\n\n Lieu : Lodève (34)\n Contrat : Apprentissage / Alternance\n Prise de poste : À définir selon le calendrier de formation\n\nRejoignez la SARL ROUVIER !\nVous souhaitez apprendre un métier d'avenir, développer vos compétences sur le terrain et participer à des projets concrets ?",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'entretien de véhicules",
-        "Techniques de réparation rapide",
-        "Assurer la maintenance des outils et équipements de l'atelier",
-        "Déposer et Poser des équipements et accessoires des véhicules industriels",
-        "Déterminer une solution technique de remise en état du véhicule et des équipements"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-08T12:02:39.899Z",
-        "expiration": "2026-09-08T12:02:39.899Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7f951e9e6c7d0c91e10366",
       "partner_label": "France Travail",
       "partner_job_id": "210XSNB"
@@ -27065,7 +27211,7 @@
       "legal_name": "AU PETIT MEZOIS",
       "website": null,
       "name": "AU PETIT MEZOIS",
-      "description": "",
+      "description": null,
       "size": "3 à 5 salariés",
       "location": {
         "address": "34140 Mèze",
@@ -27122,76 +27268,6 @@
   },
   {
     "identifier": {
-      "id": "6a4d82c5dea3d72aa22e0c7a",
-      "partner_label": "France Travail",
-      "partner_job_id": "210WXJX"
-    },
-    "workplace": {
-      "siret": "35188924100011",
-      "brand": null,
-      "legal_name": "SARL ROUVIER",
-      "website": null,
-      "name": "SARL ROUVIER",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1702,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.12A",
-          "label": "Travaux de terrassement courants et travaux préparatoires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210WXJX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef / Cheffe de chantier du BTP (H/F)",
-      "rome_codes": [
-        "F1202"
-      ],
-      "description": "La SARL ROUVIER, entreprise basée à Lodève (34), spécialisée dans les travaux publics -\nTerrassement et VRD, recherche un(e) apprenti(e) Chef de Chantier pour accompagner le\ndéveloppement de ses activités.\nVotre mission\nEncadré(e) par un tuteur expérimenté et intégré(e) à nos équipes, vous participerez à la\ngestion et au suivi de nos chantiers :\n- Préparation et organisation des travaux ;\n- Suivi de l'avancement des chantiers ;\n- Coordination des équipes et des intervenants ;\n- Gestion des approvisionnements et du matériel ;\n- Contrôle du respect des délais, de la qualité et des règles de sécurité ;\n- Participation aux réunions et au reporting de chantier.\nCette formation vous permettra d'acquérir une expérience concrète du terrain et de développer\nprogressivement vos compétences en management et en conduite de travaux.\nProfil recherché\n Vous préparez un diplôme dans le domaine du BTP :\n- BTS Bâtiment ou Travaux Publics ;\n- BUT Génie Civil ;\n- Licence Professionnelle ;\n- École d'ingénieur ou formation équivalente.\n Vous êtes :\n- Motivé(e) et impliqué(e) ;\n- Organisé(e) et rigoureux(se) ;\n- À l'aise avec le travail en équipe ;\n- Attiré(e) par le terrain et les responsabilités.\nLe permis B constitue un atout.\nCe que nous vous offrons\n- Un accompagnement personnalisé tout au long de votre formation ;\n- Une immersion au cœur de projets variés ;\n- Une montée en compétences progressive auprès de professionnels expérimentés ;\n- De réelles perspectives d'évolution au sein de l'entreprise.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Préparer l'exécution du chantier"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-07T16:23:36.603Z",
-        "expiration": "2026-09-07T16:23:36.603Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4d82c3dea3d72aa22e0c2d",
       "partner_label": "France Travail",
       "partner_job_id": "4629409"
@@ -27202,7 +27278,7 @@
       "legal_name": null,
       "website": null,
       "name": "Qualiconsult Exploitation",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -27453,7 +27529,7 @@
       "legal_name": null,
       "website": null,
       "name": "CHU de Montpellier",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "34000 Montpellier",
@@ -27518,7 +27594,7 @@
       "legal_name": null,
       "website": null,
       "name": "DGFIP",
-      "description": "",
+      "description": null,
       "size": null,
       "location": {
         "address": "Impasse Cusset 34140 Mèze",
