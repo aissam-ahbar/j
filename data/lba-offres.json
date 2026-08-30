@@ -13173,6 +13173,73 @@
   },
   {
     "identifier": {
+      "id": "6a8e15f2a49c76b718322087",
+      "partner_label": "France Travail",
+      "partner_job_id": "212RLXM"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34720 Caux",
+        "geopoint": {
+          "coordinates": [
+            3.375498,
+            43.50905
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T09:02:13.808Z",
+        "expiration": "2026-10-20T09:02:13.808Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a877ebd62ee9421b6910a15",
       "partner_label": "France Travail",
       "partner_job_id": "212RLPH"
@@ -16128,68 +16195,6 @@
   },
   {
     "identifier": {
-      "id": "6a6e7330ae98af4affb3d4d1",
-      "partner_label": "France Travail",
-      "partner_job_id": "5667924"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://emploi.batiactu.com/offre-emploi/pointpsgdbf-alternance-vendeur-conseil--f-h--ganges-929990.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/929990",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur Conseil (f/h) (H/F)",
-      "rome_codes": [
-        "D1213"
-      ],
-      "description": "Tu es à la recherche d'une expérience enrichissante, où tu apprendras à accompagner des clients professionnels et particuliers dans leurs projets de construction et à développer tes compétences commerciales ? Rejoins nous en tant que Vendeur.se Conseil en alternance !\n\n\nVoici tes principales missions :\n\n\n Tu es un véritable ambassadeur auprès de nos clients\n\n\nTu accueilles nos clients dans le point de vente et tu les conseilles sur la meilleure solution pour leurs projets.\n\n\n Tu veux devenir un expert de la vente\n\n\nTu vends l'ensemble de notre gamme de produits et services et tu animes les actions commerciales en cours.\n\n\nTu élabores des devis adaptés aux projets des clients et les transformes en commandes.\n\n\n Tu es un as de l'organisation (et du jeu Tetris )\n\n\nTu contribues à l'attractivité et à la bonne tenue de l'espace de vente.\n\n\nLa mise en avant de nos produits et étiquetages n'auront plus de secrets pour toi!\n\n\nEnfin, nous te ferons découvrir les moments importants dans la vie d'une agence, comme les inventaires tournants, les évènements clients, les opérations commerciales...\n\n\n \n\n\nDans cette vidéo, découvre d'un peu plus près le métier de vendeur : https://youtu.be/M5Tub1pTu_w?si=0sbb9-2n6_4kTv0z",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-01T12:39:59.243Z",
-        "expiration": "2026-10-01T12:39:59.243Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -16984,68 +16989,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb67",
       "partner_label": "France Travail",
       "partner_job_id": "5205301"
@@ -17093,6 +17036,68 @@
         "I1623"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb6f",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205256"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19680,9 +19685,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -19693,11 +19698,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.87658,
-            43.605936
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -19709,7 +19714,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -19726,7 +19731,7 @@
       "rome_codes": [
         "M1603"
       ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19804,9 +19809,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168af6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212749"
     },
     "workplace": {
       "siret": null,
@@ -19817,11 +19822,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "Place Alexandre Laissac 34000 Montpellier",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.87658,
+            43.605936
           ],
           "type": "Point"
         }
@@ -19833,7 +19838,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
       "phone": null,
       "recipient_id": null
     },
@@ -19850,7 +19855,7 @@
       "rome_codes": [
         "M1603"
       ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21097,6 +21102,73 @@
       "publication": {
         "creation": "2026-08-20T12:06:51.698Z",
         "expiration": "2026-10-20T12:06:51.698Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8e15f2a49c76b718322087",
+      "partner_label": "France Travail",
+      "partner_job_id": "212RLXM"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34720 Caux",
+        "geopoint": {
+          "coordinates": [
+            3.375498,
+            43.50905
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-08-20T09:02:13.808Z",
+        "expiration": "2026-10-20T09:02:13.808Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24720,68 +24792,6 @@
   },
   {
     "identifier": {
-      "id": "6a6e7330ae98af4affb3d4d1",
-      "partner_label": "France Travail",
-      "partner_job_id": "5667924"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://emploi.batiactu.com/offre-emploi/pointpsgdbf-alternance-vendeur-conseil--f-h--ganges-929990.php?utm_source=candidat.francetravail.fr&utm_medium=referral&utm_path=/candidat/rechercheoffres/detail/idBA/929990",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Vendeur Conseil (f/h) (H/F)",
-      "rome_codes": [
-        "D1213"
-      ],
-      "description": "Tu es à la recherche d'une expérience enrichissante, où tu apprendras à accompagner des clients professionnels et particuliers dans leurs projets de construction et à développer tes compétences commerciales ? Rejoins nous en tant que Vendeur.se Conseil en alternance !\n\n\nVoici tes principales missions :\n\n\n Tu es un véritable ambassadeur auprès de nos clients\n\n\nTu accueilles nos clients dans le point de vente et tu les conseilles sur la meilleure solution pour leurs projets.\n\n\n Tu veux devenir un expert de la vente\n\n\nTu vends l'ensemble de notre gamme de produits et services et tu animes les actions commerciales en cours.\n\n\nTu élabores des devis adaptés aux projets des clients et les transformes en commandes.\n\n\n Tu es un as de l'organisation (et du jeu Tetris )\n\n\nTu contribues à l'attractivité et à la bonne tenue de l'espace de vente.\n\n\nLa mise en avant de nos produits et étiquetages n'auront plus de secrets pour toi!\n\n\nEnfin, nous te ferons découvrir les moments importants dans la vie d'une agence, comme les inventaires tournants, les évènements clients, les opérations commerciales...\n\n\n \n\n\nDans cette vidéo, découvre d'un peu plus près le métier de vendeur : https://youtu.be/M5Tub1pTu_w?si=0sbb9-2n6_4kTv0z",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-01T12:39:59.243Z",
-        "expiration": "2026-10-01T12:39:59.243Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -25063,72 +25073,6 @@
       "publication": {
         "creation": "2026-07-30T14:11:45.554Z",
         "expiration": "2026-09-28T14:11:45.552Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7f90124bf3c06efe32ce17",
-      "partner_label": "RH Alternance",
-      "partner_job_id": "341792519"
-    },
-    "workplace": {
-      "siret": "52782925300089",
-      "brand": "PEOPLESPHERES",
-      "legal_name": "PEOPLESPHERES",
-      "website": "https://rhalternance.com/companies/peoplespheres-8767267",
-      "name": "PEOPLESPHERES",
-      "description": null,
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1486,
-        "opco": "ATLAS",
-        "naf": {
-          "code": "62.02A",
-          "label": "Conseil en systèmes et logiciels informatiques"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://rhalternance.com/jobs/informatique-internet-et-telecommunication/montpellier/alternance-i-support-applicatif-cybersécurité-et-gestion-des-connaissances-341792519",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance I Support Applicatif, Cybersécurité et Gestion des connaissances",
-      "rome_codes": [
-        "M1846"
-      ],
-      "description": "Descriptif du poste : <p>En collaboration avec le Run Manager et les équipes techniques, vous participerez à des sujets variés mêlant support avancé, cybersécurité, documentation et amélioration continue :</p><p><strong>Cybersécurité &amp; Gouvernance</strong></p><ul><li><p>Participer à la formalisation et à l’amélioration continue de notre Plan d’Assurance Sécurité.</p></li><li><p>Contribuer à la documentation des mesures de sécurité relatives aux accès, à la protection des données, à la traçabilité et aux processus d’exploitation.</p></li><li><p>Accompagner les équipes dans la mise en conformité des pratiques et le suivi des exigences de sécurité.</p></li><li><p>Réaliser une veille régulière sur les menaces, les bonnes pratiques, les évolutions réglementaires et les nouvelles technologies liées à la cybersécurité et à l’IA.</p></li></ul><p><strong>Support Applicatif &amp; Production</strong></p><ul><li><p>Participer au support de niveau 3 sur les incidents complexes nécessitant une analyse approfondie.</p></li><li><p>Aider à la qualification, au suivi et à la résolution des tickets en collaboration avec les équipes Produit, Développement et Infrastructure.</p></li><li><p>Contribuer à l’amélioration de la qualité de service et des processus de gestion des incidents.</p></li></ul><p><strong>Documentation &amp; Gestion des connaissances</strong></p><ul><li><p>Rédiger et maintenir la documentation technique et fonctionnelle de nos applications.</p></li><li><p>Produire des procédures d’exploitation, guides utilisateurs, comptes rendus d’incidents et supports de référence.</p></li><li><p>Structurer et enrichir la base de connaissances afin de faciliter le partage d’information et l’autonomie des équipes.</p></li><li><p>Participer à la mise en place de standards documentaires et à l’amélioration continue des processus internes.</p></li></ul>\nProfil recherché : <ul><li>Vous préparez une formation Bac+3 à Bac+5 en informatique, cybersécurité, systèmes d’information ou domaine équivalent.</li></ul><p>Au-delà du diplôme, nous recherchons avant tout une personnalité :</p><ul><li><p>Passionné(e) par les technologies, l’intelligence artificielle, la cybersécurité et l’innovation.</p></li><li><p>Curieux(se), avec une forte envie d’apprendre et de comprendre le fonctionnement des systèmes complexes.</p></li><li><p>À l’aise avec la rédaction et capable de transformer des sujets techniques en documents clairs et structurés.</p></li><li><p>Rigoureux(se), organisé(e) et doté(e) d’un bon esprit d’analyse.</p></li><li><p>Appréciant le travail en équipe et les échanges avec des interlocuteurs variés.</p></li></ul><p><strong>Les compétences qui feront la différence</strong></p><ul><li><p>Excellentes capacités rédactionnelles et esprit de synthèse.</p></li><li><p>Sensibilité forte aux sujets de cybersécurité, de gouvernance des données et de conformité.</p></li><li><p>Appétence pour le support applicatif, l’analyse d’incidents et l’amélioration continue.</p></li><li><p>Intérêt marqué pour les nouvelles technologies, l’IA et la veille technologique.</p></li><li><p>Esprit d’initiative, autonomie progressive et envie de contribuer à des projets à fort impact.</p></li></ul><p><strong>Les + de</strong><strong>Peoplespheres</strong> <strong>:</strong></p><ul><li><p>Le poste est à pourvoir sur Montpellier dès <strong>Septembre 2026 !</strong></p></li><li><p>Nos pratiques RH permettent 2 jours de télétravail pour nos alternants !</p></li><li><p>Vous participez au développement d’une entreprise en pleine croissance et à taille humaine, avec la possibilité d’apporter votre pierre à l’édifice.</p></li><li><p>Vous travaillez sur des sujets variés mêlant SaaS, cybersécurité, IA, exploitation et gestion de la donnée.</p></li></ul><p>Nous mettons en avant nos valeurs qui sont essentielles : #Bienveillance #innovation #engagement #authenticité #performance</p><p><em>Tous nos postes sont ouverts au recrutement de travailleurs handicapés</em></p><p><em>Ils parlent de nous :</em><strong><em>https://www.glassdoor.fr/Avis/PeopleSpheres-Avis-E1148090.htm</em></strong></p>\nDéroulement des entretiens : <ul><li><p>Entretien téléphonique de 20 min avec Chloé (RH).</p></li><li><p>Entretien avec votre futur manager</p></li></ul>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-30T05:24:41.000Z",
-        "expiration": "2026-09-28T05:24:41.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -25969,68 +25913,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb67",
       "partner_label": "France Travail",
       "partner_job_id": "5205301"
@@ -26078,6 +25960,68 @@
         "I1623"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb6f",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205256"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
