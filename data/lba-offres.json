@@ -1,6 +1,716 @@
 [
   {
     "identifier": {
+      "id": "6a9a488306fad1942d120c1a",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9a488306fad1942d120c1a"
+    },
+    "workplace": {
+      "siret": "41254663200016",
+      "brand": null,
+      "legal_name": "LES GOURMANDS",
+      "website": null,
+      "name": "LES GOURMANDS",
+      "description": "ENVIE D'APPRENDRE, DE PROGRESSER ET DE FAIRE PARTIE D'UNE BELLE ÉQUIPE\nRejoins les Gourmands et forme toi auprès du chef passionné Patrice GAY dans une cuisine créative, généreuse et exigeante.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "40 AVENUE DE SAINT LAZARE 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.88725,
+            43.620384
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9a488306fad1942d120c1a/aide-de-cuisine",
+      "phone": "0612863592",
+      "recipient_id": "partners_6a9a488306fad1942d120c1a"
+    },
+    "contract": {
+      "start": "2026-09-04T04:26:43.537Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Aide de cuisine",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Le Commis de cuisine, un acteur essentiel dans la préparation des mets et la production en cuisine. Assiste les cuisiniers, chefs de partie dans la préparation des plats Prépare les ingrédients nécessaires à la confection des recettes Maintient la propreté des plans de travail et des ustensiles de cuisine Participe à la réception et au stockage des marchandises Applique les normes d'hygiène et de sécurité alimentaire Peut aider à la mise en place des plats pour le service",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tDécouper et tailler les légumes, fruits et condiments",
+        "Production, Fabrication\tEplucher des légumes et des fruits",
+        "Production, Fabrication\tManipuler des équipements de cuisine",
+        "Production, Fabrication\tOptimiser l'utilisation des ressources alimentaires",
+        "Production, Fabrication\tPréparer des ustensiles de cuisine",
+        "Production, Fabrication\tPréparer et réaliser les pâtes, appareils et crèmes pour les desserts",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tPrésenter et décorer les préparations selon les consignes",
+        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
+        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tParticiper à un inventaire",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Protection des personnes et de l'environnement\tAppliquer les écogestes dans sa pratique",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Communication\tMaintenir une communication efficace avec la direction",
+        "Communication\tS'intégrer dans l'équipe et faire preuve de coopération",
+        "Organisation\tAssurer le respect des normes de sécurité alimentaire",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+        "Organisation\tRéaliser ses activités selon les étapes et les temps impartis"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une qualification de niveau 3 (CAP) de l'hôtellerie/restauration."
+      ],
+      "publication": {
+        "creation": "2026-09-04T04:26:43.537Z",
+        "expiration": "2026-11-04T00:00:00.000Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99b9933d397359dc344553",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a99b9933d397359dc344553"
+    },
+    "workplace": {
+      "siret": "88349758800029",
+      "brand": null,
+      "legal_name": "HP2O",
+      "website": null,
+      "name": "HP2O",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "2 PASSAGE DE L’ARGELE 34980 MONTFERRIER-SUR-LEZ",
+        "geopoint": {
+          "coordinates": [
+            3.859501,
+            43.667321
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99b9933d397359dc344553/technicien-technicienne-distribution-en-eau-potable",
+      "phone": "0612369904",
+      "recipient_id": "partners_6a99b9933d397359dc344553"
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Technicien / Technicienne distribution en eau potable",
+      "rome_codes": [
+        "K2301"
+      ],
+      "description": "L'agent d'exploitation des réseaux d'assainissement joue un rôle important dans la gestion et le maintien de la salubrité des systèmes d'assainissement urbains. Inspecte et entretient les réseaux d'assainissement pour garantir leur bon fonctionnement Réalise des opérations de curage pour prévenir les obstructions et les débordements Contrôle et répare les équipements et infrastructures liés à l'assainissement Surveille les indicateurs de performance des systèmes d'assainissement et propose des améliorations Assure la conformité des opérations avec les normes de sécurité et environnementales Participe à des interventions d'urgence pour résoudre les problèmes critiques d'assainissement",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tAnalyser la qualité de l'eau par rapport à des référentiels de qualité chimique et biochimique",
+        "Production, Fabrication\tMaîtriser le fonctionnement des systèmes de distribution d'eau",
+        "Production, Fabrication\tPréparer du matériel en prévision d'un travail",
+        "Production, Fabrication\tRégler des équipements d'exploitation ou de prélèvement d'eau",
+        "Production, Fabrication\tUtiliser une caméra autoguidée",
+        "Construction\tInstaller des équipements d'exploitation ou de prélèvement d'eau",
+        "Construction\tPoser les éléments d'assainissement",
+        "Maintenance, Réparation\tIdentifier et résoudre les dysfonctionnements du réseau",
+        "Maintenance, Réparation\tMettre en oeuvre les techniques de pompage et stockage d'eau potable",
+        "Maintenance, Réparation\tMettre en oeuvre les techniques de traitement chimique de l'eau",
+        "Maintenance, Réparation\tPurger et contrôler les ventouses, entretenir les poteaux incendie et les postes de relèvement",
+        "Maintenance, Réparation\tRepérer les fuites et les obstructions d'un réseau d'assainissement",
+        "Maintenance, Réparation\tRepérer les fuites et les vulnérabilités d'un réseau d'eau potable",
+        "Maintenance, Réparation\tRéaliser le curage manuel",
+        "Maintenance, Réparation\tRéaliser le curage mécanisé, hydrodynamique, hydrocurage",
+        "Maintenance, Réparation\tRéaliser ou superviser les interventions de maintenance préventive et corrective",
+        "Prévention des risques\tAssurer la conformité des opérations de maintenance",
+        "Prévention des risques\tContrôler un réseau ou un équipement d'exploitation",
+        "Prévention des risques\tContrôler une canalisation",
+        "Prévention des risques\tEffectuer des tests de fonctionnement sur des équipements",
+        "Prévention des risques\tEvaluer les risques liés aux interventions sur les réseaux",
+        "Prévention des risques\tSurveiller le fonctionnement des systèmes d'assainissement et intervenir en cas d'anomalie",
+        "Prévention des risques\tVérifier l'étanchéité d'une tuyauterie",
+        "Qualité\tDiagnostiquer les travaux de modernisation d'un réseau d'assainissement",
+        "Qualité\tEffectuer des prélèvements pour des tests de qualité",
+        "Gestion administrative et comptable\tRédiger des rapports détaillés sur les interventions effectuées",
+        "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
+        "Organisation\tAppliquer la réglementation spécifiant les normes d'assainissement",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tFormer les nouveaux employés aux procédures d'assainissement",
+        "Organisation\tGérer les incidents et les urgences sur les sites d'assainissement",
+        "Organisation\tRespecter les normes de sécurité en vigueur",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau CAP/BEP à Bac + 2 dans le domaine du traitement de l'eau ou des travaux publics. Un concours est exigé si l'on souhaite travailler pour le compte d'une collectivité territoriale."
+      ],
+      "publication": {
+        "creation": "2026-09-03T18:16:51.644Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99b19906fad1942d11c9fb",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a99b19906fad1942d11c9fb"
+    },
+    "workplace": {
+      "siret": "83037034200024",
+      "brand": null,
+      "legal_name": "LA STRAT",
+      "website": null,
+      "name": "LA STRAT",
+      "description": "La Strat est un cabinet expert en marketing digital qui pense, exécute et enseigne les meilleures stratégies de croissance pour ses clients. En 2026, nous avons pour mission de développer le versant Formation Professionnelle de notre structure.\n\nEn votre qualité de Business Développeur / Animateur Réseau, vous êtes chargé.e de :\n\n- développer notre catalogue de formations en allant sourcer les experts métiers à même de pouvoir dispenser les formations dont nous avons détecté le besoin auprès des entreprises ;\n\n- créer et développer une relation commerciale avec les entreprises clientes de nos formations.\n\nPour candidater :\n\nEffectuez une recherche Google sur “Meilleure formation Growth Marketing”, repérez notre site, identifiez notre tarif et communiquez le nous avec votre CV.",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "6 BIS BOULEVARD BERTHELOT 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.870414,
+            43.600639
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99b19906fad1942d11c9fb/business-developer-animateur-réseau",
+      "phone": "0757835164",
+      "recipient_id": "partners_6a99b19906fad1942d11c9fb"
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Business Developer - Animateur Réseau",
+      "rome_codes": [
+        "M1707"
+      ],
+      "description": "Définit et met en oeuvre la stratégie commerciale de l'entreprise selon des objectifs de rentabilité économique. Dirige un service et coordonne une équipe. Peut organiser et développer l'activité commerciale à l'international ou un type de vente en e-commerce.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [
+        "Etre force de proposition",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Communication, Multimédia\tRédiger un cahier des charges, des spécifications techniques",
+        "Data et Nouvelles technologies\tAnalyser, exploiter, structurer des données",
+        "Gestion administrative et comptable\tConcevoir des supports de suivi et de gestion",
+        "Gestion administrative et comptable\tRéaliser des opérations liées à la gestion des ressources humaines",
+        "Gestion et contrôle\tElaborer, suivre et piloter un budget",
+        "Droit, contentieux et négociation\tEtablir les modalités de règlement d'un litige ou transmettre aux services juridiques, contentieux",
+        "Développement commercial\tAnalyser les tendances du marché pour anticiper les besoins",
+        "Développement commercial\tDéterminer le potentiel d'un client ou prospect",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tElaborer une stratégie commerciale",
+        "Développement commercial\tMettre en œuvre la stratégie commerciale de l'entreprise",
+        "Développement commercial\tOrganiser l'activité commerciale export d'une entreprise",
+        "Développement commercial\tProspecter de nouveaux clients, de nouveaux marchés",
+        "Développement commercial\tRéaliser une veille de marché, une veille concurrentielle",
+        "Stratégie de développement\tConcevoir et gérer un projet",
+        "Stratégie de développement\tPiloter une activité",
+        "Communication\tPréparer et animer une réunion, un groupe de travail, un atelier"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un diplôme de niveau Master (M1, Master professionnel, diplôme d'école de commerce, diplôme d'ingénieur, ...) dans le secteur commercial. Il est également accessible avec un diplôme de niveau Bac+2 dans le secteur commercial (commercialisation, action commerciale, ...) ou technique (agriculture, sécurité, mécanique, ...), complété par une expérience professionnelle dans le secteur commercial. La pratique d'une langue étrangère, en particulier l'anglais, peut être requise."
+      ],
+      "publication": {
+        "creation": "2026-09-03T17:42:49.092Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99a6af3d397359dc3432d5",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a99a6af3d397359dc3432d5"
+    },
+    "workplace": {
+      "siret": "10538926600013",
+      "brand": null,
+      "legal_name": "LA BELLE COTE",
+      "website": null,
+      "name": "LA BELLE COTE",
+      "description": "LA BELLE CÔTE est une boucherie de proximité spécialisée dans la sélection et la préparation de viandes de qualité. Nous mettons au cœur de notre activité le savoir-faire, la fraîcheur des produits et la satisfaction de nos clients.\n\nNous sommes une équipe dynamique et conviviale, attachée au travail bien fait et à la qualité du service. Nous recherchons des personnes motivées, sérieuses et impliquées souhaitant rejoindre notre équipe et participer au développement de notre boucherie.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "275 ROUTE DE NIMES 34170 CASTELNAU-LE-LEZ",
+        "geopoint": {
+          "coordinates": [
+            3.924363,
+            43.635414
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99a6af3d397359dc3432d5/boucher-charcutier-bouchère-charcutière",
+      "phone": "0666660208",
+      "recipient_id": "partners_6a99a6af3d397359dc3432d5"
+    },
+    "contract": {
+      "start": "2026-09-03T16:56:15.706Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boucher-charcutier / Bouchère-charcutière",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Doté(e) d'un sens aigu du détail, cet artisan de la viande garantit des produits de qualité. Sélectionne et achète les carcasses de viande chez les grossistes ou les abattoirs Découpe, désosse et prépare les pièces de viande Présente et vend la viande en respectant les normes d'hygiène et de sécurité alimentaires Conseille les clients sur le choix des produits et leur préparation Peut préparer des plats cuisinés ou des spécialités bouchères Gère les stocks et l'approvisionnement de son commerce",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Production, Fabrication\tDécouper, désosser, parer de la viande",
+        "Production, Fabrication\tIdentifier les types et morceaux de viande",
+        "Production, Fabrication\tPréparer des produits bouchers selon les commandes",
+        "Production, Fabrication\tRéaliser la salaison d'une viande",
+        "Production, Fabrication\tRéaliser le fumage d'une viande",
+        "Production, Fabrication\tVider et nettoyer des bêtes",
+        "Maintenance, Réparation\tAssurer la propreté et l'ordre dans l'espace de travail",
+        "Maintenance, Réparation\tVérifier et maintenir l'état de propreté des équipements",
+        "Qualité\tAnalyser la qualité de la viande et des produits carnés",
+        "Qualité\tContrôler la qualité et la conformité d'un produit",
+        "Qualité\tVeiller au respect des normes d'hygiène",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tGérer les commandes et l'inventaire de viandes",
+        "Gestion des stocks\tGérer les stocks de viandes et de produits associés",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion des stocks\tTrier des pièces de viande",
+        "Relation client\tAccueillir, orienter et renseigner un client",
+        "Relation client\tConseiller les clients sur les types de viandes",
+        "Relation client\tPrendre une commande client",
+        "Développement commercial\tPromouvoir les produits auprès des clients",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Boucher, un Brevet Professionnel Boucher ou un Bac Professionnel Boucher Charcutier Traiteur."
+      ],
+      "publication": {
+        "creation": "2026-09-03T16:56:15.706Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9987cd06fad1942d119a4a",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9987cd06fad1942d119a4a"
+    },
+    "workplace": {
+      "siret": "48987909800015",
+      "brand": null,
+      "legal_name": "ALLO'THENTIC",
+      "website": null,
+      "name": "ALLO'THENTIC",
+      "description": "Allo’thentic est un établissement de restauration rapide situé à Béziers, proposant une offre variée de pizzas artisanales, tacos, kebabs, sandwichs et autres produits de snacking. Nous accueillons nos clients sur place et proposons également la vente à emporter et la livraison. Notre équipe travaille dans un environnement dynamique et polyvalent, avec une attention particulière portée à la qualité des produits, à l’accueil client, à l’hygiène et au respect des procédures. L’entreprise accompagne et forme régulièrement des jeunes souhaitant acquérir une expérience professionnelle dans le secteur de la restauration.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "74 AVENUE GEORGES CLEMENCEAU 34500 BEZIERS",
+        "geopoint": {
+          "coordinates": [
+            3.219283,
+            43.347656
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9987cd06fad1942d119a4a/employé-polyvalent-employée-polyvalente-de-restaurant",
+      "phone": "0659684789",
+      "recipient_id": "partners_6a9987cd06fad1942d119a4a"
+    },
+    "contract": {
+      "start": "2026-09-07T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-09-03T14:44:29.141Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a997ffe3d397359dc34015e",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a997ffe3d397359dc34015e"
+    },
+    "workplace": {
+      "siret": "47845579304109",
+      "brand": "BOULANGERIE MARIE BLACHERE",
+      "legal_name": "BOULANGERIES BG",
+      "website": null,
+      "name": "BOULANGERIES BG",
+      "description": "Bonjour , nous recherchons 2 profils \n1 apprenti boulanger \n1 apprenti vente",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "32 ROUTE DE FABREGUES 34660 COURNONTERRAL",
+        "geopoint": {
+          "coordinates": [
+            3.728351,
+            43.557688
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "10.71A",
+          "label": "Fabrication industrielle de pain et de pâtisserie fraîche"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a997ffe3d397359dc34015e/ouvrier-boulanger-ouvrière-boulangère",
+      "phone": "0467640638",
+      "recipient_id": "partners_6a997ffe3d397359dc34015e"
+    },
+    "contract": {
+      "start": "2026-09-03T14:11:10.693Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier boulanger / Ouvrière boulangère",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles. Prépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires Conçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre Gère les stocks de matières premières et commande les fournitures nécessaires Assure la cuisson optimale de chaque produit pour garantir la meilleure qualité Peut effectuer la vente de produits de boulangerie et viennoiserie Peut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Production, Fabrication\tBouler et effectuer la tourne ou le façonnage des pâtons",
+        "Production, Fabrication\tConfectionner des viennoiseries",
+        "Production, Fabrication\tCuire des pièces de viennoiserie",
+        "Production, Fabrication\tCuire des pâtons",
+        "Production, Fabrication\tDéfourner des pains et viennoiseries",
+        "Production, Fabrication\tDévelopper de nouvelles recettes de pains et viennoiseries",
+        "Production, Fabrication\tMaîtriser les différents types de pains (traditionnel, levain, brioche, etc.) et leurs méthodes de fabrication",
+        "Production, Fabrication\tPrélever, peser et doser les matières ou produits (ingrédients, colorants, grains, etc.) sur les balances, trémies peseuses, etc",
+        "Production, Fabrication\tPétrir manuellement ou mécaniquement des pâtes",
+        "Production, Fabrication\tRégler les paramètres des machines de cuisson",
+        "Maintenance, Réparation\tAgir rapidement en cas de panne pour minimiser les interruptions",
+        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion des stocks\tVérifier les stocks de matières premières",
+        "Relation client\tAccueillir, orienter et renseigner un client",
+        "Relation client\tPrendre une commande client",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tCollaborer avec des fournisseurs pour la sélection des matières premières",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper l'image et la notoriété d'une entreprise",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Boulanger ou un Brevet Professionnel Boulanger. Des spécialisations comme la Mention Complémentaire Boulangerie spécialisée ou le BTM (Brevet Technique des Métiers) Boulanger peuvent être des atouts. "
+      ],
+      "publication": {
+        "creation": "2026-09-03T14:11:10.693Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9961bc3d397359dc33cd47",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9961bc3d397359dc33cd47"
+    },
+    "workplace": {
+      "siret": "50206157500010",
+      "brand": null,
+      "legal_name": "E.U.R.L. AU JARDIN DE LA FONTAINE",
+      "website": null,
+      "name": "E.U.R.L. AU JARDIN DE LA FONTAINE",
+      "description": "Offre d’apprentissage — CAP Fleuriste (H/F) en 2  ans\nBoutique de fleurs située à Grabels, nous recherchons notre futur(e) apprenti(e) en CAP Fleuriste pour intégrer notre équipe.\n\nMissions\nAccueil, conseil et fidélisation de la clientèle (française et internationale).\nEntretien des fleurs coupées, des plantes et soin des stocks et locaux.\nParticipation à la confection des bouquets, arrangements floraux et compositions pour tous types d'événements.\nMise en rayon, thématisation et valorisation de la vitrine.\n\nProfil recherché\nMotivation, sérieux et rigueur dans le travail au quotidien.\nSens artistique, soin et minutie dans les manipulations.\nVrai désir d'apprendre le métier d'artisan fleuriste.\nBon niveau d'anglais obligatoire pour échanger sereinement avec notre clientèle anglophone",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "2 RUE DES ECOLES 34790 GRABELS",
+        "geopoint": {
+          "coordinates": [
+            3.797816,
+            43.647705
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.76Z",
+          "label": "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9961bc3d397359dc33cd47/fleuriste-décorateur-floral-fleuriste-décoratrice-florale",
+      "phone": "0467753416",
+      "recipient_id": "partners_6a9961bc3d397359dc33cd47"
+    },
+    "contract": {
+      "start": "2026-09-03T12:02:04.681Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Fleuriste-décorateur floral / Fleuriste-décoratrice florale",
+      "rome_codes": [
+        "D1209"
+      ],
+      "description": "Un fleuriste est un professionnel spécialisé dans la vente et l'arrangement de fleurs et de plantes. Conçoit et réalise des compositions florales adaptées à divers événements Conseille les clients dans le choix des plantes et des arrangements Assure l'entretien quotidien des fleurs et des plantes pour garantir leur fraîcheur Gère les stocks de fleurs et passe des commandes auprès des fournisseurs Peut décorer des sites pour des événements spéciaux comme des mariages ou des réceptions Organise et optimise l'agencement de la boutique pour attirer et satisfaire la clientèle",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Production, Fabrication\tAppliquer un traitement, un produit",
+        "Production, Fabrication\tChoisir des fleurs adaptées à la situation",
+        "Production, Fabrication\tRéaliser une composition florale",
+        "Production, Fabrication\tUtiliser des techniques de préservation écologique des plantes",
+        "Aménagement\tEffectuer l'entretien de végétaux",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Qualité\tContrôler l'état de conservation d'un produit périssable",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion des stocks\tTrier des végétaux",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tGérer une caisse",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
+        "Protection des personnes et de l'environnement\tPromouvoir la durabilité dans le choix des produits",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Relation client\tConseiller les clients sur les soins des plantes",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer, renseigner une personne sur les articles en vente",
+        "Relation client\tProposer un traitement adapté",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tMaintenir la fraîcheur des fleurs en magasin",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Fleuriste ou un Brevet Professionnel Fleuriste."
+      ],
+      "publication": {
+        "creation": "2026-09-03T12:02:04.681Z",
+        "expiration": "2026-11-03T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a99264d412e1fb92bcb2e07",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a99264d412e1fb92bcb2e07"
@@ -10121,6 +10831,211 @@
   },
   {
     "identifier": {
+      "id": "6a99f32f85d4232b2a91a494",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JXZP"
+    },
+    "workplace": {
+      "siret": "10538926600013",
+      "brand": null,
+      "legal_name": "LA BELLE COTE",
+      "website": null,
+      "name": "LA BELLE COTE",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.910191,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JXZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Boucher / Apprentie Bouchère H/F - Alternance (H/F)",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Vous souhaitez apprendre le métier de boucher et vous former au sein d'une équipe dynamique et professionnelle ?\n\nAccompagné(e) par notre équipe, vous participerez progressivement aux différentes activités de la boucherie :\n\nRéception et rangement des marchandises\nPréparation et découpe des viandes\nDésossage et parage selon votre niveau de formation\nPréparation des produits et mise en vitrine\nÉtiquetage et présentation des produits\nAccueil et conseil auprès de la clientèle\nNettoyage et entretien du matériel et du laboratoire\nRespect des règles d'hygiène et de sécurité alimentaire\n\nProfil recherché :\n\nNous recherchons avant tout des personnes :\n\n- Motivées et sérieuses\n- Ponctuelles et dynamiques\n- Ayant envie d'apprendre le métier de boucher\n- À l'aise avec le travail en équipe\n- Respectueuses des règles d'hygiène et de sécurité\n\nDébutant(e) accepté(e) : aucune expérience professionnelle n'est exigée. La motivation et l'envie d'apprendre sont essentielles.\n\nFormation :\nContrat d'apprentissage / alternance préparant à un diplôme dans le domaine de la boucherie, par exemple CAP Boucher.\n\nConditions :\n\n2 postes à pourvoir\nContrat en alternance\nTravail en équipe\nFormation et accompagnement au métier\nRémunération selon la réglementation applicable aux contrats d'apprentissage\n\nL'entreprise:\n\nLA BELLE CÔTE est une boucherie de proximité attachée à la qualité de ses produits, au savoir-faire et à la satisfaction de ses clients.\nNous souhaitons transmettre notre savoir-faire à de futurs professionnels motivés et leur permettre de développer leurs compétences dans un environnement sérieux et convivial.\nVous êtes motivé(e), volontaire et souhaitez apprendre un métier concret et valorisant ? Rejoignez LA BELLE CÔTE !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de désossage",
+        "Techniques de parage des viandes",
+        "Découper, désosser, parer de la viande"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T19:12:59.935Z",
+        "expiration": "2026-11-03T19:12:59.935Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a492",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JCTK"
+    },
+    "workplace": {
+      "siret": "63615002100013",
+      "brand": null,
+      "legal_name": "CLINIQUE DE SOUFFLE LA VALLONIE",
+      "website": null,
+      "name": "CLINIQUE DE SOUFFLE LA VALLONIE",
+      "description": null,
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34700 Lodève",
+        "geopoint": {
+          "coordinates": [
+            3.313903,
+            43.731146
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "86.10Z",
+          "label": "Activités hospitalières"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JCTK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
+      "rome_codes": [
+        "M1501"
+      ],
+      "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Législation sociale",
+        "Concevoir des supports de suivi et de gestion",
+        "Réaliser des déclarations réglementaires"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T11:37:28.326Z",
+        "expiration": "2026-11-03T11:37:28.326Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a493",
+      "partner_label": "France Travail",
+      "partner_job_id": "213HZNB"
+    },
+    "workplace": {
+      "siret": "84888511700012",
+      "brand": "ANGE BOULANGERIE",
+      "legal_name": "CRESANGE",
+      "website": null,
+      "name": "CRESANGE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34920 Le Crès",
+        "geopoint": {
+          "coordinates": [
+            3.937288,
+            43.652827
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HZNB",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance MCO manager d'unité marchande (H/F)",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Recherche d'alternant en MCO, manager d'unité marchande Les missions :\n- Accueillir les clients avec le sourire\n- Conseiller les clients et participer activement à la vente\n- Mettre en avant les produits et les offres du moment\n- Proposer naturellement des produits complémentaires\n- Veiller à la bonne tenue de l'espace de vente\n- Participer au rangement, au nettoyage et à la mise en place\n- Encaisser les ventes et respecter les procédures de caisse\n- Remonter les informations importantes à votre responsable\nLe sourire et la satisfaction client sont au cœur de leurs mission !\nNous recherchons une personne :\n- Souriante, dynamique et organisée\n- Accueillante et à l'écoute des clients\n- Aimant le travail en équipe et le contact avec la clientèle\n\nAutres missions si la personne est en demande : gestion de planning, commande matières premières, réseaux sociaux.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T10:57:02.409Z",
+        "expiration": "2026-11-03T10:57:02.409Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a98a1c8e09d67ec4f63162a",
       "partner_label": "France Travail",
       "partner_job_id": "6533318"
@@ -10293,16 +11208,15 @@
       "remote": null
     },
     "offer": {
-      "title": "Conseiller(ère) de vente en alternance H/F (H/F)",
+      "title": "Vendeur / Vendeuse en produits frais",
       "rome_codes": [
-        "D1424"
+        "D1106"
       ],
       "description": "Flour - La Cookiserie, boutique indépendante fondée en 2022 et située rue du Faubourg du Courreau à Montpellier, recherche un vendeur / une vendeuse en alternance pour rejoindre son équipe.\n\nChez Flour, nous fabriquons sur place des cookies généreux, gourmands et créatifs, à partir d'ingrédients soigneusement sélectionnés. Chocolat au lait, caramel beurre salé, framboise, citron vert, beurre de cacahuète, pistache, matcha, boissons barista.\n\nNotre univers repose sur la qualité, le fait maison, l'attention portée aux détails et une vraie expérience client.\n\nAujourd'hui, Flour poursuit son développement et souhaite intégrer une personne dynamique, souriante, fiable et motivée, avec l'envie d'apprendre véritablement le métier de la vente et du service dans une boutique indépendante.\n\nNotre philosophie\n\nChez Flour, chaque client doit être accueilli avec chaleur, attention et sincérité.\n\nNous ne cherchons pas simplement à « vendre des cookies » : nous voulons créer un moment agréable, gourmand et mémorable.\n\nL'accueil, le conseil, la propreté de la boutique, la présentation des produits, la fluidité du service et l'ambiance générale sont aussi importants que la qualité de nos recettes.\n\nRejoindre Flour en alternance, c'est intégrer une petite équipe dans laquelle vous serez pleinement impliqué(e) dans le fonctionnement quotidien de la boutique, accompagné(e) et progressivement responsabilisé(e).\n\nVos missions\n\nVous participerez à l'ensemble des activités liées à l'accueil, à la vente et au service en boutique.\n\nVos principales missions seront les suivantes :\n\nAccueillir les clients avec le sourire, en boutique comme en terrasse.\nConseiller les clients dans le choix des cookies, boissons et nouveautés.\nPrésenter l'univers Flour, nos recettes, notre fabrication maison et nos produits du moment.\nDévelopper votre capacité à proposer et conseiller les produits de manière naturelle.\nServir au comptoir et à table avec attention et efficacité.\nEncaisser les ventes et assurer une expérience fluide jusqu'au départ du client.\nPréparer les boissons barista selon les recettes et standards Flour.\nParticiper au réassort des vitrines et à la mise en valeur des produits.\nPréparer les commandes à emporter et les commandes de livraison.\nMaintenir une boutique propre, rangée et accueillante tout au long de la journée.\nParticiper au nettoyage quotidien des espaces de vente, du matériel et de la terrasse.\nParticiper à l'ouverture et/ou à la fermeture de la boutique selon le planning.\nContribuer à la vie quotidienne de l'équipe : entraide, communication, rigueur et bonne humeur.\nVous serez formé(e) progressivement à nos produits, à nos méthodes de vente, à la préparation des boissons et au fonctionnement général de la boutique.\n\nProfil recherché\n\nNous recherchons avant tout une personne sérieuse, fiable et naturellement agréable avec les clients.\n\nLe profil idéal :\n\nVous aimez le contact client et vous avez un sourire naturel.\nVous êtes à l'aise à l'oral et savez vous exprimer clairement.\nVous êtes dynamique, volontaire et avez envie d'apprendre.\nVous êtes ponctuel(le), rigoureux(se) et organisé(e).\nVous savez écouter les consignes et les appliquer avec sérieux.\nVous êtes attentif(ve) à la propreté et au soin apporté aux détails.\nVous êtes capable de garder une bonne énergie lorsque le rythme s'accélère.\nVous avez l'esprit d'équipe et savez communiquer simplement avec vos collègues.\nVous êtes capable de prendre progressivement des initiatives et de gagner en autonomie.\nVous avez envie de vous investir réellement dans votre alternance et dans la vie de la boutique.\nUne première expérience en vente, restauration, coffee shop, boulangerie, pâtisserie ou accueil client est appréciée, mais elle n'est pas indispensable.\n\nCe qui comptera avant tout, ce sont votre attitude, votre fiabilité, votre sens du service et votre envie d'apprendre.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Effectuer le suivi des commandes, la facturation",
-        "Présenter et valoriser un produit ou un service"
+        "Entretenir, nettoyer un espace, un lieu, un local"
       ],
       "access_conditions": [],
       "publication": {
@@ -10441,6 +11355,75 @@
       "publication": {
         "creation": "2026-09-01T15:50:36.313Z",
         "expiration": "2026-11-01T15:50:36.313Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a497",
+      "partner_label": "France Travail",
+      "partner_job_id": "213FTKZ"
+    },
+    "workplace": {
+      "siret": "50461985900011",
+      "brand": null,
+      "legal_name": "V O",
+      "website": null,
+      "name": "V O",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FTKZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprentissage Serveur de restaurant h/f (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le contrat d'apprentissage est un contrat de travail qui permet de suivre par alternance des périodes de formation en entreprise et en centre de formation d'apprentis, vous préparez le diplôme de serveur en restauration.\nPour un restaurant  spécialisé dans les pizzas et les produits italiens du quartier des arceaux de Montpellier, nous recherchons un serveur en APPRENTISSAGE (H/F) pour rejoindre nos équipes.\n\nVos missions:\nvous êtes en charge de l'accueil des clients, de la mise en place, de la prise de commande et le service. (env 30 couverts / service) \nVous participez au nettoyage de la salle et de la terrasse.\nContrat d'apprentissage CDD 12 mois \nHoraire en coupure, établissement fermé le samedi et dimanche (15 jours en décembre et 1 mois Aout et les ponts)\nAccessible en tram\nL'apprenti doit être âgé au minimum de 16 ans \nL'apprenti doit être âgé au maximum de 29 ans révolus (30 ans moins 1 jour)\nIl n'y a pas d'âge maximum dans les cas suivants : Apprenti reconnu travailleur handicapé",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Réaliser la mise en place de la salle et de l'office",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T15:34:12.993Z",
+        "expiration": "2026-11-01T15:34:12.993Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -13216,202 +14199,6 @@
   },
   {
     "identifier": {
-      "id": "6a84dbadd07de55f764638d9",
-      "partner_label": "France Travail",
-      "partner_job_id": "6084767"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ENSIO",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832002,
-            43.574823
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "78.20Z",
-          "label": "Activités des agences de travail temporaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://ensio.softy.pro/offre/218192?idt=5&h=2181920",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI MAGASINIER /PRÉPARATEUR DE COMMANDES CHANTIERS - H/F",
-      "rome_codes": [
-        "F1710"
-      ],
-      "description": "Description :\n\n\nDÉPÔT AU CARRÉ ET PROPRE ! C'EST ÇA QUI VOUS PLAIT ! \n\nVENEZ COLLABORER AVEC SANDRINE, NOTRE RESPONSABLE MAGASIN QUI VOUS FORMERA AU 5S, À TENIR UN DÉPÔT TELLE UNE VITRINE DE MAGASIN! \n\nL'ÉQUIPE ? \n\nSANDRINE : sera votre tuteur et votre binôme. \n\nVOTRE MISSION PRINCIPALE? \n\nVous serez former à la réception, la préparation des fournitures et à l'optimisation du dépôt. \n\nVOTRE FORMATION PORTERA SUR : \n\n * Assurer la réception de produits, le chargement et déchargement de camions\n * Suivre le stock, réaliser des inventaires,\n * Gestion des EPI, \n * Déplacer les produits (manutention)\n * Surveiller la conformité des fournitures aux termes du contrat et aux normes de qualité\n * Nettoyer et ranger la zone de travail\n * Gestion informatisée des entrées et sorties de stocks sur notre logiciel interne (formation prévue) \n * Conduire le chariot élévateur pour la manipulation des charges lourdes.\n * Suivi du process 5S\n\nDÉTAILS SUR LE DÉPÔT: entrepôt intérieur 100 mètres carrés + parc poteaux à gérer + parc tourets + parc extérieur 500 mètres\n\n  \n  \nProfil recherché :\n  \n  \nQUI EST VOUS? \n\n * Vous préparez un diplôme d'agent magasinier\n * Vous aimez que chaque chose soit à sa place\n * Vous aimez que votre endroit de travail soit propre\n * Vous savez que 3 x 8 = .......   ou 12 + 6 = .... en bref , vous êtes à l'aise avec les chiffres. \n * Vous savez utiliser une tablette ou un ordi et pas que pour jouer à Minecraft...\n\n5 BONNES RAISONS DE REJOINDRE NOS ÉQUIPES:\n\n * Donner du sens à ce que vous faites au quotidien\n * Nos perspectives d'évolution sont avérées et non inventées\n * Nous avons le sens de la reconnaissance et de la récompense\n * Nos équipes savent mettre en place et maintenir une bonne ambiance\n * Vous apprendre en quoi consiste le mot \"Agile\"\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\nGagnons du temps dans notre processus de recrutement :\n\n * Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? (https://www.linkedin.com/in/clemence-moustier/)\n * Etape 2 : Entretien d'environ 45 minutes avec Michael et Cédric, notre directeur d'agence\n * Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T19:33:51.034Z",
-        "expiration": "2026-10-18T19:33:51.034Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638da",
-      "partner_label": "France Travail",
-      "partner_job_id": "6079341"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56046456?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Chargé.e commercial traiteur évènementiel - Mauguio (F/H)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Vos missions:\nProspecterDévelopper, fidéliser et animer un portefeuille de clients traiteurCréer un kit d'animation des ventes digital et physiqueEn collaboration avec l'équipe dédiée, mettre en production les commandes réalisées",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T12:00:33.594Z",
-        "expiration": "2026-10-18T12:00:33.594Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638d8",
-      "partner_label": "France Travail",
-      "partner_job_id": "212PMWB"
-    },
-    "workplace": {
-      "siret": "78986347900026",
-      "brand": null,
-      "legal_name": "LUCARA",
-      "website": null,
-      "name": "LUCARA",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PMWB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti assistant administratif et RH (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Notre restaurant de Frontignan recherche un alternant pour un poste d'assistant administratif et RH (contrat d'apprentissage ou contrat de professionnalisation pour un BTS, licence ou master) contribuant à la satisfaction des clients et au bien-être des équipes. L'assistant(e) administratif orchestre les coulisses avec expertise.\n\nMon rôle dans l'équipe est de veiller :\n- à l'accueil et l'intégration des nouveaux membres de l'équipe\n- à la gestion des contrats de travail, des bulletins de paie et des plannings\n- au suivi administratif quotidien et à la bonne communication entre tous les services !\n\nCe que l'équipe m'apporte :\n- Des valeurs fortes : Respect, esprit d'équipe, entraide et inclusion.\n- Des opportunités d'évolution : Tu peux te former, évoluer, et construire ton parcours pro chez nous.\n- Une ambiance motivante : Une équipe soudée et qui pour beaucoup devient une seconde famille au sein de laquelle tu pourras compter sur tes collègues autant qu'ils pourront compter sur toi !\n\nCe que j'apporte à l'équipe : \n- Ma rigueur et mon sens de l'organisation\n- Mon expertise administrative qui simplifie la vie de tous\n- Une capacité à travailler en autonomie tout en appréciant le travail d'équipe.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T11:41:12.811Z",
-        "expiration": "2026-10-18T11:41:12.811Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dbadd07de55f764638db",
       "partner_label": "France Travail",
       "partner_job_id": "6054318"
@@ -15424,74 +16211,6 @@
   },
   {
     "identifier": {
-      "id": "6a7267a2ae98af4affb5aff9",
-      "partner_label": "France Travail",
-      "partner_job_id": "212BXSQ"
-    },
-    "workplace": {
-      "siret": "53515164100011",
-      "brand": "FLEUR DE SEL",
-      "legal_name": "ODONATES",
-      "website": null,
-      "name": "ODONATES",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34750 Villeneuve-lès-Maguelone",
-        "geopoint": {
-          "coordinates": [
-            3.852522,
-            43.534762
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212BXSQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boulanger en apprentissage H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "Poste pour un boulanger préparant le CAP en apprentissage ou mention complémentaire.\n\n- Au sein d'une boulangerie-pâtisserie artisanale, vous travaillerez à la fabrication des produits..... pour plusieurs magasins.\n- Magasin ouvert 7j/7. \n- Deux jours de repos consécutifs tournants (en fonction de la formation de l'apprenti). \n- Horaires 4h-11h (de manière exceptionnelle, vous pourrez commencer à 2h ou 3h pendant les périodes de fêtes)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-04T16:25:28.466Z",
-        "expiration": "2026-10-04T16:25:28.466Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -15948,77 +16667,6 @@
       "publication": {
         "creation": "2026-07-28T11:15:34.518Z",
         "expiration": "2026-09-28T11:15:34.518Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a692e05b6d4ce760a1dd9b9",
-      "partner_label": "France Travail",
-      "partner_job_id": "211SYQL"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34270 Saint-Mathieu-de-Tréviers",
-        "geopoint": {
-          "coordinates": [
-            3.868716,
-            43.77306
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11C",
-          "label": "Supérettes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SYQL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e employé/e polyvalent/e (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage et au sein d'un supermarché bio vous serez chargé/e de toutes les opérations de réception/mise en rayon des marchandises, contrôle des dates de péremption, encaissement, accueil et vente, conseil, tenue du magasin...\nVous préparez un diplôme en vente ou commerce",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Retirer des produits non conformes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-28T10:02:30.139Z",
-        "expiration": "2026-09-28T10:02:30.139Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17036,6 +17684,211 @@
   },
   {
     "identifier": {
+      "id": "6a99f32f85d4232b2a91a494",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JXZP"
+    },
+    "workplace": {
+      "siret": "10538926600013",
+      "brand": null,
+      "legal_name": "LA BELLE COTE",
+      "website": null,
+      "name": "LA BELLE COTE",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.910191,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.22Z",
+          "label": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JXZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Boucher / Apprentie Bouchère H/F - Alternance (H/F)",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Vous souhaitez apprendre le métier de boucher et vous former au sein d'une équipe dynamique et professionnelle ?\n\nAccompagné(e) par notre équipe, vous participerez progressivement aux différentes activités de la boucherie :\n\nRéception et rangement des marchandises\nPréparation et découpe des viandes\nDésossage et parage selon votre niveau de formation\nPréparation des produits et mise en vitrine\nÉtiquetage et présentation des produits\nAccueil et conseil auprès de la clientèle\nNettoyage et entretien du matériel et du laboratoire\nRespect des règles d'hygiène et de sécurité alimentaire\n\nProfil recherché :\n\nNous recherchons avant tout des personnes :\n\n- Motivées et sérieuses\n- Ponctuelles et dynamiques\n- Ayant envie d'apprendre le métier de boucher\n- À l'aise avec le travail en équipe\n- Respectueuses des règles d'hygiène et de sécurité\n\nDébutant(e) accepté(e) : aucune expérience professionnelle n'est exigée. La motivation et l'envie d'apprendre sont essentielles.\n\nFormation :\nContrat d'apprentissage / alternance préparant à un diplôme dans le domaine de la boucherie, par exemple CAP Boucher.\n\nConditions :\n\n2 postes à pourvoir\nContrat en alternance\nTravail en équipe\nFormation et accompagnement au métier\nRémunération selon la réglementation applicable aux contrats d'apprentissage\n\nL'entreprise:\n\nLA BELLE CÔTE est une boucherie de proximité attachée à la qualité de ses produits, au savoir-faire et à la satisfaction de ses clients.\nNous souhaitons transmettre notre savoir-faire à de futurs professionnels motivés et leur permettre de développer leurs compétences dans un environnement sérieux et convivial.\nVous êtes motivé(e), volontaire et souhaitez apprendre un métier concret et valorisant ? Rejoignez LA BELLE CÔTE !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de désossage",
+        "Techniques de parage des viandes",
+        "Découper, désosser, parer de la viande"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T19:12:59.935Z",
+        "expiration": "2026-11-03T19:12:59.935Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a492",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JCTK"
+    },
+    "workplace": {
+      "siret": "63615002100013",
+      "brand": null,
+      "legal_name": "CLINIQUE DE SOUFFLE LA VALLONIE",
+      "website": null,
+      "name": "CLINIQUE DE SOUFFLE LA VALLONIE",
+      "description": null,
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34700 Lodève",
+        "geopoint": {
+          "coordinates": [
+            3.313903,
+            43.731146
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "86.10Z",
+          "label": "Activités hospitalières"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JCTK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
+      "rome_codes": [
+        "M1501"
+      ],
+      "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Législation sociale",
+        "Concevoir des supports de suivi et de gestion",
+        "Réaliser des déclarations réglementaires"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T11:37:28.326Z",
+        "expiration": "2026-11-03T11:37:28.326Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a493",
+      "partner_label": "France Travail",
+      "partner_job_id": "213HZNB"
+    },
+    "workplace": {
+      "siret": "84888511700012",
+      "brand": "ANGE BOULANGERIE",
+      "legal_name": "CRESANGE",
+      "website": null,
+      "name": "CRESANGE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34920 Le Crès",
+        "geopoint": {
+          "coordinates": [
+            3.937288,
+            43.652827
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 843,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HZNB",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance MCO manager d'unité marchande (H/F)",
+      "rome_codes": [
+        "D1106"
+      ],
+      "description": "Recherche d'alternant en MCO, manager d'unité marchande Les missions :\n- Accueillir les clients avec le sourire\n- Conseiller les clients et participer activement à la vente\n- Mettre en avant les produits et les offres du moment\n- Proposer naturellement des produits complémentaires\n- Veiller à la bonne tenue de l'espace de vente\n- Participer au rangement, au nettoyage et à la mise en place\n- Encaisser les ventes et respecter les procédures de caisse\n- Remonter les informations importantes à votre responsable\nLe sourire et la satisfaction client sont au cœur de leurs mission !\nNous recherchons une personne :\n- Souriante, dynamique et organisée\n- Accueillante et à l'écoute des clients\n- Aimant le travail en équipe et le contact avec la clientèle\n\nAutres missions si la personne est en demande : gestion de planning, commande matières premières, réseaux sociaux.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T10:57:02.409Z",
+        "expiration": "2026-11-03T10:57:02.409Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a98a1c8e09d67ec4f63162a",
       "partner_label": "France Travail",
       "partner_job_id": "6533318"
@@ -17208,16 +18061,15 @@
       "remote": null
     },
     "offer": {
-      "title": "Conseiller(ère) de vente en alternance H/F (H/F)",
+      "title": "Vendeur / Vendeuse en produits frais",
       "rome_codes": [
-        "D1424"
+        "D1106"
       ],
       "description": "Flour - La Cookiserie, boutique indépendante fondée en 2022 et située rue du Faubourg du Courreau à Montpellier, recherche un vendeur / une vendeuse en alternance pour rejoindre son équipe.\n\nChez Flour, nous fabriquons sur place des cookies généreux, gourmands et créatifs, à partir d'ingrédients soigneusement sélectionnés. Chocolat au lait, caramel beurre salé, framboise, citron vert, beurre de cacahuète, pistache, matcha, boissons barista.\n\nNotre univers repose sur la qualité, le fait maison, l'attention portée aux détails et une vraie expérience client.\n\nAujourd'hui, Flour poursuit son développement et souhaite intégrer une personne dynamique, souriante, fiable et motivée, avec l'envie d'apprendre véritablement le métier de la vente et du service dans une boutique indépendante.\n\nNotre philosophie\n\nChez Flour, chaque client doit être accueilli avec chaleur, attention et sincérité.\n\nNous ne cherchons pas simplement à « vendre des cookies » : nous voulons créer un moment agréable, gourmand et mémorable.\n\nL'accueil, le conseil, la propreté de la boutique, la présentation des produits, la fluidité du service et l'ambiance générale sont aussi importants que la qualité de nos recettes.\n\nRejoindre Flour en alternance, c'est intégrer une petite équipe dans laquelle vous serez pleinement impliqué(e) dans le fonctionnement quotidien de la boutique, accompagné(e) et progressivement responsabilisé(e).\n\nVos missions\n\nVous participerez à l'ensemble des activités liées à l'accueil, à la vente et au service en boutique.\n\nVos principales missions seront les suivantes :\n\nAccueillir les clients avec le sourire, en boutique comme en terrasse.\nConseiller les clients dans le choix des cookies, boissons et nouveautés.\nPrésenter l'univers Flour, nos recettes, notre fabrication maison et nos produits du moment.\nDévelopper votre capacité à proposer et conseiller les produits de manière naturelle.\nServir au comptoir et à table avec attention et efficacité.\nEncaisser les ventes et assurer une expérience fluide jusqu'au départ du client.\nPréparer les boissons barista selon les recettes et standards Flour.\nParticiper au réassort des vitrines et à la mise en valeur des produits.\nPréparer les commandes à emporter et les commandes de livraison.\nMaintenir une boutique propre, rangée et accueillante tout au long de la journée.\nParticiper au nettoyage quotidien des espaces de vente, du matériel et de la terrasse.\nParticiper à l'ouverture et/ou à la fermeture de la boutique selon le planning.\nContribuer à la vie quotidienne de l'équipe : entraide, communication, rigueur et bonne humeur.\nVous serez formé(e) progressivement à nos produits, à nos méthodes de vente, à la préparation des boissons et au fonctionnement général de la boutique.\n\nProfil recherché\n\nNous recherchons avant tout une personne sérieuse, fiable et naturellement agréable avec les clients.\n\nLe profil idéal :\n\nVous aimez le contact client et vous avez un sourire naturel.\nVous êtes à l'aise à l'oral et savez vous exprimer clairement.\nVous êtes dynamique, volontaire et avez envie d'apprendre.\nVous êtes ponctuel(le), rigoureux(se) et organisé(e).\nVous savez écouter les consignes et les appliquer avec sérieux.\nVous êtes attentif(ve) à la propreté et au soin apporté aux détails.\nVous êtes capable de garder une bonne énergie lorsque le rythme s'accélère.\nVous avez l'esprit d'équipe et savez communiquer simplement avec vos collègues.\nVous êtes capable de prendre progressivement des initiatives et de gagner en autonomie.\nVous avez envie de vous investir réellement dans votre alternance et dans la vie de la boutique.\nUne première expérience en vente, restauration, coffee shop, boulangerie, pâtisserie ou accueil client est appréciée, mais elle n'est pas indispensable.\n\nCe qui comptera avant tout, ce sont votre attitude, votre fiabilité, votre sens du service et votre envie d'apprendre.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Effectuer le suivi des commandes, la facturation",
-        "Présenter et valoriser un produit ou un service"
+        "Entretenir, nettoyer un espace, un lieu, un local"
       ],
       "access_conditions": [],
       "publication": {
@@ -17356,6 +18208,75 @@
       "publication": {
         "creation": "2026-09-01T15:50:36.313Z",
         "expiration": "2026-11-01T15:50:36.313Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a99f32f85d4232b2a91a497",
+      "partner_label": "France Travail",
+      "partner_job_id": "213FTKZ"
+    },
+    "workplace": {
+      "siret": "50461985900011",
+      "brand": null,
+      "legal_name": "V O",
+      "website": null,
+      "name": "V O",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FTKZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprentissage Serveur de restaurant h/f (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le contrat d'apprentissage est un contrat de travail qui permet de suivre par alternance des périodes de formation en entreprise et en centre de formation d'apprentis, vous préparez le diplôme de serveur en restauration.\nPour un restaurant  spécialisé dans les pizzas et les produits italiens du quartier des arceaux de Montpellier, nous recherchons un serveur en APPRENTISSAGE (H/F) pour rejoindre nos équipes.\n\nVos missions:\nvous êtes en charge de l'accueil des clients, de la mise en place, de la prise de commande et le service. (env 30 couverts / service) \nVous participez au nettoyage de la salle et de la terrasse.\nContrat d'apprentissage CDD 12 mois \nHoraire en coupure, établissement fermé le samedi et dimanche (15 jours en décembre et 1 mois Aout et les ponts)\nAccessible en tram\nL'apprenti doit être âgé au minimum de 16 ans \nL'apprenti doit être âgé au maximum de 29 ans révolus (30 ans moins 1 jour)\nIl n'y a pas d'âge maximum dans les cas suivants : Apprenti reconnu travailleur handicapé",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Réaliser la mise en place de la salle et de l'office",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T15:34:12.993Z",
+        "expiration": "2026-11-01T15:34:12.993Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17709,6 +18630,130 @@
   },
   {
     "identifier": {
+      "id": "6a1e0655f7a4d99224168ac6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212943"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "34350 Vendres",
+        "geopoint": {
+          "coordinates": [
+            3.240806,
+            43.26519
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T00:00:00.000Z",
+        "expiration": "2026-11-01T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168af6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212749"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87658,
+            43.605936
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T00:00:00.000Z",
+        "expiration": "2026-11-01T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a974ba853f09a327a252260",
       "partner_label": "EDF",
       "partner_job_id": "180466"
@@ -17829,130 +18874,6 @@
         "M1603"
       ],
       "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "34350 Vendres",
-        "geopoint": {
-          "coordinates": [
-            3.240806,
-            43.26519
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87658,
-            43.605936
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21517,202 +22438,6 @@
   },
   {
     "identifier": {
-      "id": "6a84dbadd07de55f764638d9",
-      "partner_label": "France Travail",
-      "partner_job_id": "6084767"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ENSIO",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832002,
-            43.574823
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "78.20Z",
-          "label": "Activités des agences de travail temporaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://ensio.softy.pro/offre/218192?idt=5&h=2181920",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI MAGASINIER /PRÉPARATEUR DE COMMANDES CHANTIERS - H/F",
-      "rome_codes": [
-        "F1710"
-      ],
-      "description": "Description :\n\n\nDÉPÔT AU CARRÉ ET PROPRE ! C'EST ÇA QUI VOUS PLAIT ! \n\nVENEZ COLLABORER AVEC SANDRINE, NOTRE RESPONSABLE MAGASIN QUI VOUS FORMERA AU 5S, À TENIR UN DÉPÔT TELLE UNE VITRINE DE MAGASIN! \n\nL'ÉQUIPE ? \n\nSANDRINE : sera votre tuteur et votre binôme. \n\nVOTRE MISSION PRINCIPALE? \n\nVous serez former à la réception, la préparation des fournitures et à l'optimisation du dépôt. \n\nVOTRE FORMATION PORTERA SUR : \n\n * Assurer la réception de produits, le chargement et déchargement de camions\n * Suivre le stock, réaliser des inventaires,\n * Gestion des EPI, \n * Déplacer les produits (manutention)\n * Surveiller la conformité des fournitures aux termes du contrat et aux normes de qualité\n * Nettoyer et ranger la zone de travail\n * Gestion informatisée des entrées et sorties de stocks sur notre logiciel interne (formation prévue) \n * Conduire le chariot élévateur pour la manipulation des charges lourdes.\n * Suivi du process 5S\n\nDÉTAILS SUR LE DÉPÔT: entrepôt intérieur 100 mètres carrés + parc poteaux à gérer + parc tourets + parc extérieur 500 mètres\n\n  \n  \nProfil recherché :\n  \n  \nQUI EST VOUS? \n\n * Vous préparez un diplôme d'agent magasinier\n * Vous aimez que chaque chose soit à sa place\n * Vous aimez que votre endroit de travail soit propre\n * Vous savez que 3 x 8 = .......   ou 12 + 6 = .... en bref , vous êtes à l'aise avec les chiffres. \n * Vous savez utiliser une tablette ou un ordi et pas que pour jouer à Minecraft...\n\n5 BONNES RAISONS DE REJOINDRE NOS ÉQUIPES:\n\n * Donner du sens à ce que vous faites au quotidien\n * Nos perspectives d'évolution sont avérées et non inventées\n * Nous avons le sens de la reconnaissance et de la récompense\n * Nos équipes savent mettre en place et maintenir une bonne ambiance\n * Vous apprendre en quoi consiste le mot \"Agile\"\n\nENSIO prône la reconnaissance des compétences individuelles de ses salariés : hommes, femmes, bénéficiaires de la RQTH, fan de chocolat, groupie de Beyonce etc. Postulez chez nous ! Ce sont vos compétences qui nous intéressent avant tout !  \n\nGagnons du temps dans notre processus de recrutement :\n\n * Etape 1 : un premier échange d'environ 30 minutes avec Clémence, Chargée de recrutement : C'est qui ça Clémence ? (https://www.linkedin.com/in/clemence-moustier/)\n * Etape 2 : Entretien d'environ 45 minutes avec Michael et Cédric, notre directeur d'agence\n * Etape 3 : Bah voilà, c'est déjà un beau parcours, réponse sous 10 jours max",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T19:33:51.034Z",
-        "expiration": "2026-10-18T19:33:51.034Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638da",
-      "partner_label": "France Travail",
-      "partner_job_id": "6079341"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56046456?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Chargé.e commercial traiteur évènementiel - Mauguio (F/H)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Vos missions:\nProspecterDévelopper, fidéliser et animer un portefeuille de clients traiteurCréer un kit d'animation des ventes digital et physiqueEn collaboration avec l'équipe dédiée, mettre en production les commandes réalisées",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T12:00:33.594Z",
-        "expiration": "2026-10-18T12:00:33.594Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a84dbadd07de55f764638d8",
-      "partner_label": "France Travail",
-      "partner_job_id": "212PMWB"
-    },
-    "workplace": {
-      "siret": "78986347900026",
-      "brand": null,
-      "legal_name": "LUCARA",
-      "website": null,
-      "name": "LUCARA",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PMWB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti assistant administratif et RH (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Notre restaurant de Frontignan recherche un alternant pour un poste d'assistant administratif et RH (contrat d'apprentissage ou contrat de professionnalisation pour un BTS, licence ou master) contribuant à la satisfaction des clients et au bien-être des équipes. L'assistant(e) administratif orchestre les coulisses avec expertise.\n\nMon rôle dans l'équipe est de veiller :\n- à l'accueil et l'intégration des nouveaux membres de l'équipe\n- à la gestion des contrats de travail, des bulletins de paie et des plannings\n- au suivi administratif quotidien et à la bonne communication entre tous les services !\n\nCe que l'équipe m'apporte :\n- Des valeurs fortes : Respect, esprit d'équipe, entraide et inclusion.\n- Des opportunités d'évolution : Tu peux te former, évoluer, et construire ton parcours pro chez nous.\n- Une ambiance motivante : Une équipe soudée et qui pour beaucoup devient une seconde famille au sein de laquelle tu pourras compter sur tes collègues autant qu'ils pourront compter sur toi !\n\nCe que j'apporte à l'équipe : \n- Ma rigueur et mon sens de l'organisation\n- Mon expertise administrative qui simplifie la vie de tous\n- Une capacité à travailler en autonomie tout en appréciant le travail d'équipe.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-18T11:41:12.811Z",
-        "expiration": "2026-10-18T11:41:12.811Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dbadd07de55f764638db",
       "partner_label": "France Travail",
       "partner_job_id": "6054318"
@@ -24057,74 +24782,6 @@
   },
   {
     "identifier": {
-      "id": "6a7267a2ae98af4affb5aff9",
-      "partner_label": "France Travail",
-      "partner_job_id": "212BXSQ"
-    },
-    "workplace": {
-      "siret": "53515164100011",
-      "brand": "FLEUR DE SEL",
-      "legal_name": "ODONATES",
-      "website": null,
-      "name": "ODONATES",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34750 Villeneuve-lès-Maguelone",
-        "geopoint": {
-          "coordinates": [
-            3.852522,
-            43.534762
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212BXSQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boulanger en apprentissage H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "Poste pour un boulanger préparant le CAP en apprentissage ou mention complémentaire.\n\n- Au sein d'une boulangerie-pâtisserie artisanale, vous travaillerez à la fabrication des produits..... pour plusieurs magasins.\n- Magasin ouvert 7j/7. \n- Deux jours de repos consécutifs tournants (en fonction de la formation de l'apprenti). \n- Horaires 4h-11h (de manière exceptionnelle, vous pourrez commencer à 2h ou 3h pendant les périodes de fêtes)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-04T16:25:28.466Z",
-        "expiration": "2026-10-04T16:25:28.466Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab52f",
       "partner_label": "France Travail",
       "partner_job_id": "211XQZV"
@@ -24784,77 +25441,6 @@
   },
   {
     "identifier": {
-      "id": "6a692e05b6d4ce760a1dd9b9",
-      "partner_label": "France Travail",
-      "partner_job_id": "211SYQL"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34270 Saint-Mathieu-de-Tréviers",
-        "geopoint": {
-          "coordinates": [
-            3.868716,
-            43.77306
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11C",
-          "label": "Supérettes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211SYQL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e employé/e polyvalent/e (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Dans le cadre d'un contrat d'apprentissage et au sein d'un supermarché bio vous serez chargé/e de toutes les opérations de réception/mise en rayon des marchandises, contrôle des dates de péremption, encaissement, accueil et vente, conseil, tenue du magasin...\nVous préparez un diplôme en vente ou commerce",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Retirer des produits non conformes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-28T10:02:30.139Z",
-        "expiration": "2026-09-28T10:02:30.139Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9827cffb0dd635d1a6a1b4",
       "partner_label": "Jobs that make sense",
       "partner_job_id": "6a9827cffb0dd635d1a6a1b4"
@@ -24892,7 +25478,7 @@
       "recipient_id": null
     },
     "contract": {
-      "start": "2025-09-01T00:00:00.000Z",
+      "start": "2025-10-01T00:00:00.000Z",
       "duration": null,
       "type": [
         "Apprentissage",
@@ -24905,14 +25491,14 @@
       "rome_codes": [
         "G1808"
       ],
-      "description": "☕ Nola Coffee recrute deux alternant·e·s\n\nNola Coffee est un café de spécialité vietnamien installé rue de l'Université, en plein cœur de l'Écusson à Montpellier. On est le seul endroit en ville à réunir un café vietnamien de spécialité et une carte brunch. Tout est fait maison, des sirops aux pâtisseries.\n\n🧑‍🍳 Le poste\n\nOn cherche deux alternant·e·s pour nous rejoindre à partir d'août ou début septembre. Deux personnes motivées, qui ont envie d'apprendre un métier exigeant dans un cadre stimulant, avec des perspectives d'évolution.\n\n🎯 Tes missions principales\n\n  - Préparer les plats dans l'esprit de notre identité culinaire.\n  - Participer à la création de nouvelles recettes et à l'évolution du menu au fil des saisons.\n  - Élaborer les préparations sucrées maison.\n  - Préparer les boissons de la carte, cafés vietnamiens et créations.\n  - Gérer les stocks, veiller à la bonne conservation des produits et limiter le gaspillage.\n  - Respecter les normes d'hygiène et de sécurité alimentaire (HACCP).\n  - Travailler main dans la main avec l'équipe pour un service fluide et chaleureux.\n\n\n🏢 L'équipe\n\nTu rejoins une petite équipe passionnée de café et de cuisine, où chacun met la main à la pâte. On construit ensemble un lieu convivial, exigeant sur la qualité et respectueux de l'environnement.\n\n💼 Conditions\n\n  - Contrat : alternance, 1 an.\n  - Horaires : travail en journée, avec deux jours de congé consécutifs.\n  - Rémunération : en fonction de l'expérience et des études, plus pourboires.\n  - Lieu : Montpellier, rue de l'Université.\n  - Mutuelle d'entreprise avec une prise en charge employeur supérieure au minimum légal.\n  - Un vrai espace pour apprendre, proposer et grandir avec l'entreprise.\n\n\n📩 Pour candidater\n\nEnvoie ton CV en précisant ton âge, et en mettant en avant tes expériences dans la restauration ou le commerce. N'oublie pas d'ajouter quelques lignes sur ta motivation (pas la peine d'utiliser ChatGPT, sois simple et utilise tes mots). On lit chaque candidature avec attention et on revient vers toi rapidement.\n\n\n\n  - Expérience en cuisine, idéalement orientée brunch ou cuisine du monde.\n  - Bonne humeur, jovial et envie de participer à une aventure entrepreneuriale.\n  - Créativité et sens du détail.\n  - Autonomie et capacité à travailler en équipe.\n  - Intérêt pour une cuisine éco-responsable et engagée.",
+      "description": "☕ Nola Coffee recrute deux alternant·e·s\n\nNola Coffee est un café de spécialité vietnamien installé rue de l’Université, en plein cœur de l’Écusson à Montpellier. On est le seul endroit en ville à réunir un café vietnamien de spécialité et une carte brunch. Tout est fait maison, des sirops aux pâtisseries.\n\n🧑‍🍳 Le poste\n\nOn cherche deux alternant·e·s (Formation BAC+2) pour nous rejoindre à partir d’août ou début septembre. Deux personnes motivées, qui ont envie d’apprendre un métier exigeant dans un cadre stimulant, avec des perspectives d’évolution.\n\n🎯 Tes missions principales\n\n  - Préparer les plats dans l’esprit de notre identité culinaire.\n  - Participer à la création de nouvelles recettes et à l’évolution du menu au fil des saisons.\n  - Élaborer les préparations sucrées maison.\n  - Préparer les boissons de la carte, cafés vietnamiens et créations.\n  - Gérer les stocks, veiller à la bonne conservation des produits et limiter le gaspillage.\n  - Respecter les normes d’hygiène et de sécurité alimentaire (HACCP).\n  - Travailler main dans la main avec l’équipe pour un service fluide et chaleureux.\n\n\n🏢 L’équipe\n\nTu rejoins une petite équipe passionnée de café et de cuisine, où chacun met la main à la pâte. On construit ensemble un lieu convivial, exigeant sur la qualité et respectueux de l’environnement.\n\n💼 Conditions\n\n  - Contrat : alternance (formation de type BAC+2, CAP, ...), 1 an.\n  - Horaires : travail en journée, avec deux jours de congé consécutifs.\n  - Rémunération : en fonction de l’expérience et des études, plus pourboires.\n  - Lieu : Montpellier, rue de l’Université.\n  - Mutuelle d’entreprise avec une prise en charge employeur supérieure au minimum légal.\n  - Un vrai espace pour apprendre, proposer et grandir avec l’entreprise.\n\n\n📩 Pour candidater\n\nEnvoie ton CV en précisant ton âge, et en mettant en avant tes expériences dans la restauration ou le commerce. N’oublie pas d’ajouter quelques lignes sur ta motivation (pas la peine d’utiliser ChatGPT, sois simple et utilise tes mots). On lit chaque candidature avec attention et on revient vers toi rapidement.\n\n\n\n  - Expérience en cuisine, idéalement orientée brunch ou cuisine du monde.\n  - Bonne humeur, jovial et envie de participer à une aventure entrepreneuriale.\n  - Créativité et sens du détail.\n  - Autonomie et capacité à travailler en équipe.\n  - Intérêt pour une cuisine éco-responsable et engagée.\n  - Formation de niveau 5 (ou inferieur)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
         "creation": "2026-07-27T15:09:51.348Z",
-        "expiration": "2026-10-17T13:42:36.517Z"
+        "expiration": "2026-10-18T13:35:57.391Z"
       },
       "opening_count": 1,
       "status": "Active"
