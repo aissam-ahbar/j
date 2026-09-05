@@ -1,6 +1,109 @@
 [
   {
     "identifier": {
+      "id": "6a9b58c93d397359dc354a6d",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9b58c93d397359dc354a6d"
+    },
+    "workplace": {
+      "siret": "82266585700014",
+      "brand": "GAIA INSTITUT SPA",
+      "legal_name": "SPA GAIA",
+      "website": null,
+      "name": "SPA GAIA",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "2220 AVENUE DU PERE SOULAS 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.845871,
+            43.62853
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3032,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9b58c93d397359dc354a6d/alternant-e-bp-esthétique",
+      "phone": "0650673088",
+      "recipient_id": "partners_6a9b58c93d397359dc354a6d"
+    },
+    "contract": {
+      "start": "2026-09-04T23:48:25.387Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant(e) BP Esthétique",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés. Réalise des soins du visage et du corps adaptés aux clients Propose et vend des produits de beauté et de soin Effectue des épilations et prépare la peau avant et après les soins Conseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements Gère les rendez-vous et maintient l'espace de travail propre et accueillant Peut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tConseiller sur la mise en valeur de son image personnelle",
+        "Soin\tAnalyser les caractéristiques de la peau pour adapter le maquillage",
+        "Soin\tConcevoir des maquillages",
+        "Soin\tPratiquer des techniques manuelles drainantes, relaxantes, raffermissantes et stimulantes",
+        "Soin\tProdiguer des soins corporels et esthétiques",
+        "Soin\tRéaliser des maquillages",
+        "Soin\tRéaliser des soins d'épilation",
+        "Soin\tRéaliser des soins de manucure, pédicure",
+        "Soin\tRéaliser des soins de pose de faux-cils, bijoux de peau, tatouages temporaires",
+        "Soin\tRéaliser des soins du visage et du corps",
+        "Soin\tRéaliser un raccord de maquillage ou de coiffure",
+        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
+        "Maintenance, Réparation\tEntretenir un outil ou matériel",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tMaintenir l'hygiène des outils et produits de maquillage",
+        "Qualité\tVeiller à la conformité des machines et des soins des séances d'UV, spa, sauna, hammam",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Logistique\tGérer les rendez-vous et l'agenda des soins",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAccueillir le client et l'installer",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tMaintenir à jour les connaissances des tendances de maquillage",
+        "Développement commercial\tPrésenter et expliquer des techniques d'esthétique et de maquillage",
+        "Développement commercial\tVendre une prestation ou un produit",
+        "Organisation\tAssurer la confidentialité des informations client",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP en soins esthétiques et corporels. Un diplôme de niveau BAC (Brevet Professionnel, ...) ou BAC +2 (BTS, ...) en esthétique-cosmétique peut être requis."
+      ],
+      "publication": {
+        "creation": "2026-09-04T23:48:25.387Z",
+        "expiration": "2026-11-04T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a9a488306fad1942d120c1a",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a9a488306fad1942d120c1a"
@@ -1398,163 +1501,45 @@
       "remote": null
     },
     "offer": {
-      "title": "Consultant / Consultante en organisation",
+      "title": "Assistant administratif / Assistante administrative",
       "rome_codes": [
-        "M1402"
+        "M1607"
       ],
-      "description": "Le Responsable en organisation en entreprise conçoit des améliorations de l'ensemble des processus managériaux et organisationnels sur un plan financier, technologique ou humain. Analyse et améliore les processus internes de l'entreprise Conçoit et met en œuvre des solutions organisationnelles adaptées aux besoins spécifiques de l'entreprise Collabore avec les différents départements pour assurer une mise en œuvre efficace des stratégies d'organisation Supervise les projets d'organisation et coordonne les équipes impliquées Évalue régulièrement l'efficacité des nouvelles méthodes organisationnelles Accompagne le changement et organise la formation du personnel aux nouvelles procédures et outils de gestion",
+      "description": "Réalise le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmet les informations (e-mail, notes, fax, ...) pour le compte d'un ou plusieurs services ou d'un responsable selon l'organisation de l'entreprise. Peut prendre en charge le suivi complet de dossiers (contrats de maintenance des équipements, de la structure, ...). Peut coordonner une équipe.",
       "target_diploma": {
         "european": "7",
         "label": "Master, titre ingénieur, grande école (Bac+5)"
       },
       "desired_skills": [
-        "Etre force de proposition",
-        "Faire preuve de leadership",
-        "Inspirer, donner du sens"
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité",
+        "Organiser son travail selon les priorités et les objectifs"
       ],
       "to_be_acquired_skills": [
-        "Management\tConduire des réunions de projet pour aligner les équipes sur les objectifs",
-        "Management\tEncourager l'innovation au sein des équipes",
-        "Management\tOptimiser les effectifs, l'adéquation et l'allocation des ressources",
-        "Gestion des Ressources Humaines\tAccompagner le changement auprès des collaborateurs",
-        "Gestion des Ressources Humaines\tAnalyser les processus de travail pour identifier les forces et axes de progrès",
-        "Gestion des Ressources Humaines\tConcevoir et mettre en oeuvre un plan de développement des compétences",
-        "Gestion des Ressources Humaines\tMettre en oeuvre les actions de transformation nécessaires aux changements",
-        "Gestion des Ressources Humaines\tRéaliser un diagnostic organisationnel",
-        "Conseil, Transmission\tConseiller une structure dans la gestion de son activité",
-        "Conseil, Transmission\tEnseigner, transmettre des connaissances, développer des compétences",
-        "Communication, Multimédia\tDéfinir une stratégie de communication",
-        "Recherche, Innovation\tRéaliser une étude d'opportunité et de faisabilité technique et économique",
-        "Data et Nouvelles technologies\tAnalyser des données pour soutenir des décisions stratégiques",
-        "Data et Nouvelles technologies\tEtablir des scénarios prospectifs pour faciliter la prise de décision",
-        "Data et Nouvelles technologies\tFaciliter l'intégration de solutions d'intelligence artificielle dans les projets existants",
-        "Data et Nouvelles technologies\tFaire preuve d'appétence pour l'utilisation de logiciels numériques et de nouvelles technologies",
-        "Data et Nouvelles technologies\tIntégrer des solutions de big data pour l'analyse prédictive",
-        "Data et Nouvelles technologies\tRéaliser des études d'organisation et d'évolution de systèmes d'information",
-        "Qualité\tEvaluer régulièrement les processus internes",
-        "Qualité\tPiloter une démarche qualité, un processus d'amélioration continue",
-        "Qualité\tProposer des améliorations pour optimiser les processus",
+        "Management\tCoordonner l'activité d'une équipe",
+        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
+        "Data et Nouvelles technologies\tRenseigner, mettre à jour une documentation technique",
+        "Data et Nouvelles technologies\tSaisir des documents juridiques",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Logistique\tOrganiser le traitement des commandes",
+        "Gestion administrative et comptable\tGérer les agendas et planifier des rendez-vous",
+        "Gestion administrative et comptable\tOrganiser des déplacements professionnels",
+        "Gestion administrative et comptable\tOrganiser la logistique des recrutements et des formations",
         "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
-        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
-        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
-        "Gestion et contrôle\tConseiller la direction sur les décisions financières stratégiques",
-        "Gestion et contrôle\tElaborer, suivre et piloter un budget",
-        "Protection des personnes et de l'environnement\tPromouvoir les initiatives de développement durable au sein de l'entreprise",
-        "Relation client\tRecueillir et analyser les besoins client",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tRéaliser une veille de marché, une veille concurrentielle",
-        "Stratégie de développement\tAnalyser les données de performance de l'entreprise",
-        "Stratégie de développement\tConcevoir des outils de pilotage, indicateurs, tableaux de bord",
-        "Stratégie de développement\tConduire un projet de développement",
-        "Stratégie de développement\tDéterminer des objectifs de performance, suivre les réalisations et identifier les actions correctives",
-        "Stratégie de développement\tElaborer une stratégie de développement d'activité",
-        "Stratégie de développement\tIdentifier des solutions et des pistes d'actions au regard du diagnostic établi",
-        "Stratégie de développement\tMobiliser une vision stratégique et d'anticipation",
-        "Communication\tCommuniquer, lire et rédiger des documents techniques, des rapports, des notes en anglais",
-        "Communication\tConvaincre, négocier",
-        "Organisation\tAssurer une veille technologique et réglementaire active",
-        "Organisation\tRassembler, synthétiser et structurer les éléments nécessaires à une prise de décision (évolution produit/projet)"
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative d'une activité",
+        "Pilotage et maîtrise des coûts\tRéaliser la gestion administrative du personnel",
+        "Gestion et contrôle\tRéaliser des opérations comptables",
+        "Droit, contentieux et négociation\tSuivre un contrat, vérifier le respect des clauses contractuelles",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Organisation\tArchiver des dossiers et documents de référence",
+        "Organisation\tClasser des documents",
+        "Organisation\tUtiliser les outils numériques"
       ],
       "access_conditions": [
-        "Cet emploi est accessible avec un diplôme de niveau Bac+5 en management, gestion d'entreprise, ou stratégie d'entreprise et une expérience professionnelle confirmée. Des certifications en gestion de projet et management de changement ou des formations en ingénierie d'organisation sont également pertinentes."
+        "Ce métier est accessible avec un diplôme de niveau Bac (Bac professionnel, technologique, ...) à Bac+2 (BTS, ...) en secrétariat, bureautique. Il est également accessible avec un BEP dans le secteur tertiaire complété par une expérience professionnelle dans le secteur. La pratique d'une ou plusieurs langues étrangères peut être requise. La maîtrise de l'outil bureautique (traitement de texte, tableur, ...) et des outils de communication (Internet, messagerie, ...) est exigée."
       ],
       "publication": {
         "creation": "2026-08-24T13:16:33.789Z",
-        "expiration": "2026-10-24T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8c40d2a9f7e898624c620b",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a8c40d2a9f7e898624c620b"
-    },
-    "workplace": {
-      "siret": "89481783200039",
-      "brand": null,
-      "legal_name": "FACTORY 456",
-      "website": null,
-      "name": "FACTORY 456",
-      "description": "Factory 456 conçoit et déploie une plateforme agentique destinée à automatiser les tâches répétitives et à optimiser les processus métiers des entreprises. Nous recherchons un(e) développeur(se) en alternance, curieux(se), rigoureux(se) et motivé(e) par l’IA, l’automatisation et les technologies modernes.\n\nCette alternance est exclusivement ouverte aux étudiant(e)s inscrit(e)s dans une formation sans reste à charge pour l’entreprise, notamment en IUT, université, école publique ou toute formation dont le coût pédagogique est intégralement pris en charge dans le cadre du contrat d’alternance.",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "10 PLACE FRANCOISE HERITIER 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.923067,
-            43.597269
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "62.01Z",
-          "label": "Programmation informatique"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c40d2a9f7e898624c620b/informaticien-informaticienne",
-      "phone": "0972103456",
-      "recipient_id": "partners_6a8c40d2a9f7e898624c620b"
-    },
-    "contract": {
-      "start": "2026-08-24T13:02:10.009Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Informaticien / Informaticienne",
-      "rome_codes": [
-        "M1805"
-      ],
-      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participe à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédige des documentations techniques et des guides d'utilisation pour les applications développées Assure la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collabore avec des équipes multidisciplinaires pour intégrer de nouvelles technologies et améliorer les processus de développement Effectue des tests et des validations pour s'assurer de la qualité et de la performance des applications",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [
-        "Faire preuve d'autonomie",
-        "Faire preuve de créativité, d'inventivité",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Recherche, Innovation\tSurveiller les tendances du marché digital",
-        "Data et Nouvelles technologies\tCoder",
-        "Data et Nouvelles technologies\tCollaborer avec les développeurs pour améliorer la qualité du logiciel",
-        "Data et Nouvelles technologies\tDévelopper une application en lien avec une base de données",
-        "Data et Nouvelles technologies\tGérer les versions de logiciels et leurs mises à jour",
-        "Data et Nouvelles technologies\tIntégrer des outils IA/Data Science",
-        "Data et Nouvelles technologies\tMaintenir à jour la documentation technique et les manuels d'utilisation",
-        "Data et Nouvelles technologies\tPiloter les fonctionnalités des équipements et systèmes de sécurité informatique",
-        "Data et Nouvelles technologies\tRéaliser des études et développements informatiques",
-        "Data et Nouvelles technologies\tTester un logiciel, un système d'informations, une application",
-        "Prévention des risques\tConcevoir et maintenir un système de cybersécurité",
-        "Qualité\tOptimiser les processus de qualité pour assurer la fiabilité des logiciels",
-        "Pilotage et maîtrise des coûts\tVérifier la conformité d'une réalisation avec un cahier des charges",
-        "Stratégie de développement\tConcevoir et mettre en oeuvre une stratégie digitale",
-        "Stratégie de développement\tSuperviser, coordonner les réalisations ou développements informatiques (collaborateurs, sous-traitants)",
-        "Stratégie de développement\tTraiter les retours utilisateurs pour améliorer les systèmes",
-        "Communication\tArgumenter sur le choix des technologies à adopter",
-        "Organisation\tDocumenter les procédures techniques pour les utilisateurs",
-        "Organisation\tPromouvoir la collaboration entre les développeurs et les opérateurs pour une meilleure intégration",
-        "Organisation\tRespecter les normes de sécurité informatique dans le développement"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un niveau Bac+2 à Bac+5 dans le domaine de l'informatique. "
-      ],
-      "publication": {
-        "creation": "2026-08-24T13:02:10.009Z",
         "expiration": "2026-10-24T00:00:00.000Z"
       },
       "opening_count": 1,
@@ -8519,128 +8504,6 @@
   },
   {
     "identifier": {
-      "id": "6a4c95516899565644905961",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a4c95516899565644905961"
-    },
-    "workplace": {
-      "siret": "81902279900020",
-      "brand": null,
-      "legal_name": "GRAIN DE SEL",
-      "website": null,
-      "name": "GRAIN DE SEL",
-      "description": "Ancien pressoir transformé en restaurant Bistronomique, le Bistrot Vinaigrette est idéalement situé au cœur du Pic St Loup, à 5mns au Nord de Montpellier.\nLe Bistrot c'est aussi une cave, 3 chambres à louer, une terrasse ombragée ainsi qu'une salle pour réception et séminaire.\nOuvert du mardi au vendredi midi et soir ainsi que le samedi soir.\nwww.lebistrotvinaigrette.fr\n​",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "182 RUE DE LA DUCQUE 34730 PRADES-LE-LEZ",
-        "geopoint": {
-          "coordinates": [
-            3.865473,
-            43.697176
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4c95516899565644905961/apprenti-cuisine",
-      "phone": "0628621947",
-      "recipient_id": "partners_6a4c95516899565644905961"
-    },
-    "contract": {
-      "start": "2026-07-07T05:57:37.320Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti cuisine",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Le Cuisinier, créateur de saveurs et d'expériences culinaires, est au cœur de l'art gastronomique. Prépare et cuisine des mets selon un plan de production culinaire, les règles d'hygiène et de sécurité alimentaires et la charte qualité de l'établissement Coordonne une équipe en cuisine lors de la préparation des plats Assure la mise en valeur des plats, en respectant les techniques de dressage et de décoration. Gère les stocks et approvisionnements de produits nécessaires à la réalisation des mets Peut élaborer de nouveaux menus et recettes en fonction des saisons et des tendances culinaires Contrôle la propreté de la cuisine et des équipements utilisés",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve d'autonomie",
-        "Faire preuve de créativité, d'inventivité",
-        "Faire preuve de réactivité"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tAnimer, coordonner une équipe",
-        "Management\tAnticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
-        "Management\tIdentifier les besoins et définir les actions de formation à mettre en place afin de développer les compétences de ses équipes en cuisine",
-        "Management\tPlanifier et organiser l'activité du personnel relevant de sa responsabilité",
-        "Gestion des Ressources Humaines\tAménager un poste et les conditions de travail",
-        "Conseil, Transmission\tFormer le personnel aux nouvelles techniques culinaires",
-        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
-        "Communication, Multimédia\tOrganiser des événements culinaires spéciaux",
-        "Production, Fabrication\tAdapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)",
-        "Production, Fabrication\tConcevoir des recettes et menus",
-        "Production, Fabrication\tCréer des menus saisonniers pour refléter la diversité des produits",
-        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
-        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
-        "Production, Fabrication\tDresser des plats pour le service",
-        "Production, Fabrication\tGoûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir",
-        "Production, Fabrication\tGérer le timing de préparation pour un service efficace",
-        "Production, Fabrication\tParticiper à l'élaboration des menus et des cartes avec le responsable de restaurant ou d'établissement",
-        "Production, Fabrication\tPréparer des glaces et des sorbets",
-        "Production, Fabrication\tPréparer des plats culinaires",
-        "Production, Fabrication\tPréparer des plats à base de produits locaux",
-        "Production, Fabrication\tPréparer les viandes et les poissons",
-        "Production, Fabrication\tSuperviser la préparation des produits culinaires",
-        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
-        "Maintenance, Réparation\tEntretenir des équipements de cuisine professionnelle",
-        "Qualité\tAnalyser les possibles dysfonctionnements présents en cuisine, et proposer des mesures correctives afin d'y remédier",
-        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
-        "Qualité\tContrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine",
-        "Qualité\tOptimiser les coûts des ingrédients tout en maintenant la qualité",
-        "Qualité\tRéaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tGérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock",
-        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Pilotage et maîtrise des coûts\tCommander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région",
-        "Pilotage et maîtrise des coûts\tDéterminer les coûts de revient des préparations culinaires",
-        "Pilotage et maîtrise des coûts\tLutter contre le gaspillage alimentaire",
-        "Pilotage et maîtrise des coûts\tRéaliser les fiches techniques pour chaque plat (ingrédients, quantités, prix, ...)",
-        "Gestion et contrôle\tSuivre le budget de fonctionnement du périmètre confié",
-        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
-        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
-        "Développement commercial\tEvaluer la satisfaction client",
-        "Développement commercial\tInnover dans la présentation des plats et des menus",
-        "Communication\tFavoriser un environnement de travail collaboratif",
-        "Organisation\tExpliquer et faire respecter les règles et procédures",
-        "Organisation\tGérer les urgences et les imprévus en cuisine"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible principalement avec une certification de niveau CAP à Bac de l'hôtellerie-restauration, selon expérience."
-      ],
-      "publication": {
-        "creation": "2026-07-07T05:57:37.320Z",
-        "expiration": "2026-09-07T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4bb7496e537752fb91ff79",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a4bb7496e537752fb91ff79"
@@ -10190,113 +10053,6 @@
   },
   {
     "identifier": {
-      "id": "6a4a04d6f1dd79c4838d261a",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a4a04d6f1dd79c4838d261a"
-    },
-    "workplace": {
-      "siret": "79898154400025",
-      "brand": null,
-      "legal_name": "BM BOULANGERIE",
-      "website": null,
-      "name": "BM BOULANGERIE",
-      "description": "Au sein d'une boulangerie, vous participez activement au bon fonctionnement du point de vente en assurant l'accueil des clients, la vente des produits et la mise en valeur des produits frais.\n\nVous contribuez à offrir un service de qualité dans un environnement dynamique et convivial.",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "12 ROUTE DE MONTPELLIER 34730 PRADES-LE-LEZ",
-        "geopoint": {
-          "coordinates": [
-            3.86281,
-            43.697298
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4a04d6f1dd79c4838d261a/vendeur-vendeuse-en-boulangerie-pâtisserie",
-      "phone": "0744834970",
-      "recipient_id": "partners_6a4a04d6f1dd79c4838d261a"
-    },
-    "contract": {
-      "start": "2026-07-05T07:16:38.263Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. Peut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Etre à l'écoute, faire preuve d'empathie",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tPrévenir et résoudre les conflits",
-        "Production, Fabrication\tConfectionner des confiseries",
-        "Production, Fabrication\tPréparer, assembler des plats simples",
-        "Production, Fabrication\tTransformer un produit frais (cuire, couper, préparer un plateau...)",
-        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Qualité\tContrôler l'état de conservation d'un produit périssable",
-        "Qualité\tRetirer des produits non conformes",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéaliser l'emballage de produits frais",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tOrganiser le traitement des commandes",
-        "Transport\tLivrer une commande",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Gestion administrative et comptable\tRenseigner le support de suivi de traçabilité des marchandises",
-        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative d'une activité",
-        "Gestion et contrôle\tRéaliser des opérations comptables",
-        "Relation client\tInformer, renseigner une personne sur les articles en vente",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tOrganiser, aménager un espace de vente",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tRéaliser la mise en rayon",
-        "Développement commercial\tVendre ou louer des produits ou des services",
-        "Communication\tCommuniquer à l'oral en milieu professionnel",
-        "Organisation\tUtiliser les outils numériques"
-      ],
-      "access_conditions": [
-        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac (professionnel, ...) dans les secteurs de la vente, du commerce et de la distribution. Des formations spécifiques dans le secteur des métiers de bouche (boulangerie, pâtisserie, boucherie, poissonnerie, ...) peuvent être demandées. Il est également accessible avec une expérience professionnelle dans la vente sans diplôme particulier. La maîtrise d'un logiciel de gestion de stocks peut être demandée."
-      ],
-      "publication": {
-        "creation": "2026-07-05T07:16:38.263Z",
-        "expiration": "2026-09-05T00:00:00.000Z"
-      },
-      "opening_count": 2,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3427cb6e356e71b4d4b1ff",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a3427cb6e356e71b4d4b1ff"
@@ -10950,7 +10706,10 @@
         "M1501"
       ],
       "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
-      "target_diploma": null,
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Législation sociale",
@@ -12036,7 +11795,7 @@
       "rome_codes": [
         "D1102"
       ],
-      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis boulanger (H/F)\nVous souhaitez apprendre le métier de boulanger dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe boulangerie, vous participerez progressivement à :\nLa fabrication des produits de boulangerie dans le respect des fiches techniques.\nLe pétrissage, le façonnage et la cuisson des pains et viennoiseries.\nLe respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nL'organisation et le nettoyage du laboratoire.\nLa coordination avec l'équipe de vente pour assurer la fraîcheur et la disponibilité des produits.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage",
+      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis boulanger (H/F)\nVous souhaitez apprendre le métier de boulanger dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe boulangerie, vous participerez progressivement à :\nLa fabrication des produits de boulangerie dans le respect des fiches techniques.\nLe pétrissage, le façonnage et la cuisson des pains et viennoiseries.\nLe respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nL'organisation et le nettoyage du laboratoire.\nLa coordination avec l'équipe de vente pour assurer la fraîcheur et la disponibilité des produits.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -12044,8 +11803,6 @@
         "Conditions de fermentation de la pâte (à pain, à viennoiserie)",
         "Modes de cuisson des aliments",
         "Entretenir, nettoyer un espace, un lieu, un local",
-        "Mettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Organiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
         "Maintenir un environnement de travail propre et organisé"
       ],
       "access_conditions": [],
@@ -12179,15 +11936,11 @@
       "rome_codes": [
         "D1102"
       ],
-      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.",
+      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons",
-        "Cuire des pièces de viennoiserie",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Entretenir un équipement, une machine, une installation"
+        "Entretenir, nettoyer un espace, un lieu, un local"
       ],
       "access_conditions": [],
       "publication": {
@@ -14134,71 +13887,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a15",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLPH"
-    },
-    "workplace": {
-      "siret": "41812222200031",
-      "brand": null,
-      "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "website": null,
-      "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34590 Marsillargues",
-        "geopoint": {
-          "coordinates": [
-            4.165214,
-            43.607696
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 7018,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "81.30Z",
-          "label": "Services d'aménagement paysager"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLPH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Ouvrier Paysage en Sols Sportifs Engazonnés en alternance (H/F)",
-      "rome_codes": [
-        "A1220"
-      ],
-      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron. Il reste quelques places.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T08:48:23.927Z",
-        "expiration": "2026-10-20T08:48:23.927Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dbadd07de55f764638db",
       "partner_label": "France Travail",
       "partner_job_id": "6054318"
@@ -16078,74 +15766,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a3626",
-      "partner_label": "France Travail",
-      "partner_job_id": "212CZPK"
-    },
-    "workplace": {
-      "siret": "45105338302189",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34570 Vailhauquès",
-        "geopoint": {
-          "coordinates": [
-            3.729135,
-            43.661352
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212CZPK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) de vie en alternance (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 180 agences et 10000 collaborateurs.\nVitalliance est une société à mission notre raison d'être est :\n\"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"\nNotre mot d'ordre : Savoir être là.\n\nMissions :\n\nVous êtes en recherche d'emploi et vous avez pour vocation d'aider les autres ? Rejoignez Vitalliance ! \nNous recrutons un(e) Auxiliaire de Vie en contrat d'apprentissage ou de professionnalisation pour intervenir sur la commune de Vailhauquès auprès d'une personne atteinte d'une maladie neurodégénérative. \n\nVos Missions : \n\n- Expert(e) du maintien à domicile, vous assurez une prise en charge de qualité en toute autonomie :\n\n- Actes essentiels de la vie quotidienne : Aide à la toilette, à l'habillage, transferts sécurisés (personnes âgées ou en situation de handicap).\n\n- Soutien logistique et nutritionnel : Préparation de repas adaptés, gestion des courses, veille à la prise des traitements (selon protocole).\n\n- Préservation de l'autonomie : Stimulation cognitive, sorties et maintien du lien social.\n\nProfil recherché :\n\n- Vous souhaitez entrer en formation (1 jour/semaine) et intervenir auprès des bénéficiaires le reste du temps.\n\n- Vous avez envie d'apprendre un métier tourné vers l'humain \n\n- Autonome, rigoureux(se), vous êtes doté(e) d'un excellent sens du relationnel.\n\n- Vous avez le permis de conduire ainsi qu'une véhicule pour effectuer les interventions chez nos bénéficiaires.\n\nContrat et Avantages :\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Contrat d'apprentissage ou de professionnalisation (selon profil) \n- Intégration dans une équipe d'auxiliaire de vie\n- Larges plages horaires d'intervention\n- Rémunération : Taux horaire attractif selon votre profil + majorations dimanches et jours fériés. \n- Panier repas pris en charge sur les jours de formation\n- Frais de transport : Prise en charge des indemnités kilométriques (selon règles internes)\n- Mutuelle digitale et moderne, frais de santé remboursés en 24h et accès à un médecin en ligne \n- Primes de participation et de cooptation \n- Opportunités d'évolution : ADV Formateur, ADV Référent et ADV Volant",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Normes d'hygiène et de propreté",
-        "Effectuer les courses d'une personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-05T16:18:17.947Z",
-        "expiration": "2026-10-05T16:18:17.947Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a73b923ae98af4affb657bd",
       "partner_label": "France Travail",
       "partner_job_id": "5708431"
@@ -17560,130 +17180,6 @@
   },
   {
     "identifier": {
-      "id": "6a498a751e137ea4a6d8b14f",
-      "partner_label": "France Travail",
-      "partner_job_id": "4570392"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Veolia est une multinationale leader des services à l'environnement (eau, déchets, énergie), fondée en , basée à Paris et Aubervilliers, avec environ 218 000 employés et un CA de 45 milliardsen \nRejoignez Veolia et participez à la transformation écologique !\nApportez vos talents à une entreprise qui oeuvre pour le progrès humain,  qui travaille à décarboner le monde, à le dépolluer et à le ressourcer.En France, Veolia embauche un salarié en CDI toutes les 20 minutes, et offre à tous à travers...",
-      "size": null,
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/51866987?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Agent de réseau - Canalisateur en alternance H/F",
-      "rome_codes": [
-        "F1705"
-      ],
-      "description": "Au sein du service local Ouest Hérault du territoire Hérault, vous intégrerez l'équipe d'exploitation qui assure l'installation et l'entretien des réseaux de distribution d'eau potable et des réseaux d'assainissement. Sur une période de 13 mois (490 heures de formation), vous bénéficierez d'un enseignement professionnel sur : la lecture de plan, la pose de canalisations d'eaux usées et d'eau potable, l'utilisation de petits engins de chantiers, la topographie, la maçonnerie, la réfection provisoire de chaussée, les techniques d'intervention sur réseaux en place, la signalisation de chantier. L'entreprise financera l'habilitation AIPR et le Caces ® R 482 catégorie A.À l'issue de la formation, vous serez en mesure d'intervenir sur :La réalisation les petits travaux de voirie annexe à un chantier de pose de canalisation,La construction d'un réseau d'assainissement et à la construction d'un réseau d'adduction d'eau potable en travaux publics, Les travaux de plomberie et de tuyauterie : réparations de fuites, entretien des réseaux,Les travaux sur branchements et canalisations d'Eau Potable et d'Eaux Usées (réparations, travaux neufs, renouvellement, manœuvre et entretien des accessoires sur réseaux),Le terrassement manuel et mini-pelle (si titulaire du CACES),L'exécution de petits travaux de maçonnerie (pose abri compteur, regards assainissementli&gt;La pose et dépose de compteurs.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-04T21:45:41.000Z",
-        "expiration": "2026-09-04T21:45:41.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a498a751e137ea4a6d8b14d",
-      "partner_label": "France Travail",
-      "partner_job_id": "4566133"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Enedis, le service public de la transition écologique\n\nNous pilotons le plus grand réseau de distribution d'électricité d'Europe au service de la société et des territoires. En tant qu'entreprise à mission engagée dans la transition écologique, nous construisons la nouvelle France électrique, en accompagnant des usages visant à plus de sobriété énergétique.\n\n\n\n\n\n\nFace à l'urgence climatique, l'électricité s'impose comme une énergie clé, engageant des transformations majeures de notre réseau...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55075967?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - appui communication rh &amp; marque employeur F/H",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Au sein du service RH de la Direction régionale d'Enedis Languedoc-Roussillon, , en étroite collaboration avec le management d'équipe et la responsable partenariat marque employeur, et en lien avec l'équipe RH, vous participez à faire progresser les enjeux de la marque employeur et jouez un rôle essentiel dans l'attractivité, l'intégration et la fidélisation des futurs collaborateurs.\nMissions principalesExpérience collaborateurs :- Participer à la refonte des dispositifs et mise en œuvre de nouvelles pratiques pour le recrutement, accueil de nouveaux collaborateurs (onboarding), accompagnement d'alternants (outboarding), fidélisation des collaborateursPoursuivre le déploiement de la démarche d'ambassadorat, en contribuant à l'animation de la communauté d'ambassadeurs et au développement de ses outils et rituels.\n Marque employeur : - Coordination des actions d'attractivité externe : salons, forums, évènements écoles, interventions en milieu scolaire, en lien avec les besoins de recrutement et de sourcing ;- Gestion des sollicitations entrantes liées à l'attractivité, aux évènements et aux demandes d'intervention externes, en assurant leur suivi et leur bonne coordination ;- Organisation d'actions de valorisation autour de thématiques clés telles que la diversité, l'inclusion et l'attractivité des métiers ;- L'appui à la communication RH et marque employeur, via la préparation de supports, la valorisation des actions menées et le suivi des temps forts, en lien étroit avec le service Communication (kit de com RH, stratégie évènementielle, réseaux sociauxDéveloppement d'outils de com nécessaires à la marque Employeur et à la relation écoles entreprise.\nVous gagnez à nous rejoindre !Vous intégrez une équipe dynamique et unie d'une dizaine de personnes.\nVous développez vos compétences opérationnelles et votre autonomie sur des missions pour lesquelles vous êtes responsable, avec l'accompagnement d'un tuteur tout au long de votre alternance.\nVous travaillez dans un environnement au cœur de la transition énergétique",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-04T18:35:51.000Z",
-        "expiration": "2026-09-04T18:35:51.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a99f32f85d4232b2a91a494",
       "partner_label": "France Travail",
       "partner_job_id": "213JXZP"
@@ -17803,7 +17299,10 @@
         "M1501"
       ],
       "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
-      "target_diploma": null,
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Législation sociale",
@@ -18630,6 +18129,79 @@
   },
   {
     "identifier": {
+      "id": "6a974ba853f09a327a252260",
+      "partner_label": "EDF",
+      "partner_job_id": "180466"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "EDF",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "Saint-marcel 34230 Saint-Pargoire",
+        "geopoint": {
+          "coordinates": [
+            3.526693,
+            43.541999
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "35.11Z",
+          "label": "Production d'électricité"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27360?idOrigine=502",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance – Ingénieur de production F/H",
+      "rome_codes": [
+        "H2706"
+      ],
+      "description": "Rattaché(e) à un îlot de production au sein de l’atelier de Framatome Saint-Marcel, vous prenez en charge les missions suivantes :\r\nApporter un support aux méthodistes de l’îlot de production sur les améliorations techniques.\r\nAssurer le suivi de la production et analyser les écarts entre le théorique et le réalisé (délais – Ta/Tp).\r\nParticiper aux démarches d’amélioration continue visant des gains de productivité et des gains financiers.\r\nApporter un support au QC.\r\nDéployer des initiatives permettant d’augmenter les capacités de production.\r\nCréer les standards 5S des chantiers : équipements, accès, plateformes et outils spécifiques.\n\nProfil recherché :\n\nVous intégrez une école d’ingénieurs, généraliste ou à dominante mécanique, et recherchez une alternance d’une durée de 36 mois. Vous souhaitez développer vos compétences dans le domaine de la production industrielle et vous investir dans des missions concrètes, au plus près des activités de terrain.\r\nRigoureux(se), organisé(e) et proactif(ve), vous faites preuve d’un bon esprit d’analyse et savez être force de proposition face aux problématiques rencontrées. Vous appréciez le travail en équipe et disposez de bonnes capacités de communication vous permettant d’interagir avec différents interlocuteurs.\r\nCurieux(se) et impliqué(e), vous manifestez un intérêt pour les environnements industriels, le suivi de production et les démarches d’amélioration continue.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Exploitation / Production"
+      ],
+      "access_conditions": [
+        "Débutant"
+      ],
+      "publication": {
+        "creation": "2026-09-01T00:00:00.000Z",
+        "expiration": "2026-11-04T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
       "partner_job_id": "2026-212943"
@@ -18660,6 +18232,68 @@
     },
     "apply": {
       "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T00:00:00.000Z",
+        "expiration": "2026-11-01T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168ac0",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212950"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "34800 Clermont-l'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.434565,
+            43.625912
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -18739,141 +18373,6 @@
         "M1603"
       ],
       "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a974ba853f09a327a252260",
-      "partner_label": "EDF",
-      "partner_job_id": "180466"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "EDF",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "Saint-marcel 34230 Saint-Pargoire",
-        "geopoint": {
-          "coordinates": [
-            3.526693,
-            43.541999
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "35.11Z",
-          "label": "Production d'électricité"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27360?idOrigine=502",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-10-01T00:00:00.000Z",
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance – Ingénieur de production F/H",
-      "rome_codes": [
-        "H2706"
-      ],
-      "description": "Rattaché(e) à un îlot de production au sein de l’atelier de Framatome Saint-Marcel, vous prenez en charge les missions suivantes :\r\nApporter un support aux méthodistes de l’îlot de production sur les améliorations techniques.\r\nAssurer le suivi de la production et analyser les écarts entre le théorique et le réalisé (délais – Ta/Tp).\r\nParticiper aux démarches d’amélioration continue visant des gains de productivité et des gains financiers.\r\nApporter un support au QC.\r\nDéployer des initiatives permettant d’augmenter les capacités de production.\r\nCréer les standards 5S des chantiers : équipements, accès, plateformes et outils spécifiques.\n\nProfil recherché :\n\nVous intégrez une école d’ingénieurs, généraliste ou à dominante mécanique, et recherchez une alternance d’une durée de 36 mois. Vous souhaitez développer vos compétences dans le domaine de la production industrielle et vous investir dans des missions concrètes, au plus près des activités de terrain.\r\nRigoureux(se), organisé(e) et proactif(ve), vous faites preuve d’un bon esprit d’analyse et savez être force de proposition face aux problématiques rencontrées. Vous appréciez le travail en équipe et disposez de bonnes capacités de communication vous permettant d’interagir avec différents interlocuteurs.\r\nCurieux(se) et impliqué(e), vous manifestez un intérêt pour les environnements industriels, le suivi de production et les démarches d’amélioration continue.",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Exploitation / Production"
-      ],
-      "access_conditions": [
-        "Débutant"
-      ],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "34800 Clermont-l'Hérault",
-        "geopoint": {
-          "coordinates": [
-            3.434565,
-            43.625912
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Saint-Jean-de-Védas et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19214,7 +18713,7 @@
       "rome_codes": [
         "D1102"
       ],
-      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis boulanger (H/F)\nVous souhaitez apprendre le métier de boulanger dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe boulangerie, vous participerez progressivement à :\nLa fabrication des produits de boulangerie dans le respect des fiches techniques.\nLe pétrissage, le façonnage et la cuisson des pains et viennoiseries.\nLe respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nL'organisation et le nettoyage du laboratoire.\nLa coordination avec l'équipe de vente pour assurer la fraîcheur et la disponibilité des produits.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage",
+      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis boulanger (H/F)\nVous souhaitez apprendre le métier de boulanger dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe boulangerie, vous participerez progressivement à :\nLa fabrication des produits de boulangerie dans le respect des fiches techniques.\nLe pétrissage, le façonnage et la cuisson des pains et viennoiseries.\nLe respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nL'organisation et le nettoyage du laboratoire.\nLa coordination avec l'équipe de vente pour assurer la fraîcheur et la disponibilité des produits.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
@@ -19222,8 +18721,6 @@
         "Conditions de fermentation de la pâte (à pain, à viennoiserie)",
         "Modes de cuisson des aliments",
         "Entretenir, nettoyer un espace, un lieu, un local",
-        "Mettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Organiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
         "Maintenir un environnement de travail propre et organisé"
       ],
       "access_conditions": [],
@@ -19357,15 +18854,11 @@
       "rome_codes": [
         "D1102"
       ],
-      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.",
+      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons",
-        "Cuire des pièces de viennoiserie",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Entretenir un équipement, une machine, une installation"
+        "Entretenir, nettoyer un espace, un lieu, un local"
       ],
       "access_conditions": [],
       "publication": {
@@ -22307,71 +21800,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a15",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLPH"
-    },
-    "workplace": {
-      "siret": "41812222200031",
-      "brand": null,
-      "legal_name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "website": null,
-      "name": "G.E.I.Q. SERVICE EMPLOI PAYSAGE",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34590 Marsillargues",
-        "geopoint": {
-          "coordinates": [
-            4.165214,
-            43.607696
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 7018,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "81.30Z",
-          "label": "Services d'aménagement paysager"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLPH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Ouvrier Paysage en Sols Sportifs Engazonnés en alternance (H/F)",
-      "rome_codes": [
-        "A1220"
-      ],
-      "description": "Description du poste : Entretien espaces verts\nLe GEIQ Emploi Paysage est un groupement d'entreprises spécialisées dans les métiers du paysage.\n\nNous recrutons et accompagnons des salariés que nous mettons à disposition de nos entreprises adhérentes afin de leur permettre de développer leurs compétences et de construire leur avenir professionnel.\n\nPour la rentrée 2026, nous recrutons nos futurs alternants pour préparer le Certificat de Spécialisation Sols Sportifs Engazonnés (CS SSE), au sein de notre centre de formation Formapaysage à Bron. Il reste quelques places.\n\nSi votre alternance s'effectue chez un partenaire national (Marsillargues), un hébergement ( près du centre de Bron) peut vous être proposé, sous certaines conditions d'éligibilité.\n\nVous avez déjà une expérience dans les espaces verts et vous souhaitez vous spécialiser dans un domaine technique et porteur ? Vous voulez évoluer vers des postes à responsabilités dans l'entretien des terrains de sport ?\n\nRejoignez un parcours professionnalisant qui vous permettra d'apprendre directement sur le terrain tout en préparant un diplôme reconnu de niveau IV.\n\nRythme : 1 semaine en formation / 3 semaines en entreprise (Marsillargues)\nType de contrat : Contrat de professionnalisation - 1 an\nLieu de formation : FormaPaysage, Bron (69)\n\nVos missions (si vous les acceptez) :\n\nPréparer et organiser l'entretien des terrains de sport engazonnés\nRéaliser les travaux d'entretien courant et spécifique des sols sportifs\nAssurer la régénération et la réfection des terrains\nMettre en place les systèmes d'arrosage et d'assainissement intégrés\nUtiliser et entretenir les équipements et matériels de chantier\nVeiller au respect des consignes de sécurité\nConvaincu(e) ?\n\nEnvoyez votre candidature au GEIQ Emploi Paysage et construisez votre avenir dans les métiers du paysage grâce à un parcours alliant emploi, formation et accompagnement.\n\nPROFIL RECHERCHE: Niveau d'études souhaité\nBac : Bac / Bac Pro / BPA\nExpérience professionnelle\nMoins de 2 ans\nÊtre majeur(e)\nAvoir un niveau de français B1 minimum\nAvoir une expérience significative dans les espaces verts\nIdéalement être titulaire d'un BP, Bac Pro ou BTA en aménagements paysagers, ou d'un BTSA\nEn l'absence d'un de ces diplômes, vous pouvez également être admis sous conditions et décision prise par la DRAAF (nous consulter).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T08:48:23.927Z",
-        "expiration": "2026-10-20T08:48:23.927Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a86276c334ed2d599cef8f1",
       "partner_label": "RH Alternance",
       "partner_job_id": "995140247"
@@ -24649,74 +24077,6 @@
   },
   {
     "identifier": {
-      "id": "6a750ae94c6efee3da6a3626",
-      "partner_label": "France Travail",
-      "partner_job_id": "212CZPK"
-    },
-    "workplace": {
-      "siret": "45105338302189",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34570 Vailhauquès",
-        "geopoint": {
-          "coordinates": [
-            3.729135,
-            43.661352
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212CZPK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) de vie en alternance (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 180 agences et 10000 collaborateurs.\nVitalliance est une société à mission notre raison d'être est :\n\"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"\nNotre mot d'ordre : Savoir être là.\n\nMissions :\n\nVous êtes en recherche d'emploi et vous avez pour vocation d'aider les autres ? Rejoignez Vitalliance ! \nNous recrutons un(e) Auxiliaire de Vie en contrat d'apprentissage ou de professionnalisation pour intervenir sur la commune de Vailhauquès auprès d'une personne atteinte d'une maladie neurodégénérative. \n\nVos Missions : \n\n- Expert(e) du maintien à domicile, vous assurez une prise en charge de qualité en toute autonomie :\n\n- Actes essentiels de la vie quotidienne : Aide à la toilette, à l'habillage, transferts sécurisés (personnes âgées ou en situation de handicap).\n\n- Soutien logistique et nutritionnel : Préparation de repas adaptés, gestion des courses, veille à la prise des traitements (selon protocole).\n\n- Préservation de l'autonomie : Stimulation cognitive, sorties et maintien du lien social.\n\nProfil recherché :\n\n- Vous souhaitez entrer en formation (1 jour/semaine) et intervenir auprès des bénéficiaires le reste du temps.\n\n- Vous avez envie d'apprendre un métier tourné vers l'humain \n\n- Autonome, rigoureux(se), vous êtes doté(e) d'un excellent sens du relationnel.\n\n- Vous avez le permis de conduire ainsi qu'une véhicule pour effectuer les interventions chez nos bénéficiaires.\n\nContrat et Avantages :\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Contrat d'apprentissage ou de professionnalisation (selon profil) \n- Intégration dans une équipe d'auxiliaire de vie\n- Larges plages horaires d'intervention\n- Rémunération : Taux horaire attractif selon votre profil + majorations dimanches et jours fériés. \n- Panier repas pris en charge sur les jours de formation\n- Frais de transport : Prise en charge des indemnités kilométriques (selon règles internes)\n- Mutuelle digitale et moderne, frais de santé remboursés en 24h et accès à un médecin en ligne \n- Primes de participation et de cooptation \n- Opportunités d'évolution : ADV Formateur, ADV Référent et ADV Volant",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Normes d'hygiène et de propreté",
-        "Effectuer les courses d'une personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-05T16:18:17.947Z",
-        "expiration": "2026-10-05T16:18:17.947Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a73b923ae98af4affb657bd",
       "partner_label": "France Travail",
       "partner_job_id": "5708431"
@@ -25491,14 +24851,14 @@
       "rome_codes": [
         "G1808"
       ],
-      "description": "☕ Nola Coffee recrute deux alternant·e·s\n\nNola Coffee est un café de spécialité vietnamien installé rue de l’Université, en plein cœur de l’Écusson à Montpellier. On est le seul endroit en ville à réunir un café vietnamien de spécialité et une carte brunch. Tout est fait maison, des sirops aux pâtisseries.\n\n🧑‍🍳 Le poste\n\nOn cherche deux alternant·e·s (Formation BAC+2) pour nous rejoindre à partir d’août ou début septembre. Deux personnes motivées, qui ont envie d’apprendre un métier exigeant dans un cadre stimulant, avec des perspectives d’évolution.\n\n🎯 Tes missions principales\n\n  - Préparer les plats dans l’esprit de notre identité culinaire.\n  - Participer à la création de nouvelles recettes et à l’évolution du menu au fil des saisons.\n  - Élaborer les préparations sucrées maison.\n  - Préparer les boissons de la carte, cafés vietnamiens et créations.\n  - Gérer les stocks, veiller à la bonne conservation des produits et limiter le gaspillage.\n  - Respecter les normes d’hygiène et de sécurité alimentaire (HACCP).\n  - Travailler main dans la main avec l’équipe pour un service fluide et chaleureux.\n\n\n🏢 L’équipe\n\nTu rejoins une petite équipe passionnée de café et de cuisine, où chacun met la main à la pâte. On construit ensemble un lieu convivial, exigeant sur la qualité et respectueux de l’environnement.\n\n💼 Conditions\n\n  - Contrat : alternance (formation de type BAC+2, CAP, ...), 1 an.\n  - Horaires : travail en journée, avec deux jours de congé consécutifs.\n  - Rémunération : en fonction de l’expérience et des études, plus pourboires.\n  - Lieu : Montpellier, rue de l’Université.\n  - Mutuelle d’entreprise avec une prise en charge employeur supérieure au minimum légal.\n  - Un vrai espace pour apprendre, proposer et grandir avec l’entreprise.\n\n\n📩 Pour candidater\n\nEnvoie ton CV en précisant ton âge, et en mettant en avant tes expériences dans la restauration ou le commerce. N’oublie pas d’ajouter quelques lignes sur ta motivation (pas la peine d’utiliser ChatGPT, sois simple et utilise tes mots). On lit chaque candidature avec attention et on revient vers toi rapidement.\n\n\n\n  - Expérience en cuisine, idéalement orientée brunch ou cuisine du monde.\n  - Bonne humeur, jovial et envie de participer à une aventure entrepreneuriale.\n  - Créativité et sens du détail.\n  - Autonomie et capacité à travailler en équipe.\n  - Intérêt pour une cuisine éco-responsable et engagée.\n  - Formation de niveau 5 (ou inferieur)",
+      "description": "☕ Nola Coffee recrute deux alternant·e·s\n\nNola Coffee est un café de spécialité vietnamien installé rue de l’Université, en plein cœur de l’Écusson à Montpellier. On est le seul endroit en ville à réunir un café vietnamien de spécialité et une carte brunch. Tout est fait maison, des sirops aux pâtisseries.\n\n🧑‍🍳 Le poste\n\nOn cherche deux alternant·e·s (Formation BAC+2) pour nous rejoindre à partir d’août ou septembre. Deux personnes motivées, qui ont envie d’apprendre un métier exigeant dans un cadre stimulant, avec des perspectives d’évolution.\n\n🎯 Tes missions principales\n\n  - Préparer les plats dans l’esprit de notre identité culinaire.\n  - Participer à la création de nouvelles recettes et à l’évolution du menu au fil des saisons.\n  - Élaborer les préparations sucrées maison.\n  - Préparer les boissons de la carte, cafés vietnamiens et créations.\n  - Gérer les stocks, veiller à la bonne conservation des produits et limiter le gaspillage.\n  - Respecter les normes d’hygiène et de sécurité alimentaire (HACCP).\n  - Travailler main dans la main avec l’équipe pour un service fluide et chaleureux.\n\n\n🏢 L’équipe\n\nTu rejoins une petite équipe passionnée de café et de cuisine, où chacun met la main à la pâte. On construit ensemble un lieu convivial, exigeant sur la qualité et respectueux de l’environnement.\n\n💼 Conditions\n\n  - Contrat : alternance (formation de type BAC+2, CAP, …) de 1 an.\n  - Horaires : travail en journée, avec deux jours de congé consécutifs.\n  - Rémunération : en fonction de l'âge et des études, plus pourboires.\n  - Lieu : Montpellier, rue de l’Université.\n  - Mutuelle d’entreprise avec une prise en charge employeur supérieure au minimum légal.\n  - Un vrai espace pour apprendre, proposer et grandir avec l’entreprise.\n\n\n📩 Pour candidater\n\nEnvoie ton CV en précisant ton âge, et en mettant en avant tes expériences dans la restauration ou le commerce. N’oublie pas d’ajouter quelques lignes sur ta motivation (pas la peine d’utiliser ChatGPT, sois simple et utilise tes mots). On lit chaque candidature avec attention et on revient vers toi rapidement.\n\n\n\n  - Expérience en cuisine, idéalement orientée brunch ou cuisine du monde.\n  - Bonne humeur, jovial et envie de participer à une aventure entrepreneuriale.\n  - Créativité et sens du détail.\n  - Autonomie et capacité à travailler en équipe.\n  - Intérêt pour une cuisine éco-responsable et engagée.\n  - Formation de niveau 5 (ou inferieur)",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
         "creation": "2026-07-27T15:09:51.348Z",
-        "expiration": "2026-10-18T13:35:57.391Z"
+        "expiration": "2026-10-19T16:23:11.139Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -26778,130 +26138,6 @@
       "publication": {
         "creation": "2026-07-09T06:35:09.154Z",
         "expiration": "2026-09-09T06:35:09.154Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a498a751e137ea4a6d8b14f",
-      "partner_label": "France Travail",
-      "partner_job_id": "4570392"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Veolia est une multinationale leader des services à l'environnement (eau, déchets, énergie), fondée en , basée à Paris et Aubervilliers, avec environ 218 000 employés et un CA de 45 milliardsen \nRejoignez Veolia et participez à la transformation écologique !\nApportez vos talents à une entreprise qui oeuvre pour le progrès humain,  qui travaille à décarboner le monde, à le dépolluer et à le ressourcer.En France, Veolia embauche un salarié en CDI toutes les 20 minutes, et offre à tous à travers...",
-      "size": null,
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/51866987?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Agent de réseau - Canalisateur en alternance H/F",
-      "rome_codes": [
-        "F1705"
-      ],
-      "description": "Au sein du service local Ouest Hérault du territoire Hérault, vous intégrerez l'équipe d'exploitation qui assure l'installation et l'entretien des réseaux de distribution d'eau potable et des réseaux d'assainissement. Sur une période de 13 mois (490 heures de formation), vous bénéficierez d'un enseignement professionnel sur : la lecture de plan, la pose de canalisations d'eaux usées et d'eau potable, l'utilisation de petits engins de chantiers, la topographie, la maçonnerie, la réfection provisoire de chaussée, les techniques d'intervention sur réseaux en place, la signalisation de chantier. L'entreprise financera l'habilitation AIPR et le Caces ® R 482 catégorie A.À l'issue de la formation, vous serez en mesure d'intervenir sur :La réalisation les petits travaux de voirie annexe à un chantier de pose de canalisation,La construction d'un réseau d'assainissement et à la construction d'un réseau d'adduction d'eau potable en travaux publics, Les travaux de plomberie et de tuyauterie : réparations de fuites, entretien des réseaux,Les travaux sur branchements et canalisations d'Eau Potable et d'Eaux Usées (réparations, travaux neufs, renouvellement, manœuvre et entretien des accessoires sur réseaux),Le terrassement manuel et mini-pelle (si titulaire du CACES),L'exécution de petits travaux de maçonnerie (pose abri compteur, regards assainissementli&gt;La pose et dépose de compteurs.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-04T21:45:41.000Z",
-        "expiration": "2026-09-04T21:45:41.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a498a751e137ea4a6d8b14d",
-      "partner_label": "France Travail",
-      "partner_job_id": "4566133"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Enedis, le service public de la transition écologique\n\nNous pilotons le plus grand réseau de distribution d'électricité d'Europe au service de la société et des territoires. En tant qu'entreprise à mission engagée dans la transition écologique, nous construisons la nouvelle France électrique, en accompagnant des usages visant à plus de sobriété énergétique.\n\n\n\n\n\n\nFace à l'urgence climatique, l'électricité s'impose comme une énergie clé, engageant des transformations majeures de notre réseau...",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55075967?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - appui communication rh &amp; marque employeur F/H",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "Au sein du service RH de la Direction régionale d'Enedis Languedoc-Roussillon, , en étroite collaboration avec le management d'équipe et la responsable partenariat marque employeur, et en lien avec l'équipe RH, vous participez à faire progresser les enjeux de la marque employeur et jouez un rôle essentiel dans l'attractivité, l'intégration et la fidélisation des futurs collaborateurs.\nMissions principalesExpérience collaborateurs :- Participer à la refonte des dispositifs et mise en œuvre de nouvelles pratiques pour le recrutement, accueil de nouveaux collaborateurs (onboarding), accompagnement d'alternants (outboarding), fidélisation des collaborateursPoursuivre le déploiement de la démarche d'ambassadorat, en contribuant à l'animation de la communauté d'ambassadeurs et au développement de ses outils et rituels.\n Marque employeur : - Coordination des actions d'attractivité externe : salons, forums, évènements écoles, interventions en milieu scolaire, en lien avec les besoins de recrutement et de sourcing ;- Gestion des sollicitations entrantes liées à l'attractivité, aux évènements et aux demandes d'intervention externes, en assurant leur suivi et leur bonne coordination ;- Organisation d'actions de valorisation autour de thématiques clés telles que la diversité, l'inclusion et l'attractivité des métiers ;- L'appui à la communication RH et marque employeur, via la préparation de supports, la valorisation des actions menées et le suivi des temps forts, en lien étroit avec le service Communication (kit de com RH, stratégie évènementielle, réseaux sociauxDéveloppement d'outils de com nécessaires à la marque Employeur et à la relation écoles entreprise.\nVous gagnez à nous rejoindre !Vous intégrez une équipe dynamique et unie d'une dizaine de personnes.\nVous développez vos compétences opérationnelles et votre autonomie sur des missions pour lesquelles vous êtes responsable, avec l'accompagnement d'un tuteur tout au long de votre alternance.\nVous travaillez dans un environnement au cœur de la transition énergétique",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-04T18:35:51.000Z",
-        "expiration": "2026-09-04T18:35:51.000Z"
       },
       "opening_count": 1,
       "status": "Active"
