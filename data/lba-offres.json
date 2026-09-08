@@ -1,6 +1,344 @@
 [
   {
     "identifier": {
+      "id": "6a9f948da4090cbb976e44c9",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9f948da4090cbb976e44c9"
+    },
+    "workplace": {
+      "siret": "45403725000023",
+      "brand": null,
+      "legal_name": "ART ALU",
+      "website": null,
+      "name": "ART ALU",
+      "description": "Entreprise familiale\nCompose de 2 équipes de poseurs\nActivité mixte\nCouverture zinguerie et gouttière amuminium",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "1174 ROUTE DE LUNEL 34130 LANSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.091063,
+            43.649043
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.91B",
+          "label": "Travaux de couverture par éléments"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9f948da4090cbb976e44c9/couvreur-zingueur-couvreuse-zingueuse",
+      "phone": "0680953852",
+      "recipient_id": "partners_6a9f948da4090cbb976e44c9"
+    },
+    "contract": {
+      "start": "2026-09-08T04:52:29.821Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Couvreur zingueur / Couvreuse zingueuse",
+      "rome_codes": [
+        "F1619"
+      ],
+      "description": "Le couvreur est un artisan spécialisé dans la pose, la réparation et la rénovation des toitures sur des chantiers de construction neuve ou de rénovation de bâtiments résidentiels, commerciaux ou industriels. Effectue le choix des matériaux, la préparation et la pose des éléments de couverture Pose des couvertures étanches et isolantes, installe des systèmes d'évacuation des eaux de pluie et des éléments spécifiques : fenêtres de toit, éléments ornementaux Peut installer des panneaux solaires ou photovoltaïques Peut intervenir sur des bâtiments anciens et patrimoniaux souvent classés ou inscrits au registre des monuments historiques",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Communication, Multimédia\tDéfinir les méthodes d'installation adaptées",
+        "Création artistique\tRéaliser une prise de vue avec un drone",
+        "Data et Nouvelles technologies\tDessiner des accessoires de couverture et d'étanchéité",
+        "Data et Nouvelles technologies\tUtiliser des logiciels spécifiques",
+        "Production, Fabrication\tDéposer des toitures amiantées",
+        "Production, Fabrication\tDéposer une toiture",
+        "Production, Fabrication\tFaçonner les gouttières, chéneaux et tuyaux de descente",
+        "Production, Fabrication\tSélectionner et préparer le matériau adapté pour appliquer l'étanchéité",
+        "Production, Fabrication\tTailler, calibrer la pierre de couverture (lauze, gneiss, ...) et la poser en toiture sur voûte par calage avec du remblai",
+        "Aménagement\tDéfinir l'emplacement des supports de couverture",
+        "Construction\tAssembler des panneaux d'isolation thermique et phonique",
+        "Construction\tClôturer un chantier et libérer la zone de travail (engins, matériaux, déchets, ...)",
+        "Construction\tEffectuer la réception des travaux avec le client",
+        "Construction\tImplanter des systèmes de récupération d'eau de pluie",
+        "Construction\tInstaller un chauffe-eau solaire individuel ou un Système Solaire Combiné (SSC) en respectant les recommandations techniques du fabricant",
+        "Construction\tInstaller une Ventilation Mécanique Contrôlée (VMC)",
+        "Construction\tMaçonner des éléments de couverture",
+        "Construction\tMonter ou démonter un échafaudage",
+        "Construction\tPoser des ardoises",
+        "Construction\tPoser des couvertures en métal",
+        "Construction\tPoser des fermetures menuisées",
+        "Construction\tPoser des panneaux solaires",
+        "Construction\tPoser des supports de couverture",
+        "Construction\tPoser des tuiles",
+        "Construction\tPoser des tôles",
+        "Construction\tPoser les couches d'isolation selon le plan d'exécution",
+        "Construction\tPoser les gouttières, chéneaux et tuyaux de descente",
+        "Construction\tPoser une toiture végétalisée",
+        "Construction\tRéaliser l'isolation et l'étanchéité de la toiture, terrasse",
+        "Construction\tRéaliser la pose d'éléments d'isolation et d'étanchéité sur des ouvrages en bois",
+        "Construction\tRéaliser la pose d'éléments de couverture",
+        "Construction\tRéaliser un raccordement d'étanchéité",
+        "Construction\tRéaliser une isolation thermique par l'extérieur par procédé enduit MI",
+        "Maintenance, Réparation\tNettoyer le site d'intervention et ranger les outils",
+        "Maintenance, Réparation\tRemplacer des chevrons",
+        "Maintenance, Réparation\tRepérer les particularités du montage de la toiture d'origine",
+        "Prévention des risques\tEvaluer une situation à risques",
+        "Prévention des risques\tImplanter des éléments de sécurité ou de signalisation",
+        "Prévention des risques\tMettre en place les protections afin de sécuriser le chantier",
+        "Qualité\tVérifier la qualité et la fiabilité de l'installation",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Protection des personnes et de l'environnement\tFavoriser le réemploi ou le recyclage des matériaux récupérés",
+        "Protection des personnes et de l'environnement\tTraiter les déchets de couverture",
+        "Relation client\tDéterminer les solutions et les préconisations techniques et les communiquer aux clients",
+        "Développement commercial\tEtablir un devis",
+        "Organisation\tAdapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau CAP en couverture. L'emploi d'aide-couvreur est accessible sans qualification avec une formation interne à l'entreprise. Des formations complémentaires peuvent être demandées pour des interventions sur bâti ancien. Des postes de couvreurs spécialisés en monuments historiques sont ouverts dans la fonction publique ou les collectivités territoriales, généralement sur concours. Il est indispensable de ne pas avoir le vertige pour travailler sur les toits."
+      ],
+      "publication": {
+        "creation": "2026-09-08T04:52:29.821Z",
+        "expiration": "2026-11-08T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9ef49902392b1ffeff5f94",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9ef49902392b1ffeff5f94"
+    },
+    "workplace": {
+      "siret": "87904990600016",
+      "brand": "LE BISTROT DE L HOTEL DE VILLE",
+      "legal_name": "LE BISTROT DE L HOTEL DE VILLE DE BEZIERS",
+      "website": null,
+      "name": "LE BISTROT DE L HOTEL DE VILLE DE BEZIERS",
+      "description": "- Travail et transformations des produits bruts frais : préparations chaudes, froides\n- Préparation des matières premières\n- Dressage des assiettes\n- Entretien de la cuisine : respect des règles HACCP, organiser son poste de travail\n- Travailler en collaboration avec la salle\n- Participer à la satisfaction des clients en envoyant les plats dans les délais souhaités\nProfil recherché :\n- Vous êtes passionné(e) par la cuisine\n- Vous avez un esprit d'équipe confirmé\n- Vous êtes souriant(e), rigoureux(se), méthodique, adroit(e), polyvalent(e), organisé(e)\n- Jusqu'à 18 ans\n- Être un bon cuisinier ne s'improvise pas : si vous avez envie d'apprendre un métier et d'acquérir de l'autonomie,\ncette offre est faite pour vous !",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "8 PLACE DES TROIS SIX 34500 BEZIERS",
+        "geopoint": {
+          "coordinates": [
+            3.212542,
+            43.342039
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1979,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.29B",
+          "label": "Autres services de restauration n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9ef49902392b1ffeff5f94/cuisinier-cuisinière-à-domicile",
+      "phone": "0695808496",
+      "recipient_id": "partners_6a9ef49902392b1ffeff5f94"
+    },
+    "contract": {
+      "start": "2026-09-07T17:30:01.442Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Cuisinier / Cuisinière à domicile",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Le Cuisinier, créateur de saveurs et d'expériences culinaires, est au cœur de l'art gastronomique. Prépare et cuisine des mets selon un plan de production culinaire, les règles d'hygiène et de sécurité alimentaires et la charte qualité de l'établissement Coordonne une équipe en cuisine lors de la préparation des plats Assure la mise en valeur des plats, en respectant les techniques de dressage et de décoration. Gère les stocks et approvisionnements de produits nécessaires à la réalisation des mets Peut élaborer de nouveaux menus et recettes en fonction des saisons et des tendances culinaires Contrôle la propreté de la cuisine et des équipements utilisés",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Management\tAnticiper les périodes de travail plus soutenues en recrutant des saisonniers et des intérimaires",
+        "Management\tIdentifier les besoins et définir les actions de formation à mettre en place afin de développer les compétences de ses équipes en cuisine",
+        "Management\tPlanifier et organiser l'activité du personnel relevant de sa responsabilité",
+        "Gestion des Ressources Humaines\tAménager un poste et les conditions de travail",
+        "Conseil, Transmission\tFormer le personnel aux nouvelles techniques culinaires",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Communication, Multimédia\tOrganiser des événements culinaires spéciaux",
+        "Production, Fabrication\tAdapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)",
+        "Production, Fabrication\tConcevoir des recettes et menus",
+        "Production, Fabrication\tCréer des menus saisonniers pour refléter la diversité des produits",
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tGoûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir",
+        "Production, Fabrication\tGérer le timing de préparation pour un service efficace",
+        "Production, Fabrication\tParticiper à l'élaboration des menus et des cartes avec le responsable de restaurant ou d'établissement",
+        "Production, Fabrication\tPréparer des glaces et des sorbets",
+        "Production, Fabrication\tPréparer des plats culinaires",
+        "Production, Fabrication\tPréparer des plats à base de produits locaux",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tSuperviser la préparation des produits culinaires",
+        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
+        "Maintenance, Réparation\tEntretenir des équipements de cuisine professionnelle",
+        "Qualité\tAnalyser les possibles dysfonctionnements présents en cuisine, et proposer des mesures correctives afin d'y remédier",
+        "Qualité\tAssurer le respect des normes d'hygiène et de sécurité alimentaire",
+        "Qualité\tContrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine",
+        "Qualité\tOptimiser les coûts des ingrédients tout en maintenant la qualité",
+        "Qualité\tRéaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tGérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock",
+        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Pilotage et maîtrise des coûts\tCommander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région",
+        "Pilotage et maîtrise des coûts\tDéterminer les coûts de revient des préparations culinaires",
+        "Pilotage et maîtrise des coûts\tLutter contre le gaspillage alimentaire",
+        "Pilotage et maîtrise des coûts\tRéaliser les fiches techniques pour chaque plat (ingrédients, quantités, prix, ...)",
+        "Gestion et contrôle\tSuivre le budget de fonctionnement du périmètre confié",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Développement commercial\tEvaluer la satisfaction client",
+        "Développement commercial\tInnover dans la présentation des plats et des menus",
+        "Communication\tFavoriser un environnement de travail collaboratif",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tGérer les urgences et les imprévus en cuisine"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible principalement avec une certification de niveau CAP à Bac de l'hôtellerie-restauration, selon expérience."
+      ],
+      "publication": {
+        "creation": "2026-09-07T17:30:01.442Z",
+        "expiration": "2026-11-07T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9edba4a4090cbb976de4f0",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6a9edba4a4090cbb976de4f0"
+    },
+    "workplace": {
+      "siret": "53386228000013",
+      "brand": null,
+      "legal_name": "SENEGAL BEAUTY",
+      "website": null,
+      "name": "SENEGAL BEAUTY",
+      "description": "Sénégal Beauty est une entreprise spécialisée dans la vente de produits de beauté \nethniques au cœur du centre-ville de Montpellier. Nous disposons également d'un espace coiffure. \nNous recherchons un(e) Conseiller(ère) de Vente (H/F) dynamique et motivé(e) pour rejoindre notre équipe. Le poste offre l'opportunité de travailler dans un environnement stimulant et d'interagir avec une clientèle diversifiée.\nDe niveau Bac à Bac+5 Technique et/ou Commercial",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "11 RUE DE MAGUELONE 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.879817,
+            43.6071
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.75Z",
+          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9edba4a4090cbb976de4f0/conseiller-ère-de-vente-h-f-en-alternance",
+      "phone": "0951166717",
+      "recipient_id": "partners_6a9edba4a4090cbb976de4f0"
+    },
+    "contract": {
+      "start": "2026-09-07T15:43:32.407Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller(ère) de Vente (H/F) en alternance",
+      "rome_codes": [
+        "D1214"
+      ],
+      "description": "Réalise la vente d'articles destinés à l'équipement et à l'hygiène de la personne (vêtements, chaussures, bijoux, sacs à main, parfums, ...) auprès d'une clientèle de particuliers selon la réglementation du commerce, la stratégie et les objectifs commerciaux de l'entreprise. Peut proposer des services complémentaires à la vente (retouches, cartes de fidélité, ...). Peut coordonner une équipe.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de curiosité, d'ouverture d'esprit",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Logistique\tOrganiser le traitement des commandes",
+        "Gestion administrative et comptable\tGérer une caisse",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Développement commercial\tAdapter une stratégie de vente à une cible ou un produit",
+        "Développement commercial\tAssurer un service après-vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tMettre en oeuvre des actions commerciales et promotionnelles",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tVendre ou louer des produits ou des services"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) dans les secteurs de la vente et du commerce. Des formations spécifiques (esthétique, couture, ...) peuvent être demandées. Il est également accessible avec une expérience professionnelle dans le secteur de la vente sans diplôme particulier. La maîtrise d'un logiciel de gestion de stock peut être demandée."
+      ],
+      "publication": {
+        "creation": "2026-09-07T15:43:32.407Z",
+        "expiration": "2026-11-07T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a9c9bce06fad1942d13354e",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a9c9bce06fad1942d13354e"
@@ -9403,6 +9741,208 @@
   },
   {
     "identifier": {
+      "id": "6a9f38dc95355def70a9e7c7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6697142"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Château Saint Pierre de Serjac",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34480 Puissalicon",
+        "geopoint": {
+          "coordinates": [
+            3.235332,
+            43.457976
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://careers.werecruit.io/fr/domaine-et-demeure/offres/receptionniste---contrat-apprentissage-f049cf?utm_source=francetravail&utm_medium=job-board",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Réceptionniste - Contrat Apprentissage F/H - Château Saint Pierre de Serjac",
+      "rome_codes": [
+        "G1703"
+      ],
+      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T21:15:09.979Z",
+        "expiration": "2026-11-07T21:15:09.979Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7c9",
+      "partner_label": "France Travail",
+      "partner_job_id": "213MRQH"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.11F",
+          "label": "Hypermarchés"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MRQH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Hôte / Hôtesse de caisse  (H/F)",
+      "rome_codes": [
+        "D1505"
+      ],
+      "description": "Vous serez chargé(e) de l'accueil client, de réaliser les opérations d'enregistrement et d'encaissement, de gérer un fond de caisse, transmettre les remarques et suggestions des clients, vous serez en caisse \"classique\" et libre service.\nAmplitude horaire de 8h30 à 21h30 du lundi au samedi, vous serez amené à travailler occasionnellement le dimanche matin et jour férié, 2 jours de repos/semaine.\n\nVous validerez un CQP \"employé de commerce\" en contrat de professionnalisation.\nPour les débutants une mise à niveau des connaissances et compétences d'1 semaine sera mise en place.\n\nDémarrage du contrat au plus tôt et jusqu'au 27 mars 2027",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Règles de tenue de caisse",
+        "Procéder à l'encaissement"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T15:41:19.714Z",
+        "expiration": "2026-11-07T15:41:19.714Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7c8",
+      "partner_label": "France Travail",
+      "partner_job_id": "213MCJC"
+    },
+    "workplace": {
+      "siret": "80362032700020",
+      "brand": null,
+      "legal_name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
+      "website": null,
+      "name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2128,
+        "opco": "Uniformation, l'Opco de la Cohésion sociale",
+        "naf": {
+          "code": "88.99B",
+          "label": "Action sociale sans hébergement n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MCJC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 18,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante de vie - contrat en alternance (H/F)",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "Vous aimez vous rendre utile, vous êtes dynamique, autonome, et vous avez les sens des responsabilités, le métier d'aide à domicile est peut-être fait pour vous !\nLe GEIQ vous propose de vous aider à valider votre projet de carrière ou de reconversion, puis de vous former en contrat de professionnalisation sur une durée de 18 mois\n\n- 1 jours par semaine en formation au centre de formation ADRAR) : Préparation du Titre Professionnel Assistant-e de vie aux familles\n\n- 4 jours par semaine au domicile des personnes âgées sur un secteur proche de chez vous : entretien du domicile, linge, courses, stimulation, aide aux déplacements, aux repas, à l'hygiène.\n\nPlusieurs postes à pourvoir sur les villes : \nBédarieux, Castries, Ganges, Grande motte, St jean de védas, Sète, Frontignan, Lattes, Pérols, Palavas, Montpellier.\n\nLes avantages : la formation est financée par le GEIQ et pendant votre temps de travail, vous êtes rémunéré(e) à 100% du SMIC horaire, remboursements kilométriques, mutuelle et prévoyance, accompagnement personnalisé des salariés.\n\nA l'issue du contrat GEIQ vous détenez un diplôme reconnu dans le domaine avec l'accès à un CDI et des possibilités de passerelles vers d'autres métiers (Aide soignant, AES, responsable de secteur, coordinateur-trice...).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer les courses d'une personne",
+        "Surveiller l'état de santé d'une personne"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T11:32:06.703Z",
+        "expiration": "2026-11-07T11:32:06.703Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a9de79685d4232b2a93087b",
       "partner_label": "France Travail",
       "partner_job_id": "6683696"
@@ -10198,6 +10738,89 @@
         "expiration": "2026-11-03T19:12:59.935Z"
       },
       "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7ca",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JFYW"
+    },
+    "workplace": {
+      "siret": "44176820700017",
+      "brand": null,
+      "legal_name": "CAP MER ET LOISIRS",
+      "website": null,
+      "name": "CAP MER ET LOISIRS",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1631,
+        "opco": "AFDAS",
+        "naf": {
+          "code": "55.30Z",
+          "label": "Terrains de camping et parcs pour caravanes ou véhicules de loisirs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JFYW",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller commercial / Conseillère commerciale en mobile homes a (H/F)",
+      "rome_codes": [
+        "D1403"
+      ],
+      "description": "Vos missions:\nDéveloppement commercial et relation client: \nAccueillir et accompagner les propriétaires souhaitant vendre leur mobil-home;\nIdentifier leurs besoins et comprendre leur projet afin de leur proposer les solutions les plus adaptées;\nDévelopper et fidéliser le portefeuille clients;\nAssurer le suivi des prospects et effectuer les relances commerciales;\nParticiper à la commercialisation des mobil-homes disponibles à la vente;\nConseiller les clients sur les différents biens, leurs caractéristiques et les conditions de vente;\nParticiper à la négociation et au suivi des ventes jusqu'à leur finalisation;\nAssurer la facturation et le suivi des règlements.\nGestion des ventes de mobil-homes:\nÉtablissement et suivi des mandats de vente;\nÉvaluation et présentation de la valeur des mobil-homes;\nRéalisation et suivi des états des lieux;\nMise en ligne et actualisation des annonces;\nMise à jour quotidienne du portefeuille de mobil-homes à vendre;\nCoordination avec la Direction et les différents services du camping;\nPréparation des documents nécessaires en cas de proposition de reprise par le camping;\nSuivi des ventes de mobil-homes et de leurs annexes.\nAccompagnement des nouveaux propriétaires: \nPréparation et signature des contrats de location de parcelle;\nPrésentation des tarifs, droits et obligations des propriétaires;\nRéponse aux questions relatives aux contrats et au fonctionnement du camping;\nSuivi de la conformité des parcelles;\nVeille sur l'évolution des contrats et des conditions de location;\nAccompagnement sur les possibilités de sous-location des mobil-homes.\n\nSous-location et services associés: \nAcquérir les connaissances nécessaires à la gestion des sous-locations;\nInformer les propriétaires sur les conditions et possibilités de sous-location;\nParticiper à la gestion de la garantie locative et de la sous-location en lien avec la responsables des locatifs;\nAssurer la signature des documents nécessaires lors de la vente.\n\nTravail en collaboration avec les équipes du camping:\nAssurer la transmission des informations au service technique;\nSuivre les demandes et les travaux nécessaires sur les mobil-homes;\nInformer et accompagner les propriétaires sur la commercialisation de leur bien;\nParticiper à l'amélioration continue de la relation client;\nCollaborer avec les différents services du camping;\nParticiper au développement et au renouvellement du parc de mobil-homes;\nEntretenir une relation de qualité avec les associations présentes sur le site, notamment les associations néerlandaises.\nVotre profil:\nNous recherchons avant tout une personne motivée, dynamique et ayant le goût du contact et du challenge commercial.\nVous préparez un diplôme en commerce, vente, relation client, immobilier ou dans un domaine similaire et souhaitez mettre vos connaissances en pratique dans un environnement professionnel stimulant.\nÀ l'aise avec la relation client et la communication;\nDynamique, souriant(e) et doté(e) d'un bon relationnel;\nOrganisé(e), rigoureux(se) et autonome;\nCurieux(se) et désireux(se) d'apprendre;\nÀ l'aise avec les outils informatiques;\nMotivé(e) par les objectifs commerciaux et le développement des ventes;\nCapable de travailler en équipe tout en faisant preuve d'initiative.\n\nUne première expérience commerciale ou dans le secteur du tourisme est un plus, mais n'est pas indispensable.\nCe que nous vous proposons: \nUn contrat en alternance;\nUne expérience concrète et polyvalente dans le domaine commercial;\nUn accompagnement et une montée en compétences progressive;\nUne immersion au cœur de l'univers du camping et de l'hôtellerie de plein air;\nUne équipe dynamique et un environnement de travail convivial;\nMutuelle d'entreprise.\n\nVous aimez le contact client, avez le sens du commerce et souhaitez évoluer dans un environnement dynamique et touristique ?\nEnvoyez-nous votre candidature (CV et lettre de motivation)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Argumentation commerciale",
+        "Gestion de la relation client (CRM)",
+        "Assurer le suivi des dossiers clients",
+        "Assurer le suivi d'une vente",
+        "Assurer un service après-vente",
+        "Conclure une vente",
+        "Conduire un entretien de vente",
+        "Constituer les dossiers de vente",
+        "Développer et fidéliser la relation client",
+        "Développer un portefeuille clients et prospects",
+        "Ecouter les besoins des clients",
+        "Effectuer le suivi des commandes, la facturation",
+        "Gérer les paiements et les transactions financières",
+        "Réaliser la gestion administrative des contrats",
+        "Suivre les dossiers clients jusqu'à résolution",
+        "Traiter les demandes spéciales des clients",
+        "Utiliser des logiciels de gestion de la relation client (CRM)"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T12:20:54.352Z",
+        "expiration": "2026-11-03T12:20:54.352Z"
+      },
+      "opening_count": 1,
       "status": "Active"
     },
     "is_delegated": false
@@ -11647,73 +12270,6 @@
   },
   {
     "identifier": {
-      "id": "6a920a97e67033cb14ec91a9",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CCSG"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CCSG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti cuisinier / cuisinière en alternance  (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Poste d'apprentissage du métier de cuisinier dans un restaurant traditionnel de centre ville de Montpellier en alternance avec une formation théorique chez HC Conseil.\nle contrat sera un CDD d'une année à 35h hebdomadaire. \nOrganisation :1 journée de 7 heures par semaine en formation chez HC conseil et 4 jours dans le restaurant. \nL'objectif sera durant cette année d'apprendre toutes les bases de la cuisine. Tous les postes seront exploités et l'ensemble du référentiel pour apprendre le métier sera exécuté. Le restaurant forme des apprentis depuis plus de 15 ans. Vous serez toujours encadré mais l'objectif est que vous acquerriez rapidement votre autonomie.\n\nVotre atout pour ce poste: du dynamisme, de la motivation, l'envie d'apprendre, être organisé, respecter les règles d'hygiène.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-28T16:12:58.589Z",
-        "expiration": "2026-10-28T16:12:58.589Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a920a97e67033cb14ec91a6",
       "partner_label": "France Travail",
       "partner_job_id": "6391323"
@@ -12102,78 +12658,6 @@
       "publication": {
         "creation": "2026-08-26T14:36:13.036Z",
         "expiration": "2026-10-26T14:36:13.036Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8f67a11d31377ab1f65561",
-      "partner_label": "France Travail",
-      "partner_job_id": "212YJDW"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212YJDW",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-26T14:22:01.971Z",
-        "expiration": "2026-10-26T14:22:01.971Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14432,76 +14916,6 @@
   },
   {
     "identifier": {
-      "id": "6a7a508044b96218e0f5e240",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GVYS"
-    },
-    "workplace": {
-      "siret": "30332455200148",
-      "brand": "FRANCK PROVOST",
-      "legal_name": "FRANCK PROVOST COIFFURE",
-      "website": null,
-      "name": "FRANCK PROVOST COIFFURE",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2596,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://smrtr.io/zVgDV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Coiffeur (H/F)",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "Description de l'entreprise\nDédiée aux galeries marchandes et aux centres commerciaux, Interview Coiffure propose des prestations globales, accessibles à toute la famille, sans rendez-vous, avec de nombreuses offres promotionnelles tout au long de l'année. \n\nL'enseigne Interview Coiffure fait partie du Groupe Provalliance, leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, Jean Louis David, The Barber Company, Saint Algue.). \n\nInterview Coiffure positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.   \n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme CAP en 1 ou 2 ans)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-10T10:18:27.358Z",
-        "expiration": "2026-10-10T10:18:27.358Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a765c4452e165fd1b089bbc",
       "partner_label": "France Travail",
       "partner_job_id": "5828472"
@@ -15648,68 +16062,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb6f",
       "partner_label": "France Travail",
       "partner_job_id": "5205256"
@@ -15757,6 +16109,68 @@
         "I1606"
       ],
       "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-07-21T12:11:06.000Z",
+        "expiration": "2026-09-21T12:11:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5ff3bc6cce1228eac4eb67",
+      "partner_label": "France Travail",
+      "partner_job_id": "5205301"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -16082,73 +16496,6 @@
   },
   {
     "identifier": {
-      "id": "6a595c5ddea3d72aa2349460",
-      "partner_label": "France Travail",
-      "partner_job_id": "211GKQK"
-    },
-    "workplace": {
-      "siret": "50315432000025",
-      "brand": null,
-      "legal_name": "VOLETS 34",
-      "website": null,
-      "name": "VOLETS 34",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34740 Vendargues",
-        "geopoint": {
-          "coordinates": [
-            3.963982,
-            43.658046
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1577,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "25.12Z",
-          "label": "Fabrication de portes et fenêtres en métal"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211GKQK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Assembleur de Volets Roulants (H/F)",
-      "rome_codes": [
-        "H2901"
-      ],
-      "description": "Vous souhaitez apprendre un métier manuel au sein d'un environnement stable et structuré ? Rejoignez une entreprise spécialisée dans la fabrication de volets roulants à Vendargues et développez vos compétences techniques en atelier !\n\nVotre mission : Sous la responsabilité de votre tuteur, vous participerez activement à la chaîne de production. Votre rôle consistera à :\n\nRéaliser le montage et l'assemblage des différents composants des volets.\nContrôler la conformité des produits assemblés.\nLe plus : Vous travaillez exclusivement en atelier ; aucune pose sur chantier n'est requise.\n\nVotre profil :\n\nVous préparez ou souhaitez préparer un CAP Menuiserie.\nVous avez une réelle aisance manuelle et le goût du travail bien fait.\nDébutant accepté : Votre motivation et votre envie d'apprendre sont vos meilleurs atouts !\nNote : Le poste implique le port de charges lourdes et des gestes répétitifs.\n\nPourquoi nous rejoindre ?\n\nUn rythme de travail avantageux : Profitez de vos vendredis après-midi ! Vos horaires sont de 07h00 à 12h00 / 13h00 à 16h30 du lundi au jeudi, et de 07h00 à 12h00 le vendredi.\nAvantages : Tickets restaurant inclus.\nApprentissage concret : Un poste idéal pour maîtriser les bases de la fabrication en menuiserie.\n\nInformations pratiques :\n\nLieu : Vendargues (34).\nMobilité : L'entreprise étant peu desservie par les transports en commun\nDate de prise de poste : Septembre.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer le métrage et la mise au point de systèmes, équipements mécaniques et outils de production (moule, outillage...)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-16T10:39:15.413Z",
-        "expiration": "2026-09-16T10:39:15.413Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7f952d9e6c7d0c91e106df",
       "partner_label": "France Travail",
       "partner_job_id": "211FPYH"
@@ -16336,6 +16683,470 @@
       "publication": {
         "creation": "2026-07-11T15:49:54.000Z",
         "expiration": "2026-09-11T15:49:54.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9fbbcf02392b1ffeffb440",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a9fbbcf02392b1ffeffb440"
+    },
+    "workplace": {
+      "siret": "91186476700023",
+      "brand": "PAIN'POLES",
+      "legal_name": "ROBIN",
+      "website": null,
+      "name": "ROBIN",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "47 Route de Montpellier 34110 Vic-la-Gardiole",
+        "geopoint": {
+          "coordinates": [
+            3.772768,
+            43.480024
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a9fbbcf4ebca56dd5a2e346",
+      "phone": "0677534745",
+      "recipient_id": "partners_6a9fbbcf02392b1ffeffb440"
+    },
+    "contract": {
+      "start": "2026-09-09T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boulanger / Boulangère",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles.\\nPrépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires\\nConçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre\\nGère les stocks de matières premières et commande les fournitures nécessaires\\nAssure la cuisson optimale de chaque produit pour garantir la meilleure qualité\\nPeut effectuer la vente de produits de boulangerie et viennoiserie\\nPeut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-08T07:39:59.764Z",
+        "expiration": "2026-11-07T07:39:59.761Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9fbb67a4090cbb976e5455",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6a9fbb67a4090cbb976e5455"
+    },
+    "workplace": {
+      "siret": "91186476700023",
+      "brand": "PAIN'POLES",
+      "legal_name": "ROBIN",
+      "website": null,
+      "name": "ROBIN",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "47 Route de Montpellier 34110 Vic-la-Gardiole",
+        "geopoint": {
+          "coordinates": [
+            3.772768,
+            43.480024
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a9fbb674ebca56dd5a2e336",
+      "phone": "0677534745",
+      "recipient_id": "partners_6a9fbb67a4090cbb976e5455"
+    },
+    "contract": {
+      "start": "2026-09-09T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boulanger / Boulangère",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles.\\nPrépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires\\nConçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre\\nGère les stocks de matières premières et commande les fournitures nécessaires\\nAssure la cuisson optimale de chaque produit pour garantir la meilleure qualité\\nPeut effectuer la vente de produits de boulangerie et viennoiserie\\nPeut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-08T07:38:15.332Z",
+        "expiration": "2026-11-07T07:38:15.325Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7c7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6697142"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Château Saint Pierre de Serjac",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34480 Puissalicon",
+        "geopoint": {
+          "coordinates": [
+            3.235332,
+            43.457976
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://careers.werecruit.io/fr/domaine-et-demeure/offres/receptionniste---contrat-apprentissage-f049cf?utm_source=francetravail&utm_medium=job-board",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Réceptionniste - Contrat Apprentissage F/H - Château Saint Pierre de Serjac",
+      "rome_codes": [
+        "G1703"
+      ],
+      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T21:15:09.979Z",
+        "expiration": "2026-11-07T21:15:09.979Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7c9",
+      "partner_label": "France Travail",
+      "partner_job_id": "213MRQH"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.11F",
+          "label": "Hypermarchés"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MRQH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Hôte / Hôtesse de caisse  (H/F)",
+      "rome_codes": [
+        "D1505"
+      ],
+      "description": "Vous serez chargé(e) de l'accueil client, de réaliser les opérations d'enregistrement et d'encaissement, de gérer un fond de caisse, transmettre les remarques et suggestions des clients, vous serez en caisse \"classique\" et libre service.\nAmplitude horaire de 8h30 à 21h30 du lundi au samedi, vous serez amené à travailler occasionnellement le dimanche matin et jour férié, 2 jours de repos/semaine.\n\nVous validerez un CQP \"employé de commerce\" en contrat de professionnalisation.\nPour les débutants une mise à niveau des connaissances et compétences d'1 semaine sera mise en place.\n\nDémarrage du contrat au plus tôt et jusqu'au 27 mars 2027",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Règles de tenue de caisse",
+        "Procéder à l'encaissement"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T15:41:19.714Z",
+        "expiration": "2026-11-07T15:41:19.714Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9f38dc95355def70a9e7c8",
+      "partner_label": "France Travail",
+      "partner_job_id": "213MCJC"
+    },
+    "workplace": {
+      "siret": "80362032700020",
+      "brand": null,
+      "legal_name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
+      "website": null,
+      "name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2128,
+        "opco": "Uniformation, l'Opco de la Cohésion sociale",
+        "naf": {
+          "code": "88.99B",
+          "label": "Action sociale sans hébergement n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MCJC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 18,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant / Assistante de vie - contrat en alternance (H/F)",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "Vous aimez vous rendre utile, vous êtes dynamique, autonome, et vous avez les sens des responsabilités, le métier d'aide à domicile est peut-être fait pour vous !\nLe GEIQ vous propose de vous aider à valider votre projet de carrière ou de reconversion, puis de vous former en contrat de professionnalisation sur une durée de 18 mois\n\n- 1 jours par semaine en formation au centre de formation ADRAR) : Préparation du Titre Professionnel Assistant-e de vie aux familles\n\n- 4 jours par semaine au domicile des personnes âgées sur un secteur proche de chez vous : entretien du domicile, linge, courses, stimulation, aide aux déplacements, aux repas, à l'hygiène.\n\nPlusieurs postes à pourvoir sur les villes : \nBédarieux, Castries, Ganges, Grande motte, St jean de védas, Sète, Frontignan, Lattes, Pérols, Palavas, Montpellier.\n\nLes avantages : la formation est financée par le GEIQ et pendant votre temps de travail, vous êtes rémunéré(e) à 100% du SMIC horaire, remboursements kilométriques, mutuelle et prévoyance, accompagnement personnalisé des salariés.\n\nA l'issue du contrat GEIQ vous détenez un diplôme reconnu dans le domaine avec l'accès à un CDI et des possibilités de passerelles vers d'autres métiers (Aide soignant, AES, responsable de secteur, coordinateur-trice...).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer les courses d'une personne",
+        "Surveiller l'état de santé d'une personne"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-07T11:32:06.703Z",
+        "expiration": "2026-11-07T11:32:06.703Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a5aaf479e972c0713e1365e",
+      "partner_label": "Meteojob",
+      "partner_job_id": "55518612"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "L'industrie recrute",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/55518612?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "ALTERNANT MAGASIN H/F",
+      "rome_codes": [
+        "F1710"
+      ],
+      "description": "<p>Notre Usine SLB de Béziers produit des équipements pétroliers réputés dans le monde entier. S'appuyant sur les dernières technologies de l'Industrie 4.0, notre Usine, c'est aussi une histoire d'hommes &amp; de femmes, partageant la conviction que la résilience, l'expertise et l'engagement sont des valeurs humaines essentielles.</p> <p>  <strong>Ce que nous recherchons :</strong> </p> <p>Notre futur(e) Magasinier(e) Outillage en alternance, motivé(e) par un environnement industriel exigeant et formateur.</p> <p>  <strong>Tes responsabilités :</strong> </p> <p>Accompagné(e) par l'équipe magasin, tu participeras aux activités quotidiennes du magasin outillage :</p> <p>· Réception et contrôle des livraisons</p> <p>· Rangement et organisation du matériel</p> <p>· Approvisionnement des ateliers</p> <p>· Suivi des stocks et gestion des péremptions</p> <p>· Manipulation de matériels allant de quelques grammes à plusieurs dizaines de kilos</p> <p>· Participation à l'amélioration continue et au respect des règles de sécurité</p> <p>  <strong>Ce que tu maitrises :</strong> </p> <p>  - La conduite d'engin élévateur. Cat 1, 3, 5.  <br />  - L'outil informatique, apprentissage de nouveaux logiciels de gestion de stock. </p> <p>  <strong>Ce que tu es :</strong> </p> <p>Rigoureux(se), ponctuel(le) et curieux(se). Sensibiliser à la sécurité en entreprise.</p> <p>Tu prépares une formation en logistique / magasinage (CAP, Bac pro, BTS ou équivalent) ? Alors n'attends plus et rejoins nos équipes d'experts pour une belle aventure</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Employé logistique magasin (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-06T23:05:37.781Z",
+        "expiration": "2026-11-06T23:05:37.781Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3475957f27726a0497c37c",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54818857"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "BOULANGERIE ANGE",
+      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP Boulanger en apprentissage H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-06T23:05:24.196Z",
+        "expiration": "2026-11-06T23:05:24.196Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17344,6 +18155,89 @@
   },
   {
     "identifier": {
+      "id": "6a9f38dc95355def70a9e7ca",
+      "partner_label": "France Travail",
+      "partner_job_id": "213JFYW"
+    },
+    "workplace": {
+      "siret": "44176820700017",
+      "brand": null,
+      "legal_name": "CAP MER ET LOISIRS",
+      "website": null,
+      "name": "CAP MER ET LOISIRS",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1631,
+        "opco": "AFDAS",
+        "naf": {
+          "code": "55.30Z",
+          "label": "Terrains de camping et parcs pour caravanes ou véhicules de loisirs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JFYW",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller commercial / Conseillère commerciale en mobile homes a (H/F)",
+      "rome_codes": [
+        "D1403"
+      ],
+      "description": "Vos missions:\nDéveloppement commercial et relation client: \nAccueillir et accompagner les propriétaires souhaitant vendre leur mobil-home;\nIdentifier leurs besoins et comprendre leur projet afin de leur proposer les solutions les plus adaptées;\nDévelopper et fidéliser le portefeuille clients;\nAssurer le suivi des prospects et effectuer les relances commerciales;\nParticiper à la commercialisation des mobil-homes disponibles à la vente;\nConseiller les clients sur les différents biens, leurs caractéristiques et les conditions de vente;\nParticiper à la négociation et au suivi des ventes jusqu'à leur finalisation;\nAssurer la facturation et le suivi des règlements.\nGestion des ventes de mobil-homes:\nÉtablissement et suivi des mandats de vente;\nÉvaluation et présentation de la valeur des mobil-homes;\nRéalisation et suivi des états des lieux;\nMise en ligne et actualisation des annonces;\nMise à jour quotidienne du portefeuille de mobil-homes à vendre;\nCoordination avec la Direction et les différents services du camping;\nPréparation des documents nécessaires en cas de proposition de reprise par le camping;\nSuivi des ventes de mobil-homes et de leurs annexes.\nAccompagnement des nouveaux propriétaires: \nPréparation et signature des contrats de location de parcelle;\nPrésentation des tarifs, droits et obligations des propriétaires;\nRéponse aux questions relatives aux contrats et au fonctionnement du camping;\nSuivi de la conformité des parcelles;\nVeille sur l'évolution des contrats et des conditions de location;\nAccompagnement sur les possibilités de sous-location des mobil-homes.\n\nSous-location et services associés: \nAcquérir les connaissances nécessaires à la gestion des sous-locations;\nInformer les propriétaires sur les conditions et possibilités de sous-location;\nParticiper à la gestion de la garantie locative et de la sous-location en lien avec la responsables des locatifs;\nAssurer la signature des documents nécessaires lors de la vente.\n\nTravail en collaboration avec les équipes du camping:\nAssurer la transmission des informations au service technique;\nSuivre les demandes et les travaux nécessaires sur les mobil-homes;\nInformer et accompagner les propriétaires sur la commercialisation de leur bien;\nParticiper à l'amélioration continue de la relation client;\nCollaborer avec les différents services du camping;\nParticiper au développement et au renouvellement du parc de mobil-homes;\nEntretenir une relation de qualité avec les associations présentes sur le site, notamment les associations néerlandaises.\nVotre profil:\nNous recherchons avant tout une personne motivée, dynamique et ayant le goût du contact et du challenge commercial.\nVous préparez un diplôme en commerce, vente, relation client, immobilier ou dans un domaine similaire et souhaitez mettre vos connaissances en pratique dans un environnement professionnel stimulant.\nÀ l'aise avec la relation client et la communication;\nDynamique, souriant(e) et doté(e) d'un bon relationnel;\nOrganisé(e), rigoureux(se) et autonome;\nCurieux(se) et désireux(se) d'apprendre;\nÀ l'aise avec les outils informatiques;\nMotivé(e) par les objectifs commerciaux et le développement des ventes;\nCapable de travailler en équipe tout en faisant preuve d'initiative.\n\nUne première expérience commerciale ou dans le secteur du tourisme est un plus, mais n'est pas indispensable.\nCe que nous vous proposons: \nUn contrat en alternance;\nUne expérience concrète et polyvalente dans le domaine commercial;\nUn accompagnement et une montée en compétences progressive;\nUne immersion au cœur de l'univers du camping et de l'hôtellerie de plein air;\nUne équipe dynamique et un environnement de travail convivial;\nMutuelle d'entreprise.\n\nVous aimez le contact client, avez le sens du commerce et souhaitez évoluer dans un environnement dynamique et touristique ?\nEnvoyez-nous votre candidature (CV et lettre de motivation)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Argumentation commerciale",
+        "Gestion de la relation client (CRM)",
+        "Assurer le suivi des dossiers clients",
+        "Assurer le suivi d'une vente",
+        "Assurer un service après-vente",
+        "Conclure une vente",
+        "Conduire un entretien de vente",
+        "Constituer les dossiers de vente",
+        "Développer et fidéliser la relation client",
+        "Développer un portefeuille clients et prospects",
+        "Ecouter les besoins des clients",
+        "Effectuer le suivi des commandes, la facturation",
+        "Gérer les paiements et les transactions financières",
+        "Réaliser la gestion administrative des contrats",
+        "Suivre les dossiers clients jusqu'à résolution",
+        "Traiter les demandes spéciales des clients",
+        "Utiliser des logiciels de gestion de la relation client (CRM)"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-03T12:20:54.352Z",
+        "expiration": "2026-11-03T12:20:54.352Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6a99f32f85d4232b2a91a492",
       "partner_label": "France Travail",
       "partner_job_id": "213JCTK"
@@ -18096,68 +18990,6 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168af6",
-      "partner_label": "La Poste",
-      "partner_job_id": "2026-212749"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "La Poste",
-      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
-      "size": null,
-      "location": {
-        "address": "Place Alexandre Laissac 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87658,
-            43.605936
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212749",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 7,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Facteur F/H",
-      "rome_codes": [
-        "M1603"
-      ],
-      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
       "partner_job_id": "2026-212943"
@@ -18347,6 +19179,68 @@
       "publication": {
         "creation": "2026-09-01T00:00:00.000Z",
         "expiration": "2026-11-04T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a1e0655f7a4d99224168af6",
+      "partner_label": "La Poste",
+      "partner_job_id": "2026-212749"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "La Poste",
+      "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
+      "size": null,
+      "location": {
+        "address": "Place Alexandre Laissac 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87658,
+            43.605936
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.laposterecrute.fr/offre/2026-212749",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 7,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Facteur F/H",
+      "rome_codes": [
+        "M1603"
+      ],
+      "description": "- Métier : Facteur\r\n- Fiche métier : https://www.laposterecrute.fr/fichemetier/facteur\r\n- Filière : Distribution / Livraison\r\n- Expérience : 0-1 an\r\n- Temps de travail hebdomadaire : 35\r\n\r\nDescription de la mission :\r\n\r\nVous souhaitez acquérir de l'expérience dans la livraison, le service client et les services ? Vous cherchez un job dynamique, polyvalent, où vous pouvez montrer vos compétences relationnelles ?\r\n\r\nLa Poste Groupe et son CFA Formaposte Sud Est vous proposent un parcours en alternance de 7 mois, qui combine la préparation d’un Titre professionnel Conducteur Livreur Véhicules Utilitaires et Légers (CLVUL)  avec l’apprentissage du métier de facteur en plateforme de distribution courrier.\r\nProfessionnel de la distribution du courrier, vous réalisez les travaux de préparation et distribution de l'ensemble du courrier qui vous est confié.\r\nVous contribuez à améliorer la qualité de service client. Vous assurerez au quotidien la relation avec la clientèle (orientation des demandes, conseils aux clients particuliers et entreprises), grâce à des connaissances de la réglementation postale et des produits et tarifs. Vous prêtez serment et garantissez la confidentialité vis-à-vis des clients.\r\nVous exercez la majeure partie de votre métier à l'extérieur.\r\nVous participez à la promotion et à la vente des produits et services de proximité du groupe La Poste.\r\nRattaché(e) à votre Encadrant, vous travaillez en équipe.\r\nSelon le lieu de travail et les tâches qui vous seront confiées, vous serez amené(e) à travailler à pied, à vélo ou en voiture.\r\n\r\nProfil candidat :\r\n\r\nAfin d'être éligible à cette formation, vous devez :\r\nEtre titulaire du permis B boite manuelle (un permis B boite automatique sera considéré comme un permis en cours)\r\nJustifier d'un niveau 3ème au minimum\r\nJustifier d'une expérience professionnelle de 3 mois minimum\r\nEtre éligible au contrat d'apprentissage (- de 30 ans  /pas de limite d'âge pour les  personnes possédant une RQTH) ou de professionnalisation (demandeurs d’emploi de + 30 ans)\r\nAvoir un casier judiciaire vierge (Bulletin numéro 3)\r\n\r\nSi vous obtenez votre diplôme et avez satisfait aux évaluations de La Poste (comportementales et techniques), un contrat pourra vous être proposé par La Poste Groupe. Les plus pour cette formation :\r\n\r\nQualités relationnelles, recherche de la satisfaction du besoin des clients, rigueur, autonomie, faculté d'adaptation et de mémorisation\r\nEsprit d'équipe et d'entraide\r\nPonctualité et probité (intégrité, discrétion)\r\nIntégrer un centre de formation, Formaposte Sud Est et l'AFPA de Rodez et obtenir un diplôme reconnu \r\nIntégrer une entreprise, La Poste et bénéficier d'une rémunération (entre 830 € et 1 760 € BRUT selon votre âge et votre contrat)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-01T00:00:00.000Z",
+        "expiration": "2026-11-01T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -19046,73 +19940,6 @@
   },
   {
     "identifier": {
-      "id": "6a920a97e67033cb14ec91a9",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CCSG"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CCSG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti cuisinier / cuisinière en alternance  (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Poste d'apprentissage du métier de cuisinier dans un restaurant traditionnel de centre ville de Montpellier en alternance avec une formation théorique chez HC Conseil.\nle contrat sera un CDD d'une année à 35h hebdomadaire. \nOrganisation :1 journée de 7 heures par semaine en formation chez HC conseil et 4 jours dans le restaurant. \nL'objectif sera durant cette année d'apprendre toutes les bases de la cuisine. Tous les postes seront exploités et l'ensemble du référentiel pour apprendre le métier sera exécuté. Le restaurant forme des apprentis depuis plus de 15 ans. Vous serez toujours encadré mais l'objectif est que vous acquerriez rapidement votre autonomie.\n\nVotre atout pour ce poste: du dynamisme, de la motivation, l'envie d'apprendre, être organisé, respecter les règles d'hygiène.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-28T16:12:58.589Z",
-        "expiration": "2026-10-28T16:12:58.589Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a920a97e67033cb14ec91a6",
       "partner_label": "France Travail",
       "partner_job_id": "6391323"
@@ -19698,78 +20525,6 @@
       "publication": {
         "creation": "2026-08-26T14:36:13.036Z",
         "expiration": "2026-10-26T14:36:13.036Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8f67a11d31377ab1f65561",
-      "partner_label": "France Travail",
-      "partner_job_id": "212YJDW"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212YJDW",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-26T14:22:01.971Z",
-        "expiration": "2026-10-26T14:22:01.971Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20376,72 +21131,6 @@
       "publication": {
         "creation": "2026-08-24T15:33:51.806Z",
         "expiration": "2026-10-24T15:33:51.806Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8cc5b698c379c251783cba",
-      "partner_label": "Meteojob",
-      "partner_job_id": "56300920"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "CLIMAVIE SARL",
-      "description": "<p>Notre société Climavie située à Mauguio proche de Montpellier dans l'Hérault (34) est spécialisée dans l'installation et la maintenance de systèmes de climatisation et chauffage, pompes à chaleur, chaudières, chauffe eau, systèmes de ventilation et tous types d'équipements utilisant les énergies renouvelables.</p> <p>Créée en 2000 par Hugues Moreau, elle bénéficie de 22 années de savoir-faire dans le génie climatique et énergétique.</p> <p>CLIMAVIE apporte une importance toute particulière à la satisfaction client, met un point d'honneur à exercer une transparence et une écoute attentive à ses techniciens. Nous recherchons des candidats motivés et prêts à s'investir pleinement afin de mener à bien leurs missions.</p>",
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.995434,
-            43.59327
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/56300920?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant Gestion et Comptabilité en Alternance F/H",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "<p>Assistant(e) Gestion et Comptabilité en Alternance (H/F) - Bachelor</p> <p>CLIMAVIE , entreprise spécialisée dans le génie climatique ET SAVIE entreprise spécialisée dans la maintenance et le dépannage des installations climatiques, recherche un(e) alternant(e) motivé(e) pour réorganiser et épauler notre équipe administrative et financière.</p> <p>  <strong>Vos missions :</strong> </p> <p>Sous la responsabilité du dirigeant / du responsable administratif, vous participez activement à la gestion quotidienne de l'entreprise :</p> <ul>  <li>   <p>    <strong>Comptabilité courante :</strong>    Saisie des factures fournisseurs, suivi des règlements, rapprochements bancaires et relances clients.   </p>  </li>  <li>   <p>    <strong>Gestion administrative :</strong>    Traitement du courrier, classement, archivage et tenue des dossiers du personnel.   </p>  </li>  <li>   <p>    <strong>Suivi d'activité :</strong>    Saisie et contrôle des bons de commande, élaboration des devis/factures et mise à jour des tableaux de bord (Excel).   </p>  </li>  <li>   <p>    <strong>Achats &amp; Fournisseurs :</strong>    Contrôle de la conformité des livraisons et gestion des litiges simples.   </p>  </li> </ul>\r\n\r\nSecteur: BTP - Bâtiment Travaux Publics\r\n\r\nPoste: Assistant de gestion - comptabilité (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: 966 € - 1 825 € par mois\r\n\r\nProfil: <ul>  <li>   <p>    Vous préparez un    <strong>Bachelor (Bac+3)</strong>    en Gestion, Comptabilité ou Administration des Entreprises (ex. Bachelor Gestion-Finance, DCG, Bachelor Management).   </p>  </li>  <li>   <p>    Bonne maîtrise d'    <strong>Excel</strong>    (fonctions courantes, suivi de données) et idéalement d'un logiciel de gestion/comptabilité.   </p>  </li>  <li>   <p>Rigueur, sens de l'organisation et autonomie.</p>  </li>  <li>   <p>Bonnes qualités relationnelles (contacts fournisseurs, clients et techniciens).</p>  </li> </ul>",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T14:35:54.000Z",
-        "expiration": "2026-10-24T14:35:54.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -22210,138 +22899,6 @@
   },
   {
     "identifier": {
-      "id": "6a5aaf479e972c0713e1365e",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55518612"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "L'industrie recrute",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55518612?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "ALTERNANT MAGASIN H/F",
-      "rome_codes": [
-        "F1710"
-      ],
-      "description": "<p>Notre Usine SLB de Béziers produit des équipements pétroliers réputés dans le monde entier. S'appuyant sur les dernières technologies de l'Industrie 4.0, notre Usine, c'est aussi une histoire d'hommes &amp; de femmes, partageant la conviction que la résilience, l'expertise et l'engagement sont des valeurs humaines essentielles.</p> <p>  <strong>Ce que nous recherchons :</strong> </p> <p>Notre futur(e) Magasinier(e) Outillage en alternance, motivé(e) par un environnement industriel exigeant et formateur.</p> <p>  <strong>Tes responsabilités :</strong> </p> <p>Accompagné(e) par l'équipe magasin, tu participeras aux activités quotidiennes du magasin outillage :</p> <p>· Réception et contrôle des livraisons</p> <p>· Rangement et organisation du matériel</p> <p>· Approvisionnement des ateliers</p> <p>· Suivi des stocks et gestion des péremptions</p> <p>· Manipulation de matériels allant de quelques grammes à plusieurs dizaines de kilos</p> <p>· Participation à l'amélioration continue et au respect des règles de sécurité</p> <p>  <strong>Ce que tu maitrises :</strong> </p> <p>  - La conduite d'engin élévateur. Cat 1, 3, 5.  <br />  - L'outil informatique, apprentissage de nouveaux logiciels de gestion de stock. </p> <p>  <strong>Ce que tu es :</strong> </p> <p>Rigoureux(se), ponctuel(le) et curieux(se). Sensibiliser à la sécurité en entreprise.</p> <p>Tu prépares une formation en logistique / magasinage (CAP, Bac pro, BTS ou équivalent) ? Alors n'attends plus et rejoins nos équipes d'experts pour une belle aventure</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Employé logistique magasin (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-14T22:09:35.197Z",
-        "expiration": "2026-10-14T22:09:35.197Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3475957f27726a0497c37c",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54818857"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP Boulanger en apprentissage H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-14T22:07:24.501Z",
-        "expiration": "2026-10-14T22:07:24.501Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a7e448fa59fa8a8f3593556",
       "partner_label": "France Travail",
       "partner_job_id": "5945625"
@@ -22944,76 +23501,6 @@
       "publication": {
         "creation": "2026-08-10T16:40:46.638Z",
         "expiration": "2026-10-10T16:40:46.638Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7a508044b96218e0f5e240",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GVYS"
-    },
-    "workplace": {
-      "siret": "30332455200148",
-      "brand": "FRANCK PROVOST",
-      "legal_name": "FRANCK PROVOST COIFFURE",
-      "website": null,
-      "name": "FRANCK PROVOST COIFFURE",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2596,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://smrtr.io/zVgDV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Coiffeur (H/F)",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "Description de l'entreprise\nDédiée aux galeries marchandes et aux centres commerciaux, Interview Coiffure propose des prestations globales, accessibles à toute la famille, sans rendez-vous, avec de nombreuses offres promotionnelles tout au long de l'année. \n\nL'enseigne Interview Coiffure fait partie du Groupe Provalliance, leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, Jean Louis David, The Barber Company, Saint Algue.). \n\nInterview Coiffure positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.   \n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme CAP en 1 ou 2 ans)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-10T10:18:27.358Z",
-        "expiration": "2026-10-10T10:18:27.358Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24987,73 +25474,6 @@
       "publication": {
         "creation": "2026-07-16T12:08:49.000Z",
         "expiration": "2026-09-16T12:08:49.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a595c5ddea3d72aa2349460",
-      "partner_label": "France Travail",
-      "partner_job_id": "211GKQK"
-    },
-    "workplace": {
-      "siret": "50315432000025",
-      "brand": null,
-      "legal_name": "VOLETS 34",
-      "website": null,
-      "name": "VOLETS 34",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34740 Vendargues",
-        "geopoint": {
-          "coordinates": [
-            3.963982,
-            43.658046
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1577,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "25.12Z",
-          "label": "Fabrication de portes et fenêtres en métal"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211GKQK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Assembleur de Volets Roulants (H/F)",
-      "rome_codes": [
-        "H2901"
-      ],
-      "description": "Vous souhaitez apprendre un métier manuel au sein d'un environnement stable et structuré ? Rejoignez une entreprise spécialisée dans la fabrication de volets roulants à Vendargues et développez vos compétences techniques en atelier !\n\nVotre mission : Sous la responsabilité de votre tuteur, vous participerez activement à la chaîne de production. Votre rôle consistera à :\n\nRéaliser le montage et l'assemblage des différents composants des volets.\nContrôler la conformité des produits assemblés.\nLe plus : Vous travaillez exclusivement en atelier ; aucune pose sur chantier n'est requise.\n\nVotre profil :\n\nVous préparez ou souhaitez préparer un CAP Menuiserie.\nVous avez une réelle aisance manuelle et le goût du travail bien fait.\nDébutant accepté : Votre motivation et votre envie d'apprendre sont vos meilleurs atouts !\nNote : Le poste implique le port de charges lourdes et des gestes répétitifs.\n\nPourquoi nous rejoindre ?\n\nUn rythme de travail avantageux : Profitez de vos vendredis après-midi ! Vos horaires sont de 07h00 à 12h00 / 13h00 à 16h30 du lundi au jeudi, et de 07h00 à 12h00 le vendredi.\nAvantages : Tickets restaurant inclus.\nApprentissage concret : Un poste idéal pour maîtriser les bases de la fabrication en menuiserie.\n\nInformations pratiques :\n\nLieu : Vendargues (34).\nMobilité : L'entreprise étant peu desservie par les transports en commun\nDate de prise de poste : Septembre.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer le métrage et la mise au point de systèmes, équipements mécaniques et outils de production (moule, outillage...)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-16T10:39:15.413Z",
-        "expiration": "2026-09-16T10:39:15.413Z"
       },
       "opening_count": 1,
       "status": "Active"
