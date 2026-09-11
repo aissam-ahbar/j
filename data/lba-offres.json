@@ -1,6 +1,318 @@
 [
   {
     "identifier": {
+      "id": "6aa3be95ef95c6a32325138b",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa3be95ef95c6a32325138b"
+    },
+    "workplace": {
+      "siret": "88145260100027",
+      "brand": "TABAC DE L'OVALIE",
+      "legal_name": "CHRISTOPHE ALCARAZ",
+      "website": null,
+      "name": "CHRISTOPHE ALCARAZ",
+      "description": "Tabac presse loto PMU et multiservices",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "901 RUE DE BUGAREL 34070 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.851929,
+            43.592081
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "47.26Z",
+          "label": "Commerce de détail de produits à base de tabac en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa3be95ef95c6a32325138b/vendeur-vendeuse-buraliste",
+      "phone": "0787205256",
+      "recipient_id": "partners_6aa3be95ef95c6a32325138b"
+    },
+    "contract": {
+      "start": "2026-11-01T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur / Vendeuse buraliste",
+      "rome_codes": [
+        "D1211"
+      ],
+      "description": "Le vendeur en boutique réalise la vente d'articles et d'accessoires destinés à des activités sportives, culturelles ou de loisirs auprès d'une clientèle de particuliers selon la réglementation du commerce, la stratégie et les objectifs commerciaux de l'entreprise. Peut proposer des services complémentaires (réglages de cycles, maintenance d'instruments de musique, préparation d'armes à feu, ...). Peut coordonner une équipe",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tPréparer et réaliser des performances sportives",
+        "Management\tPrévenir et résoudre les conflits",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tParticiper à un inventaire",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéaliser l'étiquetage de produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Logistique\tOrganiser le traitement des commandes",
+        "Gestion administrative et comptable\tGérer une caisse",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Relation client\tInformer, renseigner une personne sur les articles en vente",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAssurer un service après-vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tRéaliser la mise en rayon",
+        "Développement commercial\tVendre ou louer des produits ou des services",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) dans les secteurs de la vente, du commerce et de la distribution. Il est également accessible sur pratique ou connaissance d'un domaine spécifique (littérature, musique, discipline sportive, ...) sans diplôme particulier. Une autorisation délivrée par la Préfecture (Ministère de l'Intérieur) est requise pour le commerce d'armes et de munitions. Une licence et un agrément délivrés par la Direction des Douanes sont requis pour le commerce de tabac et des produits dérivés du tabac. La maîtrise d'un logiciel de gestion de stock peut être requise."
+      ],
+      "publication": {
+        "creation": "2026-09-11T08:40:53.835Z",
+        "expiration": "2026-11-11T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa2c7a7ef95c6a32324b555",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa2c7a7ef95c6a32324b555"
+    },
+    "workplace": {
+      "siret": "90928342600015",
+      "brand": null,
+      "legal_name": "LNA PNEUS",
+      "website": null,
+      "name": "LNA PNEUS",
+      "description": "MONTAGE DE PNEUS ET PETITE MECANIQUE ET ENTRETIEN",
+      "size": "Non diffusé",
+      "location": {
+        "address": "1000 RUE DE L'INDUSTRIE 34070 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.87998,
+            43.582477
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.32Z",
+          "label": "Commerce de détail d'équipements automobiles"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa2c7a7ef95c6a32324b555/monteur-de-pneus-et-petite-mecanique",
+      "phone": "0650709105",
+      "recipient_id": "partners_6aa2c7a7ef95c6a32324b555"
+    },
+    "contract": {
+      "start": "2026-09-10T15:07:19.051Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "MONTEUR DE PNEUS ET PETITE MECANIQUE",
+      "rome_codes": [
+        "I1604"
+      ],
+      "description": "Le Mécanicien automobile réalise l'ensemble des interventions de maintenance préventive et corrective sur les véhicules thermiques, électriques et hybrides. Réalise les opérations d'entretien périodique sur le véhicule, y compris la climatisation Réalise un diagnostic de premier niveau notamment sur les systèmes mécaniques Effectue les opérations de remplacement ou de remise en conformité dans le respect des procédures Remet en conformité les systèmes d'injection, de dépollution ou de suralimentation sur un moteur essence ou diesel d'un véhicule thermique ou hybride Respecte les règles d'hygiène, de sécurité et de l'environnement",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Data et Nouvelles technologies\tMettre à jour les logiciels embarqués des véhicules",
+        "Data et Nouvelles technologies\tUtiliser des logiciels de diagnostic automobile",
+        "Construction\tInstaller des équipements complémentaires (dispositifs de confort, protection, films teintés, attelage, ...) sur un véhicule automobile particulier ou industriel",
+        "Maintenance, Réparation\tAssurer la maintenance des outils et équipements de l'atelier",
+        "Maintenance, Réparation\tContrôler et remplacer les éléments du système de freinage (classique, ABS, ESP)",
+        "Maintenance, Réparation\tContrôler et régler les trains roulants",
+        "Maintenance, Réparation\tContrôler l'état de charge et de vieillissement d'une batterie de traction d'un véhicule",
+        "Maintenance, Réparation\tContrôler la conformité technique d'un véhicule",
+        "Maintenance, Réparation\tContrôler visuellement les éléments de charge d'un véhicule électrique et/ou hybride",
+        "Maintenance, Réparation\tRemplacer et réparer les pneumatiques",
+        "Maintenance, Réparation\tRemplacer les organes de transmission (embrayage, boite de vitesse)",
+        "Maintenance, Réparation\tRemplacer une batterie de démarrage et de servitude (<60 volts cc)",
+        "Maintenance, Réparation\tRéaliser la maintenance des systèmes d'embrayage",
+        "Maintenance, Réparation\tRéaliser la maintenance des systèmes de direction",
+        "Maintenance, Réparation\tRéaliser la maintenance des systèmes de dépollution essence ou diesel d'un moteur thermique",
+        "Maintenance, Réparation\tRéaliser la maintenance des systèmes de suralimentation essence ou diesel d'un moteur",
+        "Maintenance, Réparation\tRéaliser la maintenance des systèmes injection essence ou diesel d'un moteur thermique",
+        "Maintenance, Réparation\tRéaliser la maintenance du circuit de climatisation",
+        "Maintenance, Réparation\tRéaliser le diagnostic des trains roulants",
+        "Maintenance, Réparation\tRéaliser le diagnostic du circuit de climatisation",
+        "Maintenance, Réparation\tRéaliser les diagnostics des différents organes (ou systèmes) du véhicule: moteur, direction, freinage, embrayage, transmissions ou encore climatisation",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien des circuits d'allumage, air, carburant, échappement du moteur",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien des circuits de lubrification",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien des pneumatiques, amortisseurs et suspensions",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien des éléments électriques, de sécurité, de confort d'un véhicule",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien du système de freinage",
+        "Maintenance, Réparation\tRéaliser les opérations d'entretien du système de transmission (embrayage, boite de vitesse)",
+        "Prévention des risques\tAppliquer les normes relatives à la manipulation de fluides frigorigènes",
+        "Prévention des risques\tAppliquer les normes relatives à la prévention des risques électriques",
+        "Transport\tConduire un véhicule léger",
+        "Relation client\tConseiller les clients sur l'entretien nécessaire et les options de réparation",
+        "Organisation\tRenseigner un ordre de réparation afin d'assurer la traçabilité des travaux réalisés"
+      ],
+      "access_conditions": [
+        "Pour devenir mécanicien automobile, plusieurs parcours sont possibles. Le CAP et le Bac Pro sont des certifications courantes. Le Titre à finalité professionnelle Mécanicien automobile peut également permettre l'accès à l'emploi. Certaines habilitations sont nécessaires à l'accès à l'emploi telles que l'attestation à la manipulation des fluides frigorigènes ou des habilitations électriques."
+      ],
+      "publication": {
+        "creation": "2026-09-10T15:07:19.051Z",
+        "expiration": "2026-11-10T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa26ead744920529feaa9c8",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa26ead744920529feaa9c8"
+    },
+    "workplace": {
+      "siret": "81042250100017",
+      "brand": "LM TRAITEUR DES HALLES",
+      "legal_name": "CHAMALO",
+      "website": null,
+      "name": "CHAMALO",
+      "description": "Installé aux Halles Castellane à Montpellier, le Festin du Roi Traiteur propose une cuisine généreuse, authentique et entièrement tournée vers le plaisir du bon produit.\nNotre maison s’inscrit dans une démarche artisanale où la qualité des matières premières, le savoir-faire charcutier et la cuisine maison occupent une place centrale. Notre offre évolue au fil des saisons afin de proposer des recettes savoureuses, préparées avec des produits frais et soigneusement sélectionnés.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "RUE DE LA LOGE 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.877962,
+            43.609527
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "10.13B",
+          "label": "Charcuterie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa26ead744920529feaa9c8/charcutier-traiteur-en-apprentissage",
+      "phone": "0467250673",
+      "recipient_id": "partners_6aa26ead744920529feaa9c8"
+    },
+    "contract": {
+      "start": "2026-09-10T08:47:41.342Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Charcutier traiteur en apprentissage",
+      "rome_codes": [
+        "G1606"
+      ],
+      "description": "Prépare et cuisine des mets selon un plan de production culinaire, les règles d'hygiène et de sécurité alimentaires, la charte qualité de l'établissement. Assure et garantit les préparations culinaires et leur dressage. Peut cuisiner un type de plats particulier (desserts, poissons, viandes). Peut élaborer des plats, des menus.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de contrôle de soi",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tAnimer, coordonner une équipe",
+        "Gestion des Ressources Humaines\tAménager un poste et les conditions de travail",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Production, Fabrication\tConcevoir des recettes et menus",
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tEplucher des légumes et des fruits",
+        "Production, Fabrication\tManipuler des équipements de cuisine",
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des glaces et des sorbets",
+        "Production, Fabrication\tPréparer des plats culinaires",
+        "Production, Fabrication\tPréparer des ustensiles de cuisine",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéaliser des préparations de pâtisserie, boulangerie, viennoiserie, et chocolaterie",
+        "Production, Fabrication\tRéaliser des techniques de préparation culinaire en collectivité",
+        "Production, Fabrication\tSuperviser la préparation des produits culinaires",
+        "Maintenance, Réparation\tEntretenir des équipements de cuisine professionnelle",
+        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Logistique\tOrganiser le traitement des commandes",
+        "Gestion administrative et comptable\tOrganiser et planifier une activité",
+        "Pilotage et maîtrise des coûts\tLutter contre le gaspillage alimentaire",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Protection des personnes et de l'environnement\tGérer les déchets et le recyclage de manière écologique",
+        "Organisation\tExpliquer et faire respecter les règles et procédures",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme ou une certification en cuisine/ production culinaire, pouvant être complétée par une Mention Complémentaire selon la spécialité (desserts de restaurant, traiteur, cuisine allégée, etc.). L'emploi peut être exercé dans des établissements de la fonction publique tels les cantines scolaires, les hôpitaux, les EHPAD."
+      ],
+      "publication": {
+        "creation": "2026-09-10T08:47:41.342Z",
+        "expiration": "2026-11-10T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa17b4eef95c6a32323e17d",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aa17b4eef95c6a32323e17d"
@@ -8609,6 +8921,474 @@
   },
   {
     "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105960",
+      "partner_label": "France Travail",
+      "partner_job_id": "213SFWM"
+    },
+    "workplace": {
+      "siret": "98850430400029",
+      "brand": "DIAMANTOR",
+      "legal_name": "DIAMANTOR MONTPELLIER-LATTES",
+      "website": null,
+      "name": "DIAMANTOR MONTPELLIER-LATTES",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.77Z",
+          "label": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFWM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur Conseil Bijouterie alternance (H/F)",
+      "rome_codes": [
+        "D1246"
+      ],
+      "description": "Nous proposons une opportunité en alternance pour un(e) étudiant(e) passionné(e) par l'univers de la bijouterie et souhaitant développer ses compétences.\n\nSous la hiérarchie du Responsable de Magasin, vos missions seront les suivantes :\n\n- Etre l'ambassadeur de la marque pour fidéliser et satisfaire la clientèle,\n- Accueillir et conseiller les clients,\n- Respecter les procédures et les modes opératoires du magasin.\n- Ranger, étiqueter les produits et veiller à la mise en valeur des vitrines,\n- Effectuer des opérations d'encaissement,\n- Assurer le service après-vente en cas de retour, réclamation et/ou litige Clients.\n- Participer à l'entretien de la surface de vente,\n- Développer le chiffre d'affaires et les ventes du magasin,\n- Créer une relation chaleureuse et durable avec les clients du magasin.\n\nEn étant garant de l'image de marque, vous saurez respecter les codes du luxe et satisfaire la clientèle est pour vous une priorité et un enjeu de tous les jours !\nVotre profil : Titulaire d'un bac généraliste ou professionnel, vous souhaitez poursuivre en bac+2 commerce type BTS MCO ou BTS NDRC. \n\nHoraires : lundi au vendredi 9h30/19h, samedi 10h/19h30 (selon planning de travail défini à l'avance).\n\nSavoir-être : Autonomie, commerçant, convivial, disponible, honnêteté, rigueur, organisé, sens de l'équipe et du relationnel, souriant, orienté Clients et performances/résultats.\n\nDress code black avec des chaussures de ville ( pas de jeans ni baskets).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Techniques de mise en rayon",
+        "Organiser, aménager un espace de vente",
+        "Présenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T17:15:43.910Z",
+        "expiration": "2026-11-10T17:15:43.910Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105961",
+      "partner_label": "France Travail",
+      "partner_job_id": "213SCXJ"
+    },
+    "workplace": {
+      "siret": "81780488300020",
+      "brand": null,
+      "legal_name": "PROPIGNAN",
+      "website": null,
+      "name": "PROPIGNAN",
+      "description": null,
+      "size": "100 à 199 salariés",
+      "location": {
+        "address": "34570 Pignan",
+        "geopoint": {
+          "coordinates": [
+            3.753166,
+            43.578257
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2216,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.11D",
+          "label": "Supermarchés"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCXJ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "EMPLOYE COMMERCIAL en alternance (H/F)",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "- Réception des produits (dépotage),\n- Mise en rayon et rotation des produits ( DLC/DDM)\n- Entretien des rayons + gestion des stocks/des commandes\n- Balisage des rayons\n- Implantation des nouveaux produits\n- Respecter les règles d'hygiène et de sécurité\n- Conseiller et orienter la clientèle- Encaissement\n\nType de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en\nalternance)\n\nLIEUX DE FORMATION : COURNONSEC\n\nDurée : 12 mois, entrée en formation à tout moment\n\nTemps de travail : 35 H (27 H en magasin et 8 H en formation)\nSalaire : selon votre âge et votre diplôme\n\nFormation : Aucune formation exigée, Nous demandons de l'endurance et du volonté\nen résumé, « Venez comme vous êtes » mais le critère déterminant sera la motivation.\n\nType d'emploi : Temps plein, Contrat pro",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Organiser, aménager un espace de vente",
+        "Réaliser l'étiquetage de produits",
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Contrôler le balisage et l'étiquetage des produits en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T16:28:44.559Z",
+        "expiration": "2026-11-10T16:28:44.559Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc010596d",
+      "partner_label": "France Travail",
+      "partner_job_id": "213SCSC"
+    },
+    "workplace": {
+      "siret": "53065800400011",
+      "brand": null,
+      "legal_name": "CKKS",
+      "website": null,
+      "name": "CKKS",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.813999,
+            43.685148
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCSC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) POLYVALENT(E) CUISINE ET SALLE (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Situé à Saint-Gély-du-Fesc, le restaurant Ô Jasmin est une enseigne dédiée à l'excellence de la gastronomie marocaine. Nous proposons une cuisine maison, à la fois traditionnelle et raffinée, élaborée à partir de produits frais et de saison. Notre établissement se distingue par son cadre chaleureux et son engagement envers la qualité et l'authenticité des saveurs.\n\nDans le cadre de notre développement et pour accompagner notre équipe, nous recherchons un(e) apprenti(e) motivé(e) souhaitant découvrir les métiers de la restauration à travers une double compétence en cuisine et en salle.\n\nMISSIONS EN CUISINE\nSous la supervision du Chef, vous participerez activement à la production culinaire :\nPréparation : Aide à la mise en place des ingrédients (découpe, préparation des légumes, épices).\nProduction : Participation à la confection des plats traditionnels (aide aux tajines, couscous, grillades) et des pâtisseries orientales.\nDressage : Aide au dressage des assiettes en respectant les standards de présentation de l'établissement.\nHygiène : Application rigoureuse des normes HACCP, entretien du poste de travail et respect des règles de sécurité alimentaire.\n\nMISSIONS EN SALLE :\nEn complément de la cuisine, vous assurerez un soutien opérationnel en salle :\nAccueil et Service : Participation à l'accueil de la clientèle, à la prise de commande et au service des plats et boissons.\nMise en place : Préparation de la salle (dressage des tables, vérification de la propreté) avant le service.\nEntretien : Aide au débarrassage et au nettoyage de la zone de service pour garantir un environnement impeccable.\nRelation client : Contribution à la fluidité du service et à la satisfaction des clients par un accueil professionnel.\n\nPROFIL RECHERCHÉ\nCe poste est ouvert aux candidats en formation (CAP, Bac Pro ou BTS) en restauration, souhaitant acquérir une polyvalence opérationnelle.\n\nCompétences et qualités requises :\nPolyvalence : Capacité à alterner entre les tâches techniques en cuisine et les missions de service en salle.\nRigueur et Discipline : Respect des consignes, des recettes et des normes d'hygiène.\nDynamisme : Réactivité et capacité à travailler efficacement lors des périodes de forte affluence.\nSens du relationnel : Présentation soignée, courtoisie et goût pour le contact avec la clientèle.\nEsprit d'équipe : Volonté d'apprendre et de s'intégrer au sein d'une équipe passionnée.\n\nCONDITIONS DU POSTE\nType de contrat : Contrat d'apprentissage.\nLieu : Saint-Gély-du-Fesc (34980).\nRythme : Selon le calendrier de votre centre de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T16:24:36.626Z",
+        "expiration": "2026-11-10T16:24:36.626Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105966",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799848"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56301628?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Chargé(e) de communication - Montpellier (F/H)",
+      "rome_codes": [
+        "E1109"
+      ],
+      "description": "Vos missions:\nGérer l'image de marque\nMettre en place une stratégie de communication\nS'occuper des réseaux sociaux, Google ads, Facebook adsCréer des évènements\nSourcer et contacter la presse régionale et nationale\nRéaliser les dossiers de presse et les communiqués de presse\nParticiper à des évènements (défilés, salons, pop up store.)Participer à l'atteinte des objectifs et à la progression de la marque",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T12:29:12.504Z",
+        "expiration": "2026-11-10T12:29:12.504Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105969",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799429"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55753168?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant commercial et administratif - Montpellier (F/H)",
+      "rome_codes": [
+        "D1401"
+      ],
+      "description": "Gérer un portefeuille de fournisseurs.Contrôler la conformité des prix, des quantités et des factures.Assurer le suivi des encaissements.Réaliser les opérations de contrôle administratif liées à l'activité.Effectuer le suivi des dossiers et mettre à jour les différents tableaux de bord.Participer au traitement et à la fiabilisation des données administratives.Contribuer à l'amélioration des procédures de suivi et de contrôle.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T12:28:36.292Z",
+        "expiration": "2026-11-10T12:28:36.292Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105968",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799422"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55767042?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Responsable Service Clients - Montpellier (F/H)",
+      "rome_codes": [
+        "M1704"
+      ],
+      "description": "Pour commencer, du terrain, du terrain ! Vous faites de la vente jusqu'à Noël pour vous approprier le cœur de métier de Guide Conseil et développer votre professionnalisme.Découverte des clients, des produits, du magasin et des équipes sur le terrain;Apprentissage et pratique de la vente conseil : techniques d'accueil, vente ; analyse des résultats du magasin, Satisfaction Clients via l'outil Net Promoter ScoreGestion de la zone de vente : rangement, réassort, merchandising, participation aux arrivages des marchandises (contrôle, rangement des réserves) A partir de janvier, vous découvrez et vous vous appropriez les missions de RSC :Appliquer les techniques d'accueil : encaissements, animation carte club (promotion de la carte, concours), contrôle de caisse. Préparation qualitative du magasin : lancement du magasin le matin, ouverture et fermeture des caisses, organisation et réception des livraisons, préparation du planning de la journéeSe positionner comme référent pour traiter tout échange, remboursement, achat ou vente de chèque cadeaux, litiges clients (en binôme avec le maître d'apprentissage)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T12:28:35.100Z",
+        "expiration": "2026-11-10T12:28:35.100Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105962",
+      "partner_label": "France Travail",
+      "partner_job_id": "213RMZZ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "45.20A",
+          "label": "Entretien et réparation de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RMZZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Secrétaire en atelier de carrosserie (H/F)",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Vous préparerez en alternance un BTS Gestion PME/PMI dans un atelier de carrosserie sur Béziers principalement mais pourrez aussi être amené à gérer voire évoluer sur un autre atelier du groupe sur le biterrois (moins de 10km de Béziers).\nVos missions principales en entreprise : \n- prise et confirmation de rendez-vous\n- accueil physique et téléphonique\n- devis et facturation\nContrat possible en apprentissage ou professionnalisation selon votre profil.\nVous devez être titulaire du BAC pour intégrer la formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Bureautique et outils collaboratifs",
+        "Gestion des urgences et des imprévus",
+        "Mettre à jour un dossier, une base de données",
+        "Gérer les agendas et planifier des rendez-vous",
+        "Classer des documents",
+        "Répondre aux demandes d'information internes et externes",
+        "Effectuer le suivi des dossiers clients et des procédures en cours",
+        "Accueillir, orienter, renseigner un public",
+        "Répondre aux appels téléphoniques, mails, tchat et renseigner les clients"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T11:23:15.852Z",
+        "expiration": "2026-11-10T11:23:15.852Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa1dbe3d4cd2f3dc00fe80d",
       "partner_label": "France Travail",
       "partner_job_id": "6774671"
@@ -8926,10 +9706,7 @@
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons",
-        "Cuire des pâtons",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Entretenir un équipement, une machine, une installation"
+        "Bouler et effectuer la tourne ou le façonnage des pâtons"
       ],
       "access_conditions": [],
       "publication": {
@@ -9004,75 +9781,6 @@
       "publication": {
         "creation": "2026-09-08T17:18:27.214Z",
         "expiration": "2026-11-08T17:18:27.214Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b9a",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PMBD"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11F",
-          "label": "Hypermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PMBD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boucher en apprentissage (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Notre hypermarché, leader dans la grande distribution, met un point d'honneur à proposer à ses clients des produits frais de qualité exceptionnelle, et notamment une gamme variée. Nous attachons une importance particulière à la satisfaction de notre clientèle et à la fraîcheur de nos produits... \n\nNous recherchons un Boucher (H/F) en apprentissage pour les activités de découpe et de préparation au sein de notre enseigne. Vous serez responsable de la qualité et de la fraîcheur des produits, tout en veillant au respect strict des normes d'hygiène et de sécurité alimentaire (HACCP).\n\nMissions principales :\n- Activités de découpe et de préparation des produits carnés.\n-  Garantir la qualité et la fraîcheur des produits proposés à la vente.\n- Appliquer  les règles d'hygiène et de sécurité alimentaire (HACCP).\n- Participer à la gestion des stocks et la mise en rayon.\n\nProfil recherché : \n- Expérience en boucherie, idéalement en grande surface.\n- Connaissances des normes d'hygiène et de sécurité alimentaire.\n- Capacité à travailler en environnement dynamique.\n- Sens du service client et rigueur.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de désossage",
-        "Techniques de parage des viandes",
-        "Découper, désosser, parer de la viande"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:16:34.432Z",
-        "expiration": "2026-11-08T17:16:34.432Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -10627,78 +11335,6 @@
   },
   {
     "identifier": {
-      "id": "6a99f32f85d4232b2a91a492",
-      "partner_label": "France Travail",
-      "partner_job_id": "213JCTK"
-    },
-    "workplace": {
-      "siret": "63615002100013",
-      "brand": null,
-      "legal_name": "CLINIQUE DE SOUFFLE LA VALLONIE",
-      "website": null,
-      "name": "CLINIQUE DE SOUFFLE LA VALLONIE",
-      "description": null,
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "86.10Z",
-          "label": "Activités hospitalières"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JCTK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-03T11:37:28.326Z",
-        "expiration": "2026-11-03T11:37:28.326Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a99f32f85d4232b2a91a493",
       "partner_label": "France Travail",
       "partner_job_id": "213HZNB"
@@ -11791,68 +12427,6 @@
       "publication": {
         "creation": "2026-08-30T17:53:50.149Z",
         "expiration": "2026-10-30T17:53:50.149Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750389891627144750b07",
-      "partner_label": "France Travail",
-      "partner_job_id": "6425148"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Synanto",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.jobposting.pro/emploi-2682869-120",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé de recrutement IT (H/F)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "Synanto est une ESN à taille humaine avec un management de proximité, une culture et des valeurs qui inscrivent nos collaborateurs au cœur de son développement. En effet, la relation avec nos consultants est un des leviers de notre proposition de valeur nous permettant d'instaurer une relation durable, tout en les accompagnant à devenir des experts.\n\nEn ce sens, intégrer Synanto - devenir un Talent - - c'est l'assurance de se voir proposer des missions stimulantes et d'évoluer en ayant un véritable plan de carrière.\nNos secteurs d'intervention sont variés (Industrie, Energie, Transports, Distribution, Edition de logiciels ou Secteur public), avec une expertise qui reste dominante dans le secteur Banque, Finance et Assurance.\n\nAujourd'hui, Synanto, ce sont :\n- 4 agences en France (Paris, Lyon, Aix-en-Provence et Montpellier) et 2 à l'étranger (Luxembourg et Tunisie)\n- 260 collaborateurs\n- 1 spécialisation dans le domaine Banque / Finance / Assurance\n- 1 promesse : Vos Projets, Nos Talents, Une Rencontre\n- 5 valeurs fortes : Synergie, Entraide, Transparence, Diversité, Optimisme\n\nDe nombreux talents ont déjà rejoint notre équipe, pour une vision différente, des opportunités de carrière et des projets innovants. Pourquoi pas vous !?... Venez écrire l'histoire d'une entreprise, experte des SI à dimension humaine.\n\n\nLe poste : \n\nL'équipe recrutement recrute ! Pas étonnant, car nous devons répondre à des besoins croissants d'intégration de nouveaux consultants pour l'agence de Montpellier, en pleine expansion. \n\nObjectif - intervenir sur le recrutement de profils cadres et évoluant dans les métiers du numérique et des nouvelles technologies d'information. \n\nNous sommes de ceux qui savent que le recrutement n'est plus un sous-domaine de la Gestion des Ressources Humaines, mais un métier à part entière qui requiert intelligence, curiosité, analyse et ingéniosité. Vous avez un rôle central dans l'activité ce l'entreprise et c'est dans cet esprit que vous êtes intégré(e), formé(e) et accompagné(e). \n\nDe manière plus concrète, votre rôle s'articule autour des missions suivantes : \n- Analyse des besoins en recrutement directement avec les ingénieurs d'affaires et managers\n- Sourcing intelligent et assidu sur les CVthèques et les jobboards\n- Qualification éclairée et synthétique des candidat(e)s potentiel(le)s\n- Conduite d'entretien dans le but de sélectionner et de présenter les atouts attractifs de l'entreprise \n- Production de comptes rendus suite aux qualifications réalisées \n- Formatage de CV au template Synanto\n- Mise en œuvre de la stratégie de développement de notre marque employeur (salons spécialisés, job dating, cooptation, etc...) \n- Veille continue sur l'actualité du marché du travail, du recrutement, des nouvelles technologies et des ESN\nProposition de nouvelles sources de recrutement et de nouvelles actions pour améliorer l'attractivité de l'entreprise auprès de talents en pénurie\n- Participation à l'intégration et au suivi des collaborateur(trice)s\n- Etc...\n\nVotre montée en compétence et votre intégration est assurée par notre Directeur d'agence et plus globalement par toute l'équipe d'de Montpellier, à travers un parcours personnalisé de formation et de coaching. \n\nEn interne, vous bénéficiez du support de notre organisation : avant-vente, experts, ressources humaines, marketing et communication. \n\n\n\n\n\nProfil recherché : \n\nVous êtes à la recherche d'une opportunité en tant que chargé(e) de recrutement en alternance basée à Montpellier. \nVous avez une sensibilité commerciale certaine.\n\nPassionné(e) par le recrutement,  vous avez le goût du challenge et portez un véritable intérêt pour les nouvelles technologies. Vous êtes aussi reconnu(e) pour votre esprit critique, analytique et votre pugnacité. Réactif(ve) et dynamique, vous avez une culture véritablement orientée service et résultat. \n\nVous avez un  très bon sens relationnel et aimez travailler en équipe. Vous avez aussi su démontrer une certaine forme de créativité, d'autonomie tout en étant force de proposition et organisé(e). \n\nA compétences égales, tous nos postes sont accessibles aux personnes en situation de handicap.\n\nPackage : \n- Contrat en alternance à pourvoir dès que possible, en fonction de la disponibilité des candidat(e)s\n- Lieu de travail : Montpellier\n- Package salarial : Fixe + variable + titre restaurant \n\nChez Synanto, voici ce que nous vous proposons :\n- Des tickets restaurant d'une valeur de 9€ par jour travaillé (60% pris en charge par Synanto)\n -Une prime pour vos vacances d'été\n- Une prime d'intéressement et la mise en place d'un Plan Épargne Salariale (PES)\n- Une bonne couverture mutuelle (SwissLife)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T01:20:47.404Z",
-        "expiration": "2026-10-30T01:20:47.404Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14140,7 +14714,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Couvreur zingueur / Couvreuse zingueuse",
+      "title": "Apprenti couvreur zingueur (H/F)",
       "rome_codes": [
         "F1619"
       ],
@@ -14226,73 +14800,6 @@
       "publication": {
         "creation": "2026-08-12T11:53:18.394Z",
         "expiration": "2026-10-12T11:53:18.394Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7ba1b6274d22102aa22968",
-      "partner_label": "France Travail",
-      "partner_job_id": "212HNCY"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34320 Margon",
-        "geopoint": {
-          "coordinates": [
-            3.305597,
-            43.487573
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HNCY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier apprenti (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-10T16:40:46.638Z",
-        "expiration": "2026-10-10T16:40:46.638Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15376,130 +15883,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb65",
       "partner_label": "France Travail",
       "partner_job_id": "5187727"
@@ -15943,9 +16326,216 @@
   },
   {
     "identifier": {
-      "id": "6a90b8441d31377ab1f6fb53",
+      "id": "6aa32d46d4cd2f3dc0105960",
       "partner_label": "France Travail",
-      "partner_job_id": "4871544"
+      "partner_job_id": "213SFWM"
+    },
+    "workplace": {
+      "siret": "98850430400029",
+      "brand": "DIAMANTOR",
+      "legal_name": "DIAMANTOR MONTPELLIER-LATTES",
+      "website": null,
+      "name": "DIAMANTOR MONTPELLIER-LATTES",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.77Z",
+          "label": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFWM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur Conseil Bijouterie alternance (H/F)",
+      "rome_codes": [
+        "D1246"
+      ],
+      "description": "Nous proposons une opportunité en alternance pour un(e) étudiant(e) passionné(e) par l'univers de la bijouterie et souhaitant développer ses compétences.\n\nSous la hiérarchie du Responsable de Magasin, vos missions seront les suivantes :\n\n- Etre l'ambassadeur de la marque pour fidéliser et satisfaire la clientèle,\n- Accueillir et conseiller les clients,\n- Respecter les procédures et les modes opératoires du magasin.\n- Ranger, étiqueter les produits et veiller à la mise en valeur des vitrines,\n- Effectuer des opérations d'encaissement,\n- Assurer le service après-vente en cas de retour, réclamation et/ou litige Clients.\n- Participer à l'entretien de la surface de vente,\n- Développer le chiffre d'affaires et les ventes du magasin,\n- Créer une relation chaleureuse et durable avec les clients du magasin.\n\nEn étant garant de l'image de marque, vous saurez respecter les codes du luxe et satisfaire la clientèle est pour vous une priorité et un enjeu de tous les jours !\nVotre profil : Titulaire d'un bac généraliste ou professionnel, vous souhaitez poursuivre en bac+2 commerce type BTS MCO ou BTS NDRC. \n\nHoraires : lundi au vendredi 9h30/19h, samedi 10h/19h30 (selon planning de travail défini à l'avance).\n\nSavoir-être : Autonomie, commerçant, convivial, disponible, honnêteté, rigueur, organisé, sens de l'équipe et du relationnel, souriant, orienté Clients et performances/résultats.\n\nDress code black avec des chaussures de ville ( pas de jeans ni baskets).",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Techniques de mise en rayon",
+        "Organiser, aménager un espace de vente",
+        "Présenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T17:15:43.910Z",
+        "expiration": "2026-11-10T17:15:43.910Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105961",
+      "partner_label": "France Travail",
+      "partner_job_id": "213SCXJ"
+    },
+    "workplace": {
+      "siret": "81780488300020",
+      "brand": null,
+      "legal_name": "PROPIGNAN",
+      "website": null,
+      "name": "PROPIGNAN",
+      "description": null,
+      "size": "100 à 199 salariés",
+      "location": {
+        "address": "34570 Pignan",
+        "geopoint": {
+          "coordinates": [
+            3.753166,
+            43.578257
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2216,
+        "opco": "L'Opcommerce",
+        "naf": {
+          "code": "47.11D",
+          "label": "Supermarchés"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCXJ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "EMPLOYE COMMERCIAL en alternance (H/F)",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "- Réception des produits (dépotage),\n- Mise en rayon et rotation des produits ( DLC/DDM)\n- Entretien des rayons + gestion des stocks/des commandes\n- Balisage des rayons\n- Implantation des nouveaux produits\n- Respecter les règles d'hygiène et de sécurité\n- Conseiller et orienter la clientèle- Encaissement\n\nType de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en\nalternance)\n\nLIEUX DE FORMATION : COURNONSEC\n\nDurée : 12 mois, entrée en formation à tout moment\n\nTemps de travail : 35 H (27 H en magasin et 8 H en formation)\nSalaire : selon votre âge et votre diplôme\n\nFormation : Aucune formation exigée, Nous demandons de l'endurance et du volonté\nen résumé, « Venez comme vous êtes » mais le critère déterminant sera la motivation.\n\nType d'emploi : Temps plein, Contrat pro",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Organiser, aménager un espace de vente",
+        "Réaliser l'étiquetage de produits",
+        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Contrôler le balisage et l'étiquetage des produits en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T16:28:44.559Z",
+        "expiration": "2026-11-10T16:28:44.559Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc010596d",
+      "partner_label": "France Travail",
+      "partner_job_id": "213SCSC"
+    },
+    "workplace": {
+      "siret": "53065800400011",
+      "brand": null,
+      "legal_name": "CKKS",
+      "website": null,
+      "name": "CKKS",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.813999,
+            43.685148
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCSC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) POLYVALENT(E) CUISINE ET SALLE (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Situé à Saint-Gély-du-Fesc, le restaurant Ô Jasmin est une enseigne dédiée à l'excellence de la gastronomie marocaine. Nous proposons une cuisine maison, à la fois traditionnelle et raffinée, élaborée à partir de produits frais et de saison. Notre établissement se distingue par son cadre chaleureux et son engagement envers la qualité et l'authenticité des saveurs.\n\nDans le cadre de notre développement et pour accompagner notre équipe, nous recherchons un(e) apprenti(e) motivé(e) souhaitant découvrir les métiers de la restauration à travers une double compétence en cuisine et en salle.\n\nMISSIONS EN CUISINE\nSous la supervision du Chef, vous participerez activement à la production culinaire :\nPréparation : Aide à la mise en place des ingrédients (découpe, préparation des légumes, épices).\nProduction : Participation à la confection des plats traditionnels (aide aux tajines, couscous, grillades) et des pâtisseries orientales.\nDressage : Aide au dressage des assiettes en respectant les standards de présentation de l'établissement.\nHygiène : Application rigoureuse des normes HACCP, entretien du poste de travail et respect des règles de sécurité alimentaire.\n\nMISSIONS EN SALLE :\nEn complément de la cuisine, vous assurerez un soutien opérationnel en salle :\nAccueil et Service : Participation à l'accueil de la clientèle, à la prise de commande et au service des plats et boissons.\nMise en place : Préparation de la salle (dressage des tables, vérification de la propreté) avant le service.\nEntretien : Aide au débarrassage et au nettoyage de la zone de service pour garantir un environnement impeccable.\nRelation client : Contribution à la fluidité du service et à la satisfaction des clients par un accueil professionnel.\n\nPROFIL RECHERCHÉ\nCe poste est ouvert aux candidats en formation (CAP, Bac Pro ou BTS) en restauration, souhaitant acquérir une polyvalence opérationnelle.\n\nCompétences et qualités requises :\nPolyvalence : Capacité à alterner entre les tâches techniques en cuisine et les missions de service en salle.\nRigueur et Discipline : Respect des consignes, des recettes et des normes d'hygiène.\nDynamisme : Réactivité et capacité à travailler efficacement lors des périodes de forte affluence.\nSens du relationnel : Présentation soignée, courtoisie et goût pour le contact avec la clientèle.\nEsprit d'équipe : Volonté d'apprendre et de s'intégrer au sein d'une équipe passionnée.\n\nCONDITIONS DU POSTE\nType de contrat : Contrat d'apprentissage.\nLieu : Saint-Gély-du-Fesc (34980).\nRythme : Selon le calendrier de votre centre de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T16:24:36.626Z",
+        "expiration": "2026-11-10T16:24:36.626Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105966",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799848"
     },
     "workplace": {
       "siret": null,
@@ -15972,7 +16562,7 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55638727?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "url": "https://www.directemploi.com/candidatOffre/56301628?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
       "phone": null,
       "recipient_id": null
     },
@@ -15985,18 +16575,217 @@
       "remote": null
     },
     "offer": {
-      "title": "Alternance Assistant(e) RH - Septembre 2026 - Montpellier (F/H)",
+      "title": "Alternance Chargé(e) de communication - Montpellier (F/H)",
       "rome_codes": [
-        "M1503"
+        "E1109"
       ],
-      "description": "Missions principales : Vous assistez l'équipe de direction dans l'exercice de ses fonctions, en assurant la gestion des dossiers des ressources humaines, la qualité, l'encadrement des soins ainsi que la communication dans le respect des procédures et des dispositions réglementaires. Plus précisément vos missions seront les suivantes:\nAdministration et gestion du personnel :\nParticiper à l'élaboration des plannings et gérer les entrées et les sorties du personnel (rédaction contrats et avenants, DPAE, registre du personnel.)\nEffectuer la gestion des temps et activités sous le logiciel OCTIME (suivi des différents types d'absences, contrôle des heures supplémentaires...)\nTenir à jour les dossiers du personnel et faire circuler les informations\nPaie :\nSaisir les éléments variables\nVérifier les bulletins de salaire\nRéaliser et valider les soldes de tout compte\nRecrutement :\nRédiger et publier des annonces\nRechercher des remplacements\nGérer l'intégration des collaborateurs\nFormation :\nOrganiser et mettre en œuvre des formations internes et externes\nÉtablir les conventions de formation\nEffectuer le suivi des formations\nQualité :\nMettre à jour les protocoles qualité\nRéaliser des audits internes\nSaisie et suivi des questionnaires de satisfaction (patients, personnel, restauration.)",
+      "description": "Vos missions:\nGérer l'image de marque\nMettre en place une stratégie de communication\nS'occuper des réseaux sociaux, Google ads, Facebook adsCréer des évènements\nSourcer et contacter la presse régionale et nationale\nRéaliser les dossiers de presse et les communiqués de presse\nParticiper à des évènements (défilés, salons, pop up store.)Participer à l'atteinte des objectifs et à la progression de la marque",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-11T15:49:54.000Z",
-        "expiration": "2026-09-11T15:49:54.000Z"
+        "creation": "2026-09-10T12:29:12.504Z",
+        "expiration": "2026-11-10T12:29:12.504Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105969",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799429"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55753168?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant commercial et administratif - Montpellier (F/H)",
+      "rome_codes": [
+        "D1401"
+      ],
+      "description": "Gérer un portefeuille de fournisseurs.Contrôler la conformité des prix, des quantités et des factures.Assurer le suivi des encaissements.Réaliser les opérations de contrôle administratif liées à l'activité.Effectuer le suivi des dossiers et mettre à jour les différents tableaux de bord.Participer au traitement et à la fiabilisation des données administratives.Contribuer à l'amélioration des procédures de suivi et de contrôle.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T12:28:36.292Z",
+        "expiration": "2026-11-10T12:28:36.292Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105968",
+      "partner_label": "France Travail",
+      "partner_job_id": "6799422"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55767042?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Responsable Service Clients - Montpellier (F/H)",
+      "rome_codes": [
+        "M1704"
+      ],
+      "description": "Pour commencer, du terrain, du terrain ! Vous faites de la vente jusqu'à Noël pour vous approprier le cœur de métier de Guide Conseil et développer votre professionnalisme.Découverte des clients, des produits, du magasin et des équipes sur le terrain;Apprentissage et pratique de la vente conseil : techniques d'accueil, vente ; analyse des résultats du magasin, Satisfaction Clients via l'outil Net Promoter ScoreGestion de la zone de vente : rangement, réassort, merchandising, participation aux arrivages des marchandises (contrôle, rangement des réserves) A partir de janvier, vous découvrez et vous vous appropriez les missions de RSC :Appliquer les techniques d'accueil : encaissements, animation carte club (promotion de la carte, concours), contrôle de caisse. Préparation qualitative du magasin : lancement du magasin le matin, ouverture et fermeture des caisses, organisation et réception des livraisons, préparation du planning de la journéeSe positionner comme référent pour traiter tout échange, remboursement, achat ou vente de chèque cadeaux, litiges clients (en binôme avec le maître d'apprentissage)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T12:28:35.100Z",
+        "expiration": "2026-11-10T12:28:35.100Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32d46d4cd2f3dc0105962",
+      "partner_label": "France Travail",
+      "partner_job_id": "213RMZZ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "45.20A",
+          "label": "Entretien et réparation de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RMZZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Secrétaire en atelier de carrosserie (H/F)",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Vous préparerez en alternance un BTS Gestion PME/PMI dans un atelier de carrosserie sur Béziers principalement mais pourrez aussi être amené à gérer voire évoluer sur un autre atelier du groupe sur le biterrois (moins de 10km de Béziers).\nVos missions principales en entreprise : \n- prise et confirmation de rendez-vous\n- accueil physique et téléphonique\n- devis et facturation\nContrat possible en apprentissage ou professionnalisation selon votre profil.\nVous devez être titulaire du BAC pour intégrer la formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Bureautique et outils collaboratifs",
+        "Gestion des urgences et des imprévus",
+        "Mettre à jour un dossier, une base de données",
+        "Gérer les agendas et planifier des rendez-vous",
+        "Classer des documents",
+        "Répondre aux demandes d'information internes et externes",
+        "Effectuer le suivi des dossiers clients et des procédures en cours",
+        "Accueillir, orienter, renseigner un public",
+        "Répondre aux appels téléphoniques, mails, tchat et renseigner les clients"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-10T11:23:15.852Z",
+        "expiration": "2026-11-10T11:23:15.852Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16322,10 +17111,7 @@
       "desired_skills": [],
       "to_be_acquired_skills": [
         "Caractéristiques des farines levure, additifs",
-        "Bouler et effectuer la tourne ou le façonnage des pâtons",
-        "Cuire des pâtons",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Entretenir un équipement, une machine, une installation"
+        "Bouler et effectuer la tourne ou le façonnage des pâtons"
       ],
       "access_conditions": [],
       "publication": {
@@ -16721,75 +17507,6 @@
       "publication": {
         "creation": "2026-09-08T17:18:27.214Z",
         "expiration": "2026-11-08T17:18:27.214Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b9a",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PMBD"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11F",
-          "label": "Hypermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PMBD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Boucher en apprentissage (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Notre hypermarché, leader dans la grande distribution, met un point d'honneur à proposer à ses clients des produits frais de qualité exceptionnelle, et notamment une gamme variée. Nous attachons une importance particulière à la satisfaction de notre clientèle et à la fraîcheur de nos produits... \n\nNous recherchons un Boucher (H/F) en apprentissage pour les activités de découpe et de préparation au sein de notre enseigne. Vous serez responsable de la qualité et de la fraîcheur des produits, tout en veillant au respect strict des normes d'hygiène et de sécurité alimentaire (HACCP).\n\nMissions principales :\n- Activités de découpe et de préparation des produits carnés.\n-  Garantir la qualité et la fraîcheur des produits proposés à la vente.\n- Appliquer  les règles d'hygiène et de sécurité alimentaire (HACCP).\n- Participer à la gestion des stocks et la mise en rayon.\n\nProfil recherché : \n- Expérience en boucherie, idéalement en grande surface.\n- Connaissances des normes d'hygiène et de sécurité alimentaire.\n- Capacité à travailler en environnement dynamique.\n- Sens du service client et rigueur.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de désossage",
-        "Techniques de parage des viandes",
-        "Découper, désosser, parer de la viande"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:16:34.432Z",
-        "expiration": "2026-11-08T17:16:34.432Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18319,72 +19036,6 @@
   },
   {
     "identifier": {
-      "id": "6a7f97174bf3c06efe33bc4a",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55992348"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55992348?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Animateur QSE H/F",
-      "rome_codes": [
-        "H1308"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <strong>80 ans</strong>  , le  <strong>Groupe NICOLLIN</strong>  développe ses activités avec des valeurs fortes : l'humain, la responsabilité et l'exigence du travail bien fait.Aujourd'hui, le groupe rassemble  <strong>12 000 collaborateur(ices)</strong>  , réalise un chiffre d'affaires de  <strong>700 M€</strong>  et déploie ses services sur l'ensemble du territoire français (métropole et DROM-COM) autour de trois pôles : </p> <ul>  <li>   <strong>NICOLLIN Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>NICOLLIN Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>NICOLLIN Eau</strong>   : gestion de l'eau et de l'assainissement  </li> </ul> <p>  Dans le cadre de notre croissance, nous recherchons un(e)  <strong>Animateur(rice) QSE</strong>  , en  <strong>contrat d'apprentissage</strong>  , pour notre  <strong>filière environnement</strong>  à  <strong>Montpellier (34)</strong>  . </p> <p>Sur votre périmètre d'intervention, vous êtes garant(e) de l'application et du déploiement du système de management QSE défini par la direction générale. Vos missions allient animation, accompagnement, contrôle et amélioration continue.</p> <p>En tant que coordinateur(rice) QSE, vous êtes garant(e) de l'amélioration continue et de la maîtrise des risques sur votre périmètre. Votre rôle est à la fois stratégique, opérationnel et de terrain.</p> <p>Vos responsabilités :</p> <ul>  <li>Piloter les actions de prévention QSE dans une logique d'amélioration continue</li>  <li>Veiller au respect et au bon fonctionnement du système de management QSE</li>  <li>Suivre les indicateurs, alimenter les reportings, assurer la traçabilité</li>  <li>Déployer les plans d'action correctifs et préventifs</li>  <li>Être présent(e) sur le terrain pour observer, accompagner et alerter si besoin</li>  <li>Mener des audits, analyses d'accidents, enquêtes et diagnostics QSE</li>  <li>Participer à la rédaction des plans QSE, analyses de risques et démarches de certification</li>  <li>Interagir avec les services internes, la direction de centre, les partenaires externes</li>  <li>Représenter l'entreprise dans le cadre de réunions ou d'échanges institutionnels</li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Animateur QSE (H/F)\r\n\r\nProfil: Compétences clés : <ul>  <li>Formation Bac +3 à Bac +5 en Qualité, Sécurité, Environnement</li>  <li>Connaissance des normes ISO 9001, 14001 et 45001</li>  <li>Maîtrise des outils bureautiques (notamment Excel)</li>  <li>Capacité d'analyse, rigueur, esprit de synthèse</li>  <li>Réactivité, pragmatisme, capacité à anticiper et à proposer</li>  <li>Excellent relationnel et sens du travail collaboratif</li>  <li>Permis B obligatoire (déplacements réguliers)</li>  <li>Une connaissance des métiers liés aux déchets est un atout</li> </ul> <p>Ce que nous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <strong>Salaire</strong>   : Selon grille alternance  </li>  <li>13e mois</li>  <li>Tickets restaurants</li>  <li>Voiture de service</li>  <li>Environnement stimulant et responsabilités concrètes</li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>Rejoindre un groupe en pleine expansion</li>  <li>Évoluer dans une entreprise à taille humaine, aux valeurs fortes</li>  <li>Intégrer des équipes dynamiques et engagées</li>  <li>Travailler dans un cadre porteur de sens, au service de l'environnement et de la sécurité</li> </ul> <p>Nous réaffirmons notre engagement en faveur de l'égalité des chances et de la diversité. À ce titre, toutes les candidatures sont étudiées avec la même attention, sans distinction de genre, d'origine, d'âge ou de situation de handicap</p> <p>GNA</p>",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-04T22:10:41.166Z",
-        "expiration": "2026-11-04T22:10:41.166Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9b449385d4232b2a921d61",
       "partner_label": "France Travail",
       "partner_job_id": "6625244"
@@ -18797,78 +19448,6 @@
       "publication": {
         "creation": "2026-09-03T12:20:54.352Z",
         "expiration": "2026-11-03T12:20:54.352Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a99f32f85d4232b2a91a492",
-      "partner_label": "France Travail",
-      "partner_job_id": "213JCTK"
-    },
-    "workplace": {
-      "siret": "63615002100013",
-      "brand": null,
-      "legal_name": "CLINIQUE DE SOUFFLE LA VALLONIE",
-      "website": null,
-      "name": "CLINIQUE DE SOUFFLE LA VALLONIE",
-      "description": null,
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "86.10Z",
-          "label": "Activités hospitalières"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213JCTK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant / Assistante Ressources Humaines (RH) (H/F)",
-      "rome_codes": [
-        "M1501"
-      ],
-      "description": "La Clinique du Souffle la Vallonie recherche un apprenti Assistant RH.\n\nDe formation supérieure en Ressources Humaines, vous recherchez un contrat d'apprentissage pour découvrir la diversité de la fonction RH.\n\nAu sein du service RH de l'établissement, vous aurez à :\n- Participer à la gestion de l'administration du personnel (DPAE, contrat, absences, gestion des maladies, attestations diverses, enregistrement et remontées des éléments de paie, vérification de la paie, gestion des plannings, dossier administratif des salariés)\n- Participer à la gestion du recrutement : dépôt des annonces sur le logiciel interne et avec pôle emploi, suivi des candidatures, envois des candidatures aux personnes concernées, réponses aux candidatures\n- Participer à la gestion des stagiaires : convention, remplissage tableau de bord, archivage\n- Participer à la gestion de l'instance RPX : convocation, ordre de jour, procès verbal\n- Participer à la gestion de communication de l'établissement\n- Divers : mutuelle, remplissage divers tableaux de bord, repas du personnel, communication diverses, réseaux sociaux, ....\n\nVous êtes à la fois curieux(se), réactif(ve), et force de proposition. Doté(e) d'une certaine aisance relationnelle, vous n'hésitez pas à aller au contact des Managers et des Collaborateurs dans le cadre de vos missions. Vous êtes reconnu (e) pour votre sens de l'organisation et vos qualités rédactionnelles.\n\nPour réussir vos missions parmi nous, il vous faudra également être à l'aise au téléphone et avec les principaux outils bureautiques (excel, word, PowerPoint). Un précédent stage RH serait un plus.\n\nEn cours de préparation d'une licence ou d'un Master.\n\n Disponibilité : contrat d'apprentissage à pourvoir au plus tot.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Législation sociale",
-        "Concevoir des supports de suivi et de gestion",
-        "Réaliser des déclarations réglementaires"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-03T11:37:28.326Z",
-        "expiration": "2026-11-03T11:37:28.326Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20042,68 +20621,6 @@
       "publication": {
         "creation": "2026-08-30T17:53:50.149Z",
         "expiration": "2026-10-30T17:53:50.149Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750389891627144750b07",
-      "partner_label": "France Travail",
-      "partner_job_id": "6425148"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Synanto",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.jobposting.pro/emploi-2682869-120",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé de recrutement IT (H/F)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "Synanto est une ESN à taille humaine avec un management de proximité, une culture et des valeurs qui inscrivent nos collaborateurs au cœur de son développement. En effet, la relation avec nos consultants est un des leviers de notre proposition de valeur nous permettant d'instaurer une relation durable, tout en les accompagnant à devenir des experts.\n\nEn ce sens, intégrer Synanto - devenir un Talent - - c'est l'assurance de se voir proposer des missions stimulantes et d'évoluer en ayant un véritable plan de carrière.\nNos secteurs d'intervention sont variés (Industrie, Energie, Transports, Distribution, Edition de logiciels ou Secteur public), avec une expertise qui reste dominante dans le secteur Banque, Finance et Assurance.\n\nAujourd'hui, Synanto, ce sont :\n- 4 agences en France (Paris, Lyon, Aix-en-Provence et Montpellier) et 2 à l'étranger (Luxembourg et Tunisie)\n- 260 collaborateurs\n- 1 spécialisation dans le domaine Banque / Finance / Assurance\n- 1 promesse : Vos Projets, Nos Talents, Une Rencontre\n- 5 valeurs fortes : Synergie, Entraide, Transparence, Diversité, Optimisme\n\nDe nombreux talents ont déjà rejoint notre équipe, pour une vision différente, des opportunités de carrière et des projets innovants. Pourquoi pas vous !?... Venez écrire l'histoire d'une entreprise, experte des SI à dimension humaine.\n\n\nLe poste : \n\nL'équipe recrutement recrute ! Pas étonnant, car nous devons répondre à des besoins croissants d'intégration de nouveaux consultants pour l'agence de Montpellier, en pleine expansion. \n\nObjectif - intervenir sur le recrutement de profils cadres et évoluant dans les métiers du numérique et des nouvelles technologies d'information. \n\nNous sommes de ceux qui savent que le recrutement n'est plus un sous-domaine de la Gestion des Ressources Humaines, mais un métier à part entière qui requiert intelligence, curiosité, analyse et ingéniosité. Vous avez un rôle central dans l'activité ce l'entreprise et c'est dans cet esprit que vous êtes intégré(e), formé(e) et accompagné(e). \n\nDe manière plus concrète, votre rôle s'articule autour des missions suivantes : \n- Analyse des besoins en recrutement directement avec les ingénieurs d'affaires et managers\n- Sourcing intelligent et assidu sur les CVthèques et les jobboards\n- Qualification éclairée et synthétique des candidat(e)s potentiel(le)s\n- Conduite d'entretien dans le but de sélectionner et de présenter les atouts attractifs de l'entreprise \n- Production de comptes rendus suite aux qualifications réalisées \n- Formatage de CV au template Synanto\n- Mise en œuvre de la stratégie de développement de notre marque employeur (salons spécialisés, job dating, cooptation, etc...) \n- Veille continue sur l'actualité du marché du travail, du recrutement, des nouvelles technologies et des ESN\nProposition de nouvelles sources de recrutement et de nouvelles actions pour améliorer l'attractivité de l'entreprise auprès de talents en pénurie\n- Participation à l'intégration et au suivi des collaborateur(trice)s\n- Etc...\n\nVotre montée en compétence et votre intégration est assurée par notre Directeur d'agence et plus globalement par toute l'équipe d'de Montpellier, à travers un parcours personnalisé de formation et de coaching. \n\nEn interne, vous bénéficiez du support de notre organisation : avant-vente, experts, ressources humaines, marketing et communication. \n\n\n\n\n\nProfil recherché : \n\nVous êtes à la recherche d'une opportunité en tant que chargé(e) de recrutement en alternance basée à Montpellier. \nVous avez une sensibilité commerciale certaine.\n\nPassionné(e) par le recrutement,  vous avez le goût du challenge et portez un véritable intérêt pour les nouvelles technologies. Vous êtes aussi reconnu(e) pour votre esprit critique, analytique et votre pugnacité. Réactif(ve) et dynamique, vous avez une culture véritablement orientée service et résultat. \n\nVous avez un  très bon sens relationnel et aimez travailler en équipe. Vous avez aussi su démontrer une certaine forme de créativité, d'autonomie tout en étant force de proposition et organisé(e). \n\nA compétences égales, tous nos postes sont accessibles aux personnes en situation de handicap.\n\nPackage : \n- Contrat en alternance à pourvoir dès que possible, en fonction de la disponibilité des candidat(e)s\n- Lieu de travail : Montpellier\n- Package salarial : Fixe + variable + titre restaurant \n\nChez Synanto, voici ce que nous vous proposons :\n- Des tickets restaurant d'une valeur de 9€ par jour travaillé (60% pris en charge par Synanto)\n -Une prime pour vos vacances d'été\n- Une prime d'intéressement et la mise en place d'un Plan Épargne Salariale (PES)\n- Une bonne couverture mutuelle (SwissLife)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T01:20:47.404Z",
-        "expiration": "2026-10-30T01:20:47.404Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23117,7 +23634,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Couvreur zingueur / Couvreuse zingueuse",
+      "title": "Apprenti couvreur zingueur (H/F)",
       "rome_codes": [
         "F1619"
       ],
@@ -23211,65 +23728,64 @@
   },
   {
     "identifier": {
-      "id": "6a7ba1b6274d22102aa22968",
-      "partner_label": "France Travail",
-      "partner_job_id": "212HNCY"
+      "id": "6aa328740d35903fc26828ac",
+      "partner_label": "RH Alternance",
+      "partner_job_id": "220580394"
     },
     "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
+      "siret": "65201405100732",
+      "brand": "ASSURANCES CARREFOUR - SERVICES FIN",
+      "legal_name": "CARREFOUR",
+      "website": "https://rhalternance.com/companies/carrefour-5444884",
+      "name": "CARREFOUR",
       "description": null,
-      "size": null,
+      "size": "3 à 5 salariés",
       "location": {
-        "address": "34320 Margon",
+        "address": "34980 Saint-Clément-de-Rivière",
         "geopoint": {
           "coordinates": [
-            3.305597,
-            43.487573
+            3.842956,
+            43.681197
           ],
           "type": "Point"
         }
       },
       "domain": {
-        "idcc": null,
-        "opco": null,
+        "idcc": 2216,
+        "opco": "L'Opcommerce",
         "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212HNCY",
+      "url": "https://rhalternance.com/jobs/commerce-et-distribution/saint-clement-de-riviere/employé-de-rayon-alimentaire-f-h-cqp-en-alternance-220580394",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": 24,
+      "duration": null,
       "type": [
-        "Apprentissage"
+        "Apprentissage",
+        "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Cuisinier apprenti (H/F)",
+      "title": "Employé de rayon alimentaire (F/H) CQP en alternance",
       "rome_codes": [
-        "G1609"
+        "D1502"
       ],
-      "description": "Le contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nLe restaurant Le Petit Margonnais à récemment réouvert ses porte le 18 juillet 2026 à Margon (34320)\nNous sommes un restaurant du type brasserie fine méditerranéenne avec des influences du Moyen-Orient. \n   Les plats sont préparés sur place avec des produits frais et de saisons. Du fait maison de A à Z ! \nLes desserts et glaces sont fabriqués sur place.\n  Nous travaillons avec des techniques classiques et avancées et avons hâte de transmettre notre savoir-faire. \n\nNous recherchons un(e) apprenti(e) en première année de formation pour un CAP cuisinier(e) motivé(e) et passionné(e) par ce métier.\nLes qualités requises pour ce poste sont les suivantes :\n- Ecoute,\n- Adaptation,\n- Rigueur,\n- Ponctualité.\n\nUne immersion et formation pourront être mobilisés avant le début du contrat en alternance.",
+      "description": "Descriptif du poste : \nProfil recherché :",
       "target_diploma": null,
       "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
+      "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-08-10T16:40:46.638Z",
-        "expiration": "2026-10-10T16:40:46.638Z"
+        "creation": "2026-08-12T07:23:53.000Z",
+        "expiration": "2026-10-11T07:23:53.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24746,130 +25262,6 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb6f",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205256"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti(e) Carrossier(e) H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb67",
-      "partner_label": "France Travail",
-      "partner_job_id": "5205301"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "L'automobile est en train de se construire un nouvel avenir. Que vous soyez étudiant ou professionnel en reconversion, Renault et son réseau vous invitent à les accompagner dans cette grande aventure. \nRejoindre le premier réseau de France, c'est faire le choix de l'innovation et de la qualité de service. C'est rejoindre le pionnier de la voiture électrique et le leader automobile de la satisfaction client. \nL'univers automobile qui s'ouvre à vous a déjà commencé sa mutation. Les métiers tech...",
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Conseiller service après-vente Automobile F/H",
-      "rome_codes": [
-        "I1623"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:06.000Z",
-        "expiration": "2026-09-21T12:11:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb65",
       "partner_label": "France Travail",
       "partner_job_id": "5187727"
@@ -25500,68 +25892,6 @@
       "publication": {
         "creation": "2026-07-12T03:48:57.000Z",
         "expiration": "2026-09-12T03:48:57.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a90b8441d31377ab1f6fb53",
-      "partner_label": "France Travail",
-      "partner_job_id": "4871544"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55638727?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant(e) RH - Septembre 2026 - Montpellier (F/H)",
-      "rome_codes": [
-        "M1503"
-      ],
-      "description": "Missions principales : Vous assistez l'équipe de direction dans l'exercice de ses fonctions, en assurant la gestion des dossiers des ressources humaines, la qualité, l'encadrement des soins ainsi que la communication dans le respect des procédures et des dispositions réglementaires. Plus précisément vos missions seront les suivantes:\nAdministration et gestion du personnel :\nParticiper à l'élaboration des plannings et gérer les entrées et les sorties du personnel (rédaction contrats et avenants, DPAE, registre du personnel.)\nEffectuer la gestion des temps et activités sous le logiciel OCTIME (suivi des différents types d'absences, contrôle des heures supplémentaires...)\nTenir à jour les dossiers du personnel et faire circuler les informations\nPaie :\nSaisir les éléments variables\nVérifier les bulletins de salaire\nRéaliser et valider les soldes de tout compte\nRecrutement :\nRédiger et publier des annonces\nRechercher des remplacements\nGérer l'intégration des collaborateurs\nFormation :\nOrganiser et mettre en œuvre des formations internes et externes\nÉtablir les conventions de formation\nEffectuer le suivi des formations\nQualité :\nMettre à jour les protocoles qualité\nRéaliser des audits internes\nSaisie et suivi des questionnaires de satisfaction (patients, personnel, restauration.)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-11T15:49:54.000Z",
-        "expiration": "2026-09-11T15:49:54.000Z"
       },
       "opening_count": 1,
       "status": "Active"
