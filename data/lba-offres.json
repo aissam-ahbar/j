@@ -1,6 +1,123 @@
 [
   {
     "identifier": {
+      "id": "6aa520a9b272299cc426f78c",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa520a9b272299cc426f78c"
+    },
+    "workplace": {
+      "siret": "92331822400014",
+      "brand": null,
+      "legal_name": "DA SILVA PATRICK",
+      "website": null,
+      "name": "DA SILVA PATRICK",
+      "description": "ENTREPRISE DE POSE DE MENUISERIE ALU BOIS PVC \nPOSE DE TOUTE CE QUI CONCERNE LA MENUISERIE EXTERIEUR \nFENETRE PORTE PORTAIL PERGOLA MOUSTIQUAIRE ETC\nEXERCANT SUR CHANTIER",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "140 ROUTE DE SAINT-NAZAIRE DE PEZAN 34400 SAINT-JUST",
+        "geopoint": {
+          "coordinates": [
+            4.118226,
+            43.645787
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32A",
+          "label": "Travaux de menuiserie bois et PVC"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa520a9b272299cc426f78c/menuisier-poseur-menuisière-poseuse",
+      "phone": "0664324611",
+      "recipient_id": "partners_6aa520a9b272299cc426f78c"
+    },
+    "contract": {
+      "start": "2026-09-12T00:00:00.000Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Menuisier poseur / Menuisière poseuse",
+      "rome_codes": [
+        "F1616"
+      ],
+      "description": "En relation directe avec le client, pose tout type de fermetures extérieures ou d'ouvrages en aluminium, bois, métal, PVC sur chantier : portes, fenêtres, garde-corps, claustras, portails, volets, stores. Intervient sur différentes typologies de chantiers, occupés ou non : maison individuelle, logement collectif, bâtiment tertiaire et communal. Peut acquérir des compétences en motorisation, automatisme et domotique pour l'installation et le paramétrage des produits associés. Assure la maintenance et le service après-vente des éléments posés, changement de vitrage ou de pièces de quincaillerie. Assure un rôle essentiel dans l'isolation et l'étanchéité qui participent à la performance énergétique du bâtiment.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Data et Nouvelles technologies\tComprendre, interpréter des données et documents techniques",
+        "Data et Nouvelles technologies\tTracer au sol l'ensemble d'une structure en fonction de la fiche technique",
+        "Conception\tAnalyser les incidents techniques et proposer des améliorations",
+        "Production, Fabrication\tLire et interpréter une fiche d'instruction et un plan d'exécution",
+        "Production, Fabrication\tManipuler des produits dangereux ou fragiles",
+        "Production, Fabrication\tProgrammer une télécommande",
+        "Production, Fabrication\tRelever et reporter des cotes",
+        "Production, Fabrication\tRéaliser des relevés dimensionnels",
+        "Production, Fabrication\tRéaliser l'étanchéité de l'ensemble support et châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, etc",
+        "Construction\tAutomatiser un système de fermeture menuisée existant",
+        "Construction\tCouper les éléments de fermetures menuisées",
+        "Construction\tDémonter une fermeture menuisée et vérifier l'état du support",
+        "Construction\tFixer des poteaux et des tringles aux éléments maçonnés",
+        "Construction\tFixer des éléments menuisés",
+        "Construction\tFixer les éléments d'une structure métallique",
+        "Construction\tInstaller un équipement électronique",
+        "Construction\tInstaller une serrure et des accessoires de fermeture",
+        "Construction\tPoser des stores",
+        "Construction\tPoser des éléments d'étanchéité",
+        "Construction\tPoser un blindage de porte ou de volet",
+        "Construction\tPoser un vitrage",
+        "Construction\tRéaliser des éléments menuisés sur mesure",
+        "Construction\tRéaliser l'installation d'équipements motorisés ou connectés",
+        "Construction\tRéaliser la pose et la dépose d'échafaudage ou de calorifuge",
+        "Construction\tRéaliser un raccordement électrique de fermeture menuisée automatisée",
+        "Maintenance, Réparation\tEntretenir, nettoyer un produit ou du matériel",
+        "Maintenance, Réparation\tNettoyer et assurer la bonne tenue du chantier",
+        "Maintenance, Réparation\tRéaliser un diagnostic technique",
+        "Prévention des risques\tEvaluer, prévenir, et gérer les risques et la sécurité",
+        "Prévention des risques\tRespecter les normes de sécurité sur les chantiers",
+        "Gestion des stocks\tCharger, décharger, manutentionner des produits",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tManipuler un engin de manutention ou de chantier",
+        "Gestion administrative et comptable\tOrganiser et planifier une activité",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAssurer un service après-vente",
+        "Développement commercial\tPrésenter les travaux effectués au chef d'atelier et au client",
+        "Communication\tCommuniquer à l'oral en milieu professionnel",
+        "Communication\tRelayer de l'information",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Emploi qui peut être pratiqué sans formation initiale, avec possibilité de formation en interne. Emploi aussi accessible aux personnes ayant déjà une formation ou une expérience dans le BTP ou dans la fabrication, l'installation de menuiseries. "
+      ],
+      "publication": {
+        "creation": "2026-09-12T09:51:37.144Z",
+        "expiration": "2026-11-12T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa3be95ef95c6a32325138b",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aa3be95ef95c6a32325138b"
@@ -871,98 +988,6 @@
       ],
       "publication": {
         "creation": "2026-09-07T17:30:01.442Z",
-        "expiration": "2026-11-07T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9edba4a4090cbb976de4f0",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a9edba4a4090cbb976de4f0"
-    },
-    "workplace": {
-      "siret": "53386228000013",
-      "brand": null,
-      "legal_name": "SENEGAL BEAUTY",
-      "website": null,
-      "name": "SENEGAL BEAUTY",
-      "description": "Sénégal Beauty est une entreprise spécialisée dans la vente de produits de beauté \nethniques au cœur du centre-ville de Montpellier. Nous disposons également d'un espace coiffure. \nNous recherchons un(e) Conseiller(ère) de Vente (H/F) dynamique et motivé(e) pour rejoindre notre équipe. Le poste offre l'opportunité de travailler dans un environnement stimulant et d'interagir avec une clientèle diversifiée.\nDe niveau Bac à Bac+5 Technique et/ou Commercial",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "11 RUE DE MAGUELONE 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.879817,
-            43.6071
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.75Z",
-          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9edba4a4090cbb976de4f0/conseiller-ère-de-vente-h-f-en-alternance",
-      "phone": "0951166717",
-      "recipient_id": "partners_6a9edba4a4090cbb976de4f0"
-    },
-    "contract": {
-      "start": "2026-09-07T15:43:32.407Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller(ère) de Vente (H/F) en alternance",
-      "rome_codes": [
-        "D1214"
-      ],
-      "description": "Réalise la vente d'articles destinés à l'équipement et à l'hygiène de la personne (vêtements, chaussures, bijoux, sacs à main, parfums, ...) auprès d'une clientèle de particuliers selon la réglementation du commerce, la stratégie et les objectifs commerciaux de l'entreprise. Peut proposer des services complémentaires à la vente (retouches, cartes de fidélité, ...). Peut coordonner une équipe.",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de curiosité, d'ouverture d'esprit",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tAnimer, coordonner une équipe",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tOrganiser le traitement des commandes",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAccueillir, orienter, renseigner un public",
-        "Développement commercial\tAdapter une stratégie de vente à une cible ou un produit",
-        "Développement commercial\tAssurer un service après-vente",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tMettre en oeuvre des actions commerciales et promotionnelles",
-        "Développement commercial\tOrganiser, aménager un espace de vente",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tVendre ou louer des produits ou des services"
-      ],
-      "access_conditions": [
-        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) dans les secteurs de la vente et du commerce. Des formations spécifiques (esthétique, couture, ...) peuvent être demandées. Il est également accessible avec une expérience professionnelle dans le secteur de la vente sans diplôme particulier. La maîtrise d'un logiciel de gestion de stock peut être demandée."
-      ],
-      "publication": {
-        "creation": "2026-09-07T15:43:32.407Z",
         "expiration": "2026-11-07T00:00:00.000Z"
       },
       "opening_count": 1,
@@ -8726,6 +8751,68 @@
   },
   {
     "identifier": {
+      "id": "6aa5d024a4e8e7f2aeacb62e",
+      "partner_label": "France Travail",
+      "partner_job_id": "6832163"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Super U Grabels",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://app.swipelink.fr//public/offer/e4d0adef-f261-4de1-8247-7a6e1e339aeb?origin=france_travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boucher / Bouchère (H/F)",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Préparer, découper et désosser les viandes dans le respect des règles de traçabilité. Réaliser la mise en valeur du rayon et le suivi de la fraîcheur des produits. Conseiller les clients sur les morceaux, les quantités et les modes de cuisson. Appliquer strictement les règles d'hygiène et la chaîne du froid.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-12T02:04:14.057Z",
+        "expiration": "2026-11-12T02:04:14.057Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa47e15d4cd2f3dc010cade",
       "partner_label": "France Travail",
       "partner_job_id": "213TTFF"
@@ -16137,6 +16224,68 @@
   },
   {
     "identifier": {
+      "id": "6aa5d024a4e8e7f2aeacb62e",
+      "partner_label": "France Travail",
+      "partner_job_id": "6832163"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Super U Grabels",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://app.swipelink.fr//public/offer/e4d0adef-f261-4de1-8247-7a6e1e339aeb?origin=france_travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boucher / Bouchère (H/F)",
+      "rome_codes": [
+        "D1101"
+      ],
+      "description": "Préparer, découper et désosser les viandes dans le respect des règles de traçabilité. Réaliser la mise en valeur du rayon et le suivi de la fraîcheur des produits. Conseiller les clients sur les morceaux, les quantités et les modes de cuisson. Appliquer strictement les règles d'hygiène et la chaîne du froid.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-12T02:04:14.057Z",
+        "expiration": "2026-11-12T02:04:14.057Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa47e15d4cd2f3dc010cade",
       "partner_label": "France Travail",
       "partner_job_id": "213TTFF"
@@ -16673,72 +16822,6 @@
       "publication": {
         "creation": "2026-09-10T15:41:45.119Z",
         "expiration": "2026-11-10T15:41:45.119Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa479e30d35903fc268f5dd",
-      "partner_label": "RH Alternance",
-      "partner_job_id": "163038532"
-    },
-    "workplace": {
-      "siret": "70203885200092",
-      "brand": null,
-      "legal_name": "FRAIKIN",
-      "website": "https://rhalternance.com/companies/fraikin-9649506",
-      "name": "FRAIKIN",
-      "description": null,
-      "size": "1 ou 2 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 16,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://rhalternance.com/jobs/maintenance-et-entretien/montpellier/apprenti-mecanicien-poids-lourds-h-f-163038532",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI MECANICIEN POIDS LOURDS H/F",
-      "rome_codes": [
-        "I1613"
-      ],
-      "description": "Descriptif du poste : \nProfil recherché :",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T13:18:13.000Z",
-        "expiration": "2026-11-09T13:18:13.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18595,72 +18678,6 @@
   },
   {
     "identifier": {
-      "id": "6a5aaf479e972c0713e1365e",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55518612"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "L'industrie recrute",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55518612?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "ALTERNANT MAGASIN H/F",
-      "rome_codes": [
-        "F1710"
-      ],
-      "description": "<p>Notre Usine SLB de Béziers produit des équipements pétroliers réputés dans le monde entier. S'appuyant sur les dernières technologies de l'Industrie 4.0, notre Usine, c'est aussi une histoire d'hommes &amp; de femmes, partageant la conviction que la résilience, l'expertise et l'engagement sont des valeurs humaines essentielles.</p> <p>  <strong>Ce que nous recherchons :</strong> </p> <p>Notre futur(e) Magasinier(e) Outillage en alternance, motivé(e) par un environnement industriel exigeant et formateur.</p> <p>  <strong>Tes responsabilités :</strong> </p> <p>Accompagné(e) par l'équipe magasin, tu participeras aux activités quotidiennes du magasin outillage :</p> <p>· Réception et contrôle des livraisons</p> <p>· Rangement et organisation du matériel</p> <p>· Approvisionnement des ateliers</p> <p>· Suivi des stocks et gestion des péremptions</p> <p>· Manipulation de matériels allant de quelques grammes à plusieurs dizaines de kilos</p> <p>· Participation à l'amélioration continue et au respect des règles de sécurité</p> <p>  <strong>Ce que tu maitrises :</strong> </p> <p>  - La conduite d'engin élévateur. Cat 1, 3, 5.  <br />  - L'outil informatique, apprentissage de nouveaux logiciels de gestion de stock. </p> <p>  <strong>Ce que tu es :</strong> </p> <p>Rigoureux(se), ponctuel(le) et curieux(se). Sensibiliser à la sécurité en entreprise.</p> <p>Tu prépares une formation en logistique / magasinage (CAP, Bac pro, BTS ou équivalent) ? Alors n'attends plus et rejoins nos équipes d'experts pour une belle aventure</p>\r\n\r\nSecteur: Industrie / Production autres\r\n\r\nPoste: Employé logistique magasin (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T23:05:37.781Z",
-        "expiration": "2026-11-06T23:05:37.781Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3475957f27726a0497c37c",
       "partner_label": "Meteojob",
       "partner_job_id": "54818857"
@@ -20067,74 +20084,6 @@
       "publication": {
         "creation": "2026-09-01T14:40:51.135Z",
         "expiration": "2026-11-01T14:40:51.135Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97515edb6c731160e48ee2",
-      "partner_label": "Meteojob",
-      "partner_job_id": "56473275"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "E.Leclerc",
-      "description": "<p>Notre centre E.Leclerc de Lunel est un hypermarché de 4.500m2 nouvellement agrandi, pour le bien être des clients mais également des équipes. Notre magasin, doté d'un Drive, et d'une parapharmacie totalise plus de 200 collaborateurs pour garantir le fonctionnement de nos services.</p> <p>Les 545 adhérents E.Leclerc exploitant 766 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 49.9 milliards d'euros (hors carburant) en 2024 et est le leader de la distribution française avec une part de marché de presque 25%.</p> <p>Employeurs engagés, les centres E.Leclerc ont accueilli 5300 alternants (dont plus de 2700 apprentis) pour concourir à leur formation. Ils s'investissent également aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134701,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/56473275?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) Qualité (alternance) - H/F",
-      "rome_codes": [
-        "H1303"
-      ],
-      "description": "<p>  <strong>E. Leclerc est un acteur militant de l'apprentissage. Nous sommes attachés à la transmission des savoir-faire, et l'alternance est un bon moyen de réussir son entrée dans la vie active. Chaque année, plus de 4.000 alternants sont accueillis dans l'enseigne.</strong> </p> <p>  <strong>Pour la rentrée de septembre 2026, nous recherchons un(e) Assistant(e) qualité en alternance.</strong> </p> <p>  <strong>Aux côtés de la Responsable Qualité, vous participerez aux missions de contrôle de la qualité des produits et du respect de la réglementation en vigueur. Vous participerez aux tâches quotidiennes du service dans le cadre du suivi de l'hygiène alimentaire, des retraits rappels de produits, la préparation des audits qualité et de la certification de services E. Leclerc.</strong> </p>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Assistant qualité (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <strong>Vous préparez un BTS ou une Licence</strong> </p> <p>  <strong>Vous faites preuve de rigueur, d'autonomie, êtes motivé(e) par le travail en équipe et vous possédez un bon relationnel.</strong> </p> <p>  <strong>Si ce poste vous intéresse, n'hésitez pas à postuler pour nous rejoindre. Vous intégrerez l'équipe en contrat d'apprentissage/alternance pour une durée de 12 ou 24 mois.</strong> </p>",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "1-2 ans"
-      ],
-      "publication": {
-        "creation": "2026-09-01T10:07:34.540Z",
-        "expiration": "2026-11-01T10:07:34.540Z"
       },
       "opening_count": 1,
       "status": "Active"
