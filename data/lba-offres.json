@@ -1,6 +1,109 @@
 [
   {
     "identifier": {
+      "id": "6aa523ab7d0e8c4fde44be29",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa523ab7d0e8c4fde44be29"
+    },
+    "workplace": {
+      "siret": "93277162900015",
+      "brand": null,
+      "legal_name": "L'ATIENDA",
+      "website": null,
+      "name": "L'ATIENDA",
+      "description": "L'Atienda recherche son/sa futur(e) apprenti(e) !\n\nPetit restaurant colombien indépendant situé dans l'Écusson de Montpellier, nous recherchons une personne motivée pour se former à la restauration et découvrir notre cuisine colombienne.\n\nAu programme : cuisine, préparation, service, accueil client, boissons, commandes à emporter et fonctionnement quotidien d'un petit restaurant.\n\nNous recherchons surtout quelqu'un de sérieux, dynamique, curieux et qui aime travailler en équipe. \n\nDébutant accepté selon profil. Dans l'idéal, une personne bilingue français/espagnol.\n\nFormation en alternance à Montpellier.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "37 RUE ALEXANDRE CABANEL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.875091,
+            43.607613
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa523ab7d0e8c4fde44be29/employé-polyvalent-employée-polyvalente-de-restauration",
+      "phone": "0676310385",
+      "recipient_id": "partners_6aa523ab7d0e8c4fde44be29"
+    },
+    "contract": {
+      "start": "2026-09-12T10:04:27.843Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restauration",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-09-12T10:04:27.843Z",
+        "expiration": "2026-11-13T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa520a9b272299cc426f78c",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aa520a9b272299cc426f78c"
@@ -7582,107 +7685,6 @@
       ],
       "publication": {
         "creation": "2026-07-20T12:10:56.245Z",
-        "expiration": "2026-09-20T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5db36d1ae407c4c7b83588",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a5db36d1ae407c4c7b83588"
-    },
-    "workplace": {
-      "siret": "98009615000019",
-      "brand": null,
-      "legal_name": "PLAKOBAT",
-      "website": null,
-      "name": "PLAKOBAT",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "6 BOULEVARD BERTHELOT 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.870193,
-            43.600773
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "43.31Z",
-          "label": "Travaux de plâtrerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5db36d1ae407c4c7b83588/plâtrier-plaquiste-plâtrière-plaquiste",
-      "phone": "0646674127",
-      "recipient_id": "partners_6a5db36d1ae407c4c7b83588"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Plâtrier-plaquiste / Plâtrière-plaquiste",
-      "rome_codes": [
-        "F1604"
-      ],
-      "description": "Le plaquiste intervient dans la construction neuve ou la rénovation pour créer des espaces intérieurs et améliorer l'isolation thermique et acoustique des pièces. Pose des cloisons sèches et des faux-plafonds Réalise les joints entre les plaques pour obtenir une surface lisse et prête pour les finitions Adapte les techniques de pose aux spécificités des bâtiments pour garantir la qualité et la durabilité des installations",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
-        "Production, Fabrication\tAssurer la finition des surfaces et des angles",
-        "Production, Fabrication\tRéaliser et lisser les joints",
-        "Production, Fabrication\tSélection les matériaux en fonction des besoins",
-        "Production, Fabrication\tUtiliser un outil, une machine, un équipement, une installation",
-        "Construction\tAjuster et fixer les plaques de plâtre sur les structures métalliques ou en bois",
-        "Construction\tAppliquer des enduits, des bandes à joint",
-        "Construction\tCollaborer avec des équipes pour coordonner les travaux",
-        "Construction\tDécouper les plaques de plâtre (placo) selon les mesures",
-        "Construction\tImplanter une zone de chantier",
-        "Construction\tInstaller des systèmes d'isolation thermique ou acoustique",
-        "Construction\tMonter des cloisons ou faux-plafonds",
-        "Construction\tMonter ou démonter un échafaudage",
-        "Construction\tPoser des appareils électriques simples",
-        "Construction\tPoser des plafonds suspendus",
-        "Construction\tTracer les cloisons pour visualiser le travail à réaliser en contrôlant l'état des surfaces",
-        "Maintenance, Réparation\tNettoyer le site d'intervention et ranger les outils",
-        "Prévention des risques\tEvaluer, prévenir, et gérer les risques et la sécurité",
-        "Qualité\tVérifier l'alignement et l'aplomb des structures montées",
-        "Gestion des stocks\tCharger, décharger, manutentionner des produits",
-        "Gestion administrative et comptable\tOrganiser et planifier une activité",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Communication\tCommuniquer à l'oral en milieu professionnel",
-        "Organisation\tInterpréter les informations techniques et les plans de construction",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
-        "Organisation\tRespecter les règles de sécurité dont le port des EPI et la tenue vestimentaire adaptée"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un diplôme de niveau CAP dans les métiers du bâtiment. Une habilitation électrique peut être demandée. Un Certificat d'Aptitude à la Conduite En Sécurité (CACES) peut être nécessaire pour l'installation d'échafaudage par exemple."
-      ],
-      "publication": {
-        "creation": "2026-07-20T05:34:37.851Z",
         "expiration": "2026-09-20T00:00:00.000Z"
       },
       "opening_count": 1,
@@ -16224,6 +16226,135 @@
   },
   {
     "identifier": {
+      "id": "6a88cee51c5bd3fac3cc0090",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56258922"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "BOULANGERIE ANGE",
+      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134701,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/56258922?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Titre professionnel en Vente H/F",
+      "rome_codes": [
+        "D1501"
+      ],
+      "description": "<p>  <strong>Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.</strong> </p> <p>Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ans</p> <p>  <strong>Votre formation :</strong> </p> <p>  Les techniques de commercialisation et de vente de produits ou de services en boulangerie.  <br />  Les connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ? </p> <ul>  <li>   <p>Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.</p>  </li>  <li>   <p>Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.</p>  </li>  <li>   <p>Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.</p>  </li>  <li>   <p>Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.</p>  </li>  <li>   <p>Contribuer aux actions commerciales et à l'animation de la boutique.</p>  </li> </ul> <p>  .  <br />  <strong>Vous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.</strong> </p> <p>  Vous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  <br />  Vous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  <br />  Dans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain. </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong>  <br />  Afin de permettre une bonne rotation des plannings de chaque membre de l'équipe,  <strong>vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.</strong>  <br />  <em>Compte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.</em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Vendeur en boulangerie / pâtisserie (H/F)\r\n\r\nAvantages: 846,49 € - 1 801,8 € par mois\r\n\r\nProfil: <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance</p> <p>  <strong>Titre visé :</strong>  Titre Professionnel de Conseiller de Vente, niveau 4 Bac </p> <p>  <strong>Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?</strong>  <br />  <strong>Vous souhaitez rejoindre notre équipe de choc ? Rencontrons-nous !</strong> </p> <p>  <br />  <strong>Et Devenez un Ange, Gardien du bon !</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ansVotre for",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-12T23:06:10.556Z",
+        "expiration": "2026-11-12T23:06:10.556Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3475957f27726a0497c37c",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54818857"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "BOULANGERIE ANGE",
+      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP Boulanger en apprentissage H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-12T22:05:51.973Z",
+        "expiration": "2026-11-12T22:05:51.973Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa5d024a4e8e7f2aeacb62e",
       "partner_label": "France Travail",
       "partner_job_id": "6832163"
@@ -18670,72 +18801,6 @@
       "publication": {
         "creation": "2026-09-07T10:57:13.134Z",
         "expiration": "2026-11-07T10:57:13.134Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a3475957f27726a0497c37c",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54818857"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP Boulanger en apprentissage H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T23:05:24.196Z",
-        "expiration": "2026-11-06T23:05:24.196Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -22261,69 +22326,6 @@
   },
   {
     "identifier": {
-      "id": "6a88cee51c5bd3fac3cc0090",
-      "partner_label": "Meteojob",
-      "partner_job_id": "56258922"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134701,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/56258922?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Titre professionnel en Vente H/F",
-      "rome_codes": [
-        "D1501"
-      ],
-      "description": "<p>  <strong>Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.</strong> </p> <p>Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ans</p> <p>  <strong>Votre formation :</strong> </p> <p>  Les techniques de commercialisation et de vente de produits ou de services en boulangerie.  <br />  Les connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ? </p> <ul>  <li>   <p>Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.</p>  </li>  <li>   <p>Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.</p>  </li>  <li>   <p>Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.</p>  </li>  <li>   <p>Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.</p>  </li>  <li>   <p>Contribuer aux actions commerciales et à l'animation de la boutique.</p>  </li> </ul> <p>  .  <br />  <strong>Vous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.</strong> </p> <p>  Vous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  <br />  Vous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  <br />  Dans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain. </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong>  <br />  Afin de permettre une bonne rotation des plannings de chaque membre de l'équipe,  <strong>vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.</strong>  <br />  <em>Compte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.</em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Vendeur en boulangerie / pâtisserie (H/F)\r\n\r\nAvantages: 846,49 € - 1 801,8 € par mois\r\n\r\nProfil: <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance</p> <p>  <strong>Titre visé :</strong>  Titre Professionnel de Conseiller de Vente, niveau 4 Bac </p> <p>  <strong>Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?</strong>  <br />  <strong>Vous souhaitez rejoindre notre équipe de choc ? Rencontrons-nous !</strong> </p> <p>  <br />  <strong>Et Devenez un Ange, Gardien du bon !</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ansVotre for",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-21T10:41:14.287Z",
-        "expiration": "2026-10-21T10:41:14.287Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8a218cbc5fc2963e1032d1",
       "partner_label": "France Travail",
       "partner_job_id": "212STBF"
@@ -25401,201 +25403,6 @@
         "expiration": "2026-09-15T15:37:12.776Z"
       },
       "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a579f3ca8013626d33da1be",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a579f3ca8013626d33da1be"
-    },
-    "workplace": {
-      "siret": "93285333600018",
-      "brand": "LEONIDAS",
-      "legal_name": "KOKOLA",
-      "website": null,
-      "name": "KOKOLA",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "47.24Z",
-          "label": "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a579f3c4acef524be4c0cd8",
-      "phone": "0625165980",
-      "recipient_id": "partners_6a579f3ca8013626d33da1be"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en chocolaterie",
-      "rome_codes": [
-        "D1115"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-15T14:54:52.612Z",
-        "expiration": "2026-09-13T14:54:52.608Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a579802a8013626d33d9d0a",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a579802a8013626d33d9d0a"
-    },
-    "workplace": {
-      "siret": "83044198600015",
-      "brand": "LES DELICES DE MASSANE",
-      "legal_name": "LES DELICES DU SUD II",
-      "website": null,
-      "name": "LES DELICES DU SUD II",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "2596 Avenue de l'Europe 34080 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.819822,
-            43.641835
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "10.71B",
-          "label": "Cuisson de produits de boulangerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a5798024acef524be4c0c06",
-      "phone": "0652292438",
-      "recipient_id": "partners_6a579802a8013626d33d9d0a"
-    },
-    "contract": {
-      "start": "2026-08-03T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1108"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-15T14:24:02.748Z",
-        "expiration": "2026-09-13T14:24:02.745Z"
-      },
-      "opening_count": 2,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5797c88bfdaae34d690103",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a5797c88bfdaae34d690103"
-    },
-    "workplace": {
-      "siret": "83044198600015",
-      "brand": "LES DELICES DE MASSANE",
-      "legal_name": "LES DELICES DU SUD II",
-      "website": null,
-      "name": "LES DELICES DU SUD II",
-      "description": "",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "2596 Avenue de l'Europe 34080 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.819822,
-            43.641835
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "10.71B",
-          "label": "Cuisson de produits de boulangerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a5797c84acef524be4c0bfb",
-      "phone": "0652292438",
-      "recipient_id": "partners_6a5797c88bfdaae34d690103"
-    },
-    "contract": {
-      "start": "2026-08-03T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1108"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-15T14:23:04.620Z",
-        "expiration": "2026-09-13T14:23:04.617Z"
-      },
-      "opening_count": 2,
       "status": "Active"
     },
     "is_delegated": false
