@@ -1,6 +1,217 @@
 [
   {
     "identifier": {
+      "id": "6aa82a5c1734e71a67c7869f",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa82a5c1734e71a67c7869f"
+    },
+    "workplace": {
+      "siret": "89322407100017",
+      "brand": null,
+      "legal_name": "LES CAVES MAZUC",
+      "website": null,
+      "name": "LES CAVES MAZUC",
+      "description": "Au sein de Halles gourmandes à Pézenas 34120\nLes Caves Mazuc c'est une offre variée tout au long de la journée : bar à vin et à bière, caviste, soirées concerts et animation culturelle : Comedy club, exposition.\n\nLes Caves Mazuc proposent dans un cadre chaleureux des produits locaux et artisanaux (bières, sodas, vins), des cocktails créations et café de spécialité. Le tout décliné sur place ou à emporter avec une offre caviste.\n\nDescription du poste\n\nLes Caves Mazuc recherchent :\nUn(e) apprenti(e) des métiers du service en restauration\n\nPour 35h / 39h semaine minimum :\ndu mardi au samedi\nDeux jours de repos hebdomadaires : dimanche et lundi",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 COURS JEAN JAURES 34120 PEZENAS",
+        "geopoint": {
+          "coordinates": [
+            3.422568,
+            43.460113
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa82a5c1734e71a67c7869f/poste-en-apprentissage-serveur-serveuse-de-bar",
+      "phone": "0430418815",
+      "recipient_id": "partners_6aa82a5c1734e71a67c7869f"
+    },
+    "contract": {
+      "start": "2026-09-14T17:09:48.187Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Poste en apprentissage : serveur / serveuse de bar",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le Serveur en restauration joue un rôle clé dans l'accueil et la réalisation d'un service à table de qualité. Accueille et installe les clients à leur table avec courtoisie Conseille les clients sur la carte, les différents plats et les boissons Prend les commandes et sert les clients avec efficacité Gère les encaissements et les transactions financières Veille à la propreté et à la bonne présentation des tables Assure le suivi des stocks de nourriture et de boissons Peut organiser et servir lors d'événements spéciaux ou de banquets",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de contrôle de soi",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tVeiller à la présentation soignée des plats",
+        "Aménagement\tRéaliser la mise en place de la salle et de l'office",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tEssuyer et ranger la vaisselle, la verrerie, les ustensiles de cuisine",
+        "Prévention des risques\tMaintenir un environnement de travail sécurisé et organisé",
+        "Gestion des stocks\tParticiper à la gestion des stocks de nourriture et de boissons",
+        "Gestion des stocks\tParticiper à un inventaire",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Pilotage et maîtrise des coûts\tSaisir une commande sur informatique",
+        "Droit, contentieux et négociation\tGérer les situations d'urgence ou les plaintes des clients",
+        "Protection des personnes et de l'environnement\tAssister et aider les personnes en attendant les secours",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Relation client\tAccueillir le client et l'installer",
+        "Relation client\tConseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Relation client\tEffectuer le service des plats à table",
+        "Relation client\tEvaluer la satisfaction des clients et recueillir les feedbacks",
+        "Relation client\tGarantir la satisfaction du client",
+        "Relation client\tPrendre une commande client",
+        "Relation client\tProposer des produits additionnels",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Communication\tMaintenir une communication claire et professionnelle",
+        "Communication\tRendre compte de son action, de risques ou d'anomalies au responsable",
+        "Communication\tS'exprimer avec politesse et courtoisie",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une certification de niveau CAP à Bac (niveau 3 ou 4) de l'hôtellerie/restauration."
+      ],
+      "publication": {
+        "creation": "2026-09-14T17:09:48.187Z",
+        "expiration": "2026-11-14T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa82a011734e71a67c78661",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aa82a011734e71a67c78661"
+    },
+    "workplace": {
+      "siret": "89322407100017",
+      "brand": null,
+      "legal_name": "LES CAVES MAZUC",
+      "website": null,
+      "name": "LES CAVES MAZUC",
+      "description": "Au sein de Halles gourmandes à Pézenas 34120\nLes Caves Mazuc c'est une offre variée tout au long de la journée : bar à vin et à bière, caviste, soirées concerts et animation culturelle : Comedy club, exposition.\n\nLes Caves Mazuc proposent dans un cadre chaleureux des produits locaux et artisanaux (bières, sodas, vins), des cocktails créations et café de spécialité. Le tout décliné sur place ou à emporter avec une offre caviste.\n\nDescription du poste\n\nLes Caves Mazuc recherchent :\nUn(e) apprenti(e) des métiers du service en restauration\n\nPour 35h / 39h semaine minimum :\ndu mardi au samedi\nDeux jours de repos hebdomadaires : dimanche et lundi",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 COURS JEAN JAURES 34120 PEZENAS",
+        "geopoint": {
+          "coordinates": [
+            3.422568,
+            43.460113
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa82a011734e71a67c78661/apprentissage-barman-barmaid",
+      "phone": "0430418815",
+      "recipient_id": "partners_6aa82a011734e71a67c78661"
+    },
+    "contract": {
+      "start": "2026-09-14T17:08:17.681Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprentissage - barman / barmaid",
+      "rome_codes": [
+        "G1801"
+      ],
+      "description": "Le Barman, créateur d'ambiance et de saveurs, est au cœur de l'animation d'un bar. Accueille, conseille et fidélise la clientèle en offrant un service personnalisé et attentionné Prépare et sert des boissons, notamment des cocktails, en respectant les recettes et les normes d'hygiène Entretient le bar et son environnement de travail pour assurer une atmosphère agréable et propre Gère l'approvisionnement et le stock des boissons pour garantir une offre variée et de qualité Peut organiser des événements et des animations pour dynamiser l'établissement et attirer une clientèle diversifiée Veille à la bonne application des règles de sécurité et des normes légales en vigueur dans le secteur",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir le sens du service",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Animation\tParticiper à l'organisation d'animations ou d'évènements au sein du bar",
+        "Production, Fabrication\tInnover avec de nouvelles techniques de mixologie",
+        "Production, Fabrication\tPréparer les produits nécessaires au service",
+        "Maintenance, Réparation\tAssurer la maintenance de base du matériel de bar",
+        "Prévention des risques\tRepérer les comportements à risques",
+        "Gestion des stocks\tAssurer le suivi des commandes et la gestion des stocks",
+        "Gestion des stocks\tDresser un inventaire des produits disponibles en réserve",
+        "Gestion des stocks\tGérer les besoins en approvisionnement",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Gestion administrative et comptable\tRéaliser la facturation",
+        "Pilotage et maîtrise des coûts\tOptimiser l'utilisation des ressources pour réduire les déchets",
+        "Droit, contentieux et négociation\tAppliquer la réglementation en vigueur des bars et restaurants",
+        "Droit, contentieux et négociation\tGérer les plaintes de manière professionnelle",
+        "Protection des personnes et de l'environnement\tAppliquer les éco-gestes dans sa pratique (eau, énergie, produits, etc.)",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Protection des personnes et de l'environnement\tVeiller à la sécurité des biens et des personnes dans l'établissement",
+        "Relation client\tAccueillir le client et l'installer",
+        "Relation client\tConseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Relation client\tCréer une ambiance accueillante et conviviale au bar",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Communication\tParler une ou plusieurs langues étrangères",
+        "Communication\tRendre compte de son action, de risques ou d'anomalies au responsable",
+        "Communication\tS'exprimer avec politesse et courtoisie",
+        "Organisation\tMaintenir une hygiène irréprochable du bar et des équipements",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire",
+        "Organisation\tRespecter les règles de sécurité au travail",
+        "Organisation\tRespecter les standards qualité de l'établissement"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible principalement avec une qualification de niveau Bac en l'hôtellerie/restauration."
+      ],
+      "publication": {
+        "creation": "2026-09-14T17:08:17.681Z",
+        "expiration": "2026-11-14T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa523ab7d0e8c4fde44be29",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aa523ab7d0e8c4fde44be29"
@@ -8753,6 +8964,148 @@
   },
   {
     "identifier": {
+      "id": "6aa872f15743d160f9f96ace",
+      "partner_label": "France Travail",
+      "partner_job_id": "213VWXD"
+    },
+    "workplace": {
+      "siret": "98428857100024",
+      "brand": null,
+      "legal_name": "MYLO",
+      "website": null,
+      "name": "MYLO",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWXD",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-14T15:51:28.262Z",
+        "expiration": "2026-11-14T15:51:28.262Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa872f15743d160f9f96acd",
+      "partner_label": "France Travail",
+      "partner_job_id": "213VWVK"
+    },
+    "workplace": {
+      "siret": "98428857100024",
+      "brand": null,
+      "legal_name": "MYLO",
+      "website": null,
+      "name": "MYLO",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWVK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-14T15:50:27.826Z",
+        "expiration": "2026-11-14T15:50:27.826Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aa5d024a4e8e7f2aeacb62e",
       "partner_label": "France Travail",
       "partner_job_id": "6832163"
@@ -9145,76 +9498,6 @@
       "publication": {
         "creation": "2026-09-10T16:46:54.038Z",
         "expiration": "2026-11-10T16:46:54.038Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105961",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SCXJ"
-    },
-    "workplace": {
-      "siret": "81780488300020",
-      "brand": null,
-      "legal_name": "PROPIGNAN",
-      "website": null,
-      "name": "PROPIGNAN",
-      "description": null,
-      "size": "100 à 199 salariés",
-      "location": {
-        "address": "34570 Pignan",
-        "geopoint": {
-          "coordinates": [
-            3.753166,
-            43.578257
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2216,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCXJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "EMPLOYE COMMERCIAL en alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "- Réception des produits (dépotage),\n- Mise en rayon et rotation des produits ( DLC/DDM)\n- Entretien des rayons + gestion des stocks/des commandes\n- Balisage des rayons\n- Implantation des nouveaux produits\n- Respecter les règles d'hygiène et de sécurité\n- Conseiller et orienter la clientèle- Encaissement\n\nType de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en\nalternance)\n\nLIEUX DE FORMATION : COURNONSEC\n\nDurée : 12 mois, entrée en formation à tout moment\n\nTemps de travail : 35 H (27 H en magasin et 8 H en formation)\nSalaire : selon votre âge et votre diplôme\n\nFormation : Aucune formation exigée, Nous demandons de l'endurance et du volonté\nen résumé, « Venez comme vous êtes » mais le critère déterminant sera la motivation.\n\nType d'emploi : Temps plein, Contrat pro",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Contrôler le balisage et l'étiquetage des produits en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T16:28:44.559Z",
-        "expiration": "2026-11-10T16:28:44.559Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15718,71 +16001,6 @@
   },
   {
     "identifier": {
-      "id": "6a63e8316cce1228eac7187b",
-      "partner_label": "France Travail",
-      "partner_job_id": "5435438"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "U Commerçants Autrement",
-      "description": "La marque U repose sur un système coopératif.\n\nCela signifie que les propriétaires des magasins (les associés U) sont des commerçants indépendants qui ont choisi d'unir leurs forces au sein de la Coopérative U.\n\nChacun d'entre eux est libre de poursuivre le développement de ses activités en magasin de manière indépendante. D'innover. De renforcer son lien avec la population locale autour de son magasin et de sélectionner les meilleurs produits pour ses clients.\n\nLes associés et les collaborat...",
-      "size": null,
-      "location": {
-        "address": "34190 Ganges",
-        "geopoint": {
-          "coordinates": [
-            3.710699,
-            43.937614
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "46.17A",
-          "label": "Centrales d'achat alimentaires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://offres.u-emploi.com/fr/annonce/4516831-apprenti-boucher-hf-34190-ganges?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "U Commerçants Autrement - Aide-boucher / Aide-bouchère (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Ce que nous vous proposons ? Plus qu'une formation, un métier d'avenir !\nChapeauté par votre tuteur, vous affinez vos compétences en matière de ficelage et de découpe. Au cœur de la viande, vous pourrez copieusement tailler la bavette avec la clientèle.\n\nPréparation de viande et de spécialités bouchères / Maitrise des techniques de découpe / Valorisation du rayon\nGestion des marchandises\nConseil aux clients / Partage des offres promotionnelles\nRespect des règles d'hygiène et de sécurité alimentaire\n\nVotre sommet chez U : des valeurs pour grandir ensemble\nVous avez envie de vous investir dans un métier passionnant et un emploi d'avenir. Nous vous aidons à vous épanouir au quotidien et à avancer dans votre projet professionnel.\nDes questions ? On vous dit tout sur le métier de boucher suivez le lien -&gt; https://urlr.me/BM8nm\nChez U, tout commence avec vous\nVous, qui êtes.  \n\nDynamique, rigoureux, vous avez l'envie et la motivation d'apprendre un métier manuel\nPrêt à prendre des initiatives pour vous épanouir dans votre environnement professionnel\nEngagé, vous êtes fier de travailler avec des producteurs locaux\n\nCe qui fait notre différence ? Notre approche de la formation autrement !\n\nUn apprentissage pratique pour vous former au plus près de votre futur métier !\nDes rencontres avec nos partenaires locaux : éleveurs, producteurs, .\n\nVous aider à vous réaliser et atteindre votre sommet, c'est ça, être Commerçants autrement.\nÇa vous tente et vous voulez atteindre votre sommet à nos côtés ? Postulez !\nTous nos postes sont ouverts aux personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T21:21:25.000Z",
-        "expiration": "2026-09-24T21:21:25.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5ff3bc6cce1228eac4eb68",
       "partner_label": "France Travail",
       "partner_job_id": "5206982"
@@ -16218,6 +16436,214 @@
       "publication": {
         "creation": "2026-07-15T15:37:12.776Z",
         "expiration": "2026-09-15T15:37:12.776Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a664e09e5fa1b20ee1f7a1f",
+      "partner_label": "Jobs that make sense",
+      "partner_job_id": "6a664e09e5fa1b20ee1f7a1f"
+    },
+    "workplace": {
+      "siret": "87765787400047",
+      "brand": "LA PALANQUEE",
+      "legal_name": "SCIC LA PALANQUEE",
+      "website": "https://jobs.makesense.org/fr/projects/la-palanque-2379?source=api-apprentissage",
+      "name": "SCIC LA PALANQUEE",
+      "description": "La Palanquée, tiers-lieu citoyen du Bassin de Thau, accompagne les initiatives économiques, écologiques et solidaires par la découverte et le faire ensemble.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "82.99Z",
+          "label": "Autres activités de soutien aux entreprises n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://jobs.makesense.org/fr/jobs/la-palanquee-assistante-responsable-administratifve-et-financierere-L8RgD4nNVciGNwggc3gr?source=api-apprentissage",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-10-01T00:00:00.000Z",
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "ASSISTANT·E RESPONSABLE ADMINISTRATIF·VE ET FINANCIER·ÈRE",
+      "rome_codes": [
+        "M1621"
+      ],
+      "description": "Tu travailleras directement aux côtés de Timothée, co-directeur en charge de l’administratif, du financier et de la gestion, également responsable de l’incubateur.\n\nL’objectif est de te permettre de monter progressivement en compétences et en autonomie sur la gestion administrative et\n\nfinancière des deux structures.\n\nGestion administrative et financière\n\n  - Réception, numérisation, renommage et classement des factures et pièces administratives ;\n  - Collecte mensuelle des justificatifs auprès de l’équipe et contrôle de leur transmission ;\n  - Préparation, organisation et collecte des pièces destinées à l’expert-comptable ;\n  - Suivi des factures fournisseurs, des règlements et des pièces manquantes ;\n  - Suivi des factures clients et relance des impayés, en lien avec la personne chargée du coworking et des bureaux\n  - occupés par les résident·es permanents ;\n  - Mise à jour des tableaux de suivi administratif, budgétaire et financier.\n  - Suivi des procédures en cours avec l'assurance Dommage Ouvrage et\n  - Responsabilité Civile Professionnelle (Déclarations et suivi administratif des sinistres auprès de notre assurance sous la supervision du référent bâtiment)\n  - Suivi administratif des prestataires d'entretien du bâtiment (ascenseur ; climatisation ; chauffage ; propreté ; ...), relance si nécessaire, demande de devis et benchmark de fournisseurs pour de petits travaux occasionnels\n\n\nAucune saisie comptable n’est demandée : la tenue de la comptabilité est entièrement assurée par notre cabinet d’expertise comptable.\n\nAdministration du personnel et paie\n\n  - Relance mensuelle de l’équipe pour la transmission des congés, absences, récupérations et arrêts de travail ;\n  - Collecte et contrôle des variables de paie ;\n  - Mise à jour des dossiers administratifs des salarié·es ;\n  - Saisie des variables de paie dans le logiciel ;\n  - Contrôle des éléments transmis et suivi des éventuelles corrections.\n\n\nLes bulletins de paie ne sont pas à établir : leur production est assurée par un prestataire extérieur.\n\nGestion administrative de l’incubateur\n\n  - Mise à jour des dossiers des porteur·ses de projets accompagnés ;\n  - Suivi des inscriptions, conventions, feuilles de présence et justificatifs ;\n  - Préparation des éléments nécessaires aux bilans et demandes de financement ;\n  - Appui à l’organisation des ateliers, jurys et temps collectifs ;\n  - Contribution au suivi administratif et financier des programmes d’accompagnement.\n\n\nVie du tiers-lieu et projets à impact\n\n  - Selon tes envies et tes centres d’intérêt, tu pourras également contribuer :\n  - À l’organisation de rencontres et d’événements professionnels ou citoyens ;\n  - Au développement commercial du lieux (accroissement des recettes commerciales du co-working, des bureaux à louer et du café restaurant lors d'évènements)\n  - A la programmation d'évènements, aux soirées et temps forts organisés à La Palanquée ;\n  - Aux projets liés à la transition écologique et à l’innovation sociale ;\n  - À l’amélioration des outils et des procédures internes.\n\n\nCette participation sera proposée en fonction de tes appétences et de tes centres d'intérêts.\n\nUne montée en responsabilités progressive\n\nCette alternance ne se limite pas à des tâches d’exécution. En fonction de tes compétences, de ta progression et de ton envie de t’investir, tu pourras prendre progressivement en charge un véritable périmètre de gestionnaire / responsable administratif·ve et financier·ère junior.\n\nToujours accompagné·e par le co-directeur, tu pourras participer au suivi budgétaire, au contrôle de gestion, à la préparation des dossiers de financement, à l’amélioration des procédures internes et à la production d’outils d’aide à la décision.\n\nL’objectif est qu’à l’issue de l’alternance, tu disposes d’une expérience complète et concrète de la fonction administrative et financière dans des structures de l’économie sociale et solidaire.\n\n\n\nTu prépares une formation de niveau Bac+2 ou Bac+3 dans les domaines de la gestion, de l’administration, de la comptabilité, de la finance, des ressources humaines ou de l’entrepreneuriat.\n\n  - Deuxième année de BTS ;\n  - Deuxième ou troisième année de BUT ;\n  - Deuxième ou troisième année de licence ;\n  - Ou formation équivalente.\n\n\nTu es organisé·e, rigoureux·se, polyvalent·e et à l’aise avec les outils numériques. Tu apprécies les missions concrètes, le travail en équipe et tu sais t’adapter à des sujets variés.\n\nUn premier niveau de connaissances théoriques ou pratiques en comptabilité et en analyse financière sont attendues : règles et méthodes comptables, soldes intermédiaires de gestion, ratios d’analyse financière, savoir lire et interpréter les documents comptables (compte de résultat, bilan, grand livre client, etc...)\n\nUne sensibilité à l’économie sociale et solidaire, à la transition écologique, à l’innovation sociale ou à l’entrepreneuriat à impact sera particulièrement appréciée.\n\nCe que nous proposons\n\n  - Une alternance responsabilisante et évolutive ;\n  - Un accompagnement régulier et une autonomie progressive ;\n  - Une expérience proche d’une fonction de RAF junior ;\n  - Une vision complète du fonctionnement d’une SCIC et d’une association ;\n  - Une équipe engagée, accessible et bienveillante ;\n  - Un lieu de travail vivant et convivial, en plein centre de Sète ;\n  - Des échanges quotidiens avec des entrepreneur·ses, associations, collectivités et acteurs économiques du Bassin de Thau ;\n  - La prise en charge de 50 % de l’abonnement TER entre Montpellier et Sète pour les étudiant·es résidant à Montpellier.\n\n\nConditions\n\nContrat d’apprentissage à partir de septembre 2026 ;\n\nLieu : La Palanquée - 3 bis rue Gabriel Péri, 34200 Sète ;\n\nRémunération selon les dispositions légales applicables.\n\nDurée du contrat : 1 an à 2 ans en fonction de la formation que tu prépares.\n\nProcessus de recrutement\n\nPour candidater, merci d’envoyer un CV, une lettre de motivation ainsi que tout autre document dont le ou la candidat·e souhaite nous faire part.\n\nRéception des candidatures jusqu’à la mi-août 2026 ;\n\nEntretiens organisés entre la dernière semaine d’août et la première semaine de septembre 2026 ;\n\nLa Palanquée étant fermée pendant les deux premières semaines d’août, toute l’équipe sera en congé sur cette période. Ne t’étonne donc pas si tu ne reçois pas de réponse avant le 17 août 😊",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-15T08:56:14.753Z",
+        "expiration": "2026-10-30T08:56:15.583Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa872f15743d160f9f96ace",
+      "partner_label": "France Travail",
+      "partner_job_id": "213VWXD"
+    },
+    "workplace": {
+      "siret": "98428857100024",
+      "brand": null,
+      "legal_name": "MYLO",
+      "website": null,
+      "name": "MYLO",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWXD",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-14T15:51:28.262Z",
+        "expiration": "2026-11-14T15:51:28.262Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa872f15743d160f9f96acd",
+      "partner_label": "France Travail",
+      "partner_job_id": "213VWVK"
+    },
+    "workplace": {
+      "siret": "98428857100024",
+      "brand": null,
+      "legal_name": "MYLO",
+      "website": null,
+      "name": "MYLO",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWVK",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-14T15:50:27.826Z",
+        "expiration": "2026-11-14T15:50:27.826Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16747,76 +17173,6 @@
       "publication": {
         "creation": "2026-09-10T16:46:54.038Z",
         "expiration": "2026-11-10T16:46:54.038Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105961",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SCXJ"
-    },
-    "workplace": {
-      "siret": "81780488300020",
-      "brand": null,
-      "legal_name": "PROPIGNAN",
-      "website": null,
-      "name": "PROPIGNAN",
-      "description": null,
-      "size": "100 à 199 salariés",
-      "location": {
-        "address": "34570 Pignan",
-        "geopoint": {
-          "coordinates": [
-            3.753166,
-            43.578257
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2216,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SCXJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "EMPLOYE COMMERCIAL en alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "- Réception des produits (dépotage),\n- Mise en rayon et rotation des produits ( DLC/DDM)\n- Entretien des rayons + gestion des stocks/des commandes\n- Balisage des rayons\n- Implantation des nouveaux produits\n- Respecter les règles d'hygiène et de sécurité\n- Conseiller et orienter la clientèle- Encaissement\n\nType de contrat : CONTRAT DE PROFESSIONNALISATION (contrat CDD en\nalternance)\n\nLIEUX DE FORMATION : COURNONSEC\n\nDurée : 12 mois, entrée en formation à tout moment\n\nTemps de travail : 35 H (27 H en magasin et 8 H en formation)\nSalaire : selon votre âge et votre diplôme\n\nFormation : Aucune formation exigée, Nous demandons de l'endurance et du volonté\nen résumé, « Venez comme vous êtes » mais le critère déterminant sera la motivation.\n\nType d'emploi : Temps plein, Contrat pro",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Contrôler le balisage et l'étiquetage des produits en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T16:28:44.559Z",
-        "expiration": "2026-11-10T16:28:44.559Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17687,9 +18043,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac6",
+      "id": "6a1e0655f7a4d99224168ac0",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212943"
+      "partner_job_id": "2026-212950"
     },
     "workplace": {
       "siret": null,
@@ -17700,11 +18056,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34350 Vendres",
+        "address": "34800 Clermont-l'Hérault",
         "geopoint": {
           "coordinates": [
-            3.240806,
-            43.26519
+            3.434565,
+            43.625912
           ],
           "type": "Point"
         }
@@ -17716,7 +18072,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212943",
+      "url": "https://www.laposterecrute.fr/offre/2026-212950",
       "phone": null,
       "recipient_id": null
     },
@@ -17749,9 +18105,9 @@
   },
   {
     "identifier": {
-      "id": "6a1e0655f7a4d99224168ac0",
+      "id": "6a1e0655f7a4d99224168ac6",
       "partner_label": "La Poste",
-      "partner_job_id": "2026-212950"
+      "partner_job_id": "2026-212943"
     },
     "workplace": {
       "siret": null,
@@ -17762,11 +18118,11 @@
       "description": "Service : BSCC\r\n\r\nLa Poste Groupe change, nos métiers évoluent.\r\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\r\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\r\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\r\nChez nous, toutes les offres peuvent être envisagées à temps partiel. Parlons-en !\r\nVous aussi, engagez-vous à nos côtés pour donner du sens à votre métier.\r\n\r\nAVEC NOUS, VIVEZ CE QUI VOUS RESSEMBLERA DEMAIN.\r\nDEMAIN SERA NOUS.",
       "size": null,
       "location": {
-        "address": "34800 Clermont-l'Hérault",
+        "address": "34350 Vendres",
         "geopoint": {
           "coordinates": [
-            3.434565,
-            43.625912
+            3.240806,
+            43.26519
           ],
           "type": "Point"
         }
@@ -17778,7 +18134,7 @@
       }
     },
     "apply": {
-      "url": "https://www.laposterecrute.fr/offre/2026-212950",
+      "url": "https://www.laposterecrute.fr/offre/2026-212943",
       "phone": null,
       "recipient_id": null
     },
@@ -24707,72 +25063,6 @@
   },
   {
     "identifier": {
-      "id": "6a664e09e5fa1b20ee1f7a1f",
-      "partner_label": "Jobs that make sense",
-      "partner_job_id": "6a664e09e5fa1b20ee1f7a1f"
-    },
-    "workplace": {
-      "siret": "87765787400047",
-      "brand": "LA PALANQUEE",
-      "legal_name": "SCIC LA PALANQUEE",
-      "website": "https://jobs.makesense.org/fr/projects/la-palanque-2379?source=api-apprentissage",
-      "name": "SCIC LA PALANQUEE",
-      "description": "La Palanquée, tiers-lieu citoyen du Bassin de Thau, accompagne les initiatives économiques, écologiques et solidaires par la découverte et le faire ensemble.",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "82.99Z",
-          "label": "Autres activités de soutien aux entreprises n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://jobs.makesense.org/fr/jobs/la-palanquee-assistante-responsable-administratifve-et-financierere-L8RgD4nNVciGNwggc3gr?source=api-apprentissage",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-10-01T00:00:00.000Z",
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "ASSISTANT·E RESPONSABLE ADMINISTRATIF·VE ET FINANCIER·ÈRE",
-      "rome_codes": [
-        "M1621"
-      ],
-      "description": "Tu travailleras directement aux côtés de Timothée, co-directeur en charge de l’administratif, du financier et de la gestion, également responsable de l’incubateur.\n\nL’objectif est de te permettre de monter progressivement en compétences et en autonomie sur la gestion administrative et\n\nfinancière des deux structures.\n\nGestion administrative et financière\n\n  - Réception, numérisation, renommage et classement des factures et pièces administratives ;\n  - Collecte mensuelle des justificatifs auprès de l’équipe et contrôle de leur transmission ;\n  - Préparation, organisation et collecte des pièces destinées à l’expert-comptable ;\n  - Suivi des factures fournisseurs, des règlements et des pièces manquantes ;\n  - Suivi des factures clients et relance des impayés, en lien avec la personne chargée du coworking et des bureaux\n  - occupés par les résident·es permanents ;\n  - Mise à jour des tableaux de suivi administratif, budgétaire et financier.\n  - Suivi des procédures en cours avec l'assurance Dommage Ouvrage et\n  - Responsabilité Civile Professionnelle (Déclarations et suivi administratif des sinistres auprès de notre assurance sous la supervision du référent bâtiment)\n  - Suivi administratif des prestataires d'entretien du bâtiment (ascenseur ; climatisation ; chauffage ; propreté ; ...), relance si nécessaire, demande de devis et benchmark de fournisseurs pour de petits travaux occasionnels\n\n\nAucune saisie comptable n’est demandée : la tenue de la comptabilité est entièrement assurée par notre cabinet d’expertise comptable.\n\nAdministration du personnel et paie\n\n  - Relance mensuelle de l’équipe pour la transmission des congés, absences, récupérations et arrêts de travail ;\n  - Collecte et contrôle des variables de paie ;\n  - Mise à jour des dossiers administratifs des salarié·es ;\n  - Saisie des variables de paie dans le logiciel ;\n  - Contrôle des éléments transmis et suivi des éventuelles corrections.\n\n\nLes bulletins de paie ne sont pas à établir : leur production est assurée par un prestataire extérieur.\n\nGestion administrative de l’incubateur\n\n  - Mise à jour des dossiers des porteur·ses de projets accompagnés ;\n  - Suivi des inscriptions, conventions, feuilles de présence et justificatifs ;\n  - Préparation des éléments nécessaires aux bilans et demandes de financement ;\n  - Appui à l’organisation des ateliers, jurys et temps collectifs ;\n  - Contribution au suivi administratif et financier des programmes d’accompagnement.\n\n\nVie du tiers-lieu et projets à impact\n\n  - Selon tes envies et tes centres d’intérêt, tu pourras également contribuer :\n  - À l’organisation de rencontres et d’événements professionnels ou citoyens ;\n  - Au développement commercial du lieux (accroissement des recettes commerciales du co-working, des bureaux à louer et du café restaurant lors d'évènements)\n  - A la programmation d'évènements, aux soirées et temps forts organisés à La Palanquée ;\n  - Aux projets liés à la transition écologique et à l’innovation sociale ;\n  - À l’amélioration des outils et des procédures internes.\n\n\nCette participation sera proposée en fonction de tes appétences et de tes centres d'intérêts.\n\nUne montée en responsabilités progressive\n\nCette alternance ne se limite pas à des tâches d’exécution. En fonction de tes compétences, de ta progression et de ton envie de t’investir, tu pourras prendre progressivement en charge un véritable périmètre de gestionnaire / responsable administratif·ve et financier·ère junior.\n\nToujours accompagné·e par le co-directeur, tu pourras participer au suivi budgétaire, au contrôle de gestion, à la préparation des dossiers de financement, à l’amélioration des procédures internes et à la production d’outils d’aide à la décision.\n\nL’objectif est qu’à l’issue de l’alternance, tu disposes d’une expérience complète et concrète de la fonction administrative et financière dans des structures de l’économie sociale et solidaire.\n\n\n\nTu prépares une formation de niveau Bac+2 ou Bac+3 dans les domaines de la gestion, de l’administration, de la comptabilité, de la finance, des ressources humaines ou de l’entrepreneuriat.\n\n  - Deuxième année de BTS ;\n  - Deuxième ou troisième année de BUT ;\n  - Deuxième ou troisième année de licence ;\n  - Ou formation équivalente.\n\n\nTu es organisé·e, rigoureux·se, polyvalent·e et à l’aise avec les outils numériques. Tu apprécies les missions concrètes, le travail en équipe et tu sais t’adapter à des sujets variés.\n\nUn premier niveau de connaissances théoriques ou pratiques en comptabilité et en analyse financière sont attendues : règles et méthodes comptables, soldes intermédiaires de gestion, ratios d’analyse financière, savoir lire et interpréter les documents comptables (compte de résultat, bilan, grand livre client, etc...)\n\nUne sensibilité à l’économie sociale et solidaire, à la transition écologique, à l’innovation sociale ou à l’entrepreneuriat à impact sera particulièrement appréciée.\n\nCe que nous proposons\n\n  - Une alternance responsabilisante et évolutive ;\n  - Un accompagnement régulier et une autonomie progressive ;\n  - Une expérience proche d’une fonction de RAF junior ;\n  - Une vision complète du fonctionnement d’une SCIC et d’une association ;\n  - Une équipe engagée, accessible et bienveillante ;\n  - Un lieu de travail vivant et convivial, en plein centre de Sète ;\n  - Des échanges quotidiens avec des entrepreneur·ses, associations, collectivités et acteurs économiques du Bassin de Thau ;\n  - La prise en charge de 50 % de l’abonnement TER entre Montpellier et Sète pour les étudiant·es résidant à Montpellier.\n\n\nConditions\n\nContrat d’apprentissage à partir de septembre 2026 ;\n\nLieu : La Palanquée - 3 bis rue Gabriel Péri, 34200 Sète ;\n\nRémunération selon les dispositions légales applicables.\n\nDurée du contrat : 1 an à 2 ans en fonction de la formation que tu prépares.\n\nProcessus de recrutement\n\nPour candidater, merci d’envoyer un CV, une lettre de motivation ainsi que tout autre document dont le ou la candidat·e souhaite nous faire part.\n\nRéception des candidatures jusqu’à la mi-août 2026 ;\n\nEntretiens organisés entre la dernière semaine d’août et la première semaine de septembre 2026 ;\n\nLa Palanquée étant fermée pendant les deux premières semaines d’août, toute l’équipe sera en congé sur cette période. Ne t’étonne donc pas si tu ne reçois pas de réponse avant le 17 août 😊",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-26T18:12:21.156Z",
-        "expiration": "2026-09-18T01:00:58.869Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6539706cce1228eac7d408",
       "partner_label": "France Travail",
       "partner_job_id": "5436641"
@@ -24827,71 +25117,6 @@
       "publication": {
         "creation": "2026-07-25T03:19:38.000Z",
         "expiration": "2026-09-25T03:19:38.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63e8316cce1228eac7187b",
-      "partner_label": "France Travail",
-      "partner_job_id": "5435438"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "U Commerçants Autrement",
-      "description": "La marque U repose sur un système coopératif.\n\nCela signifie que les propriétaires des magasins (les associés U) sont des commerçants indépendants qui ont choisi d'unir leurs forces au sein de la Coopérative U.\n\nChacun d'entre eux est libre de poursuivre le développement de ses activités en magasin de manière indépendante. D'innover. De renforcer son lien avec la population locale autour de son magasin et de sélectionner les meilleurs produits pour ses clients.\n\nLes associés et les collaborat...",
-      "size": null,
-      "location": {
-        "address": "34190 Ganges",
-        "geopoint": {
-          "coordinates": [
-            3.710699,
-            43.937614
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "46.17A",
-          "label": "Centrales d'achat alimentaires"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://offres.u-emploi.com/fr/annonce/4516831-apprenti-boucher-hf-34190-ganges?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "U Commerçants Autrement - Aide-boucher / Aide-bouchère (H/F)",
-      "rome_codes": [
-        "D1101"
-      ],
-      "description": "Ce que nous vous proposons ? Plus qu'une formation, un métier d'avenir !\nChapeauté par votre tuteur, vous affinez vos compétences en matière de ficelage et de découpe. Au cœur de la viande, vous pourrez copieusement tailler la bavette avec la clientèle.\n\nPréparation de viande et de spécialités bouchères / Maitrise des techniques de découpe / Valorisation du rayon\nGestion des marchandises\nConseil aux clients / Partage des offres promotionnelles\nRespect des règles d'hygiène et de sécurité alimentaire\n\nVotre sommet chez U : des valeurs pour grandir ensemble\nVous avez envie de vous investir dans un métier passionnant et un emploi d'avenir. Nous vous aidons à vous épanouir au quotidien et à avancer dans votre projet professionnel.\nDes questions ? On vous dit tout sur le métier de boucher suivez le lien -&gt; https://urlr.me/BM8nm\nChez U, tout commence avec vous\nVous, qui êtes.  \n\nDynamique, rigoureux, vous avez l'envie et la motivation d'apprendre un métier manuel\nPrêt à prendre des initiatives pour vous épanouir dans votre environnement professionnel\nEngagé, vous êtes fier de travailler avec des producteurs locaux\n\nCe qui fait notre différence ? Notre approche de la formation autrement !\n\nUn apprentissage pratique pour vous former au plus près de votre futur métier !\nDes rencontres avec nos partenaires locaux : éleveurs, producteurs, .\n\nVous aider à vous réaliser et atteindre votre sommet, c'est ça, être Commerçants autrement.\nÇa vous tente et vous voulez atteindre votre sommet à nos côtés ? Postulez !\nTous nos postes sont ouverts aux personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T21:21:25.000Z",
-        "expiration": "2026-09-24T21:21:25.000Z"
       },
       "opening_count": 1,
       "status": "Active"
