@@ -1,6 +1,113 @@
 [
   {
     "identifier": {
+      "id": "6aaba98f1734e71a67c934a2",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6aaba98f1734e71a67c934a2"
+    },
+    "workplace": {
+      "siret": "88457577000018",
+      "brand": null,
+      "legal_name": "SACRILEGE",
+      "website": null,
+      "name": "SACRILEGE",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "1 RUE DES DEUX PONTS 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.882256,
+            43.605169
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "11.05Z",
+          "label": "Fabrication de bière"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aaba98f1734e71a67c934a2/chargé-chargée-de-communication-digitale",
+      "phone": null,
+      "recipient_id": "partners_6aaba98f1734e71a67c934a2"
+    },
+    "contract": {
+      "start": "2026-09-17T08:49:19.389Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé / Chargée de communication digitale",
+      "rome_codes": [
+        "E1112"
+      ],
+      "description": "Le Chargé de communication est un acteur clé dans la stratégie de valorisation de l'image de marque d'une entreprise. Gère la relation avec les médias et autres partenaires de communication Met en œuvre et évalue la stratégie de communication interne et externe de l'entreprise Rédige et diffuse des contenus, garantit la visibilité numérique de l'entreprise Organise régulièrement des événements externes et internes à l'organisation",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve de créativité, d'inventivité",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Communication, Multimédia\tAssurer le suivi des projets de communication, de la conception à la réalisation",
+        "Communication, Multimédia\tConcevoir des supports de communication audiovisuels",
+        "Communication, Multimédia\tGérer les relations avec les médias, les partenaires et les autres services",
+        "Communication, Multimédia\tIntégrer des éléments graphiques et visuels en respectant les standards web",
+        "Communication, Multimédia\tMaîtriser les différents aspects de la communication (corporate, externe, interne, RP, communication de crise) et de leurs contraintes",
+        "Communication, Multimédia\tMettre en oeuvre des actions de communication",
+        "Communication, Multimédia\tOrganiser des manifestations et des événements internes ou externes destinés aux clients, aux collaborateurs ou au personnel de l'entreprise",
+        "Communication, Multimédia\tRéaliser des supports de communication multimédia",
+        "Communication, Multimédia\tRéaliser la mise à jour d'un site web",
+        "Communication, Multimédia\tRédiger et diffuser des communiqués de presse",
+        "Communication, Multimédia\tRédiger le contenu d'un support de communication",
+        "Recherche, Innovation\tAssurer une veille technique ou artistique afin d'être force de proposition en matière d'innovation",
+        "Recherche, Innovation\tSurveiller les tendances du marché digital",
+        "Data et Nouvelles technologies\tAnalyser les données d'audience pour améliorer les stratégies",
+        "Data et Nouvelles technologies\tOptimiser les performances d'un site web",
+        "Droit, contentieux et négociation\tRespecter les normes éthiques et légales en vigueur",
+        "Développement commercial\tAdapter une campagne promotionnelle à une cible ou un produit",
+        "Développement commercial\tDévelopper des stratégies de contenu pour différents publics",
+        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
+        "Développement commercial\tVeiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
+        "Stratégie de développement\tAdministrer un site web",
+        "Stratégie de développement\tAnalyser les retours et ajuster les stratégies de communication",
+        "Stratégie de développement\tEvaluer l'efficacité des campagnes promotionnelles",
+        "Stratégie de développement\tMettre en oeuvre une stratégie de communication",
+        "Stratégie de développement\tOptimiser le référencement naturel (SEO) des sites web",
+        "Stratégie de développement\tOptimiser les campagnes de communication digitale",
+        "Stratégie de développement\tRéaliser le bilan des actions de communication",
+        "Communication\tConcevoir des présentations pour des réunions stratégiques",
+        "Organisation\tEvaluer l'e-réputation d'un site web",
+        "Organisation\tRéaliser une revue de presse"
+      ],
+      "access_conditions": [
+        "Cet emploi est généralement accessible avec un diplôme de niveau Bac+3 à Bac+5."
+      ],
+      "publication": {
+        "creation": "2026-09-17T08:49:19.389Z",
+        "expiration": "2026-11-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aaa629b1124e47278846160",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aaa629b1124e47278846160"
@@ -34,7 +141,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aaa629b1124e47278846160/assistant-administratif-et-commercial-assistante-administrative-et-commerciale",
-      "phone": "0670045576",
+      "phone": null,
       "recipient_id": "partners_6aaa629b1124e47278846160"
     },
     "contract": {
@@ -150,7 +257,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa82a5c1734e71a67c7869f/poste-en-apprentissage-serveur-serveuse-de-bar",
-      "phone": "0430418815",
+      "phone": null,
       "recipient_id": "partners_6aa82a5c1734e71a67c7869f"
     },
     "contract": {
@@ -255,7 +362,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa82a011734e71a67c78661/apprentissage-barman-barmaid",
-      "phone": "0430418815",
+      "phone": null,
       "recipient_id": "partners_6aa82a011734e71a67c78661"
     },
     "contract": {
@@ -361,7 +468,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa523ab7d0e8c4fde44be29/employé-polyvalent-employée-polyvalente-de-restauration",
-      "phone": "0676310385",
+      "phone": null,
       "recipient_id": "partners_6aa523ab7d0e8c4fde44be29"
     },
     "contract": {
@@ -464,7 +571,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa520a9b272299cc426f78c/menuisier-poseur-menuisière-poseuse",
-      "phone": "0664324611",
+      "phone": null,
       "recipient_id": "partners_6aa520a9b272299cc426f78c"
     },
     "contract": {
@@ -581,7 +688,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa3be95ef95c6a32325138b/vendeur-vendeuse-buraliste",
-      "phone": "0787205256",
+      "phone": null,
       "recipient_id": "partners_6aa3be95ef95c6a32325138b"
     },
     "contract": {
@@ -677,7 +784,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa2c7a7ef95c6a32324b555/monteur-de-pneus-et-petite-mecanique",
-      "phone": "0650709105",
+      "phone": null,
       "recipient_id": "partners_6aa2c7a7ef95c6a32324b555"
     },
     "contract": {
@@ -785,7 +892,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa26ead744920529feaa9c8/charcutier-traiteur-en-apprentissage",
-      "phone": "0467250673",
+      "phone": null,
       "recipient_id": "partners_6aa26ead744920529feaa9c8"
     },
     "contract": {
@@ -893,7 +1000,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa17b4eef95c6a32323e17d/cap-boucher-en-apprentissage",
-      "phone": "0000000000",
+      "phone": null,
       "recipient_id": "partners_6aa17b4eef95c6a32323e17d"
     },
     "contract": {
@@ -992,7 +1099,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa0370aa4090cbb976f076d/employé-polyvalent-employée-polyvalente-de-restaurant",
-      "phone": "0612055001",
+      "phone": null,
       "recipient_id": "partners_6aa0370aa4090cbb976f076d"
     },
     "contract": {
@@ -1093,7 +1200,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9fdc43a4090cbb976e8115/cuisnier-cuisinière",
-      "phone": "0000000000",
+      "phone": null,
       "recipient_id": "partners_6a9fdc43a4090cbb976e8115"
     },
     "contract": {
@@ -1214,7 +1321,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9f948da4090cbb976e44c9/couvreur-zingueur-couvreuse-zingueuse",
-      "phone": "0680953852",
+      "phone": null,
       "recipient_id": "partners_6a9f948da4090cbb976e44c9"
     },
     "contract": {
@@ -1339,7 +1446,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9ef49902392b1ffeff5f94/cuisinier-cuisinière-à-domicile",
-      "phone": "0695808496",
+      "phone": null,
       "recipient_id": "partners_6a9ef49902392b1ffeff5f94"
     },
     "contract": {
@@ -1460,7 +1567,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9e83493d397359dc366237/chargée-de-mission-sensibilisation",
-      "phone": "0769028664",
+      "phone": null,
       "recipient_id": "partners_6a9e83493d397359dc366237"
     },
     "contract": {
@@ -1563,7 +1670,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9bdc823d397359dc355f11/alternant-e-commercial-e-solutions-d-automatisation-ia",
-      "phone": "0972103456",
+      "phone": null,
       "recipient_id": "partners_6a9bdc823d397359dc355f11"
     },
     "contract": {
@@ -1666,7 +1773,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9bdc3d06fad1942d12ea12/assistant-e-chef-de-projet-automatisation-et-agents-ia",
-      "phone": "0972103456",
+      "phone": null,
       "recipient_id": "partners_6a9bdc3d06fad1942d12ea12"
     },
     "contract": {
@@ -1766,7 +1873,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9bdbaf06fad1942d12e9cd/assistant-e-de-gestion-organisation-et-automatisation-par-l-ia",
-      "phone": "0972103456",
+      "phone": null,
       "recipient_id": "partners_6a9bdbaf06fad1942d12e9cd"
     },
     "contract": {
@@ -1896,7 +2003,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9bdb5806fad1942d12e9a1/assistant-e-administratif-ve-et-commercial-e-initiation-aux-agents-ia",
-      "phone": "0972103456",
+      "phone": null,
       "recipient_id": "partners_6a9bdb5806fad1942d12e9a1"
     },
     "contract": {
@@ -2032,7 +2139,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9b58c93d397359dc354a6d/alternant-e-bp-esthétique",
-      "phone": "0650673088",
+      "phone": null,
       "recipient_id": "partners_6a9b58c93d397359dc354a6d"
     },
     "contract": {
@@ -2125,7 +2232,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9a488306fad1942d120c1a/aide-de-cuisine",
-      "phone": "0612863592",
+      "phone": null,
       "recipient_id": "partners_6a9a488306fad1942d120c1a"
     },
     "contract": {
@@ -2229,7 +2336,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99b9933d397359dc344553/technicien-technicienne-distribution-en-eau-potable",
-      "phone": "0612369904",
+      "phone": null,
       "recipient_id": "partners_6a99b9933d397359dc344553"
     },
     "contract": {
@@ -2338,7 +2445,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99b19906fad1942d11c9fb/business-developer-animateur-réseau",
-      "phone": "0757835164",
+      "phone": null,
       "recipient_id": "partners_6a99b19906fad1942d11c9fb"
     },
     "contract": {
@@ -2432,7 +2539,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99a6af3d397359dc3432d5/boucher-charcutier-bouchère-charcutière",
-      "phone": "0666660208",
+      "phone": null,
       "recipient_id": "partners_6a99a6af3d397359dc3432d5"
     },
     "contract": {
@@ -2531,7 +2638,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9987cd06fad1942d119a4a/employé-polyvalent-employée-polyvalente-de-restaurant",
-      "phone": "0659684789",
+      "phone": null,
       "recipient_id": "partners_6a9987cd06fad1942d119a4a"
     },
     "contract": {
@@ -2629,7 +2736,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a997ffe3d397359dc34015e/ouvrier-boulanger-ouvrière-boulangère",
-      "phone": "0467640638",
+      "phone": null,
       "recipient_id": "partners_6a997ffe3d397359dc34015e"
     },
     "contract": {
@@ -2733,7 +2840,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a99264d412e1fb92bcb2e07/conchyliculteur-conchylicultrice-coquillages",
-      "phone": "0782777715",
+      "phone": null,
       "recipient_id": "partners_6a99264d412e1fb92bcb2e07"
     },
     "contract": {
@@ -2840,7 +2947,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a95e21a50bc4e06f867e8b6/apprenti-e-cap-bp-ou-cqp",
-      "phone": "0650673088",
+      "phone": null,
       "recipient_id": "partners_6a95e21a50bc4e06f867e8b6"
     },
     "contract": {
@@ -2943,7 +3050,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9141a134e41ad4a834a525/premier-commis-première-commise-de-cuisine",
-      "phone": "0646739454",
+      "phone": null,
       "recipient_id": "partners_6a9141a134e41ad4a834a525"
     },
     "contract": {
@@ -3064,7 +3171,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8ebc81cc26d36574c4218d/commis-de-cuisine-en-alternance",
-      "phone": "0671562942",
+      "phone": null,
       "recipient_id": "partners_6a8ebc81cc26d36574c4218d"
     },
     "contract": {
@@ -3168,7 +3275,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8ea74141b0a0e294ad4627/demi-chef-de-rang-en-apprentissage",
-      "phone": "0671562942",
+      "phone": null,
       "recipient_id": "partners_6a8ea74141b0a0e294ad4627"
     },
     "contract": {
@@ -3274,7 +3381,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8d459426e1972c20f538b8/influence-et-creator-marketing",
-      "phone": "0695040757",
+      "phone": null,
       "recipient_id": "partners_6a8d459426e1972c20f538b8"
     },
     "contract": {
@@ -3375,7 +3482,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c4431c9494c8c3e5631cb/consultant-consultante-en-organisation",
-      "phone": "0972103456",
+      "phone": null,
       "recipient_id": "partners_6a8c4431c9494c8c3e5631cb"
     },
     "contract": {
@@ -3468,7 +3575,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8c2dd6c9494c8c3e560ff0/media-buyer",
-      "phone": "0695040757",
+      "phone": null,
       "recipient_id": "partners_6a8c2dd6c9494c8c3e560ff0"
     },
     "contract": {
@@ -3570,7 +3677,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8aa268a9f7e898624b3f8c/serveur-serveuse-de-bar-brasserie-alternance",
-      "phone": "0769668191",
+      "phone": null,
       "recipient_id": "partners_6a8aa268a9f7e898624b3f8c"
     },
     "contract": {
@@ -3675,7 +3782,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8aa1b0a9f7e898624b3f6d/apprenti-cuisine-en-alternance",
-      "phone": "0769668191",
+      "phone": null,
       "recipient_id": "partners_6a8aa1b0a9f7e898624b3f6d"
     },
     "contract": {
@@ -3796,7 +3903,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a870fba11eaba00f75cc8eb/second-seconde-de-cuisine",
-      "phone": "0643111436",
+      "phone": null,
       "recipient_id": "partners_6a870fba11eaba00f75cc8eb"
     },
     "contract": {
@@ -3917,7 +4024,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a85637ba681afc06d14c5bf/responsable-de-la-communauté-en-ligne",
-      "phone": "0430006624",
+      "phone": null,
       "recipient_id": "partners_6a85637ba681afc06d14c5bf"
     },
     "contract": {
@@ -4018,7 +4125,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a847e19794018d7f7e3343d/assistant-assistante-manager-en-restauration-en-alternance",
-      "phone": "0430006624",
+      "phone": null,
       "recipient_id": "partners_6a847e19794018d7f7e3343d"
     },
     "contract": {
@@ -4144,7 +4251,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a843d541fc78de62040b669/employé-administratif-employée-administrative",
-      "phone": "0744314812",
+      "phone": null,
       "recipient_id": "partners_6a843d541fc78de62040b669"
     },
     "contract": {
@@ -4236,7 +4343,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a841c4360f1a2d047c802f6/gestion-de-pme-développement",
-      "phone": "0612612476",
+      "phone": null,
       "recipient_id": "partners_6a841c4360f1a2d047c802f6"
     },
     "contract": {
@@ -4364,7 +4471,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a82f0ac1fc78de6203e4463/aide-de-cuisine",
-      "phone": "0681430206",
+      "phone": null,
       "recipient_id": "partners_6a82f0ac1fc78de6203e4463"
     },
     "contract": {
@@ -4469,7 +4576,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7de61055ef9d12e508d5c7/vendeur-vendeuse-en-boulangerie-pâtisserie",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a7de61055ef9d12e508d5c7"
     },
     "contract": {
@@ -4576,7 +4683,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7c54bc38f3ea2efb748f93/animateur-réseaux-sociaux-pour-bts-mco-en-alternance",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a7c54bc38f3ea2efb748f93"
     },
     "contract": {
@@ -4677,7 +4784,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7ae1fd4a6872773527f178/cs-technique-du-tour-en-boulangerie-pâtisserie",
-      "phone": "0466628069",
+      "phone": null,
       "recipient_id": "partners_6a7ae1fd4a6872773527f178"
     },
     "contract": {
@@ -4766,7 +4873,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7adf764a6872773527f055/esthéticien-praticien-esthéticienne-praticienne",
-      "phone": "0466628069",
+      "phone": null,
       "recipient_id": "partners_6a7adf764a6872773527f055"
     },
     "contract": {
@@ -4869,7 +4976,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e4f322a147e1a1f92b99/bts-professions-immobilieres-en-alternance",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e4f322a147e1a1f92b99"
     },
     "contract": {
@@ -4973,7 +5080,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e4ab22a147e1a1f92b5c/bts-professions-immobilieres-en-alternance",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e4ab22a147e1a1f92b5c"
     },
     "contract": {
@@ -5073,7 +5180,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e4504a687277352749e0/bts-mco-en-alternance",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e4504a687277352749e0"
     },
     "contract": {
@@ -5176,7 +5283,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e26a4a687277352748b5/bts-mco-en-supermarché",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e26a4a687277352748b5"
     },
     "contract": {
@@ -5284,7 +5391,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e20822a147e1a1f929c4/bts-mco-en-alternance-pour-vente-au-comptoir-dans-une-enseigne-nationale",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e20822a147e1a1f929c4"
     },
     "contract": {
@@ -5391,7 +5498,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e1b74a6872773527485b/bts-mco-en-alternance-pour-vente-au-comptoir-pour-enseigne-nationale",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e1b74a6872773527485b"
     },
     "contract": {
@@ -5489,7 +5596,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e13b4a6872773527481b/bts-mco-en-alternance-employé-libre-service-pour-enseigne-nationale",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e13b4a6872773527481b"
     },
     "contract": {
@@ -5597,7 +5704,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e0e84a687277352747fa/bts-mco-en-alternance-snackcing-boulangerie",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e0e84a687277352747fa"
     },
     "contract": {
@@ -5704,7 +5811,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e0904a687277352747c4/bts-mco-en-alternance-en-boulangerie",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e0904a687277352747c4"
     },
     "contract": {
@@ -5811,7 +5918,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79e04a22a147e1a1f928fa/bts-mco-pour-vente-en-boulangerie-patisserie",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79e04a22a147e1a1f928fa"
     },
     "contract": {
@@ -5918,7 +6025,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79dffe22a147e1a1f928d3/bts-mco-en-restauration-rapide",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79dffe22a147e1a1f928d3"
     },
     "contract": {
@@ -6021,7 +6128,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a79dfb04a6872773527474e/bts-mco-pour-vente-en-boulangerie-snacking",
-      "phone": "0983090909",
+      "phone": null,
       "recipient_id": "partners_6a79dfb04a6872773527474e"
     },
     "contract": {
@@ -6128,7 +6235,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a78360422a147e1a1f8374c/préparateur-vendeur-préparatrice-vendeuse-de-pizzas",
-      "phone": "0683767654",
+      "phone": null,
       "recipient_id": "partners_6a78360422a147e1a1f8374c"
     },
     "contract": {
@@ -6239,7 +6346,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a71f85d70f5c146a4403426/cap-equipier-polyvalent-de-commerce-en-alternance",
-      "phone": "0448187213",
+      "phone": null,
       "recipient_id": "partners_6a71f85d70f5c146a4403426"
     },
     "contract": {
@@ -6334,7 +6441,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70caf6bb092dca9f125bf7/apprentissage-cap-accompagnant-éducatif-petit-enfance",
-      "phone": "0411938325",
+      "phone": null,
       "recipient_id": "partners_6a70caf6bb092dca9f125bf7"
     },
     "contract": {
@@ -6466,7 +6573,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70a619bb092dca9f1241b4/assistant-e-technique",
-      "phone": "0499742759",
+      "phone": null,
       "recipient_id": "partners_6a70a619bb092dca9f1241b4"
     },
     "contract": {
@@ -6577,7 +6684,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6b4dee682dd65bbad69a4a/assistant-chargé-assistante-chargée-d-affaires",
-      "phone": "0642915586",
+      "phone": null,
       "recipient_id": "partners_6a6b4dee682dd65bbad69a4a"
     },
     "contract": {
@@ -6688,7 +6795,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6a5d1be972dfce87f76c06/orthodontie",
-      "phone": "0467849199",
+      "phone": null,
       "recipient_id": "partners_6a6a5d1be972dfce87f76c06"
     },
     "contract": {
@@ -6790,7 +6897,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6a279ea052ee2fcc7c00e7/chargé-e-de-mission-espace-de-vie-sociale-itinérant",
-      "phone": "0467573816",
+      "phone": null,
       "recipient_id": "partners_6a6a279ea052ee2fcc7c00e7"
     },
     "contract": {
@@ -6904,7 +7011,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a69d7198bbc3358a67bab74/accompagnant-éducatif-accompagnante-éducative-petite-enfance",
-      "phone": "0659585290",
+      "phone": null,
       "recipient_id": "partners_6a69d7198bbc3358a67bab74"
     },
     "contract": {
@@ -7036,7 +7143,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67af0d9e9ea39cf1cc64c4/préparateur-de-commande",
-      "phone": "0467944190",
+      "phone": null,
       "recipient_id": "partners_6a67af0d9e9ea39cf1cc64c4"
     },
     "contract": {
@@ -7138,7 +7245,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67112d1ae407c4c7c57a8c/employé-polyvalent-employée-polyvalente-de-libre-service",
-      "phone": "0763415397",
+      "phone": null,
       "recipient_id": "partners_6a67112d1ae407c4c7c57a8c"
     },
     "contract": {
@@ -7246,7 +7353,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a637ec7e5fa1b20ee1c03a1/assistant-assistante-de-gestion-en-ressources-humaines",
-      "phone": "0162010996",
+      "phone": null,
       "recipient_id": "partners_6a637ec7e5fa1b20ee1c03a1"
     },
     "contract": {
@@ -7364,7 +7471,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a637e871ae407c4c7c1350f/accompagnant-éducatif-accompagnante-éducative-petite-enfance",
-      "phone": "0162010996",
+      "phone": null,
       "recipient_id": "partners_6a637e871ae407c4c7c1350f"
     },
     "contract": {
@@ -7497,7 +7604,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a637e6fe5fa1b20ee1c032a/auxiliaire-de-vie",
-      "phone": "0162010996",
+      "phone": null,
       "recipient_id": "partners_6a637e6fe5fa1b20ee1c032a"
     },
     "contract": {
@@ -7601,7 +7708,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a637e48e5fa1b20ee1c0318/commercial-commerciale-technique",
-      "phone": "0162010996",
+      "phone": null,
       "recipient_id": "partners_6a637e48e5fa1b20ee1c0318"
     },
     "contract": {
@@ -7700,7 +7807,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a637e011ae407c4c7c134cc/assistant-assistante-paie",
-      "phone": "0162010996",
+      "phone": null,
       "recipient_id": "partners_6a637e011ae407c4c7c134cc"
     },
     "contract": {
@@ -7819,7 +7926,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5f59a2e5fa1b20ee1577ae/customer-service-specialist",
-      "phone": "0686331344",
+      "phone": null,
       "recipient_id": "partners_6a5f59a2e5fa1b20ee1577ae"
     },
     "contract": {
@@ -7902,125 +8009,6 @@
   },
   {
     "identifier": {
-      "id": "6a5e1050e5fa1b20ee137f04",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a5e1050e5fa1b20ee137f04"
-    },
-    "workplace": {
-      "siret": "53057661000022",
-      "brand": null,
-      "legal_name": "JPS PASCALINI SARL",
-      "website": null,
-      "name": "JPS PASCALINI SARL",
-      "description": "Simpliscine est une entreprise spécialisée dans la construction, la rénovation et l'entretien de piscines et d'espaces bien-être, basée à Saint-Brès (34). Reconnue pour son savoir-faire technique et sa proximité client, l'entreprise s'appuie sur une structure à taille humaine et un showroom équipé d'un laboratoire d'analyse de l'eau.",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "510 AVENUE DE NIMES 34670 SAINT-BRES",
-        "geopoint": {
-          "coordinates": [
-            4.037713,
-            43.665579
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "43.99D",
-          "label": "Autres travaux spécialisés de construction"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5e1050e5fa1b20ee137f04/technicien-technicienne-d-équipements-de-piscine",
-      "phone": "0434480360",
-      "recipient_id": "partners_6a5e1050e5fa1b20ee137f04"
-    },
-    "contract": {
-      "start": "2026-07-20T12:10:56.245Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien / Technicienne d'équipements de piscine",
-      "rome_codes": [
-        "F1708"
-      ],
-      "description": "Supervise la mise en œuvre des fondations du bassin, veille à l'étanchéité des installations. Met en œuvre les techniques du traitement de l'eau, des installations hydrauliques et des filtrations. Assure également l'entretien saisonnier de piscines et effectue les réparations nécessaires. Prend en compte la gestion de l'écosystème. ",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve d'autonomie",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tOrganiser le travail d'une équipe",
-        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
-        "Recherche, Innovation\tCollecter, tester, analyser des échantillons, des matériaux",
-        "Recherche, Innovation\tPrélever des échantillons de matières ou de produits",
-        "Recherche, Innovation\tRéaliser un prélèvement",
-        "Data et Nouvelles technologies\tAnalyser des résultats de mesures",
-        "Data et Nouvelles technologies\tAnalyser une situation et produire un diagnostic",
-        "Data et Nouvelles technologies\tAnalyser, exploiter, structurer des données",
-        "Data et Nouvelles technologies\tComprendre, interpréter des données et documents techniques",
-        "Data et Nouvelles technologies\tRenseigner des documents de contrôle, d'intervention",
-        "Production, Fabrication\tAppliquer un traitement, un produit",
-        "Production, Fabrication\tCalibrer un produit",
-        "Production, Fabrication\tMonter et régler une installation, une machine",
-        "Production, Fabrication\tPréparer du matériel en prévision d'un travail",
-        "Production, Fabrication\tRéaliser un test de contrôle de salinité",
-        "Aménagement\tAjuster le niveau d'un plan d'eau",
-        "Aménagement\tDéfinir le périmètre d'une zone d'intervention",
-        "Aménagement\tImmerger un bassin ou un étang",
-        "Aménagement\tRéaliser des travaux d'aménagement",
-        "Construction\tCoffrer des ouvrages en béton",
-        "Construction\tInstaller des systèmes de filtration d'eau",
-        "Construction\tInstaller des systèmes hydrauliques",
-        "Construction\tPlanifier des opérations de chantier",
-        "Construction\tRéaliser des ouvrages de maçonnerie paysagère (dallages, pavages, murets, escaliers, ...)",
-        "Maintenance, Réparation\tContrôler la conformité d'un équipement, d'une machine, d'une installation",
-        "Maintenance, Réparation\tEffectuer la maintenance de premier niveau des outillages et des équipements",
-        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
-        "Maintenance, Réparation\tIdentifier la cause d'une anomalie",
-        "Maintenance, Réparation\tIntégrer et entretenir un élément de décoration",
-        "Maintenance, Réparation\tRéaliser une opération de maintenance",
-        "Maintenance, Réparation\tRéparer un équipement, une machine, une installation",
-        "Prévention des risques\tContrôler un équipement ou matériel",
-        "Prévention des risques\tDéterminer des mesures correctives",
-        "Prévention des risques\tPlanifier des interventions de maintenance",
-        "Prévention des risques\tSécuriser le périmètre d'intervention",
-        "Transport\tConduire un véhicule routier",
-        "Gestion administrative et comptable\tRédiger des rapports détaillés sur les interventions effectuées",
-        "Pilotage et maîtrise des coûts\tVérifier la conformité d'une réalisation avec un cahier des charges",
-        "Relation client\tApporter une assistance technique aux équipes",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Stratégie de développement\tDéterminer des solutions technico-économiques",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
-        "Organisation\tUtiliser les outils numériques"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un diplôme de niveau CAP minimum, BP ou titre professionnel dans le secteur des installations sanitaires ou métiers de la piscine."
-      ],
-      "publication": {
-        "creation": "2026-07-20T12:10:56.245Z",
-        "expiration": "2026-09-20T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5d31bc1ae407c4c7b76914",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a5d31bc1ae407c4c7b76914"
@@ -8054,7 +8042,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5d31bc1ae407c4c7b76914/chef-cheffe-de-partie",
-      "phone": "0665354183",
+      "phone": null,
       "recipient_id": "partners_6a5d31bc1ae407c4c7b76914"
     },
     "contract": {
@@ -8175,7 +8163,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a5d316be5fa1b20ee1237c7/serveur-serveuse",
-      "phone": "0665354183",
+      "phone": null,
       "recipient_id": "partners_6a5d316be5fa1b20ee1237c7"
     },
     "contract": {
@@ -8247,94 +8235,6 @@
   },
   {
     "identifier": {
-      "id": "6a59c6c1a8013626d33ebcb3",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a59c6c1a8013626d33ebcb3"
-    },
-    "workplace": {
-      "siret": "84521083000012",
-      "brand": null,
-      "legal_name": "SAS THERON THIERRY METIERS DU FER",
-      "website": null,
-      "name": "SAS THERON THIERRY METIERS DU FER",
-      "description": "**Apprenti  CAP / BP Métallier (H/F) – Restauration du patrimoine historique**\n\nEntreprise spécialisée dans la métallerie, la serrurerie et la restauration du patrimoine historique, nous intervenons sur des monuments classés, bâtiments anciens, édifices religieux, châteaux, demeures de caractère et ouvrages d'art.\n\nNotre savoir-faire allie les techniques traditionnelles de fabrication et de restauration aux exigences actuelles de qualité et de sécurité. Nous réalisons la restauration d'ouvrages métalliques anciens (grilles, portails, garde-corps, ferronneries, menuiseries métalliques), ainsi que la fabrication de pièces sur mesure destinées à préserver l'authenticité du patrimoine.",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "LE CAPITOUL 34700 LODEVE",
-        "geopoint": {
-          "coordinates": [
-            3.296771,
-            43.73356
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.32B",
-          "label": "Travaux de menuiserie métallique et serrurerie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a59c6c1a8013626d33ebcb3/metallier",
-      "phone": "0499913045",
-      "recipient_id": "partners_6a59c6c1a8013626d33ebcb3"
-    },
-    "contract": {
-      "start": "2026-09-09T07:29:13.455Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "METALLIER ",
-      "rome_codes": [
-        "B1601"
-      ],
-      "description": "Crée à l'unité ou en petite série et répare des pièces décoratives et utilitaires de grande taille (statuaire monumentale, rampes d'escaliers, grilles ornementales, ...) ou de petite dimension (statues, pièces d'orfèvrerie, couteaux, armes, clés, serrures anciennes, ...) en différents métaux (acier, cuivre, laiton, bronze, étain, ...), par divers procédés artisanaux de travail des métaux (usinage, formage, moulage ...) selon les règles d'hygiène et de sécurité. Peut effectuer la restauration d'objets anciens en métal. Peut transmettre son savoir-faire et participer à des actions de sensibilisation de sa profession. Peut diriger une structure.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve d'autonomie",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tDécouper du métal",
-        "Production, Fabrication\tDécouper, tailler des matières premières",
-        "Production, Fabrication\tRelever et reporter des cotes",
-        "Production, Fabrication\tRelever les mesures de pièces ou de leur implantation",
-        "Production, Fabrication\tRéaliser des décors",
-        "Production, Fabrication\tRéaliser des effets décoratifs et des ornementations",
-        "Production, Fabrication\tRéaliser des grilles ornementales",
-        "Production, Fabrication\tRéaliser des opérations de pliage, roulage",
-        "Production, Fabrication\tRéaliser des éléments de serrurerie, quincaillerie d'art",
-        "Production, Fabrication\tRéaliser la finition d'un produit, d'un article, d'un ouvrage",
-        "Production, Fabrication\tRéaliser les travaux de montage, d'assemblage",
-        "Construction\tPoser des ouvrages de métallerie sur un chantier",
-        "Construction\tRéaliser des escaliers, rambardes, mezzanines, pergola, vitrines"
-      ],
-      "access_conditions": [
-        "Ce métier est accessible avec un CAP/BEP, un Brevet Professionnel, un Brevet des Métiers d'Arts -BMA-, ... en façonnage du bronze, ferronnerie d'art, serrurerie métallerie. Il est également accessible avec une expérience professionnelle en métallerie sans diplôme particulier."
-      ],
-      "publication": {
-        "creation": "2026-07-17T06:08:01.761Z",
-        "expiration": "2026-11-09T00:00:00.000Z"
-      },
-      "opening_count": 2,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a4f7377a8013626d33338b9",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a4f7377a8013626d33338b9"
@@ -8368,7 +8268,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4f7377a8013626d33338b9/employé-polyvalent-employée-polyvalente-de-restauration",
-      "phone": "0608369894",
+      "phone": null,
       "recipient_id": "partners_6a4f7377a8013626d33338b9"
     },
     "contract": {
@@ -8471,7 +8371,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4cbba9689956564490ae61/technicien-technicienne-de-maintenance-en-matériels-agricoles",
-      "phone": "0975535211",
+      "phone": null,
       "recipient_id": "partners_6a4cbba9689956564490ae61"
     },
     "contract": {
@@ -8578,7 +8478,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a31434008d7f8e3d76d93c7/serveur-serveuse",
-      "phone": "0467031505",
+      "phone": null,
       "recipient_id": "partners_6a31434008d7f8e3d76d93c7"
     },
     "contract": {
@@ -8680,7 +8580,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a2835d6d42244de8c4cbb43/vendeur-vendeuse-en-boulangerie-pâtisserie",
-      "phone": "0670026845",
+      "phone": null,
       "recipient_id": "partners_6a2835d6d42244de8c4cbb43"
     },
     "contract": {
@@ -8787,7 +8687,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a2260293838e5721132c809/ouvrier-boucher-ouvrière-bouchère",
-      "phone": "0467634077",
+      "phone": null,
       "recipient_id": "partners_6a2260293838e5721132c809"
     },
     "contract": {
@@ -8886,7 +8786,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a181b104bd3e45c550f2c25/frigoriste-monteur-dépanneur-alternant",
-      "phone": "0630181787",
+      "phone": null,
       "recipient_id": "partners_6a181b104bd3e45c550f2c25"
     },
     "contract": {
@@ -8970,6 +8870,696 @@
       "publication": {
         "creation": "2026-05-28T10:38:08.471Z",
         "expiration": "2026-09-27T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193ba",
+      "partner_label": "France Travail",
+      "partner_job_id": "213ZWTC"
+    },
+    "workplace": {
+      "siret": "52884763500018",
+      "brand": "NORAUTO",
+      "legal_name": "AUTOMOBILES DE LA DOMITIENNE",
+      "website": null,
+      "name": "AUTOMOBILES DE LA DOMITIENNE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34440 Colombiers",
+        "geopoint": {
+          "coordinates": [
+            3.145229,
+            43.313579
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.20A",
+          "label": "Entretien et réparation de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213ZWTC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti en commerce d'accessoires automobile (H/F)",
+      "rome_codes": [
+        "D1223"
+      ],
+      "description": "Nous recherchons un alternant en commerce d'accessoires automobile (H/F) pour un centre auto de service rapide. Vous préparerez un BTS management des unités commerciales en alternance.\n\nPour nos magasins, nous recherchons des personnalités dynamiques et engagées.\nApporter des solutions, c'est notre quotidien !\nTon côté agile te permettra de t'adapter à toutes les situations.\nTon parcours en magasin c'est :\nD'assurer la prise en charge des clients en magasin : découvrir leurs besoins et proposer des solutions adaptées à leurs attentes (produit, prestation atelier, service..).\nDe développer les techniques de vente additionnelle pour optimiser le chiffre d'affaires de ton magasin.\nD'assurer la disponibilité et la mise en avant des produits en rayon, gérer les stocks du périmètre dont tu as la charge.\nD'être garant de la satisfaction client.\n\nLe centre auto est ouvert de 9h à 19h du lundi au samedi.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T14:38:24.256Z",
+        "expiration": "2026-11-17T14:38:24.256Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6965581"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56389647?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Stage Ingénieur commercial H/F",
+      "rome_codes": [
+        "D1420"
+      ],
+      "description": "Contexte de la mission :Viveris est un groupe indépendant de conseil et d'ingénierie qui accompagne la transformation numérique des entreprises et de leurs produits depuis 40 ans. Il connaît une croissance constante et compte plus de 900 collaborateurs.Nous recherchons un stagiaire Ingénieur commercial pour participer au développement commercial de l'agence Méditerranée (Montpellier / Aix-en-Provence).Intégré au sein d'une équipe commerciale, vous êtes accompagné par deux Responsables Commerciaux, un(e) chargé(e) de recrutement et le Directeur Méditerranée. Vous êtes basé à l'agence de Montpellier (Port Marianne).Responsabilités :",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T12:21:34.882Z",
+        "expiration": "2026-11-17T12:21:34.882Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b8",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944721"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34430 Saint-Jean-de-Védas",
+        "geopoint": {
+          "coordinates": [
+            3.832002,
+            43.574823
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/53211270?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nNous proposons une large gamme d'articles de sport, allant des vêtements aux équipements spécialisés pour tous les types de sport. Notre équipe est passionnée, dynamique, et partage une vision commune : offrir une expérience client exceptionnelle tout en favorisant une atmosphère sportive et conviviale.\n\nMissions :\nDans le cadre de votre alternance, vous aurez l'opportunité d'évoluer au sein d'une équipe expérimentée et de participer à la gestion quotidienne du magasin. Vos principales missions seront Assistance à la gestion opérationnelle : organisation et suivi des stocks, mise en place des produits en magasin, suivi des livraisons.\n* Encadrement de l'équipe : accompagner les conseillers de vente, organiser les plannings, veiller à la qualité du service client.\n* Formation et montée en compétences : participer à l'intégration des nouveaux collaborateurs et à leur formation continue.\n* Suivi des performances commerciales : analyser les ventes, proposer des actions pour booster la performance et atteindre les objectifs de chiffre d'affaires.\n* Gestion des relations clients : veiller à l'expérience client, répondre aux questions, résoudre les problèmes et fidéliser la clientèle.\n\nDescription du profil Passion pour le sport et connaissance des différentes disciplines (course, football, fitness, randonnée, etc Expérience dans la vente, idéalement dans un magasin de sport ou d'articles de loisirs.***Excellentes qualités relationnelles, sens du service client et écoute active.***Dynamisme, rigueur et capacité à travailler en équipe.***Bonnes capacités d'adaptation et de gestion des priorités.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:19.152Z",
+        "expiration": "2026-11-17T03:19:19.152Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c5",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944675"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34570 Vailhauquès",
+        "geopoint": {
+          "coordinates": [
+            3.729135,
+            43.661352
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/52542051?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial / Commerciale sédentaire (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nVotre mission\n\nEn tant que Commercial(e) en alternance, vous participez activement au développement national de la plateforme.\n\nDéveloppement commercial B2B***Prospection d'agents immobiliers indépendants\n* Développement auprès des réseaux de mandataires\n* Identification et activation de prescripteurs (coachs, formateurs, réseaux, etc Prise de rendez-vous et relances commerciales\n* Suivi du pipe commercial\n\nDémonstration &amp; conversion***Réalisation de démonstrations à distance de la plateforme (visio)\n* Présentation des avantages concurrentiels\n* Accompagnement à l'inscription et au premier projet\n\nDéveloppement du réseau de photographes***Sourcing et recrutement de photographes partenaires\n* Qualification des profils\n* Animation et suivi du réseau\n\nDescription du profil Autonome, organisé(e), et responsable.***Bonne communication, sens du relationnel, aisance à l'oral et bonne qualité rédactionnelle.***Force de proposition.***profil chasseur",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:16.501Z",
+        "expiration": "2026-11-17T03:19:16.501Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b6",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944490"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50923084?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant commercial / Assistante commerciale (H/F)",
+      "rome_codes": [
+        "D1401"
+      ],
+      "description": "Description du poste :\n\nRejoignez une équipe dynamique et contribuez au développement de notre succès !\n\nVous êtes organisé(e), proactif(ve) et motivé(e) par les défis commerciaux ? Nous recherchons un(e) Assistant(e) Commercial(e) pour accompagner notre croissance et renforcer notre service commercial.\n\nVos missions :\n\nRattaché(e) au Responsable Commercial, vos principales responsabilités seront Gestion des relations clients : répondre aux demandes, préparer les devis, assurer le suivi et garantir la satisfaction client Support commercial : assister l'équipe dans la préparation des présentations, propositions commerciales et reportings Coordination administrative : gestion des contrats, facturation, mise à jour des bases de données clients et suivi des dossiers Participation aux actions commerciales : organisation d'événements clients, campagnes de prospection et analyse des retours.\n\nDescription du profil Vous maîtrisez les outils bureautiques (Word, Excel, PowerPoint) et êtes à l'aise avec les outils CRM.***Vous êtes reconnu(e) pour votre sens du service client, votre rigueur et votre esprit d'équipe.***Une première expérience en tant qu'assistant(e) commercial(e) est un atout.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.821Z",
+        "expiration": "2026-11-17T03:19:08.821Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b9",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944454"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50868391?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant de gestion polyvalent (H/F)",
+      "rome_codes": [
+        "M1213"
+      ],
+      "description": "Description du poste :\n\nL'école NextStepAcademy recrute pour l'un de ses partenaires pour le poste Alternance - Assistant(e) de gestion &amp; opérations polyvalent(e Tu souhaites intégrer un Titre professionnelle dans le domaine des ressources humaines et tu recherches une alternance ?  Alors ils n'attendent que toi !\n\nPartenaire dont  l'activité principale est l'hôtellerie , soutenue par des filiales complémentaires en gestion immobilière et rénovation (entretien/BTP). Notre culture d'entreprise repose sur le pragmatisme et l'efficience. Nous intégrons des alternants avec une vision à long terme : nous souhaitons former aujourd'hui nos collaborateurs de demain.\n\nNous recherchons un(e) alternant(e) de niveau Master, capable de comprendre les enjeux de l'hôtellerie indépendante et de s'investir durablement à nos côtés.\n\nNous vous proposons une alternance fondée sur  l'équilibre entre le terrain (le client) et le bureau (la gestion) . Nous sommes convaincus que pour bien gérer, il faut comprendre ce que l'on gère. Ce parcours est conçu pour développer votre  polyvalence , en vous confrontant à la réalité du service client hôtelier pour mieux en maîtriser les rouages administratifs.***OS MISSIONS : UN RENFORT CLÉ POUR NOS ACTIVITÉS\n\nVotre rôle est transversal : vous venez  renforcer nos fonctions support  tout en restant connecté(e) au cœur de notre activité : l'expérience client.\n\n1. La gestion administrative (le socle de votre poste Vous garantissez la fiabilité des données et la conformité des dossiers pour l'ensemble de nos activités. C'est ici que vous structurez l'organisation Support Hôtellerie &amp; Immo :  suivi de la facturation, gestion des dossiers fournisseurs, suivi administratif des réservations et des contrats locatifs.\n* Support technique (filiale rénovation suivi administratif des devis et des interventions d'entretien (lien avec les artisans et fournisseurs Support RH de proximité :  rédaction et suivi des contrats de travail, gestion des plannings, suivi des visites médicales et préparation des éléments de paie.\n* Secrétariat général :  classement structuré, rédaction de courriers officiels, organisation de la vie du bureau.\n\n2. L'ancrage opérationnel (la réalité du métier) : Pour donner du sens à votre gestion administrative, vous devez vous immerger dans notre activité principale. C'est cette immersion qui forgera votre polyvalence Relationnel client (Hôtellerie renfort ponctuel à l'accueil, gestion des check-in/check-out, interaction directe avec la clientèle.\n* Gestion de l'imprévu :  apprendre à réagir face aux demandes clients ou aux urgences techniques du bâtiment.\n* L'objectif :  comprendre les  contraintes réelles de l'exploitation hôtelière et les exigences de la clientèle  pour devenir un gestionnaire pertinent et pragmatique.\n\n3. L'amélioration continue (votre valeur ajoutée Au fur et à mesure de votre maîtrise de cet équilibre terrain/bureau, nous attendons de vous une prise de recul Identifier les processus administratifs répétitifs.\n* Proposer des outils pour gagner en efficacité (modes opératoires, tableaux de suivi, standardisation des procédures d'accueil ou de gestion Contribuer à la structuration de nos méthodes de travail entre les services (Hôtel / Immo / Technique)\n\nDescription du profil :\n\nVous préparez un diplôme de niveau Master (Gestion des entreprises, RH, Management Hôtelier/PME).\n\nSavoir-faire Excellente maîtrise des outils bureautiques (Excel, Word) et aisance avec les chiffres.\n* Qualités rédactionnelles irréprochables (orthographe et syntaxe Capacité à classer, archiver et retrouver l'information rapidement.\n\nSavoir-être Sens du service client :  indispensable dans l'hôtellerie. Vous avez une présentation et une élocution professionnelles.\n* Polyvalence et agilité :  vous aimez passer d'un sujet à l'autre (d'un client à la réception à un dossier de facturation complexe Fiabilité : vous êtes ponctuel(le), rigoureux(se) et constant(e) dans l'effort.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.760Z",
+        "expiration": "2026-11-17T03:19:08.760Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193bc",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944438"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/51051712?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.741Z",
+        "expiration": "2026-11-17T03:19:08.741Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944439"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/51051711?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.739Z",
+        "expiration": "2026-11-17T03:19:08.739Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193bd",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944368"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50436924?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:01.096Z",
+        "expiration": "2026-11-17T03:19:01.096Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -10454,81 +11044,6 @@
       "publication": {
         "creation": "2026-09-10T12:28:35.100Z",
         "expiration": "2026-11-10T12:28:35.100Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105962",
-      "partner_label": "France Travail",
-      "partner_job_id": "213RMZZ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "45.20A",
-          "label": "Entretien et réparation de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RMZZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Secrétaire en atelier de carrosserie (H/F)",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "Vous préparerez en alternance un BTS Gestion PME/PMI dans un atelier de carrosserie sur Béziers principalement mais pourrez aussi être amené à gérer voire évoluer sur un autre atelier du groupe sur le biterrois (moins de 10km de Béziers).\nVos missions principales en entreprise : \n- prise et confirmation de rendez-vous\n- accueil physique et téléphonique\n- devis et facturation\nContrat possible en apprentissage ou professionnalisation selon votre profil.\nVous devez être titulaire du BAC pour intégrer la formation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Bureautique et outils collaboratifs",
-        "Gestion des urgences et des imprévus",
-        "Mettre à jour un dossier, une base de données",
-        "Gérer les agendas et planifier des rendez-vous",
-        "Classer des documents",
-        "Répondre aux demandes d'information internes et externes",
-        "Effectuer le suivi des dossiers clients et des procédures en cours",
-        "Accueillir, orienter, renseigner un public",
-        "Répondre aux appels téléphoniques, mails, tchat et renseigner les clients"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T11:23:15.852Z",
-        "expiration": "2026-11-10T11:23:15.852Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -12962,144 +13477,6 @@
   },
   {
     "identifier": {
-      "id": "6a97503a9891627144750bae",
-      "partner_label": "France Travail",
-      "partner_job_id": "213DDBR"
-    },
-    "workplace": {
-      "siret": "92966498500017",
-      "brand": null,
-      "legal_name": "RESTAURANT LA O",
-      "website": null,
-      "name": "RESTAURANT LA O",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DDBR",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE EN ALTERNANCE  EMPLOYE PO (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Restaurant Là Ô propose une cuisine authentique et créative élaborée avec des ingrédients frais. Tous nos plats et desserts sont faits maison.\n\nLe restaurant Là Ô recherche un ou une alternant(e)  en apprentissage pour préparer le titre professionnel d'employé(e) polyvalent de restauration.\n\nVous serez un jour par semaine en cfa et 4 jours en entreprise.\n Vous avez une soif d'apprendre et l'envie de travailler pour rejoindre sa petite équipe de professionnels ayant plus de 30 ans d'expérience dans le domaine, dont une formatrice en cuisine qui saura vous accompagner et vous transmettre son savoir-faire.\n\n\nVous travaillez du lundi au Samedi en continu avec pause déjeuner. \n\nVous êtes polyvalent(e),  préparer et dresser des entrées et desserts, préparer des plats chauds et des produits snacking,  accueillir renseigner et servir la clientèle, réaliser la plonge et le nettoyage des locaux et du matériel.\nRespect des règles haccp.\nPrise de poste immédiate.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T13:37:23.450Z",
-        "expiration": "2026-10-31T13:37:23.450Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750baf",
-      "partner_label": "France Travail",
-      "partner_job_id": "213DDBF"
-    },
-    "workplace": {
-      "siret": "92966498500017",
-      "brand": null,
-      "legal_name": "RESTAURANT LA O",
-      "website": null,
-      "name": "RESTAURANT LA O",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DDBF",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE EN ALTERNANCE COMMIS DE CUISINE (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Restaurant Là Ô propose une cuisine authentique et créative élaborée avec des ingrédients frais. Tous nos plats et desserts sont faits maison.\nLe restaurant Là Ô recherche un ou une alternant(e)  en apprentissage pour préparer le titre professionnel commis de cuisine. Vous avez une soif d'apprendre et l'envie de travailler pour rejoindre sa petite équipe de professionnels ayant plus de 30 ans d'expérience dans le domaine, dont une formatrice en cuisine qui saura vous accompagner et vous transmettre son savoir-faire.\n\nVous travaillez du lundi au Samedi en continu avec pause déjeuner.\nVous êtes un jour par semaine en centre de formation et quatre jours en entreprise.\nVous êtes polyvalent(e), réceptionner, stocker et inventorier les produits, préparer dresser et envoyer des entrées et des desserts, préparer et participer à l'envoi des plats chauds, nettoyer et remettre en état les locaux, le poste de travail. Respect des règles haccp.\nPrise de poste immédiate.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Cuire des viandes, poissons ou légumes",
-        "Dresser des plats pour le service",
-        "Eplucher des légumes et des fruits",
-        "Préparer les viandes et les poissons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T13:36:04.742Z",
-        "expiration": "2026-10-31T13:36:04.742Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a97503a9891627144750bb0",
       "partner_label": "France Travail",
       "partner_job_id": "213CXLF"
@@ -13914,147 +14291,6 @@
       "publication": {
         "creation": "2026-08-25T12:15:13.860Z",
         "expiration": "2026-10-25T12:15:13.860Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a920a73e67033cb14ec8949",
-      "partner_label": "France Travail",
-      "partner_job_id": "212VFWP"
-    },
-    "workplace": {
-      "siret": "82442818900024",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": null,
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de projet / Cheffe de projet (Project Management Officer) (H/F)",
-      "rome_codes": [
-        "M1828"
-      ],
-      "description": "L'IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un Manager de projet en Agroalimentaire (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE.,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l'IFRIA Occitanie et l'Ecole Supérieure La Raque ?\n\nCette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * La création et l'amélioration de fiches produit et des standards de production,\n * La création et l'amélioration des modes opératoires\n * L'harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance\n * Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations\n * Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance.)\n\nVous définissez et planifiez les activités, maîtrisez l'échéancier et gérez les risques tout en étant garant de l'atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)\n\nEnfin vous accompagnez l'entreprise dans l'élaboration de stratégies de transformation, d'adaptation et de conduite de changement\n\n\n\nInformations complémentaires :\n\n * Lieu : Ecole à Castelnaudary - Entreprise Occitanie - PACA - AURA\n * Type de contrat : Apprentissage\n * Formation : Aucun frais de formation ne sera à la charge de l'apprenti.e\n * Rémunération selon niveau d'études + âge\n * Cette opportunité est ouverte aux personnes en situation de handicap.\n\nÀ propos de nous :\n\nL'IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.\n\nType d'emploi : Apprentissage\n\n * Vous êtes titulaire d'un BAC +3 à orientation technologique IAA, scientifique, biologie, biochimie ou gestion de projet (LP, BUT, L3.)\n * Vous avez une première expérience en Agroalimentaire (Production, Qualité...)\n * Vous êtes éligible à un contrat d'apprentissage.\n * Vous êtes organisé(e), rigoureux(se), avec un bon esprit d'analyse et un excellent relationnel.\n\nSeuls les candidats intéressés pour suivre cette formation à l'IFRIA Occitanie pourront être présentés à l'entreprise et bénéficier de notre accompagnement (coaching) dans leur recherche d'alternance.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Allouer et organiser les ressources d'un projet selon les besoins et contraintes",
-        "Assurer la conformité des livrables de projet",
-        "Expliquer et faire respecter les règles et procédures",
-        "Planifier et suivre les échéances de projet",
-        "Préparer et animer une réunion, un groupe de travail, un atelier"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T11:24:34.564Z",
-        "expiration": "2026-10-24T11:24:34.564Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8cc49ab62614f04244a551",
-      "partner_label": "France Travail",
-      "partner_job_id": "212VFVH"
-    },
-    "workplace": {
-      "siret": "82442818900024",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": null,
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de secteur en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "D1517"
-      ],
-      "description": "L'IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un Chef de secteur (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l'IFRIA et Montpellier Management ? Cette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * Assurer le suivi ou la prospection d'un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)\n * Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente\n * Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, .)\n * Gérer votre secteur en totale autonomie\n * Remonter les informations « terrain » à la direction",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Mettre en oeuvre des actions commerciales et promotionnelles"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T11:23:35.556Z",
-        "expiration": "2026-10-24T11:23:35.556Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15670,9 +15906,79 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a19",
+      "id": "6aac67ab0dece6ea6e4193ba",
       "partner_label": "France Travail",
-      "partner_job_id": "5079842"
+      "partner_job_id": "213ZWTC"
+    },
+    "workplace": {
+      "siret": "52884763500018",
+      "brand": "NORAUTO",
+      "legal_name": "AUTOMOBILES DE LA DOMITIENNE",
+      "website": null,
+      "name": "AUTOMOBILES DE LA DOMITIENNE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34440 Colombiers",
+        "geopoint": {
+          "coordinates": [
+            3.145229,
+            43.313579
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.20A",
+          "label": "Entretien et réparation de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213ZWTC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti en commerce d'accessoires automobile (H/F)",
+      "rome_codes": [
+        "D1223"
+      ],
+      "description": "Nous recherchons un alternant en commerce d'accessoires automobile (H/F) pour un centre auto de service rapide. Vous préparerez un BTS management des unités commerciales en alternance.\n\nPour nos magasins, nous recherchons des personnalités dynamiques et engagées.\nApporter des solutions, c'est notre quotidien !\nTon côté agile te permettra de t'adapter à toutes les situations.\nTon parcours en magasin c'est :\nD'assurer la prise en charge des clients en magasin : découvrir leurs besoins et proposer des solutions adaptées à leurs attentes (produit, prestation atelier, service..).\nDe développer les techniques de vente additionnelle pour optimiser le chiffre d'affaires de ton magasin.\nD'assurer la disponibilité et la mise en avant des produits en rayon, gérer les stocks du périmètre dont tu as la charge.\nD'être garant de la satisfaction client.\n\nLe centre auto est ouvert de 9h à 19h du lundi au samedi.",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T14:38:24.256Z",
+        "expiration": "2026-11-17T14:38:24.256Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6965581"
     },
     "workplace": {
       "siret": null,
@@ -15683,11 +15989,11 @@
       "description": null,
       "size": null,
       "location": {
-        "address": "34110 Frontignan",
+        "address": "34000 Montpellier",
         "geopoint": {
           "coordinates": [
-            3.755072,
-            43.443309
+            3.87048,
+            43.610476
           ],
           "type": "Point"
         }
@@ -15699,7 +16005,69 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55704104?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "url": "https://www.directemploi.com/candidatOffre/56389647?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Stage Ingénieur commercial H/F",
+      "rome_codes": [
+        "D1420"
+      ],
+      "description": "Contexte de la mission :Viveris est un groupe indépendant de conseil et d'ingénierie qui accompagne la transformation numérique des entreprises et de leurs produits depuis 40 ans. Il connaît une croissance constante et compte plus de 900 collaborateurs.Nous recherchons un stagiaire Ingénieur commercial pour participer au développement commercial de l'agence Méditerranée (Montpellier / Aix-en-Provence).Intégré au sein d'une équipe commerciale, vous êtes accompagné par deux Responsables Commerciaux, un(e) chargé(e) de recrutement et le Directeur Méditerranée. Vous êtes basé à l'agence de Montpellier (Port Marianne).Responsabilités :",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T12:21:34.882Z",
+        "expiration": "2026-11-17T12:21:34.882Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b8",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944721"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34430 Saint-Jean-de-Védas",
+        "geopoint": {
+          "coordinates": [
+            3.832002,
+            43.574823
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/53211270?utm_source=pole-emploi&utm_medium=aggregator-free",
       "phone": null,
       "recipient_id": null
     },
@@ -15707,23 +16075,519 @@
       "start": null,
       "duration": 12,
       "type": [
-        "Professionnalisation"
+        "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOULANGERS H/F",
+      "title": "Assistant manager (H/F)",
       "rome_codes": [
-        "D1102"
+        "M1604"
       ],
-      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants.Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous fabriquerez et cuirez des pains, viennoiseries et pâtisseries selon les techniques et le savoir-faire propres au métier. Vous évaluerez les quantités de produits à fabriquer selon la saison, la période, le flux client. Vous veillerez à l'approvisionnement suffisant du rayon tout au long de la journée et vous mettrez en valeur les produits (théâtralisation, clarté des prix et de l'information, balisage). Vous veillerez à la sécurité alimentaire en suivant les procédures et les règles d'hygiène et de qualité. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
+      "description": "Description du poste :\n\nNous proposons une large gamme d'articles de sport, allant des vêtements aux équipements spécialisés pour tous les types de sport. Notre équipe est passionnée, dynamique, et partage une vision commune : offrir une expérience client exceptionnelle tout en favorisant une atmosphère sportive et conviviale.\n\nMissions :\nDans le cadre de votre alternance, vous aurez l'opportunité d'évoluer au sein d'une équipe expérimentée et de participer à la gestion quotidienne du magasin. Vos principales missions seront Assistance à la gestion opérationnelle : organisation et suivi des stocks, mise en place des produits en magasin, suivi des livraisons.\n* Encadrement de l'équipe : accompagner les conseillers de vente, organiser les plannings, veiller à la qualité du service client.\n* Formation et montée en compétences : participer à l'intégration des nouveaux collaborateurs et à leur formation continue.\n* Suivi des performances commerciales : analyser les ventes, proposer des actions pour booster la performance et atteindre les objectifs de chiffre d'affaires.\n* Gestion des relations clients : veiller à l'expérience client, répondre aux questions, résoudre les problèmes et fidéliser la clientèle.\n\nDescription du profil Passion pour le sport et connaissance des différentes disciplines (course, football, fitness, randonnée, etc Expérience dans la vente, idéalement dans un magasin de sport ou d'articles de loisirs.***Excellentes qualités relationnelles, sens du service client et écoute active.***Dynamisme, rigueur et capacité à travailler en équipe.***Bonnes capacités d'adaptation et de gestion des priorités.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-17T12:08:54.000Z",
-        "expiration": "2026-09-17T12:08:54.000Z"
+        "creation": "2026-09-17T03:19:19.152Z",
+        "expiration": "2026-11-17T03:19:19.152Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c5",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944675"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34570 Vailhauquès",
+        "geopoint": {
+          "coordinates": [
+            3.729135,
+            43.661352
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/52542051?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial / Commerciale sédentaire (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nVotre mission\n\nEn tant que Commercial(e) en alternance, vous participez activement au développement national de la plateforme.\n\nDéveloppement commercial B2B***Prospection d'agents immobiliers indépendants\n* Développement auprès des réseaux de mandataires\n* Identification et activation de prescripteurs (coachs, formateurs, réseaux, etc Prise de rendez-vous et relances commerciales\n* Suivi du pipe commercial\n\nDémonstration &amp; conversion***Réalisation de démonstrations à distance de la plateforme (visio)\n* Présentation des avantages concurrentiels\n* Accompagnement à l'inscription et au premier projet\n\nDéveloppement du réseau de photographes***Sourcing et recrutement de photographes partenaires\n* Qualification des profils\n* Animation et suivi du réseau\n\nDescription du profil Autonome, organisé(e), et responsable.***Bonne communication, sens du relationnel, aisance à l'oral et bonne qualité rédactionnelle.***Force de proposition.***profil chasseur",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:16.501Z",
+        "expiration": "2026-11-17T03:19:16.501Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b6",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944490"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50923084?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant commercial / Assistante commerciale (H/F)",
+      "rome_codes": [
+        "D1401"
+      ],
+      "description": "Description du poste :\n\nRejoignez une équipe dynamique et contribuez au développement de notre succès !\n\nVous êtes organisé(e), proactif(ve) et motivé(e) par les défis commerciaux ? Nous recherchons un(e) Assistant(e) Commercial(e) pour accompagner notre croissance et renforcer notre service commercial.\n\nVos missions :\n\nRattaché(e) au Responsable Commercial, vos principales responsabilités seront Gestion des relations clients : répondre aux demandes, préparer les devis, assurer le suivi et garantir la satisfaction client Support commercial : assister l'équipe dans la préparation des présentations, propositions commerciales et reportings Coordination administrative : gestion des contrats, facturation, mise à jour des bases de données clients et suivi des dossiers Participation aux actions commerciales : organisation d'événements clients, campagnes de prospection et analyse des retours.\n\nDescription du profil Vous maîtrisez les outils bureautiques (Word, Excel, PowerPoint) et êtes à l'aise avec les outils CRM.***Vous êtes reconnu(e) pour votre sens du service client, votre rigueur et votre esprit d'équipe.***Une première expérience en tant qu'assistant(e) commercial(e) est un atout.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.821Z",
+        "expiration": "2026-11-17T03:19:08.821Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b9",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944454"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50868391?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant de gestion polyvalent (H/F)",
+      "rome_codes": [
+        "M1213"
+      ],
+      "description": "Description du poste :\n\nL'école NextStepAcademy recrute pour l'un de ses partenaires pour le poste Alternance - Assistant(e) de gestion &amp; opérations polyvalent(e Tu souhaites intégrer un Titre professionnelle dans le domaine des ressources humaines et tu recherches une alternance ?  Alors ils n'attendent que toi !\n\nPartenaire dont  l'activité principale est l'hôtellerie , soutenue par des filiales complémentaires en gestion immobilière et rénovation (entretien/BTP). Notre culture d'entreprise repose sur le pragmatisme et l'efficience. Nous intégrons des alternants avec une vision à long terme : nous souhaitons former aujourd'hui nos collaborateurs de demain.\n\nNous recherchons un(e) alternant(e) de niveau Master, capable de comprendre les enjeux de l'hôtellerie indépendante et de s'investir durablement à nos côtés.\n\nNous vous proposons une alternance fondée sur  l'équilibre entre le terrain (le client) et le bureau (la gestion) . Nous sommes convaincus que pour bien gérer, il faut comprendre ce que l'on gère. Ce parcours est conçu pour développer votre  polyvalence , en vous confrontant à la réalité du service client hôtelier pour mieux en maîtriser les rouages administratifs.***OS MISSIONS : UN RENFORT CLÉ POUR NOS ACTIVITÉS\n\nVotre rôle est transversal : vous venez  renforcer nos fonctions support  tout en restant connecté(e) au cœur de notre activité : l'expérience client.\n\n1. La gestion administrative (le socle de votre poste Vous garantissez la fiabilité des données et la conformité des dossiers pour l'ensemble de nos activités. C'est ici que vous structurez l'organisation Support Hôtellerie &amp; Immo :  suivi de la facturation, gestion des dossiers fournisseurs, suivi administratif des réservations et des contrats locatifs.\n* Support technique (filiale rénovation suivi administratif des devis et des interventions d'entretien (lien avec les artisans et fournisseurs Support RH de proximité :  rédaction et suivi des contrats de travail, gestion des plannings, suivi des visites médicales et préparation des éléments de paie.\n* Secrétariat général :  classement structuré, rédaction de courriers officiels, organisation de la vie du bureau.\n\n2. L'ancrage opérationnel (la réalité du métier) : Pour donner du sens à votre gestion administrative, vous devez vous immerger dans notre activité principale. C'est cette immersion qui forgera votre polyvalence Relationnel client (Hôtellerie renfort ponctuel à l'accueil, gestion des check-in/check-out, interaction directe avec la clientèle.\n* Gestion de l'imprévu :  apprendre à réagir face aux demandes clients ou aux urgences techniques du bâtiment.\n* L'objectif :  comprendre les  contraintes réelles de l'exploitation hôtelière et les exigences de la clientèle  pour devenir un gestionnaire pertinent et pragmatique.\n\n3. L'amélioration continue (votre valeur ajoutée Au fur et à mesure de votre maîtrise de cet équilibre terrain/bureau, nous attendons de vous une prise de recul Identifier les processus administratifs répétitifs.\n* Proposer des outils pour gagner en efficacité (modes opératoires, tableaux de suivi, standardisation des procédures d'accueil ou de gestion Contribuer à la structuration de nos méthodes de travail entre les services (Hôtel / Immo / Technique)\n\nDescription du profil :\n\nVous préparez un diplôme de niveau Master (Gestion des entreprises, RH, Management Hôtelier/PME).\n\nSavoir-faire Excellente maîtrise des outils bureautiques (Excel, Word) et aisance avec les chiffres.\n* Qualités rédactionnelles irréprochables (orthographe et syntaxe Capacité à classer, archiver et retrouver l'information rapidement.\n\nSavoir-être Sens du service client :  indispensable dans l'hôtellerie. Vous avez une présentation et une élocution professionnelles.\n* Polyvalence et agilité :  vous aimez passer d'un sujet à l'autre (d'un client à la réception à un dossier de facturation complexe Fiabilité : vous êtes ponctuel(le), rigoureux(se) et constant(e) dans l'effort.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.760Z",
+        "expiration": "2026-11-17T03:19:08.760Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193bc",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944438"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/51051712?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.741Z",
+        "expiration": "2026-11-17T03:19:08.741Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193b7",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944439"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/51051711?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:08.739Z",
+        "expiration": "2026-11-17T03:19:08.739Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193bd",
+      "partner_label": "France Travail",
+      "partner_job_id": "6944368"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/50436924?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant manager (H/F)",
+      "rome_codes": [
+        "M1604"
+      ],
+      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:19:01.096Z",
+        "expiration": "2026-11-17T03:19:01.096Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17477,81 +18341,6 @@
   },
   {
     "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105962",
-      "partner_label": "France Travail",
-      "partner_job_id": "213RMZZ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "45.20A",
-          "label": "Entretien et réparation de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RMZZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant Secrétaire en atelier de carrosserie (H/F)",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "Vous préparerez en alternance un BTS Gestion PME/PMI dans un atelier de carrosserie sur Béziers principalement mais pourrez aussi être amené à gérer voire évoluer sur un autre atelier du groupe sur le biterrois (moins de 10km de Béziers).\nVos missions principales en entreprise : \n- prise et confirmation de rendez-vous\n- accueil physique et téléphonique\n- devis et facturation\nContrat possible en apprentissage ou professionnalisation selon votre profil.\nVous devez être titulaire du BAC pour intégrer la formation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Bureautique et outils collaboratifs",
-        "Gestion des urgences et des imprévus",
-        "Mettre à jour un dossier, une base de données",
-        "Gérer les agendas et planifier des rendez-vous",
-        "Classer des documents",
-        "Répondre aux demandes d'information internes et externes",
-        "Effectuer le suivi des dossiers clients et des procédures en cours",
-        "Accueillir, orienter, renseigner un public",
-        "Répondre aux appels téléphoniques, mails, tchat et renseigner les clients"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T11:23:15.852Z",
-        "expiration": "2026-11-10T11:23:15.852Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa1dbe3d4cd2f3dc00fe80a",
       "partner_label": "France Travail",
       "partner_job_id": "6767786"
@@ -17786,7 +18575,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa1d7675f46a1ba3de19830/agent-viticole",
-      "phone": "0467090592",
+      "phone": null,
       "recipient_id": "partners_6aa1d7675f46a1ba3de19830"
     },
     "contract": {
@@ -17853,7 +18642,7 @@
     },
     "apply": {
       "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa1d7675f46a1ba3de19831/agent-viticole",
-      "phone": "0467090592",
+      "phone": null,
       "recipient_id": "partners_6aa1d7675f46a1ba3de19831"
     },
     "contract": {
@@ -18518,7 +19307,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a9fbbcf4ebca56dd5a2e346",
-      "phone": "0677534745",
+      "phone": null,
       "recipient_id": "partners_6a9fbbcf02392b1ffeffb440"
     },
     "contract": {
@@ -18583,7 +19372,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a9fbb674ebca56dd5a2e336",
-      "phone": "0677534745",
+      "phone": null,
       "recipient_id": "partners_6a9fbb67a4090cbb976e5455"
     },
     "contract": {
@@ -20444,144 +21233,6 @@
   },
   {
     "identifier": {
-      "id": "6a97503a9891627144750bae",
-      "partner_label": "France Travail",
-      "partner_job_id": "213DDBR"
-    },
-    "workplace": {
-      "siret": "92966498500017",
-      "brand": null,
-      "legal_name": "RESTAURANT LA O",
-      "website": null,
-      "name": "RESTAURANT LA O",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DDBR",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE EN ALTERNANCE  EMPLOYE PO (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Restaurant Là Ô propose une cuisine authentique et créative élaborée avec des ingrédients frais. Tous nos plats et desserts sont faits maison.\n\nLe restaurant Là Ô recherche un ou une alternant(e)  en apprentissage pour préparer le titre professionnel d'employé(e) polyvalent de restauration.\n\nVous serez un jour par semaine en cfa et 4 jours en entreprise.\n Vous avez une soif d'apprendre et l'envie de travailler pour rejoindre sa petite équipe de professionnels ayant plus de 30 ans d'expérience dans le domaine, dont une formatrice en cuisine qui saura vous accompagner et vous transmettre son savoir-faire.\n\n\nVous travaillez du lundi au Samedi en continu avec pause déjeuner. \n\nVous êtes polyvalent(e),  préparer et dresser des entrées et desserts, préparer des plats chauds et des produits snacking,  accueillir renseigner et servir la clientèle, réaliser la plonge et le nettoyage des locaux et du matériel.\nRespect des règles haccp.\nPrise de poste immédiate.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T13:37:23.450Z",
-        "expiration": "2026-10-31T13:37:23.450Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750baf",
-      "partner_label": "France Travail",
-      "partner_job_id": "213DDBF"
-    },
-    "workplace": {
-      "siret": "92966498500017",
-      "brand": null,
-      "legal_name": "RESTAURANT LA O",
-      "website": null,
-      "name": "RESTAURANT LA O",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DDBF",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE EN ALTERNANCE COMMIS DE CUISINE (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Restaurant Là Ô propose une cuisine authentique et créative élaborée avec des ingrédients frais. Tous nos plats et desserts sont faits maison.\nLe restaurant Là Ô recherche un ou une alternant(e)  en apprentissage pour préparer le titre professionnel commis de cuisine. Vous avez une soif d'apprendre et l'envie de travailler pour rejoindre sa petite équipe de professionnels ayant plus de 30 ans d'expérience dans le domaine, dont une formatrice en cuisine qui saura vous accompagner et vous transmettre son savoir-faire.\n\nVous travaillez du lundi au Samedi en continu avec pause déjeuner.\nVous êtes un jour par semaine en centre de formation et quatre jours en entreprise.\nVous êtes polyvalent(e), réceptionner, stocker et inventorier les produits, préparer dresser et envoyer des entrées et des desserts, préparer et participer à l'envoi des plats chauds, nettoyer et remettre en état les locaux, le poste de travail. Respect des règles haccp.\nPrise de poste immédiate.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Cuire des viandes, poissons ou légumes",
-        "Dresser des plats pour le service",
-        "Eplucher des légumes et des fruits",
-        "Préparer les viandes et les poissons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T13:36:04.742Z",
-        "expiration": "2026-10-31T13:36:04.742Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a97503a9891627144750bb0",
       "partner_label": "France Travail",
       "partner_job_id": "213CXLF"
@@ -21324,72 +21975,6 @@
   },
   {
     "identifier": {
-      "id": "6a8f68bae075d4e1ad80ee21",
-      "partner_label": "Meteojob",
-      "partner_job_id": "56352010"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "PACIFIC PECHE",
-      "description": "<p>  <strong>Fondé en 1993, Pacific Pêche</strong>   est le   <strong>1er réseau français de vente d’articles de pêche</strong>  , distribuant un très grand nombre de références (près de 30 000 références) via son réseau de   <strong>42 magasins</strong>  situésen France, son siège social à proximité de Montpellier et son site internet.   <strong>Pacific pêche</strong>  propose les produits des marques leaders en matériel de pêche, dont certaines en exclusivité pour la France, et d'un portefeuille de marques propres reconnues. Son offre se répartit en sept catégories distinctes (carpe, carnassier, coup, mer, etc.) et s'adresse à tous les pêcheurs, passionnés, experts mais aussi débutants. </p> <p>  <br />  <strong>Les valeurs Pacific Pêche :</strong> </p> <p>  <strong>PROXIMITE :</strong>   Pacific Pêche compte aujourd’hui 42 magasins et un site internet qui livre partout en France. Notre ambition : être l’enseigne incontournable de tous les pêcheurs.  <br />  <strong>RESPECT DE LA NATURE :</strong>   Parce que les milieux aquatiques sont fragiles, leur respect et leur protection sont indispensables pour préserver les poissons et pouvoir continuer de partager notre Passion. C’est pourquoi Pacific Pêche collabore avec de nombreuses Association Agréée de Pêche et de Protection des Milieux Aquatiques (AAPPMA) partout en France.  <br />  <strong>CONSEIL &amp; EXPERTISE :</strong>  Nous souhaitons que chaque client puisse vivre une véritable expérience. Novice ou expert, chacun pourra bénéficier de conseils de la part des équipes présentes en magasin.  <br />  <strong>PARTAGE : </strong>  Pacific Pêche prône le partage de cette passion commune et des valeurs qui animent l’ensemble des collaborateurs.  <br /> </p> <p>  <strong>Alors n'attendez plus et rejoignez une entreprise où la passion se vit au quotidien !</strong> </p> <p>  <em>Gardez le fil, suivez-nous sur les réseaux sociaux </em> </p> <p>  <em>@pacificpeche</em> </p>",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/56352010?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-08-31T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Apprenti Chargé de contenu Visuel  (H/F) - SIEGE",
-      "rome_codes": [
-        "L1505"
-      ],
-      "description": "<p>  Leader français de la distribution d’articles de pêche, Pacific Pêche accompagne depuis plus de 30 ans les passionnés à travers un réseau de magasins spécialisés et une présence digitale forte.  <br />  Dans le cadre du développement de notre communication digitale, nous recherchons un(e) apprenti (e) shooting photos et vidéos pour rejoindre notre équipe au siège. </p> <p>     <strong>Vos missions</strong>   </p> <p>Au sein du service marketing, vous participerez activement au shooting vidéos et aux photos de nos marques.</p> <p>Prépare et réalise les shootings:</p> <p>  • Prépare les prises de vue en fonction des besoins produits, des campagnes et du calendrier marketing.  <br />  • Met en place les shootings : produits, mises en situation, packshots, contenus magasins et contenus destinés au Web.  <br />  • Participe au choix des cadrages, décors, accessoires, lumières et mises en scène dans le respect de l’identité de la marque.  <br />  • Réalise des prises de vue photo et vidéo adaptées aux différents formats de diffusion.  <br />  • Contribue à faire évoluer les codes visuels et les propositions créatives de l’entreprise. </p> <p>Retouche et post-produit les contenus:</p> <p>  • Trie, sélectionne et organise les prises de vue.  <br />  • Réalise les retouches photo nécessaires avant diffusion : cadrage, détourage, colorimétrie, luminosité, nettoyage et harmonisation.  <br />  • Réalise le montage et les adaptations simples des contenus vidéo pour les différents supports.  <br />  • Prépare les fichiers dans les formats, dimensions et niveaux de compression adaptés au Web et aux différents canaux de communication. </p> <p>Développe la visibilité de la marque:</p> <p>  • Contribue à la création d’une bibliothèque photo et vidéo organisée, exploitable et régulièrement mise à jour.  <br />  • Veille à la cohérence et à la qualité des visuels diffusés avec l’image et la charte du Groupe.  <br />  • Participe à la création de nouveaux concepts et à la recherche de références visuelles et créatives. </p>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Assistant monteur vidéo (H/F)\r\n\r\nTemps Plein\r\n\r\nAvantages: À partir de 12,31 € par heure\r\n\r\nProfil: <p>  <strong>Profil recherché</strong> </p> <ul>  <li>   Étudiant(e) Bac +3 minimum en   <strong>audiovisuel et métier du numérique</strong>  </li>  <li>Passion pour la vidéo, le montage et les retouches</li>  <li>   Fait preuve de curiosité et d’ouverture sur les tendances du marché   <br />  </li> </ul> <p>  <strong>Savoir-être</strong> </p> <ul>  <li>   • Est créatif et force de proposition   <br />   • Possède un regard esthétique et le sens du détail   <br />   • Fait preuve de curiosité et d’ouverture sur les tendances visuelles   <br />   • Fait preuve d’adaptation, de réactivité et d’autonomie   <br />   • A le sens du travail en équipe et du respect des délais  </li> </ul>",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-26T12:48:57.000Z",
-        "expiration": "2026-10-26T12:48:57.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8f67a11d31377ab1f65562",
       "partner_label": "France Travail",
       "partner_job_id": "212YFDR"
@@ -21543,72 +22128,6 @@
   },
   {
     "identifier": {
-      "id": "6a692f68b02c89ba8177545e",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55756012"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Proman",
-      "description": "<p>PROMAN est le 4ème acteur européen sur le marché du travail temporaire et des ressources humaines. Avec 1 278 agences dans 18 pays dont 400 en France, PROMAN fait travailler 100 000 collaborateurs intérimaires chaque jour. Le Groupe fondé à Manosque en 1990, est le partenaire privilégié de plus de 50 000 entreprises des secteurs comme l'industrie, le btp, la logistique, le tertiaire ou l'automobile. En forte croissance année après année, PROMAN surperforme son marché en 2024 avec un chiffre d'affaires de 4,4 milliards d'euros. L'entreprise familiale compte aujourd'hui 6 500 collaborateurs permanents et doit sa position à ses valeurs fondatrices : le travail, l'agilité, la bienveillance, l'audace, le plaisir et le bon sens.</p>",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55756012?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti macon vrd - canalisateur H/F",
-      "rome_codes": [
-        "F1705"
-      ],
-      "description": "<p>  L'agence PROMAN Montpellier Juvenal recherche pour un de ses clients des candidats motivés pour se former aux métiers des  <strong>Travaux Publics H/F</strong>  . </p>   Vous souhaitez apprendre un métier de terrain, concret et essentiel à nos infrastructures ? Nous recherchons des candidats motivés pour intégrer une formation  <strong>aux métiers de Maçon VRD et Canalisateur</strong>  , en formation  <strong>initiale</strong>  .    Au cours de votre formation, vous serez formé aux deux métiers. En tant que  <strong>Maçon VRD</strong>  , vous apprendrez à réaliser des travaux d'aménagement liés aux routes, aux trottoirs, aux réseaux et aux espaces publics. En tant que  <strong>Canalisateur</strong>  , vous apprendrez à poser et entretenir les réseaux enterrés, notamment pour l'eau potable, les eaux usées et les eaux pluviales.    À l'issue de votre parcours, vous passerez un  <strong>Titre Professionnel</strong>  <strong>Maçon VRD</strong>  ou  <strong>Canalisateur</strong>  .    Votre mission initiale durera 3 mois avec un démarrage  <strong>début décembre 2026</strong>  .  <br /> <p>Pour plus d'offres d'emploi, téléchargez notre application myPROMAN intérimaires sur App Store ou Google Play.</p> <br />   Nous recherchons des personnes  <strong>motivées</strong>  ,  <strong>sérieuses</strong>  ,  <strong>volontaires</strong>  et prêtes à  <strong>s'investir</strong>  dans leur formation et dans leur mission. Une  <strong>première expérience</strong>  dans le BTP, idéalement de  <strong>6 mois minimum</strong>  ainsi que le  <strong>permis B</strong>  sont souhaités.  <br /> <p>Tous nos postes sont ouverts aux personnes en situation de handicap.</p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Maçon VRD (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "débutant à 1 an",
-        "1-2 ans"
-      ],
-      "publication": {
-        "creation": "2026-08-25T22:09:14.000Z",
-        "expiration": "2026-10-25T22:09:14.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8e1619a49c76b7183229c6",
       "partner_label": "France Travail",
       "partner_job_id": "6269747"
@@ -21725,283 +22244,6 @@
       "publication": {
         "creation": "2026-08-25T12:15:13.860Z",
         "expiration": "2026-10-25T12:15:13.860Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a920a73e67033cb14ec8949",
-      "partner_label": "France Travail",
-      "partner_job_id": "212VFWP"
-    },
-    "workplace": {
-      "siret": "82442818900024",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": null,
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de projet / Cheffe de projet (Project Management Officer) (H/F)",
-      "rome_codes": [
-        "M1828"
-      ],
-      "description": "L'IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un Manager de projet en Agroalimentaire (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE.,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l'IFRIA Occitanie et l'Ecole Supérieure La Raque ?\n\nCette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * La création et l'amélioration de fiches produit et des standards de production,\n * La création et l'amélioration des modes opératoires\n * L'harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance\n * Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations\n * Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance.)\n\nVous définissez et planifiez les activités, maîtrisez l'échéancier et gérez les risques tout en étant garant de l'atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)\n\nEnfin vous accompagnez l'entreprise dans l'élaboration de stratégies de transformation, d'adaptation et de conduite de changement\n\n\n\nInformations complémentaires :\n\n * Lieu : Ecole à Castelnaudary - Entreprise Occitanie - PACA - AURA\n * Type de contrat : Apprentissage\n * Formation : Aucun frais de formation ne sera à la charge de l'apprenti.e\n * Rémunération selon niveau d'études + âge\n * Cette opportunité est ouverte aux personnes en situation de handicap.\n\nÀ propos de nous :\n\nL'IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.\n\nType d'emploi : Apprentissage\n\n * Vous êtes titulaire d'un BAC +3 à orientation technologique IAA, scientifique, biologie, biochimie ou gestion de projet (LP, BUT, L3.)\n * Vous avez une première expérience en Agroalimentaire (Production, Qualité...)\n * Vous êtes éligible à un contrat d'apprentissage.\n * Vous êtes organisé(e), rigoureux(se), avec un bon esprit d'analyse et un excellent relationnel.\n\nSeuls les candidats intéressés pour suivre cette formation à l'IFRIA Occitanie pourront être présentés à l'entreprise et bénéficier de notre accompagnement (coaching) dans leur recherche d'alternance.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Allouer et organiser les ressources d'un projet selon les besoins et contraintes",
-        "Assurer la conformité des livrables de projet",
-        "Expliquer et faire respecter les règles et procédures",
-        "Planifier et suivre les échéances de projet",
-        "Préparer et animer une réunion, un groupe de travail, un atelier"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T11:24:34.564Z",
-        "expiration": "2026-10-24T11:24:34.564Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8cc49ab62614f04244a551",
-      "partner_label": "France Travail",
-      "partner_job_id": "212VFVH"
-    },
-    "workplace": {
-      "siret": "82442818900024",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": null,
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de secteur en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "D1517"
-      ],
-      "description": "L'IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un Chef de secteur (H/F) en contrat d'apprentissage.\n\nRentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.\n\nVous êtes titulaire d'un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l'IFRIA et Montpellier Management ? Cette offre d'apprentissage est faite pour vous !\n\nMissions :\n\n * Assurer le suivi ou la prospection d'un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)\n * Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente\n * Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, .)\n * Gérer votre secteur en totale autonomie\n * Remonter les informations « terrain » à la direction",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Mettre en oeuvre des actions commerciales et promotionnelles"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T11:23:35.556Z",
-        "expiration": "2026-10-24T11:23:35.556Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8bfa86c9494c8c3e55d1d4",
-      "partner_label": "Taleez",
-      "partner_job_id": "9fg84r16dr2h1"
-    },
-    "workplace": {
-      "siret": "82442818900016",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": "https://www.ifria-occitanie.fr/",
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": "<p>L’IFRIA Occitanie vous attend !</p><p>Nous faisons partie d'un réseau de 8 centres de formation dédiés aux industries agroalimentaires répartis dans toute la France. Un secteur riche de nombreuses familles d’activité telles que les filières des boissons, lait, viande, céréales, confiserie, huiles, plats cuisinés, produits diététiques…</p><p>En région, l’IFRIA Occitanie propose des formations diplômantes du Bac au Bac+5, par la voie de l'apprentissage répondant aux besoins en compétences des industries alimentaires (en Production, Maintenance, Qualité, Commerce …)</p><p>En tant qu’Organisme de branche, l’IFRIA accompagne également ses entreprises partenaires sur des projets de Formation Professionnelle</p>",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "3840 Avenue Georges Frêche 34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.947523,
-            43.572138
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/manager-de-projet-en-agroalimentaire-en-alternance-f-h-occitanie-montpellier-ifria-occitanie/applying?utm_source=La%20bonne%20alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:01.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Manager de projet en Agroalimentaire en alternance F/H - Occitanie",
-      "rome_codes": [
-        "H2105"
-      ],
-      "description": "<p>L’IFRIA Occitanie, CFA dédié au secteur Agroalimentaire de la filière alimentaire, recherche pour son entreprise partenaire, un <strong>Manager de projet en Agroalimentaire (H/F) en contrat d’apprentissage</strong>.</p><p>Rentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.</p><p>Vous êtes titulaire d’un Bac+3 scientifique, agroalimentaire, gestion projet, production, QHSE…,et vous souhaitez poursuivre votre cursus sur un Titre de niveau 7 « Manager de Projet innovant Agroalimentaire » avec l’IFRIA Occitanie et l’Ecole Supérieure La Raque ?</p><p>Cette offre d’apprentissage est faite pour vous !</p><p><strong>Missions :</strong></p><ul><li>La création et l’amélioration de fiches produit et des standards de production,</li><li>La création et l’amélioration des modes opératoires</li><li>L’harmonisation des standards de nettoyage en lien avec le service QHSE et la maintenance</li><li>Mise à jour du contenu des formations des opérateurs et suivi de la réalisation de ces formations</li><li>Aide à la gestion quotidienne du terrain en lien avec les différents services (qualité, R&amp;D, maintenance…)</li></ul><p>Vous définissez et planifiez les activités, maîtrisez l’échéancier et gérez les risques tout en étant garant de l’atteinte des objectifs et du respect des contraintes (coûts, qualité, délais)</p><p>Enfin vous accompagnez l’entreprise dans l’élaboration de stratégies de transformation, d’adaptation et de conduite de changement</p><p></p><p><strong>Informations complémentaires :</strong></p><ul><li>Lieu : Ecole à Castelnaudary – Entreprise Occitanie – PACA - AURA</li><li>Type de contrat : Apprentissage</li><li>Formation : Aucun frais de formation ne sera à la charge de l’apprenti.e</li><li>Rémunération selon niveau d’études + âge</li><li>Cette opportunité est ouverte aux personnes en situation de handicap.</li></ul><p><strong>À propos de nous :</strong></p><p>L’IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.</p><p>Type d'emploi : Apprentissage</p>",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T08:02:14.691Z",
-        "expiration": "2026-10-23T22:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8bfa78c9494c8c3e55d1c4",
-      "partner_label": "Taleez",
-      "partner_job_id": "3nve6h4ke4s7k"
-    },
-    "workplace": {
-      "siret": "82442818900016",
-      "brand": null,
-      "legal_name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "website": "https://www.ifria-occitanie.fr/",
-      "name": "ASSOCIATION REGIONALE DES ENTREPRISES ALIMENTAIRES - OCCITANIE",
-      "description": "<p>L’IFRIA Occitanie vous attend !</p><p>Nous faisons partie d'un réseau de 8 centres de formation dédiés aux industries agroalimentaires répartis dans toute la France. Un secteur riche de nombreuses familles d’activité telles que les filières des boissons, lait, viande, céréales, confiserie, huiles, plats cuisinés, produits diététiques…</p><p>En région, l’IFRIA Occitanie propose des formations diplômantes du Bac au Bac+5, par la voie de l'apprentissage répondant aux besoins en compétences des industries alimentaires (en Production, Maintenance, Qualité, Commerce …)</p><p>En tant qu’Organisme de branche, l’IFRIA accompagne également ses entreprises partenaires sur des projets de Formation Professionnelle</p>",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "3840 Avenue Georges Frêche 34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.947523,
-            43.572138
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3109,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "94.99Z",
-          "label": "Autres organisations fonctionnant par adhésion volontaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://taleez.com/apply/chef-de-secteur-en-alternance-f-h-montpellier-ifria-occitanie/applying?utm_source=La%20bonne%20alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:01.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": "hybrid"
-    },
-    "offer": {
-      "title": "Chef de secteur en alternance F/H",
-      "rome_codes": [
-        "D1510"
-      ],
-      "description": "<p>L’IFRIA Occitanie, le CFA de la filière alimentaire, recherche pour son entreprise partenaire, un <strong>Chef de secteur (H/F) en contrat d’apprentissage</strong>.</p><p>Rentrée en formation : Septembre 2026. Cette offre d'apprentissage est donc à pourvoir IMMÉDIATEMENT.</p><p>Vous êtes titulaire d’un Bac +2 en commerce, et vous souhaitez poursuivre votre cursus en Licence 3ème année Commerce et Vente Agroalimentaire avec l’IFRIA et Montpellier Management ? Cette offre d’apprentissage est faite pour vous !</p><p><strong>Missions :</strong></p><ul><li>Assurer le suivi ou la prospection d’un portefeuille de clients (enseignes de la grande distribution - Hypermarché, supermarché, magasins de proximité)</li><li>Travailler en synergie avec les Chefs de rayon ou Directeurs des différents points de vente</li><li>Négocier la présence et le référencement des produits en magasin et proposer des actions pour les promouvoir (merchandising, animations, …)</li><li>Gérer votre secteur en totale autonomie</li><li>Remonter les informations « terrain » à la direction</li></ul><p></p><p><strong>Informations complémentaires :</strong></p><ul><li>Lieu : Occitanie</li><li>Type de contrat : Apprentissage</li><li>Formation : Aucun frais de formation ne sera à la charge de l’apprenti.e</li><li>Rémunération de 1221 € à 1822 € brut/mois selon l’âge (Nb : 3ème année du barème légal du contrat d'apprentissage)</li><li>Cette opportunité est ouverte aux personnes en situation de handicap.</li></ul><p></p><p><strong>À propos de nous :</strong></p><p>L’IFRIA Occitanie vous propose un accompagnement personnalisé avant, pendant et après la formation.</p><p>Type d'emploi : Apprentissage</p><p>Permis/certification: Permis B (Requis)</p>",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-24T08:02:00.944Z",
-        "expiration": "2026-10-23T22:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23352,7 +23594,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6b5ba14ebca56dd59644d7",
-      "phone": "0670026845",
+      "phone": null,
       "recipient_id": "partners_6a6b5ba1682dd65bbad69ee1"
     },
     "contract": {
@@ -23417,7 +23659,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1c0d4ebca56dd596320d",
-      "phone": "0467859348",
+      "phone": null,
       "recipient_id": "partners_6a6a1c0d1afdac9d88494845"
     },
     "contract": {
@@ -23482,7 +23724,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1b7d4ebca56dd59631fc",
-      "phone": "0467859348",
+      "phone": null,
       "recipient_id": "partners_6a6a1b7d7bb47f5fb14abc1d"
     },
     "contract": {
@@ -23853,7 +24095,7 @@
     },
     "apply": {
       "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a63175c4acef524be4ec57e",
-      "phone": "04.67.28.71.01",
+      "phone": null,
       "recipient_id": "partners_6a63175ce5fa1b20ee1b6f60"
     },
     "contract": {
@@ -24010,68 +24252,6 @@
   },
   {
     "identifier": {
-      "id": "6a877ebd62ee9421b6910a19",
-      "partner_label": "France Travail",
-      "partner_job_id": "5079842"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/55704104?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "INTERMARCHÉ RECRUTE SES FUTURS APPRENTIS BOULANGERS H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants.Intermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Afin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.Prêt.e à faire la différence ? Rejoignez-nous !\n\nVous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous fabriquerez et cuirez des pains, viennoiseries et pâtisseries selon les techniques et le savoir-faire propres au métier. Vous évaluerez les quantités de produits à fabriquer selon la saison, la période, le flux client. Vous veillerez à l'approvisionnement suffisant du rayon tout au long de la journée et vous mettrez en valeur les produits (théâtralisation, clarté des prix et de l'information, balisage). Vous veillerez à la sécurité alimentaire en suivant les procédures et les règles d'hygiène et de qualité. Vous assurerez le conseil et la vente auprès des clients.\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-17T12:08:54.000Z",
-        "expiration": "2026-09-17T12:08:54.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a0251984db99ab990be1ecd",
       "partner_label": "PASS",
       "partner_job_id": "A-2026-219496"
@@ -24102,7 +24282,7 @@
     },
     "apply": {
       "url": "https://www.pass.fonction-publique.gouv.fr/offre/apprentissage-fh-controleur-en-matiere-cadastrale-et-urbanisme-service-departemental-des",
-      "phone": "DDFIP de l’Allier Service des Ressources humaines : 04 70 48 47 01",
+      "phone": null,
       "recipient_id": "partners_6a0251984db99ab990be1ecd"
     },
     "contract": {
