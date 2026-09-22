@@ -1,6 +1,414 @@
 [
   {
     "identifier": {
+      "id": "6ab12938aa4d626706b90548",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab12938aa4d626706b90548"
+    },
+    "workplace": {
+      "siret": "49533774300043",
+      "brand": "GRAS ELECTRICITE CLIMATISATION ANTENNES",
+      "legal_name": "SARL ANTECLIM",
+      "website": null,
+      "name": "SARL ANTECLIM",
+      "description": "Anteclim est une entreprise sépacialisé en installation éléctrique, climatisation et photovoltaique, basée à Montblanc (34290).\nNous accompagnons particuliers et professionnels sur Béziers et ses alentours, de l'étude du projet à l'installation et à l'entretien.\nEntreprise en croissance, nous recrutons un(e) alternant(e) commercial(e) pour développer notre activité locale.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "65 RUE GUSTAVE EIFFEL 34290 MONTBLANC",
+        "geopoint": {
+          "coordinates": [
+            3.378181,
+            43.393247
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "43.21A",
+          "label": "Travaux d'installation électrique dans tous locaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab12938aa4d626706b90548/alternant-commercial",
+      "phone": null,
+      "recipient_id": "partners_6ab12938aa4d626706b90548"
+    },
+    "contract": {
+      "start": "2026-09-21T12:55:20.183Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant commercial",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "L'Attaché commercial dynamise efficacement l'offre de l'entreprise auprès de clients fidélisés ou de prospects. Développe et entretient des relations pour maximiser les ventes et la satisfaction client Identifie les besoins des clients et propose des solutions adaptées pour améliorer leur expérience Négocie les contrats et les conditions commerciales pour optimiser les résultats financiers Participe à augmenter les parts de marché de l'entreprise Assure le suivi des ventes et des indicateurs de performance pour ajuster les stratégies commerciales Participe à des salons professionnels et des événements pour promouvoir les produits et services de l'entreprise Collabore avec les équipes internes pour garantir la cohérence des offres et la qualité du service client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Faire preuve de persévérance",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Qualité\tRéaliser un suivi quantitatif et qualitatif des actions de prospection : type de contact, profil de l'interlocuteur, nature des échanges (éventuellement via un logiciel CRM/GRC)",
+        "Gestion administrative et comptable\tAssurer le suivi des chiffres de vente et réaliser le reporting associé",
+        "Relation client\tAnalyser les besoins des clients pour proposer des services adaptés",
+        "Relation client\tAssurer la qualité des relations avec les clients",
+        "Relation client\tDétecter les besoins et enjeux des prospects ou clients en lien avec l'offre de services ou produits de l'entreprise",
+        "Développement commercial\tDresser une liste de prospects et concevoir un plan de prospection : qui approcher quand et comment",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tEntrer en contact avec les prospects via tous les médias possibles et pertinents (appels téléphoniques, salons, foires, partenaires commerciaux, via les réseaux sociaux professionnels...)",
+        "Développement commercial\tEtablir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)",
+        "Développement commercial\tIdentifier les forces et faiblesses de l'offre au contact du réel, pour adapter l'offre à la réalité du terrain",
+        "Développement commercial\tParticiper à la définition précise et à l'actualisation du profil des prospects à démarcher au regard du secteur d'activité et du profil d'entreprise",
+        "Stratégie de développement\tRéaliser un suivi régulier sur l'activité commerciale : nombre de clients rencontrés, propositions commerciales rédigées, présentées, vendues, relances réalisées...",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Communication\tConvaincre de la pertinence des produits, des services développés par l'entreprise",
+        "Communication\tDévelopper et animer un réseau de partenaires commerciaux susceptibles de favoriser la mise en relation avec des prospects"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation à partir d'un Bac + 2 à Bac + 5 en commerce et vente. Les diplômes proposés incluent BTS en management commercial, commerce international, et technico-commercial, DUT et BUT en techniques de commercialisation, ainsi que des diplômes d'école de commerce et d'ingénieurs."
+      ],
+      "publication": {
+        "creation": "2026-09-21T12:55:20.183Z",
+        "expiration": "2026-11-21T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1132d280867a51a5fc374",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab1132d280867a51a5fc374"
+    },
+    "workplace": {
+      "siret": "95170612600012",
+      "brand": null,
+      "legal_name": "MONSAUVETEUR",
+      "website": null,
+      "name": "MONSAUVETEUR",
+      "description": "MonSauveteur est une société créée par des sauveteurs pour des sauveteurs. Nos équipes assurent la surveillance des espaces aquatiques d'une quinzaine d'établissements partenaires dans le sud de la France, et comptent plus de 120 sauveteurs en saison.\n\nNous lançons notre Académie : des places en alternance pour préparer le BPJEPS Activités Aquatiques et de la Natation, avec la formation et le logement pris en charge. D'octobre à mars, l'apprenti est en formation au centre ; d'avril à septembre, il rejoint nos équipes sur le terrain.\n\nNotre objectif : former nos futurs maîtres-nageurs et leur donner les moyens de réussir.",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "3 PLACE DES IRIS 34450 VIAS",
+        "geopoint": {
+          "coordinates": [
+            3.425724,
+            43.308666
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "93.11Z",
+          "label": "Gestion d'installations sportives"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab1132d280867a51a5fc374/deviens-maître-nageur-bpjeps-aan-alternance-logement",
+      "phone": null,
+      "recipient_id": "partners_6ab1132d280867a51a5fc374"
+    },
+    "contract": {
+      "start": "2026-10-02T00:00:00.000Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Deviens Maître-Nageur – BPJEPS AAN + alternance + logement",
+      "rome_codes": [
+        "G1224"
+      ],
+      "description": "Le Maître-nageur sauveteur veille à la sécurité et au bien-être des baigneurs dans divers environnements aquatiques. Anime des séances d'apprentissage de la natation pour tous les âges Anime des séances d'activités sportives aquatiques Surveille les bassins et assure la sécurité des baigneurs selon les réglementations en vigueur Intervient en cas d'urgence et effectue les premiers secours nécessaires Contrôle la qualité de l'eau et maintient les installations en bon état Informe et sensibilise le public aux règles de sécurité dans l'eau",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité"
+      ],
+      "to_be_acquired_skills": [
+        "Animation\tAider les pratiquants à situer leur niveau  sportif et leur progression",
+        "Animation\tConcevoir le programme des activités selon les spécificités du public",
+        "Animation\tExpliquer les conditions de pratique d'une activité sportive",
+        "Animation\tOrganiser des sessions d'apprentissage de la natation",
+        "Management\tInformer les usagers sur les bonnes pratiques de natation",
+        "Management\tMaintenir la cohésion et la motivation de l'équipe",
+        "Conseil, Transmission\tAdapter un parcours ou une séquence pédagogique selon le niveau et la progression des apprenants",
+        "Conseil, Transmission\tEnseigner, transmettre des connaissances, développer des compétences",
+        "Conseil, Transmission\tIdentifier les axes de progrès individuels et collectifs des pratiquants",
+        "Conseil, Transmission\tTransmettre des bases théoriques, des techniques et gestes en combinant plusieurs modalités pédagogiques",
+        "Soin\tIntervenir rapidement en cas d'urgence aquatique",
+        "Communication, Multimédia\tCoordonner les activités aquatiques lors d'événements",
+        "Recherche, Innovation\tRéaliser une veille continue sur les techniques de jeu, d'animation, d'apprentissage",
+        "Production, Fabrication\tVérifier régulièrement le pH et le chlore de l'eau",
+        "Maintenance, Réparation\tVérifier et maintenir l'état de l'équipement",
+        "Prévention des risques\tEvaluer, prévenir, et gérer les risques et la sécurité",
+        "Prévention des risques\tPromouvoir les règles de sécurité dans l'utilisation des installations aquatiques",
+        "Prévention des risques\tSécuriser le public en cas d'incidents et alerter les services compétents de gendarmerie, pompiers",
+        "Prévention des risques\tSécuriser le périmètre d'intervention",
+        "Prévention des risques\tVérifier la disponibilité de l'équipement de secours",
+        "Qualité\tVeiller au respect des normes d'hygiène",
+        "Protection des personnes et de l'environnement\tAdapter les gestes de secours au Plan d'Organisation de la Surveillance et des Secours lors d'un incident",
+        "Protection des personnes et de l'environnement\tEvaluer les conditions météorologiques pour la sécurité",
+        "Protection des personnes et de l'environnement\tEvaluer les équipements de protection individuelle",
+        "Protection des personnes et de l'environnement\tParticiper à l'élaboration et à la modification du Plan d'Organisation de la Surveillance et des Secours",
+        "Protection des personnes et de l'environnement\tS'entraîner régulièrement aux gestes de secourisme en équipe afin d'améliorer la chaîne de secours lors d'un incident",
+        "Protection des personnes et de l'environnement\tSurveiller des bassins aquatiques ou un espace de baignade",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Relation client\tInformer le public sur la pratique de la discipline sportive et les modalités d'organisation des séances",
+        "Stratégie de développement\tConcevoir un projet éducatif",
+        "Stratégie de développement\tRéaliser le bilan du projet éducatif ou d'animation sportive et proposer des évolutions",
+        "Communication\tCommuniquer efficacement avec le personnel de la piscine",
+        "Organisation\tGérer les conflits entre usagers de la piscine",
+        "Organisation\tTransmettre les règles de fonctionnement en groupe"
+      ],
+      "access_conditions": [
+        "Ce métier réglementé est accessible avec le Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, mention «Activités Aquatiques et de la Natation». Le DEJEPS (Diplôme d'État de la Jeunesse, de l'éducation populaire et du sport) est nécessaire pour enseigner et entraîner. À noter que tous les ans, le diplôme de premiers secours (PSE 1 et/ou 2) doit être repassé et tous les 5 ans, le CAEPMNS (Certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur)."
+      ],
+      "publication": {
+        "creation": "2026-09-21T11:21:17.211Z",
+        "expiration": "2026-11-21T00:00:00.000Z"
+      },
+      "opening_count": 6,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab10c07aa4d626706b8e4d9",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab10c07aa4d626706b8e4d9"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Notre partenaire situé à Aix en Provence,  un spécialiste de la restauration rapide recherche un/une alternant(e) en apprentissage pour préparer le titre professionnel employé polyvalent de restauration .\nVous avez une soif d'apprendre et l'envie de travailler pour rejoindre une équipe de professionnels dans une bonne ambiance. Votre formateur saura vous accompagner et vous transmettre son savoir-faire.\nVous travaillez du lundi au Samedi en continu avec pause déjeuner.\nRythme : 1 jour en formation et 4 jours en entreprise\nVous êtes polyvalent(e), accueil client et vente, préparation culinaire, service, hygiène et entretien,  gestion des stocks. \nVous êtes motivé(e) et vous avez envie d'apprendre, ce poste est pour vous!",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab10c07aa4d626706b8e4d9/alternant-e-employé-polyvalent-de-restaurant-h-f-à-aix-en-provence",
+      "phone": null,
+      "recipient_id": "partners_6ab10c07aa4d626706b8e4d9"
+    },
+    "contract": {
+      "start": "2026-09-21T10:50:47.512Z",
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant(e) Employé polyvalent de restaurant (H/F) à Aix en Provence",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-09-21T10:50:47.512Z",
+        "expiration": "2026-11-21T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab10964aa4d626706b8e289",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab10964aa4d626706b8e289"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Notre partenaire situé à Aix en Provence,  un spécialiste de la cuisine italienne recherche un/une alternant(e) en apprentissage pour préparer le titre professionnel commis de cuisine. Tous leurs plats et desserts sont faits maison.\nVous avez une soif d'apprendre et l'envie de travailler pour rejoindre une équipe de professionnels ayant plus de 15 ans d'expérience dans le domaine, dont une formatrice en cuisine qui saura vous accompagner et vous transmettre son savoir-faire.\nVous travaillez du lundi au Samedi en continu avec pause déjeuner.\nRythme : 1 jour en formation et 4 jours en entreprise\nVous êtes polyvalent(e), réceptionner, stocker et inventorier les produits, préparer dresser et envoyer des entrées et des desserts, nettoyer et remettre en état les locaux, le poste de travail.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab10964aa4d626706b8e289/alternant-e-commis-de-cuisine-à-aix-en-provence-h-f",
+      "phone": null,
+      "recipient_id": "partners_6ab10964aa4d626706b8e289"
+    },
+    "contract": {
+      "start": "2026-09-21T10:39:32.777Z",
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant(e) commis de cuisine à Aix en Provence (H/F)",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Le Commis de cuisine, un acteur essentiel dans la préparation des mets et la production en cuisine. Assiste les cuisiniers, chefs de partie dans la préparation des plats Prépare les ingrédients nécessaires à la confection des recettes Maintient la propreté des plans de travail et des ustensiles de cuisine Participe à la réception et au stockage des marchandises Applique les normes d'hygiène et de sécurité alimentaire Peut aider à la mise en place des plats pour le service",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
+        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
+        "Production, Fabrication\tDresser des plats pour le service",
+        "Production, Fabrication\tDécouper et tailler les légumes, fruits et condiments",
+        "Production, Fabrication\tEplucher des légumes et des fruits",
+        "Production, Fabrication\tManipuler des équipements de cuisine",
+        "Production, Fabrication\tOptimiser l'utilisation des ressources alimentaires",
+        "Production, Fabrication\tPréparer des ustensiles de cuisine",
+        "Production, Fabrication\tPréparer et réaliser les pâtes, appareils et crèmes pour les desserts",
+        "Production, Fabrication\tPréparer les viandes et les poissons",
+        "Production, Fabrication\tPrésenter et décorer les préparations selon les consignes",
+        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
+        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tParticiper à un inventaire",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Protection des personnes et de l'environnement\tAppliquer les écogestes dans sa pratique",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Communication\tMaintenir une communication efficace avec la direction",
+        "Communication\tS'intégrer dans l'équipe et faire preuve de coopération",
+        "Organisation\tAssurer le respect des normes de sécurité alimentaire",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+        "Organisation\tRéaliser ses activités selon les étapes et les temps impartis"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une qualification de niveau 3 (CAP) de l'hôtellerie/restauration."
+      ],
+      "publication": {
+        "creation": "2026-09-21T10:39:32.777Z",
+        "expiration": "2026-11-21T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6aad7c4e280867a51a5edcde",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aad7c4e280867a51a5edcde"
@@ -8300,6 +8708,828 @@
   },
   {
     "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1224f",
+      "partner_label": "France Travail",
+      "partner_job_id": "7066742"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Citya Immobilier",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34280 La Grande-Motte",
+        "geopoint": {
+          "coordinates": [
+            4.074672,
+            43.56818
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "68.32A",
+          "label": "Administration d'immeubles et autres biens immobiliers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.citya.com/fr/annonce/4609315-alternant-assistant-immobilier-hf-34280-la-grande-motte?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Citya Immobilier - Assistant / Assistante de gestion syndic immobilier (H/F)",
+      "rome_codes": [
+        "C1508"
+      ],
+      "description": "Qui sommes-nous ?\nCitya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.\nEn 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.\nNous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !\nVous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.\nVous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.\nVos missions :\nEn Gestion de Copropriété :\n- Vous accompagnez un ensemble de co-propriétaires dans la gestion de leur immeuble\n- Vous participez et assurez le suivi des Assemblées Générales et des Conseils Syndicaux\n- Vous êtes le lien avec les prestataires travaux et veillez à l'avancée des chantiers\nEn Gestion Locative :\n- Vous conseillez un ensemble de propriétaires qui confient à l'agence la gestion de leur bien\n- Vous valorisez leur patrimoine et suivez les travaux à réaliser\n- Vous participez au développement d'un portefeuille client\nVous êtes titulaire ou en train de valider un Bac+2 et souhaitez apprendre le métier de Gestionnaire Immobilier ? Ce poste est fait pour vous !\n9 alternants sur 10 se verront proposer un CDI à l'issue de leur parcours !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T21:17:38.249Z",
+        "expiration": "2026-11-21T21:17:38.249Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225f",
+      "partner_label": "France Travail",
+      "partner_job_id": "7063563"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Méthodes en alternance H/F",
+      "rome_codes": [
+        "H1404"
+      ],
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T18:30:59.530Z",
+        "expiration": "2026-11-21T18:30:59.530Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225e",
+      "partner_label": "France Travail",
+      "partner_job_id": "7063479"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Méthodes en alternance H/F",
+      "rome_codes": [
+        "H1404"
+      ],
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T18:29:25.519Z",
+        "expiration": "2026-11-21T18:29:25.519Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225a",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DZSH"
+    },
+    "workplace": {
+      "siret": "49413215200039",
+      "brand": null,
+      "legal_name": "MAGALI MORALES",
+      "website": null,
+      "name": "MAGALI MORALES",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34280 La Grande-Motte",
+        "geopoint": {
+          "coordinates": [
+            4.074672,
+            43.56818
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZSH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Coiffeur / Coiffeuse",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Nous recherchons un coiffeur / une coiffeuse en CONTRAT ALTERNANCE OU APPRENTISSAGE pour préparer un BP COIFFURE \nVous travaillerez 5 jours par semaine de 9h00 à 18h00 en continu, et sur 2 salons situés à la Grande Motte, avec 2 jours de repos à déterminer.\nVOUS ETES TITULAIRE D UN CAP COIFFURE et souhaitez évoluer vers un BP",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:58:17.534Z",
+        "expiration": "2026-11-21T16:58:17.534Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12255",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DZFT"
+    },
+    "workplace": {
+      "siret": "85126685800022",
+      "brand": null,
+      "legal_name": "FELICE",
+      "website": null,
+      "name": "FELICE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZFT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) COMMUNICATION (H/F)",
+      "rome_codes": [
+        "M1504"
+      ],
+      "description": "OFFRE D'ALTERNANCE - APPRENTI(E) COMMUNICATION / CRÉATION DE CONTENU\nLe Melice - Montpellier\n\nIMPORTANT\nEn raison de l'évolution des aides gouvernementales liées à l'apprentissage, nous n'acceptons aucune candidature au-dessus d'un niveau Bac +2 (ou équivalent).\n\nLe Melice recherche son/sa futur(e) apprenti(e) en communication pour accompagner le développement de sa visibilité et de son image à travers la création de contenus digitaux et événementiels.\n\nPROFIL RECHERCHÉ\nNous recherchons avant tout une personne créative, autonome et dynamique, avec une vraie sensibilité pour la production de contenu.\nLa maîtrise de la création de contenus est indispensable :\nphoto,\nvidéo,\nmontage,\ncréation de visuels,\ncontenus réseaux sociaux.\n\nMISSIONS PRINCIPALES\nCréation de contenus photo et vidéo pour les réseaux sociaux\nRéalisation de reels, stories, vidéos courtes et contenus engageants\nGestion et animation des réseaux sociaux\nCréation de supports de communication (flyers, affiches, menus, visuels)\nCouverture des événements organisés par l'établissement\nParticipation au développement de l'image et de la stratégie digitale du Melice\n\nOUTILS APPRÉCIÉS\nCanva\nCapCut / Premiere Pro / logiciels de montage\nMeta Business Suite\nMaîtrise d'Instagram, TikTok et Facebook\n\nPROFIL\nCréatif(ve) et force de proposition\nOrganisé(e) et réactif(ve)\nÀ l'aise avec les tendances réseaux sociaux\nBonne autonomie\nIntérêt pour l'univers de la restauration, de l'événementiel\n\nLieu du poste : En présentiel",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de communication orales, écrites et numériques",
+        "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
+        "Elaborer des processus, méthodes et outils de gestion des ressources humaines"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:49:17.467Z",
+        "expiration": "2026-11-21T16:49:17.467Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12252",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DYTG"
+    },
+    "workplace": {
+      "siret": "82045923800011",
+      "brand": "COULEURS D'ICI",
+      "legal_name": "SOCIETE T.M.",
+      "website": null,
+      "name": "SOCIETE T.M.",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34880 Lavérune",
+        "geopoint": {
+          "coordinates": [
+            3.804882,
+            43.586196
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DYTG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) - Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Restaurant semi-gastronomique à Lavérune, aux portes de Montpellier\nChez Couleurs d'ici, nous travaillons une cuisine française, créative élaborée à partir de produits frais et de saison.\nNotre carte évolue chaque premier mercredi du mois afin de suivre les produits du marché.\nQue ce soit pour un déjeuner entre amis, un dîner en amoureux, un repas d'affaires ou une occasion particulière, nous mettons tout en oeuvre pour faire de votre visite un moment unique.\nLaissez-vous guider par les couleurs des saisons... et venez partager un instant gourmand.\nNous recherchons un(e) apprenti(e) serveur(serveuse) pour un service d'environ 50 couverts par jour.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:40:32.814Z",
+        "expiration": "2026-11-21T16:40:32.814Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1224e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTSW"
+    },
+    "workplace": {
+      "siret": "88811298400040",
+      "brand": null,
+      "legal_name": "PRH 360",
+      "website": null,
+      "name": "PRH 360",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.976877,
+            43.587984
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "82.11Z",
+          "label": "Services administratifs combinés de bureau"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTSW",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Restaurant situé à Mauguio - Zone d'activité\n\nDans le cadre de son développement, un restaurant situé dans la zone d'activité de Mauguio recherche un(e) apprenti(e) serveur(se) souhaitant se former aux métiers du service en salle et au bar.\n\nVos missions\n\nAccompagné(e) par l'équipe du restaurant, vous participerez progressivement à l'ensemble des activités liées au service :\n\nAccueil et installation des clients\nPrise de commandes\nService des plats et des boissons\nPréparation et service des boissons au bar\nMise en place de la salle et du bar\nDébarrassage et remise en état des tables\nParticipation à l'entretien des espaces de travail\nConseil et attention portée à la satisfaction des clients\nRespect des règles d'hygiène et de sécurité\n\n\nProfil recherché\n\nNous recherchons avant tout une personne : \nDynamique, souriant(e) et à l'aise avec la clientèle\nPonctuel(le) et sérieux(se)\nAyant le goût du travail en équipe\nMotivé(e) pour apprendre le métier de serveur(se)\nIntéressé(e) à la fois par le service en salle et le service au bar\n\nDébutant(e) accepté(e) : la motivation et le savoir-être seront privilégiés.\n\nContrat :\nContrat d'apprentissage\nFormation préparant au métier de serveur en restauration\nAlternance entre le restaurant et le CFA\nPoste basé à Mauguio - Zone d'activité\nRémunération selon l'âge et les dispositions légales applicables au contrat d'apprentissage\n\nUne belle opportunité pour apprendre le métier directement sur le terrain et développer une expérience complète en service en salle et au bar.\nUn week-end sur deux libre.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client",
+        "Réaliser la mise en place de la salle et de l'office"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:33:08.779Z",
+        "expiration": "2026-11-21T15:33:08.779Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12256",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTRN"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34320 Roujan",
+        "geopoint": {
+          "coordinates": [
+            3.316003,
+            43.505006
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "96.09Z",
+          "label": "Autres services personnels n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTRN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprentissage Esthéticien-manucure / Esthéticienne-manucure (H/F)",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "REJOIGNEZ NOTRE ÉQUIPE : \nVous êtes passionné(e) par l'univers de l'esthétique et vous souhaitez monter en compétences dans un cadre moderne et spécialisé ? Notre salon, expert en onglerie et épilation laser, recherche sa perle rare pour un BP Esthétique en alternance ! \n\nVOTRE MISSION AU QUOTIDIEN\nAu sein de notre équipe dynamique, vous ne connaîtrez pas la routine ! \nVous interviendrez sur des prestations de haute qualité :\n\nL'art de l'onglerie : Manucure, pédicure, soins complets et massages relaxants des mains et des pieds.\nExpertise Laser : Vous prendrez en charge l'épilation laser. Le petit plus ? Une formation complète est prévue directement avec le fabricant pour vous apprendre à maîtriser l'appareil en toute sécurité !\n\nLE PROFIL QUE NOUS RECHERCHONS\nVous êtes déjà titulaire d'un CAP idéalement passé en alternance, votre enthousiasme est notre priorité ! \n\nNous recherchons avant tout une personnalité :\nSolaire et courtoise : Vous avez le sens de l'accueil et le sourire facile.\nProfessionnelle : La politesse et la bienveillance sont pour vous naturelles.\nAutonome : Vous savez prendre des initiatives et gérer votre poste avec soin.\n\nIntéressé(e) ? Venez nous rencontrer sur le Salon Place de l'Emploi de Pézenas le 7 octobre 2026 de 13h00 à 16h30 dans la Cour d'Honneur de la Mairie. Venez avec plusieurs CV.\n+ d'infos : Mes événements Emploi",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser des soins d'épilation",
+        "Réaliser des soins de manucure, pédicure",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "ONGLERIE"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:31:51.496Z",
+        "expiration": "2026-11-21T15:31:51.496Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225c",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTMQ"
+    },
+    "workplace": {
+      "siret": "53012370200033",
+      "brand": null,
+      "legal_name": "GPT EMP GEIQ OC AGRI",
+      "website": null,
+      "name": "GPT EMP GEIQ OC AGRI",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 9341,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTMQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier viticole en contrat de professionnalisation (H/F)",
+      "rome_codes": [
+        "A1418"
+      ],
+      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \nSecteur d'activité autour de MONTPELLIER (34).\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\n\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\n4 blocs de compétences certifiés indépendamment les uns des autres :\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\n- Travaux mécanisés de conduite du vignoble\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\n- Opérations de vinification\n\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\n400h de formation\nAlternance en Entreprise\nIndemnité repas: 2.66 € / jour\nIndemnité transport: 1.75 € / jour\n\nposte à pourvoir à compter du 19/10/2026",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soins aux arbres ou ceps"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:28:24.469Z",
+        "expiration": "2026-11-21T15:28:24.469Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12259",
+      "partner_label": "France Travail",
+      "partner_job_id": "7057743"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34120 Pézenas",
+        "geopoint": {
+          "coordinates": [
+            3.418941,
+            43.456901
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=D687MlL1Xu/+0vhZwY+xFQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:36:26.164Z",
+        "expiration": "2026-11-21T14:36:26.164Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12258",
+      "partner_label": "France Travail",
+      "partner_job_id": "7057746"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ppOEtBIaaorGL4EF0vulPg==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:36:26.163Z",
+        "expiration": "2026-11-21T14:36:26.163Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12254",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DQGL"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "66.22Z",
+          "label": "Activités des agents et courtiers d'assurances"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DQGL",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller commercial en Assurances en Apprentissage (H/F)",
+      "rome_codes": [
+        "C1102"
+      ],
+      "description": "Nous recherchons un conseiller commercial en assurances en alternance qui prépare un Bachelor Commerce ou Banque Assurances.\n\nMissions principales :\n\n- Accueillir et conseiller les clients sur les produits d'assurance.\n- Participer à la prospection et au développement du portefeuille clients.\n- Analyser les besoins des clients et proposer des solutions adaptées.\n- Assister les conseillers commerciaux dans la gestion et le suivi des contrats.\n- Contribuer à la fidélisation de la clientèle.\n- Participer à des actions commerciales et marketing.\n- Apprendre et maîtriser les techniques de vente et de négociation.\n- Se former aux produits d'assurance et à la réglementation du secteur.\n\nProfil recherché :\n\n- Étudiant(e) en Bachelor Commerce ou Banque Assurance.\n- Intérêt marqué pour le secteur de l'assurance et la relation client.\n- Bonnes capacités relationnelles et commerciales.\n- Rigueur, organisation et sens du service client.\n- Dynamisme, motivation et esprit d'équipe.\n\nQualités personnelles :\n\n- Sens de l'écoute et de la communication.\n- Capacité d'adaptation et réactivité.\n- Autonomie et curiosité.\n- Esprit d'initiative et de synthèse.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Assurances",
+        "Développer un portefeuille clients et prospects",
+        "Rassembler les justificatifs et transmettre la proposition d'assurance pour décision",
+        "Recueillir et analyser les besoins client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:23:18.839Z",
+        "expiration": "2026-11-21T14:23:18.839Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ab05c059b5a0cfb25b0badc",
       "partner_label": "France Travail",
       "partner_job_id": "214CVTJ"
@@ -8960,76 +10190,6 @@
   },
   {
     "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0a8",
-      "partner_label": "France Travail",
-      "partner_job_id": "214BSFJ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34990 Juvignac",
-        "geopoint": {
-          "coordinates": [
-            3.801257,
-            43.620712
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BSFJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e Employé/ e polyvalent/e Libre service (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Au sein d'un magasin d'environ 300 m², dans le cadre de votre apprentissage, vous rejoindrez une équipe à taille humaine et participerez à l'ensemble des activités nécessaires au bon fonctionnement du magasin. \nNous recherchons avant tout une personne dynamique, polyvalente et ayant le sens du service client. \n\n VOS MISSIONS \n-Mise en rayon \n Réceptionner et contrôler les marchandises. \n Mettre les produits en rayon et assurer leur réassort. \n Veiller au rangement et à la bonne présentation des rayons. \n Contrôler les dates limites de consommation et effectuer la rotation des produits. \n Vérifier l'affichage des prix et des promotions. \n Maintenir les rayons propres et attractifs. \n-Réception et gestion des marchandises \n Participer au déchargement et au rangement des livraisons. \n Contrôler les quantités et l'état des marchandises. \n Participer à la gestion des stocks. \n Signaler les ruptures et les anomalies. \n- Relation client \n Accueillir et renseigner les clients. \n Répondre à leurs demandes et les orienter dans le magasin. \n Veiller à leur satisfaction et contribuer à une bonne expérience d'achat. \n-Polyvalence en magasin \nSelon les besoins du magasin, vous pourrez également être amené(e) à : \n tenir la caisse ; \n participer au rangement et au nettoyage ; \n aider sur différents rayons ; \n participer aux inventaires ; \n renforcer l'équipe lors des périodes de forte activité.\n\nNous recherchons une personne sérieuse, motivée et dynamique, qui apprécie le travail en équipe et le contact avec la clientèle. \nVous êtes : \n ponctuel(le)\n organisé(e) et rigoureux(se) ; \n dynamique et réactif(ve) ; \n polyvalent(e) ; \n à l'aise avec le travail en équipe ; \n attentif(ve) à la satisfaction du client ;",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Contrôler le balisage et l'étiquetage des produits en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T10:35:19.176Z",
-        "expiration": "2026-11-18T10:35:19.176Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193ba",
       "partner_label": "France Travail",
       "partner_job_id": "213ZWTC"
@@ -9534,68 +10694,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -9643,6 +10741,68 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -10674,76 +11834,6 @@
       "publication": {
         "creation": "2026-09-11T22:43:34.917Z",
         "expiration": "2026-11-11T22:43:34.917Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105960",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SFWM"
-    },
-    "workplace": {
-      "siret": "98850430400029",
-      "brand": "DIAMANTOR",
-      "legal_name": "DIAMANTOR MONTPELLIER-LATTES",
-      "website": null,
-      "name": "DIAMANTOR MONTPELLIER-LATTES",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.77Z",
-          "label": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFWM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur Conseil Bijouterie alternance (H/F)",
-      "rome_codes": [
-        "D1246"
-      ],
-      "description": "Nous proposons une opportunité en alternance pour un(e) étudiant(e) passionné(e) par l'univers de la bijouterie et souhaitant développer ses compétences.\n\nSous la hiérarchie du Responsable de Magasin, vos missions seront les suivantes :\n\n- Etre l'ambassadeur de la marque pour fidéliser et satisfaire la clientèle,\n- Accueillir et conseiller les clients,\n- Respecter les procédures et les modes opératoires du magasin.\n- Ranger, étiqueter les produits et veiller à la mise en valeur des vitrines,\n- Effectuer des opérations d'encaissement,\n- Assurer le service après-vente en cas de retour, réclamation et/ou litige Clients.\n- Participer à l'entretien de la surface de vente,\n- Développer le chiffre d'affaires et les ventes du magasin,\n- Créer une relation chaleureuse et durable avec les clients du magasin.\n\nEn étant garant de l'image de marque, vous saurez respecter les codes du luxe et satisfaire la clientèle est pour vous une priorité et un enjeu de tous les jours !\nVotre profil : Titulaire d'un bac généraliste ou professionnel, vous souhaitez poursuivre en bac+2 commerce type BTS MCO ou BTS NDRC. \n\nHoraires : lundi au vendredi 9h30/19h, samedi 10h/19h30 (selon planning de travail défini à l'avance).\n\nSavoir-être : Autonomie, commerçant, convivial, disponible, honnêteté, rigueur, organisé, sens de l'équipe et du relationnel, souriant, orienté Clients et performances/résultats.\n\nDress code black avec des chaussures de ville ( pas de jeans ni baskets).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'encaissement",
-        "Techniques de mise en rayon",
-        "Organiser, aménager un espace de vente",
-        "Présenter et valoriser un produit ou un service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T17:15:43.910Z",
-        "expiration": "2026-11-10T17:15:43.910Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -12086,201 +13176,6 @@
   },
   {
     "identifier": {
-      "id": "6a9de79685d4232b2a93087b",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683696"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kUY2czO+RefweS/I/3vqnQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:23.805Z",
-        "expiration": "2026-11-06T14:34:23.805Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9de79685d4232b2a93087d",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683685"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34120 Pézenas",
-        "geopoint": {
-          "coordinates": [
-            3.418941,
-            43.456901
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kYv22rKNt9Xd3L+rbJOpVQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:22.894Z",
-        "expiration": "2026-11-06T14:34:22.894Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9de79685d4232b2a93087c",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683628"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=qDZbsoHYA6A8GQuhITkF5A==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:20.932Z",
-        "expiration": "2026-11-06T14:34:20.932Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9c960285d4232b2a9297ff",
       "partner_label": "France Travail",
       "partner_job_id": "6667474"
@@ -13514,76 +14409,6 @@
   },
   {
     "identifier": {
-      "id": "6a97503a9891627144750bac",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CWZX"
-    },
-    "workplace": {
-      "siret": "99251902500017",
-      "brand": "BOULANGERIE FEUILLETTE",
-      "legal_name": "BOULANGERIE -F- BALARUC LES BAINS",
-      "website": null,
-      "name": "BOULANGERIE -F- BALARUC LES BAINS",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34540 Balaruc-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.690774,
-            43.446804
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CWZX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti vendeur en boulangerie (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis vendeurs en boulangerie (H/F).\nVous souhaitez apprendre le métier de vendeur dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe de vente, vous participerez progressivement à :\nL'accueil et le conseil client dans le respect des standards Feuillette.\nLa mise en valeur des produits en vitrine et en boutique.\nLa vente et l'encaissement des produits.\nLe respect des règles d'hygiène, de sécurité et des procédures magasin.\nLa coordination avec les équipes de production pour assurer la disponibilité et la fraîcheur des produits.\nLa participation à l'entretien et à l'organisation de l'espace de vente.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Développer et fidéliser la relation client",
-        "Mettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Organiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T11:12:31.556Z",
-        "expiration": "2026-10-31T11:12:31.556Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a97503a9891627144750bb1",
       "partner_label": "France Travail",
       "partner_job_id": "213CPKM"
@@ -13643,151 +14468,6 @@
       "publication": {
         "creation": "2026-08-31T08:25:24.222Z",
         "expiration": "2026-10-31T08:25:24.222Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750bb3",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CMYG"
-    },
-    "workplace": {
-      "siret": "83798134900017",
-      "brand": "S.I.W.L",
-      "legal_name": "SIWL",
-      "website": "http://www.casacubanamontpellier.fr",
-      "name": "SIWL",
-      "description": "Nous sommes une entreprise possédant 4 établissements dans le centre-ville de Montpellier.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CMYG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Barman / barmaid / Serveur / Serveuse en apprentissage (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Nous sommes un groupe de 4 bars restaurants dans le centre ville de Montpellier\nNous proposons 2 postes de Barman / Barmaid / Serveur / Serveuse tournant(e)s sur les 4 établissements (dans un rayon de 400 m). - Cubanito café - Casita del Barrio - Casa Cubana - Irish Tavern\nRiche expérience sur 4 établissements différents pour apprendre un métier en apprentissage.\nHoraires d'ouverture 17h - 1h00 du matin, service du soir uniquement.\nOuvert du lundi au dimanche d'avril à octobre puis de mardi à samedi de novembre à avril\nPersonne majeure uniquement (+ de 18 ans) car bar avec licence 4 Candidatures par mail à envoyer sur l'adresse mail suivante:",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client",
-        "Préparer des boissons chaudes ou froides",
-        "Réaliser la mise en place de la salle et de l'office",
-        "Maintenir une communication claire et professionnelle",
-        "Rendre compte de son action, de risques ou d'anomalies au responsable",
-        "S'exprimer avec politesse et courtoisie"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T18:01:28.515Z",
-        "expiration": "2026-10-30T18:01:28.515Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750bb5",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CMXY"
-    },
-    "workplace": {
-      "siret": "83798134900017",
-      "brand": "S.I.W.L",
-      "legal_name": "SIWL",
-      "website": "http://www.casacubanamontpellier.fr",
-      "name": "SIWL",
-      "description": "Nous sommes une entreprise possédant 4 établissements dans le centre-ville de Montpellier.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CMXY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de Cuisine en apprentissage (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Nous sommes un groupe de 4 bars restaurants dans le centre ville de Montpellier\nNous proposons 1 postes de commis de cuisine tournants sur les 4 établissements (dans un rayon de 400 m). - Cubanito café - Casita del Barrio - Casa Cubana - Irish Tavern\nRiche expérience sur 4 cuisines différentes pour apprendre un métier en apprentissage.\nHoraires d'ouverture 17h - 1h00 du matin, service du soir uniquement. (Pas de coupure)\nOuvert du lundi au dimanche d'avril à octobre puis de mardi à samedi de novembre à avril.\nPersonne majeure uniquement (+ de 18 ans) car bar avec licence 4.\nCandidatures par mail à envoyer sur l' adresse mail suivante:",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Cuire des viandes, poissons ou légumes",
-        "Dresser des plats pour le service",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Eplucher des légumes et des fruits",
-        "Préparer les viandes et les poissons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T17:53:50.149Z",
-        "expiration": "2026-10-30T17:53:50.149Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15559,9 +16239,488 @@
   },
   {
     "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb68",
+      "id": "6ab1ad989b5a0cfb25b1224f",
       "partner_label": "France Travail",
-      "partner_job_id": "5206982"
+      "partner_job_id": "7066742"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Citya Immobilier",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34280 La Grande-Motte",
+        "geopoint": {
+          "coordinates": [
+            4.074672,
+            43.56818
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "68.32A",
+          "label": "Administration d'immeubles et autres biens immobiliers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.citya.com/fr/annonce/4609315-alternant-assistant-immobilier-hf-34280-la-grande-motte?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Citya Immobilier - Assistant / Assistante de gestion syndic immobilier (H/F)",
+      "rome_codes": [
+        "C1508"
+      ],
+      "description": "Qui sommes-nous ?\nCitya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.\nEn 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.\nNous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !\nVous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.\nVous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.\nVos missions :\nEn Gestion de Copropriété :\n- Vous accompagnez un ensemble de co-propriétaires dans la gestion de leur immeuble\n- Vous participez et assurez le suivi des Assemblées Générales et des Conseils Syndicaux\n- Vous êtes le lien avec les prestataires travaux et veillez à l'avancée des chantiers\nEn Gestion Locative :\n- Vous conseillez un ensemble de propriétaires qui confient à l'agence la gestion de leur bien\n- Vous valorisez leur patrimoine et suivez les travaux à réaliser\n- Vous participez au développement d'un portefeuille client\nVous êtes titulaire ou en train de valider un Bac+2 et souhaitez apprendre le métier de Gestionnaire Immobilier ? Ce poste est fait pour vous !\n9 alternants sur 10 se verront proposer un CDI à l'issue de leur parcours !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T21:17:38.249Z",
+        "expiration": "2026-11-21T21:17:38.249Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225f",
+      "partner_label": "France Travail",
+      "partner_job_id": "7063563"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Méthodes en alternance H/F",
+      "rome_codes": [
+        "H1404"
+      ],
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T18:30:59.530Z",
+        "expiration": "2026-11-21T18:30:59.530Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225e",
+      "partner_label": "France Travail",
+      "partner_job_id": "7063479"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ECP",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "81.29B",
+          "label": "Autres activités de nettoyage n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.lindustrie-recrute.fr/candidat/offre/818409?utm_source=NQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Méthodes en alternance H/F",
+      "rome_codes": [
+        "H1404"
+      ],
+      "description": "Dans le cadre du développement de nos activités nous recherchons un ou une Assistant - Assistante Méthodes en apprentissage afin d'accompagner la mise en production de nouvelles prestations et l'optimisation de l'utilisation de la GPAO sur le site de Vendargues (34). Interface entre la production et la qualité vos missions sont les suivantes:\n\n\n-         Prendre connaissance du fonctionnement des équipements et des différentes techniques de nettoyage associées\n\n\n-         Participation à la mise en œuvre des procédés de nettoyage pour tous produits, nouveaux projets ou projets déjà en cours (plan d'expériences, essais, documentation).\n\n\n-         Participation à la mise en œuvre et à la mise à jour des gammes et des nomenclatures (GPAO) pour tous produits, nouveaux projets ou projets déjà en cours\n\n\n-         Mettre à jour les documents de fabrication (mode opératoires, instructions...).\n\n\n-         Mesurer et optimiser les temps de prestations\n\n\n-         Participer à l'organisation des flux de production dans le respect des spécifications qualité\n\n\n-         Proposer des solutions d'amélioration des process\n\n\n \n\n\n \n\nVous êtes proche du terrain et vous aimez mettre en place aussi bien des solutions techniques et pratiques que des process, vous êtes capable de vous organiser de façon efficace dans les délais. Vous avez un bon relationnel de même que vous savez rédiger clairement des mémos et autres instructions de travail.\n\n\nVous souhaitez effectuer votre licence pro ou votre dernière année d'école d'ingénieur généraliste ou de BUT en contrat d'alternance. Vous avez fait un premier stage en industrie et avez fait un parcours orienté méthodes / industrialisation ou Qualité / organisation. Vous maîtrisez EXCEL et vous avez déjà utilisé un logiciel de GPAO. Vous savez analyser les données de production et prendre en compte les critères qualité.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T18:29:25.519Z",
+        "expiration": "2026-11-21T18:29:25.519Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225a",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DZSH"
+    },
+    "workplace": {
+      "siret": "49413215200039",
+      "brand": null,
+      "legal_name": "MAGALI MORALES",
+      "website": null,
+      "name": "MAGALI MORALES",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34280 La Grande-Motte",
+        "geopoint": {
+          "coordinates": [
+            4.074672,
+            43.56818
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZSH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Coiffeur / Coiffeuse",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Nous recherchons un coiffeur / une coiffeuse en CONTRAT ALTERNANCE OU APPRENTISSAGE pour préparer un BP COIFFURE \nVous travaillerez 5 jours par semaine de 9h00 à 18h00 en continu, et sur 2 salons situés à la Grande Motte, avec 2 jours de repos à déterminer.\nVOUS ETES TITULAIRE D UN CAP COIFFURE et souhaitez évoluer vers un BP",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:58:17.534Z",
+        "expiration": "2026-11-21T16:58:17.534Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12255",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DZFT"
+    },
+    "workplace": {
+      "siret": "85126685800022",
+      "brand": null,
+      "legal_name": "FELICE",
+      "website": null,
+      "name": "FELICE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.30Z",
+          "label": "Débits de boissons"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZFT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) COMMUNICATION (H/F)",
+      "rome_codes": [
+        "M1504"
+      ],
+      "description": "OFFRE D'ALTERNANCE - APPRENTI(E) COMMUNICATION / CRÉATION DE CONTENU\nLe Melice - Montpellier\n\nIMPORTANT\nEn raison de l'évolution des aides gouvernementales liées à l'apprentissage, nous n'acceptons aucune candidature au-dessus d'un niveau Bac +2 (ou équivalent).\n\nLe Melice recherche son/sa futur(e) apprenti(e) en communication pour accompagner le développement de sa visibilité et de son image à travers la création de contenus digitaux et événementiels.\n\nPROFIL RECHERCHÉ\nNous recherchons avant tout une personne créative, autonome et dynamique, avec une vraie sensibilité pour la production de contenu.\nLa maîtrise de la création de contenus est indispensable :\nphoto,\nvidéo,\nmontage,\ncréation de visuels,\ncontenus réseaux sociaux.\n\nMISSIONS PRINCIPALES\nCréation de contenus photo et vidéo pour les réseaux sociaux\nRéalisation de reels, stories, vidéos courtes et contenus engageants\nGestion et animation des réseaux sociaux\nCréation de supports de communication (flyers, affiches, menus, visuels)\nCouverture des événements organisés par l'établissement\nParticipation au développement de l'image et de la stratégie digitale du Melice\n\nOUTILS APPRÉCIÉS\nCanva\nCapCut / Premiere Pro / logiciels de montage\nMeta Business Suite\nMaîtrise d'Instagram, TikTok et Facebook\n\nPROFIL\nCréatif(ve) et force de proposition\nOrganisé(e) et réactif(ve)\nÀ l'aise avec les tendances réseaux sociaux\nBonne autonomie\nIntérêt pour l'univers de la restauration, de l'événementiel\n\nLieu du poste : En présentiel",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de communication orales, écrites et numériques",
+        "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
+        "Elaborer des processus, méthodes et outils de gestion des ressources humaines"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:49:17.467Z",
+        "expiration": "2026-11-21T16:49:17.467Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12252",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DYTG"
+    },
+    "workplace": {
+      "siret": "82045923800011",
+      "brand": "COULEURS D'ICI",
+      "legal_name": "SOCIETE T.M.",
+      "website": null,
+      "name": "SOCIETE T.M.",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34880 Lavérune",
+        "geopoint": {
+          "coordinates": [
+            3.804882,
+            43.586196
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DYTG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI(E) - Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Restaurant semi-gastronomique à Lavérune, aux portes de Montpellier\nChez Couleurs d'ici, nous travaillons une cuisine française, créative élaborée à partir de produits frais et de saison.\nNotre carte évolue chaque premier mercredi du mois afin de suivre les produits du marché.\nQue ce soit pour un déjeuner entre amis, un dîner en amoureux, un repas d'affaires ou une occasion particulière, nous mettons tout en oeuvre pour faire de votre visite un moment unique.\nLaissez-vous guider par les couleurs des saisons... et venez partager un instant gourmand.\nNous recherchons un(e) apprenti(e) serveur(serveuse) pour un service d'environ 50 couverts par jour.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T16:40:32.814Z",
+        "expiration": "2026-11-21T16:40:32.814Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1224e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTSW"
+    },
+    "workplace": {
+      "siret": "88811298400040",
+      "brand": null,
+      "legal_name": "PRH 360",
+      "website": null,
+      "name": "PRH 360",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.976877,
+            43.587984
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "82.11Z",
+          "label": "Services administratifs combinés de bureau"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTSW",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur / Serveuse (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Restaurant situé à Mauguio - Zone d'activité\n\nDans le cadre de son développement, un restaurant situé dans la zone d'activité de Mauguio recherche un(e) apprenti(e) serveur(se) souhaitant se former aux métiers du service en salle et au bar.\n\nVos missions\n\nAccompagné(e) par l'équipe du restaurant, vous participerez progressivement à l'ensemble des activités liées au service :\n\nAccueil et installation des clients\nPrise de commandes\nService des plats et des boissons\nPréparation et service des boissons au bar\nMise en place de la salle et du bar\nDébarrassage et remise en état des tables\nParticipation à l'entretien des espaces de travail\nConseil et attention portée à la satisfaction des clients\nRespect des règles d'hygiène et de sécurité\n\n\nProfil recherché\n\nNous recherchons avant tout une personne : \nDynamique, souriant(e) et à l'aise avec la clientèle\nPonctuel(le) et sérieux(se)\nAyant le goût du travail en équipe\nMotivé(e) pour apprendre le métier de serveur(se)\nIntéressé(e) à la fois par le service en salle et le service au bar\n\nDébutant(e) accepté(e) : la motivation et le savoir-être seront privilégiés.\n\nContrat :\nContrat d'apprentissage\nFormation préparant au métier de serveur en restauration\nAlternance entre le restaurant et le CFA\nPoste basé à Mauguio - Zone d'activité\nRémunération selon l'âge et les dispositions légales applicables au contrat d'apprentissage\n\nUne belle opportunité pour apprendre le métier directement sur le terrain et développer une expérience complète en service en salle et au bar.\nUn week-end sur deux libre.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client",
+        "Réaliser la mise en place de la salle et de l'office"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:33:08.779Z",
+        "expiration": "2026-11-21T15:33:08.779Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12256",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTRN"
     },
     "workplace": {
       "siret": null,
@@ -15569,14 +16728,357 @@
       "legal_name": null,
       "website": null,
       "name": null,
-      "description": "Évolution &amp; développement\n\nFlexibilité, autonomie et évolution,autant d'ingrédients essentiels pour te révéler. C'est simple, on veut te donner tous les moyens de réussir avec des parcours de formation et des opportunités adaptés à tes envies. La routine ? Pas chez nous. Tu pourras même changer de métier sans changer de boite.\nAlors, ça te tente un métier qui en cache plein d'autres ?\n\n\n\n \n\n\nBien-être\n\n« CAREa vous dit quelque chose ?Pour nous, c'est très important. On veut que tout le monde...",
+      "description": null,
       "size": null,
       "location": {
-        "address": "34430 Saint-Jean-de-Védas",
+        "address": "34320 Roujan",
         "geopoint": {
           "coordinates": [
-            3.832002,
-            43.574823
+            3.316003,
+            43.505006
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "96.09Z",
+          "label": "Autres services personnels n.c.a."
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTRN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprentissage Esthéticien-manucure / Esthéticienne-manucure (H/F)",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "REJOIGNEZ NOTRE ÉQUIPE : \nVous êtes passionné(e) par l'univers de l'esthétique et vous souhaitez monter en compétences dans un cadre moderne et spécialisé ? Notre salon, expert en onglerie et épilation laser, recherche sa perle rare pour un BP Esthétique en alternance ! \n\nVOTRE MISSION AU QUOTIDIEN\nAu sein de notre équipe dynamique, vous ne connaîtrez pas la routine ! \nVous interviendrez sur des prestations de haute qualité :\n\nL'art de l'onglerie : Manucure, pédicure, soins complets et massages relaxants des mains et des pieds.\nExpertise Laser : Vous prendrez en charge l'épilation laser. Le petit plus ? Une formation complète est prévue directement avec le fabricant pour vous apprendre à maîtriser l'appareil en toute sécurité !\n\nLE PROFIL QUE NOUS RECHERCHONS\nVous êtes déjà titulaire d'un CAP idéalement passé en alternance, votre enthousiasme est notre priorité ! \n\nNous recherchons avant tout une personnalité :\nSolaire et courtoise : Vous avez le sens de l'accueil et le sourire facile.\nProfessionnelle : La politesse et la bienveillance sont pour vous naturelles.\nAutonome : Vous savez prendre des initiatives et gérer votre poste avec soin.\n\nIntéressé(e) ? Venez nous rencontrer sur le Salon Place de l'Emploi de Pézenas le 7 octobre 2026 de 13h00 à 16h30 dans la Cour d'Honneur de la Mairie. Venez avec plusieurs CV.\n+ d'infos : Mes événements Emploi",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser des soins d'épilation",
+        "Réaliser des soins de manucure, pédicure",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "ONGLERIE"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:31:51.496Z",
+        "expiration": "2026-11-21T15:31:51.496Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b1225c",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DTMQ"
+    },
+    "workplace": {
+      "siret": "53012370200033",
+      "brand": null,
+      "legal_name": "GPT EMP GEIQ OC AGRI",
+      "website": null,
+      "name": "GPT EMP GEIQ OC AGRI",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 9341,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DTMQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier viticole en contrat de professionnalisation (H/F)",
+      "rome_codes": [
+        "A1418"
+      ],
+      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \nSecteur d'activité autour de MONTPELLIER (34).\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\n\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\n4 blocs de compétences certifiés indépendamment les uns des autres :\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\n- Travaux mécanisés de conduite du vignoble\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\n- Opérations de vinification\n\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\n400h de formation\nAlternance en Entreprise\nIndemnité repas: 2.66 € / jour\nIndemnité transport: 1.75 € / jour\n\nposte à pourvoir à compter du 19/10/2026",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soins aux arbres ou ceps"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T15:28:24.469Z",
+        "expiration": "2026-11-21T15:28:24.469Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12259",
+      "partner_label": "France Travail",
+      "partner_job_id": "7057743"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34120 Pézenas",
+        "geopoint": {
+          "coordinates": [
+            3.418941,
+            43.456901
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=D687MlL1Xu/+0vhZwY+xFQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:36:26.164Z",
+        "expiration": "2026-11-21T14:36:26.164Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12258",
+      "partner_label": "France Travail",
+      "partner_job_id": "7057746"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ACTUAL TALENT",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "70.22Z",
+          "label": "Conseil pour les affaires et autres conseils de gestion"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ppOEtBIaaorGL4EF0vulPg==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
+      "rome_codes": [
+        "D1404"
+      ],
+      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:36:26.163Z",
+        "expiration": "2026-11-21T14:36:26.163Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ad989b5a0cfb25b12254",
+      "partner_label": "France Travail",
+      "partner_job_id": "214DQGL"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "66.22Z",
+          "label": "Activités des agents et courtiers d'assurances"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DQGL",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller commercial en Assurances en Apprentissage (H/F)",
+      "rome_codes": [
+        "C1102"
+      ],
+      "description": "Nous recherchons un conseiller commercial en assurances en alternance qui prépare un Bachelor Commerce ou Banque Assurances.\n\nMissions principales :\n\n- Accueillir et conseiller les clients sur les produits d'assurance.\n- Participer à la prospection et au développement du portefeuille clients.\n- Analyser les besoins des clients et proposer des solutions adaptées.\n- Assister les conseillers commerciaux dans la gestion et le suivi des contrats.\n- Contribuer à la fidélisation de la clientèle.\n- Participer à des actions commerciales et marketing.\n- Apprendre et maîtriser les techniques de vente et de négociation.\n- Se former aux produits d'assurance et à la réglementation du secteur.\n\nProfil recherché :\n\n- Étudiant(e) en Bachelor Commerce ou Banque Assurance.\n- Intérêt marqué pour le secteur de l'assurance et la relation client.\n- Bonnes capacités relationnelles et commerciales.\n- Rigueur, organisation et sens du service client.\n- Dynamisme, motivation et esprit d'équipe.\n\nQualités personnelles :\n\n- Sens de l'écoute et de la communication.\n- Capacité d'adaptation et réactivité.\n- Autonomie et curiosité.\n- Esprit d'initiative et de synthèse.",
+      "target_diploma": {
+        "european": "6",
+        "label": "Licence, BUT, Licence Pro (Bac+3)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Assurances",
+        "Développer un portefeuille clients et prospects",
+        "Rassembler les justificatifs et transmettre la proposition d'assurance pour décision",
+        "Recueillir et analyser les besoins client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-21T14:23:18.839Z",
+        "expiration": "2026-11-21T14:23:18.839Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1ae78375ebabde2e2ecfb",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56933897"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Proman",
+      "description": "<p>PROMAN est le 4ème acteur européen sur le marché du travail temporaire et des ressources humaines. Avec 1 278 agences dans 18 pays dont 400 en France, PROMAN fait travailler 100 000 collaborateurs intérimaires chaque jour. Le Groupe fondé à Manosque en 1990, est le partenaire privilégié de plus de 50 000 entreprises des secteurs comme l'industrie, le btp, la logistique, le tertiaire ou l'automobile. En forte croissance année après année, PROMAN surperforme son marché en 2024 avec un chiffre d'affaires de 4,4 milliards d'euros. L'entreprise familiale compte aujourd'hui 6 500 collaborateurs permanents et doit sa position à ses valeurs fondatrices : le travail, l'agilité, la bienveillance, l'audace, le plaisir et le bon sens.</p>",
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
           ],
           "type": "Point"
         }
@@ -15588,31 +17090,100 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/54179486?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "url": "https://www.meteojob.com/jobs/56933897?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": 12,
+      "duration": null,
       "type": [
+        "Apprentissage",
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Alternance - Assistant manager (NIVEAU BAC / Titre AMUM) - H/F",
+      "title": "Apprenti macon vrd - canalisateur H/F",
       "rome_codes": [
-        "F1125"
+        "F1705"
       ],
-      "description": "En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.Oui, ça fait rêver. Et ce n'est pas tout...Dans cette (merveilleuse) team, vous aurez la responsabilité de :Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun ;Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements.) ;Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients ;Transmettre les bons réflexes hygiène et sécurité BURGER KING® à vos équipesOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.Ce parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.",
+      "description": "<p>  L'agence PROMAN Montpellier Juvenal recherche pour un de ses clients des candidats motivés pour se former aux métiers des  <strong>Travaux Publics H/F</strong>  . </p>   Vous souhaitez apprendre un métier de terrain, concret et essentiel à nos infrastructures ? Nous recherchons des candidats motivés pour intégrer une formation  <strong>aux métiers de Maçon VRD et Canalisateur</strong>  , en formation  <strong>initiale</strong>  .    Au cours de votre formation, vous serez formé aux deux métiers. En tant que  <strong>Maçon VRD</strong>  , vous apprendrez à réaliser des travaux d'aménagement liés aux routes, aux trottoirs, aux réseaux et aux espaces publics. En tant que  <strong>Canalisateur</strong>  , vous apprendrez à poser et entretenir les réseaux enterrés, notamment pour l'eau potable, les eaux usées et les eaux pluviales.    À l'issue de votre parcours, vous passerez un  <strong>Titre Professionnel</strong>  <strong>Maçon VRD</strong>  ou  <strong>Canalisateur</strong>  .    Votre mission initiale durera 3 mois avec un démarrage  <strong>début décembre 2026</strong>  .  <br /> <p>Pour plus d'offres d'emploi, téléchargez notre application myPROMAN intérimaires sur App Store ou Google Play.</p> <br />   Nous recherchons des personnes  <strong>motivées</strong>  ,  <strong>sérieuses</strong>  ,  <strong>volontaires</strong>  et prêtes à  <strong>s'investir</strong>  dans leur formation et dans leur mission. Une  <strong>première expérience</strong>  dans le BTP, idéalement de  <strong>6 mois minimum</strong>  ainsi que le  <strong>permis B</strong>  sont souhaités.  <br /> <p>Tous nos postes sont ouverts aux personnes en situation de handicap.</p>\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Maçon VRD (H/F)\r\n\r\nTemps Plein",
       "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "débutant à 1 an"
+      ],
+      "publication": {
+        "creation": "2026-09-21T05:21:41.224Z",
+        "expiration": "2026-11-21T05:21:41.224Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "69cc493e8e98c08f34b4d182",
+      "partner_label": "Meteojob",
+      "partner_job_id": "52998970"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPE NICOLLIN",
+      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/52998970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chef de secteur H/F",
+      "rome_codes": [
+        "K2203"
+      ],
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-21T12:11:37.000Z",
-        "expiration": "2026-09-21T12:11:37.000Z"
+        "creation": "2026-09-20T22:05:42.483Z",
+        "expiration": "2026-11-20T22:05:42.483Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16410,76 +17981,6 @@
   },
   {
     "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0a8",
-      "partner_label": "France Travail",
-      "partner_job_id": "214BSFJ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34990 Juvignac",
-        "geopoint": {
-          "coordinates": [
-            3.801257,
-            43.620712
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BSFJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e Employé/ e polyvalent/e Libre service (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "Au sein d'un magasin d'environ 300 m², dans le cadre de votre apprentissage, vous rejoindrez une équipe à taille humaine et participerez à l'ensemble des activités nécessaires au bon fonctionnement du magasin. \nNous recherchons avant tout une personne dynamique, polyvalente et ayant le sens du service client. \n\n VOS MISSIONS \n-Mise en rayon \n Réceptionner et contrôler les marchandises. \n Mettre les produits en rayon et assurer leur réassort. \n Veiller au rangement et à la bonne présentation des rayons. \n Contrôler les dates limites de consommation et effectuer la rotation des produits. \n Vérifier l'affichage des prix et des promotions. \n Maintenir les rayons propres et attractifs. \n-Réception et gestion des marchandises \n Participer au déchargement et au rangement des livraisons. \n Contrôler les quantités et l'état des marchandises. \n Participer à la gestion des stocks. \n Signaler les ruptures et les anomalies. \n- Relation client \n Accueillir et renseigner les clients. \n Répondre à leurs demandes et les orienter dans le magasin. \n Veiller à leur satisfaction et contribuer à une bonne expérience d'achat. \n-Polyvalence en magasin \nSelon les besoins du magasin, vous pourrez également être amené(e) à : \n tenir la caisse ; \n participer au rangement et au nettoyage ; \n aider sur différents rayons ; \n participer aux inventaires ; \n renforcer l'équipe lors des périodes de forte activité.\n\nNous recherchons une personne sérieuse, motivée et dynamique, qui apprécie le travail en équipe et le contact avec la clientèle. \nVous êtes : \n ponctuel(le)\n organisé(e) et rigoureux(se) ; \n dynamique et réactif(ve) ; \n polyvalent(e) ; \n à l'aise avec le travail en équipe ; \n attentif(ve) à la satisfaction du client ;",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Contrôler le balisage et l'étiquetage des produits en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T10:35:19.176Z",
-        "expiration": "2026-11-18T10:35:19.176Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193ba",
       "partner_label": "France Travail",
       "partner_job_id": "213ZWTC"
@@ -16984,68 +18485,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -17093,6 +18532,68 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -17920,72 +19421,6 @@
   },
   {
     "identifier": {
-      "id": "69cc493e8e98c08f34b4d182",
-      "partner_label": "Meteojob",
-      "partner_job_id": "52998970"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/52998970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de secteur H/F",
-      "rome_codes": [
-        "K2203"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T23:05:53.000Z",
-        "expiration": "2026-11-14T23:05:53.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa872f15743d160f9f96ace",
       "partner_label": "France Travail",
       "partner_job_id": "213VWXD"
@@ -18322,76 +19757,6 @@
       "publication": {
         "creation": "2026-09-11T22:43:34.917Z",
         "expiration": "2026-11-11T22:43:34.917Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa32d46d4cd2f3dc0105960",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SFWM"
-    },
-    "workplace": {
-      "siret": "98850430400029",
-      "brand": "DIAMANTOR",
-      "legal_name": "DIAMANTOR MONTPELLIER-LATTES",
-      "website": null,
-      "name": "DIAMANTOR MONTPELLIER-LATTES",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.77Z",
-          "label": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFWM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur Conseil Bijouterie alternance (H/F)",
-      "rome_codes": [
-        "D1246"
-      ],
-      "description": "Nous proposons une opportunité en alternance pour un(e) étudiant(e) passionné(e) par l'univers de la bijouterie et souhaitant développer ses compétences.\n\nSous la hiérarchie du Responsable de Magasin, vos missions seront les suivantes :\n\n- Etre l'ambassadeur de la marque pour fidéliser et satisfaire la clientèle,\n- Accueillir et conseiller les clients,\n- Respecter les procédures et les modes opératoires du magasin.\n- Ranger, étiqueter les produits et veiller à la mise en valeur des vitrines,\n- Effectuer des opérations d'encaissement,\n- Assurer le service après-vente en cas de retour, réclamation et/ou litige Clients.\n- Participer à l'entretien de la surface de vente,\n- Développer le chiffre d'affaires et les ventes du magasin,\n- Créer une relation chaleureuse et durable avec les clients du magasin.\n\nEn étant garant de l'image de marque, vous saurez respecter les codes du luxe et satisfaire la clientèle est pour vous une priorité et un enjeu de tous les jours !\nVotre profil : Titulaire d'un bac généraliste ou professionnel, vous souhaitez poursuivre en bac+2 commerce type BTS MCO ou BTS NDRC. \n\nHoraires : lundi au vendredi 9h30/19h, samedi 10h/19h30 (selon planning de travail défini à l'avance).\n\nSavoir-être : Autonomie, commerçant, convivial, disponible, honnêteté, rigueur, organisé, sens de l'équipe et du relationnel, souriant, orienté Clients et performances/résultats.\n\nDress code black avec des chaussures de ville ( pas de jeans ni baskets).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Procédures d'encaissement",
-        "Techniques de mise en rayon",
-        "Organiser, aménager un espace de vente",
-        "Présenter et valoriser un produit ou un service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T17:15:43.910Z",
-        "expiration": "2026-11-10T17:15:43.910Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20061,201 +21426,6 @@
   },
   {
     "identifier": {
-      "id": "6a9de79685d4232b2a93087b",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683696"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kUY2czO+RefweS/I/3vqnQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:23.805Z",
-        "expiration": "2026-11-06T14:34:23.805Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9de79685d4232b2a93087d",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683685"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34120 Pézenas",
-        "geopoint": {
-          "coordinates": [
-            3.418941,
-            43.456901
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=kYv22rKNt9Xd3L+rbJOpVQ==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:22.894Z",
-        "expiration": "2026-11-06T14:34:22.894Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9de79685d4232b2a93087c",
-      "partner_label": "France Travail",
-      "partner_job_id": "6683628"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ACTUAL TALENT",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.22Z",
-          "label": "Conseil pour les affaires et autres conseils de gestion"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=qDZbsoHYA6A8GQuhITkF5A==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller Client Après-Vente Automobile (RAV) F/H",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Une formation en alternance qui recrute !\nVous aimez le contact client, le travail en équipe et l'univers automobile ? Faites de votre passion un métier d'avenir en intégrant la formation Réceptionnaire Après-Vente Véhicules Légers (RAV), une qualification reconnue par la branche des services de l'automobile.\n \nVotre futur métier\nVéritable interface entre le client et l'atelier, le(a) Conseiller(ère) Client Après-Vente est un(e) acteur(rice) clé de la satisfaction client.\n\nVos missions en 3 piliers :\n- Relation client-e : Accueillir le public, écouter les besoins, faire le tour du véhicule et planifier l'intervention.\n- Organisation : Créer les ordres de réparation, planifier la charge de travail des mécanicien-nes et suivre les délais.\n- Commerce : Proposer des services complémentaires, expliquer la facture avec pédagogie et garantir la satisfaction client-e.\n\nUne qualification reconnue\nCette formation prépare au Titre à Finalité Professionnelle Réceptionnaire Après-Vente Véhicules Légers (RAV), enregistré au RNCP (RNCP 36885) et délivré par l'ANFA.\n\nVos perspectives :\nDécrochez un diplôme d'excellence équivalent BAC+2 en seulement un an : Titre à Finalité Professionnelle enregistré au RNCP certifié par l'ANFA. Évoluez rapidement vers des fonctions de Conseiller-ère expert-e, Chef-fe d'équipe ou Responsable d'atelier.\n\nUn secteur qui recrute\nLes concessions, garages, réseaux constructeurs et centres automobiles recherchent activement des professionnels capables de conjuguer relation client, organisation et connaissances techniques.\n\n  \n Nous recherchons des candidat(e)s qui possèdent :\n- Un excellent sens du relationnel et du service client.\n- Une fibre commerciale et le goût du conseil.\n- De l'organisation et de la rigueur.\n- Un esprit d'équipe.\n- Une forte orientation satisfaction client.\n\nPas besoin d'être un(e) expert(e) en mécanique ! Un intérêt pour l'automobile et quelques connaissances techniques de base suffisent pour réussir dans cette formation.\n\nConditions d'accès\nVous êtes titulaire d'un Bac professionnel ou d'un BTS dans le domaine de la maintenance des véhicules légers ou à dominante commerciale\n\nOuvert aux :\nCandidat(e)s éligibles à un contrat d'apprentissage ou de professionnalisation.\nDemandeurs(ses) d'emploi",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-06T14:34:20.932Z",
-        "expiration": "2026-11-06T14:34:20.932Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a2c871ea914bd1428f0f5b5",
       "partner_label": "Meteojob",
       "partner_job_id": "54662577"
@@ -21629,76 +22799,6 @@
   },
   {
     "identifier": {
-      "id": "6a97503a9891627144750bac",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CWZX"
-    },
-    "workplace": {
-      "siret": "99251902500017",
-      "brand": "BOULANGERIE FEUILLETTE",
-      "legal_name": "BOULANGERIE -F- BALARUC LES BAINS",
-      "website": null,
-      "name": "BOULANGERIE -F- BALARUC LES BAINS",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34540 Balaruc-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.690774,
-            43.446804
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CWZX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti vendeur en boulangerie (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis vendeurs en boulangerie (H/F).\nVous souhaitez apprendre le métier de vendeur dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe de vente, vous participerez progressivement à :\nL'accueil et le conseil client dans le respect des standards Feuillette.\nLa mise en valeur des produits en vitrine et en boutique.\nLa vente et l'encaissement des produits.\nLe respect des règles d'hygiène, de sécurité et des procédures magasin.\nLa coordination avec les équipes de production pour assurer la disponibilité et la fraîcheur des produits.\nLa participation à l'entretien et à l'organisation de l'espace de vente.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Développer et fidéliser la relation client",
-        "Mettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Organiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-31T11:12:31.556Z",
-        "expiration": "2026-10-31T11:12:31.556Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a97503a9891627144750bb1",
       "partner_label": "France Travail",
       "partner_job_id": "213CPKM"
@@ -21758,151 +22858,6 @@
       "publication": {
         "creation": "2026-08-31T08:25:24.222Z",
         "expiration": "2026-10-31T08:25:24.222Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750bb3",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CMYG"
-    },
-    "workplace": {
-      "siret": "83798134900017",
-      "brand": "S.I.W.L",
-      "legal_name": "SIWL",
-      "website": "http://www.casacubanamontpellier.fr",
-      "name": "SIWL",
-      "description": "Nous sommes une entreprise possédant 4 établissements dans le centre-ville de Montpellier.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CMYG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Barman / barmaid / Serveur / Serveuse en apprentissage (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Nous sommes un groupe de 4 bars restaurants dans le centre ville de Montpellier\nNous proposons 2 postes de Barman / Barmaid / Serveur / Serveuse tournant(e)s sur les 4 établissements (dans un rayon de 400 m). - Cubanito café - Casita del Barrio - Casa Cubana - Irish Tavern\nRiche expérience sur 4 établissements différents pour apprendre un métier en apprentissage.\nHoraires d'ouverture 17h - 1h00 du matin, service du soir uniquement.\nOuvert du lundi au dimanche d'avril à octobre puis de mardi à samedi de novembre à avril\nPersonne majeure uniquement (+ de 18 ans) car bar avec licence 4 Candidatures par mail à envoyer sur l'adresse mail suivante:",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client",
-        "Préparer des boissons chaudes ou froides",
-        "Réaliser la mise en place de la salle et de l'office",
-        "Maintenir une communication claire et professionnelle",
-        "Rendre compte de son action, de risques ou d'anomalies au responsable",
-        "S'exprimer avec politesse et courtoisie"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T18:01:28.515Z",
-        "expiration": "2026-10-30T18:01:28.515Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a97503a9891627144750bb5",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CMXY"
-    },
-    "workplace": {
-      "siret": "83798134900017",
-      "brand": "S.I.W.L",
-      "legal_name": "SIWL",
-      "website": "http://www.casacubanamontpellier.fr",
-      "name": "SIWL",
-      "description": "Nous sommes une entreprise possédant 4 établissements dans le centre-ville de Montpellier.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1979,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CMXY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de Cuisine en apprentissage (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Nous sommes un groupe de 4 bars restaurants dans le centre ville de Montpellier\nNous proposons 1 postes de commis de cuisine tournants sur les 4 établissements (dans un rayon de 400 m). - Cubanito café - Casita del Barrio - Casa Cubana - Irish Tavern\nRiche expérience sur 4 cuisines différentes pour apprendre un métier en apprentissage.\nHoraires d'ouverture 17h - 1h00 du matin, service du soir uniquement. (Pas de coupure)\nOuvert du lundi au dimanche d'avril à octobre puis de mardi à samedi de novembre à avril.\nPersonne majeure uniquement (+ de 18 ans) car bar avec licence 4.\nCandidatures par mail à envoyer sur l' adresse mail suivante:",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Cuire des viandes, poissons ou légumes",
-        "Dresser des plats pour le service",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Eplucher des légumes et des fruits",
-        "Préparer les viandes et les poissons"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-30T17:53:50.149Z",
-        "expiration": "2026-10-30T17:53:50.149Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -24058,134 +25013,6 @@
       "publication": {
         "creation": "2026-07-27T15:09:51.348Z",
         "expiration": "2026-10-19T16:23:11.139Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a63175ce5fa1b20ee1b6f60",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a63175ce5fa1b20ee1b6f60"
-    },
-    "workplace": {
-      "siret": "93841979300014",
-      "brand": null,
-      "legal_name": "MEDEA CENTRE DENTAIRE BEZIERS",
-      "website": null,
-      "name": "MEDEA CENTRE DENTAIRE BEZIERS",
-      "description": "",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34290 Lieuran-lès-Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.236152,
-            43.414746
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a63175c4acef524be4ec57e",
-      "phone": null,
-      "recipient_id": "partners_6a63175ce5fa1b20ee1b6f60"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 18,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant / Assistante dentaire",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "L'assistant dentaire joue un rôle important dans le fonctionnement quotidien d'un cabinet dentaire.\\nPrépare les matériaux et les instruments nécessaires aux interventions\\nAssiste le dentiste dans les procédures de soins dentaires\\nGère l'accueil et le confort des patients avant, pendant et après les soins\\nAssure la stérilisation et le rangement du matériel dentaire\\nPeut gérer les rendez-vous et les dossiers des patients\\nContribue à la gestion administrative du cabinet dentaire",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-24T07:42:20.021Z",
-        "expiration": "2026-09-22T07:42:20.015Z"
-      },
-      "opening_count": 2,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5ff3bc6cce1228eac4eb68",
-      "partner_label": "France Travail",
-      "partner_job_id": "5206982"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": "Évolution &amp; développement\n\nFlexibilité, autonomie et évolution,autant d'ingrédients essentiels pour te révéler. C'est simple, on veut te donner tous les moyens de réussir avec des parcours de formation et des opportunités adaptés à tes envies. La routine ? Pas chez nous. Tu pourras même changer de métier sans changer de boite.\nAlors, ça te tente un métier qui en cache plein d'autres ?\n\n\n\n \n\n\nBien-être\n\n« CAREa vous dit quelque chose ?Pour nous, c'est très important. On veut que tout le monde...",
-      "size": null,
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832002,
-            43.574823
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/54179486?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Assistant manager (NIVEAU BAC / Titre AMUM) - H/F",
-      "rome_codes": [
-        "F1125"
-      ],
-      "description": "En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.Oui, ça fait rêver. Et ce n'est pas tout...Dans cette (merveilleuse) team, vous aurez la responsabilité de :Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun ;Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements.) ;Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients ;Transmettre les bons réflexes hygiène et sécurité BURGER KING® à vos équipesOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.Ce parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-21T12:11:37.000Z",
-        "expiration": "2026-09-21T12:11:37.000Z"
       },
       "opening_count": 1,
       "status": "Active"
