@@ -1,6 +1,312 @@
 [
   {
     "identifier": {
+      "id": "6ab37fe76f4b8c2422159573",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab37fe76f4b8c2422159573"
+    },
+    "workplace": {
+      "siret": "93993465900029",
+      "brand": "MISS COOKIES COFFEE",
+      "legal_name": "MCOFFEE LATTES",
+      "website": null,
+      "name": "MCOFFEE LATTES",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "AVENUE GEORGES FRECHE 34970 LATTES",
+        "geopoint": {
+          "coordinates": [
+            3.922562,
+            43.584249
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab37fe76f4b8c2422159573/employé-polyvalent-employée-polyvalente-de-restaurant",
+      "phone": null,
+      "recipient_id": "partners_6ab37fe76f4b8c2422159573"
+    },
+    "contract": {
+      "start": "2026-09-23T07:29:43.279Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-09-23T07:29:43.279Z",
+        "expiration": "2026-11-23T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2b5e202e46aa2d5f3c1f7",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab2b5e202e46aa2d5f3c1f7"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Alternance BTS MCO 1re année — Conseiller(ère) de Vente Smart Home &amp; Domotique | Toulon\n\nPassionné(e) par la tech et le commerce ? Notre partenaire, un spécialiste de la maison connectée à Toulon, recrute son/sa futur(e) alternant(e) !\nTes missions :\n• Accueillir, conseiller et proposer des solutions sur-mesure (sécurité, énergie, confort).\n• Réaliser des démonstrations immersives d'objets connectés en showroom.\n• Participer au merchandising, à la gestion des stocks et au suivi des devis.\n• Vendre et fidéliser : Co-construire des solutions sur-mesure, réaliser les devis et concrétiser les ventes.\n\nTon profil :\nInscrit(e) en BTS MCO (1ère année), tu es curieux(se), dynamique, doté(e) d'un excellent relationnel et attiré(e) par l'innovation technologique.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab2b5e202e46aa2d5f3c1f7/conseiller-de-vente-h-f-en-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ab2b5e202e46aa2d5f3c1f7"
+    },
+    "contract": {
+      "start": "2026-09-22T17:07:46.391Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller de vente (H/F) en Alternance",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "L'Attaché commercial dynamise efficacement l'offre de l'entreprise auprès de clients fidélisés ou de prospects. Développe et entretient des relations pour maximiser les ventes et la satisfaction client Identifie les besoins des clients et propose des solutions adaptées pour améliorer leur expérience Négocie les contrats et les conditions commerciales pour optimiser les résultats financiers Participe à augmenter les parts de marché de l'entreprise Assure le suivi des ventes et des indicateurs de performance pour ajuster les stratégies commerciales Participe à des salons professionnels et des événements pour promouvoir les produits et services de l'entreprise Collabore avec les équipes internes pour garantir la cohérence des offres et la qualité du service client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Faire preuve de persévérance",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Qualité\tRéaliser un suivi quantitatif et qualitatif des actions de prospection : type de contact, profil de l'interlocuteur, nature des échanges (éventuellement via un logiciel CRM/GRC)",
+        "Gestion administrative et comptable\tAssurer le suivi des chiffres de vente et réaliser le reporting associé",
+        "Droit, contentieux et négociation\tConnaitre et respecter la législation commerciale liée au secteur d'activité",
+        "Droit, contentieux et négociation\tGérer les réclamations ainsi que les litiges commerciaux",
+        "Droit, contentieux et négociation\tNégocier un contrat",
+        "Droit, contentieux et négociation\tSuivre un contrat, vérifier le respect des clauses contractuelles",
+        "Relation client\tAnalyser les besoins des clients pour proposer des services adaptés",
+        "Relation client\tAssurer la qualité des relations avec les clients",
+        "Relation client\tCollaborer avec les équipes internes pour répondre aux demandes clients",
+        "Relation client\tDétecter les besoins et enjeux des prospects ou clients en lien avec l'offre de services ou produits de l'entreprise",
+        "Relation client\tFaire remonter les besoins clients en interne pour adapter l'offre aux enjeux émergents",
+        "Développement commercial\tConcevoir des propositions commerciales ou promouvoir des produits ou des offres personnalisés",
+        "Développement commercial\tConduire les négociations commerciales : prix, délais, promotions et conclure la vente (bons de commande, contrats de vente...)",
+        "Développement commercial\tDévelopper des stratégies pour améliorer l'expérience client",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tEffectuer une démonstration devant un client ou un public",
+        "Développement commercial\tEntrer en contact avec les prospects via tous les médias possibles et pertinents (appels téléphoniques, salons, foires, partenaires commerciaux, via les réseaux sociaux professionnels...)",
+        "Développement commercial\tEvaluer la satisfaction client et ajuster les services",
+        "Développement commercial\tIdentifier les forces et faiblesses de l'offre au contact du réel, pour adapter l'offre à la réalité du terrain",
+        "Développement commercial\tMettre en oeuvre des actions commerciales et promotionnelles",
+        "Développement commercial\tSurveiller les tendances du marché pour rester compétitif",
+        "Stratégie de développement\tRéaliser un suivi régulier sur l'activité commerciale : nombre de clients rencontrés, propositions commerciales rédigées, présentées, vendues, relances réalisées...",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Communication\tConvaincre de la pertinence des produits, des services développés par l'entreprise",
+        "Communication\tDévelopper et animer un réseau de partenaires commerciaux susceptibles de favoriser la mise en relation avec des prospects"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation à partir d'un Bac + 2 à Bac + 5 en commerce et vente. Les diplômes proposés incluent BTS en management commercial, commerce international, et technico-commercial, DUT et BUT en techniques de commercialisation, ainsi que des diplômes d'école de commerce et d'ingénieurs."
+      ],
+      "publication": {
+        "creation": "2026-09-22T17:07:46.391Z",
+        "expiration": "2026-11-22T00:00:00.000Z"
+      },
+      "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2948f02e46aa2d5f3ab16",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab2948f02e46aa2d5f3ab16"
+    },
+    "workplace": {
+      "siret": "84521083000012",
+      "brand": null,
+      "legal_name": "SAS THERON THIERRY METIERS DU FER",
+      "website": null,
+      "name": "SAS THERON THIERRY METIERS DU FER",
+      "description": "Spécialisé dans la restauration des monuments historiques, fabrication de gardes corps + escalier + rampe + pergola + verrière + véranda...\nNous travaillons uniquement l'acier",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "LE CAPITOUL 34700 LODEVE",
+        "geopoint": {
+          "coordinates": [
+            3.296771,
+            43.73356
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.32B",
+          "label": "Travaux de menuiserie métallique et serrurerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab2948f02e46aa2d5f3ab16/métallier-serrurier-métallière-serrurière",
+      "phone": null,
+      "recipient_id": "partners_6ab2948f02e46aa2d5f3ab16"
+    },
+    "contract": {
+      "start": "2026-09-22T14:45:35.608Z",
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Métallier-serrurier / Métallière-serrurière",
+      "rome_codes": [
+        "F1614"
+      ],
+      "description": "Prépare et pose toutes fermetures intérieures et extérieures en bois, métal, aluminium, PVC (portes, fenêtres, battants, volets roulants, grilles, murs, stores, clôtures, portes de garages,...) selon les règles de sécurité. Peut installer et régler des automatismes de fermetures. Peut entretenir, réparer, remplacer des éléments posés et leur système de fermeture.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Faire preuve d'autonomie",
+        "Faire preuve de leadership",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tAccompagner une personne dans l'acquisition de connaissances",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Data et Nouvelles technologies\tComprendre, interpréter des données et documents techniques",
+        "Conception\tAnalyser les incidents techniques et proposer des améliorations",
+        "Production, Fabrication\tPréparer du matériel en prévision d'un travail",
+        "Production, Fabrication\tRéaliser l'étanchéité de l'ensemble support et châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, etc",
+        "Production, Fabrication\tRéaliser les travaux de montage, d'assemblage",
+        "Construction\tAutomatiser un système de fermeture menuisée existant",
+        "Construction\tCouper les éléments de fermetures menuisées",
+        "Construction\tDémonter une fermeture menuisée et vérifier l'état du support",
+        "Construction\tFixer des poteaux et des tringles aux éléments maçonnés",
+        "Construction\tFixer des éléments menuisés",
+        "Construction\tInstaller une serrure et des accessoires de fermeture",
+        "Construction\tPoser un vitrage",
+        "Construction\tRéaliser des éléments menuisés sur mesure",
+        "Maintenance, Réparation\tContrôler la conformité d'un équipement, d'une machine, d'une installation",
+        "Maintenance, Réparation\tEntretenir, nettoyer un produit ou du matériel",
+        "Prévention des risques\tEvaluer, prévenir, et gérer les risques et la sécurité",
+        "Gestion des stocks\tCharger, décharger, manutentionner des produits",
+        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Stratégie de développement\tParticiper à l'innovation et contribuer à l'amélioration continue du travail",
+        "Communication\tCommuniquer à l'oral en milieu professionnel",
+        "Communication\tRelayer de l'information",
+        "Organisation\tAdapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
+        "Organisation\tAlerter, demander un appui ou un arbitrage",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un CAP/BEP en menuiserie, métallerie. Il est également accessible avec une expérience professionnelle dans ce secteur sans diplôme particulier. Un diplôme de niveau Bac (Bac professionnel, Brevet Professionnel) peut être demandé pour les postes d'encadrement d'équipe. Des connaissances complémentaires en électricité et en automatismes peuvent être requises."
+      ],
+      "publication": {
+        "creation": "2026-09-22T14:45:35.608Z",
+        "expiration": "2026-11-22T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ab12938aa4d626706b90548",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6ab12938aa4d626706b90548"
@@ -8708,16 +9014,146 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b1224f",
+      "id": "6ab2ff237caaafd3f596a472",
       "partner_label": "France Travail",
-      "partner_job_id": "7066742"
+      "partner_job_id": "7103238"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "Citya Immobilier",
+      "name": "Groupe Nicollin",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.groupenicollin.com/fr/annonce/4611233-chef-de-secteur-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Groupe Nicollin - Responsable de secteur en propreté de locaux (H/F)",
+      "rome_codes": [
+        "K2203"
+      ],
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion et assainissement de l'eau\n\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T21:18:08.829Z",
+        "expiration": "2026-11-22T21:18:08.829Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a473",
+      "partner_label": "France Travail",
+      "partner_job_id": "7100605"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPAMA MEDITERRANEE",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "94.12Z",
+          "label": "Activités des organisations professionnelles"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ChofiqqcC9VLDMwRAAMuug==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Gestionnaire Comptabilité H/F H/F",
+      "rome_codes": [
+        "A1102"
+      ],
+      "description": "Groupama Méditerranée est une caisse régionale d'assurance mutualiste implantée sur l'ensemble de la région méditerranéenne. Engagée auprès de ses sociétaires, qu'ils soient particuliers, professionnels ou entreprises, elle propose des solutions de proximité adaptées à leurs besoins.\n\nRejoindre Groupama Méditerranée en alternance, c'est intégrer une structure à taille humaine fondée sur l'entraide, la proximité et l'accompagnement. C'est également l'opportunité de développer ses compétences, de bénéficier d'un suivi personnalisé et de construire un parcours professionnel riche et porteur de sens.\n\n?? Votre mission sera de participer, au sein d'une équipe, à la gestion comptable générale et sociale, en appui au quotidien des activités de l'entreprise.\n\nPlus spécifiquement, vous aurez la possibilité de participer :\n\n- Au traitement comptable des opérations courantes (saisie, lettrage, pointage...)\n- Au contrôle, à la validation et au suivi des notes de frais\n- À la participation au traitement comptable des charges sociales et opérations liées à la paie\n- À la vérification et à la conformité des pièces justificatives comptables\n- À la mise à jour et au suivi des comptes fournisseurs, comptes de tiers et comptes sociaux\n- À l'analyse des écarts, au rapprochement des écritures et à la préparation des justificatifs de comptes\n- À l'amélioration continue des processus comptables et des outils de gestion\n\n?? Ce que nous offrons :\n\nUn environnement de travail collaboratif et bienveillant, avec des opportunités de développement personnel et professionnel.\nDes avantages nombreux et attractifs : un 13ème mois, Tickets Restaurants, Mutuelle, Prévoyance, CSE, Réductions sur les produits IARD, PEE, PERCO, ordinateur professionnel ...\n\nEt la suite ? ?\n\nÀ réception de votre candidature, nous nous engageons à l'étudier avec attention.\nSi votre candidature attire notre attention, l'équipe RH vous contactera pour un premier entretien.\nSi vous êtes sélectionné(e) et si vous souhaitez poursuivre le processus de recrutement, vous rencontrerez vos futurs managers.\n\nPrêt(e) à relever le défi ? ??\n\n  \n Admis(e) au sein d'une formation supérieure Bac +2/+3 ou Licence en Comptabilité, Gestion ou équivalent universitaire.\n\nVous êtes un(e) candidat(e) dynamique, engagé(e) et doté(e) d'un réel savoir-être, faisant preuve de rigueur, d'organisation et d'un bon esprit d'analyse.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T14:36:08.613Z",
+        "expiration": "2026-11-22T14:36:08.613Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46d",
+      "partner_label": "France Travail",
+      "partner_job_id": "7096599"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
       "description": null,
       "size": null,
       "location": {
@@ -8733,14 +9169,138 @@
       "domain": {
         "idcc": null,
         "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56428601?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Assistant Immobilier H/F",
+      "rome_codes": [
+        "C1502"
+      ],
+      "description": "Qui sommes-nous ?Citya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.En 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.Nous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !Vous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.Vous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.Vos missions :En Gestion de Copropriétp&gt;",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T12:23:14.302Z",
+        "expiration": "2026-11-22T12:23:14.302Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46c",
+      "partner_label": "France Travail",
+      "partner_job_id": "7094788"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56442696?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "ALTERNANCE Agent de Service Hospitalier (H/F)",
+      "rome_codes": [
+        "J1301"
+      ],
+      "description": "Envie de découvrir un secteur dynamique et qui forme à des métiers essentiels à tous ? C'est par ici ! Nous recherchons un Agent de Services Hospitaliers H/F pour notre entreprise partenaire à Montpellier dans le secteur de la propreté. Nous vous proposons d'intégrer notre formation TFP Agent Machiniste, dans le cadre d'un contrat en apprentissage.OMontpellier Quand ? : A partir de JuilletPour combien de temps ? : 12 mois Nombre de postes à pourvoir ? : 3 PostesUn peu plus de détails sur les missions ? Aux côtés de votre tuteur.rice, vous assurerez les missions suivantes : entretien et désinfection des chambres, des parties communes et des zones de circulation. Vous participerez au nettoyage et à l'hygiène des espaces de soins dans le respect des protocoles hospitaliers. Vous veillerez à la traçabilité des prestations réalisées, à l'utilisation conforme du matériel et des produits, ainsi qu'au respect strict des règles d'hygiène et de sécurité. Vous interviendrez sur un site hospitalier exigeant nécessitant rigueur, discrétion et sens du service. Rémunération : Selon la grille légale de l'apprentissageAucun frais à la charge de l'apprenti",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T12:21:29.186Z",
+        "expiration": "2026-11-22T12:21:29.186Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46f",
+      "partner_label": "France Travail",
+      "partner_job_id": "214FLCB"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
         "naf": {
-          "code": "68.32A",
-          "label": "Administration d'immeubles et autres biens immobiliers"
+          "code": "59.14Z",
+          "label": "Projection de films cinématographiques"
         }
       }
     },
     "apply": {
-      "url": "https://recrutement.citya.com/fr/annonce/4609315-alternant-assistant-immobilier-hf-34280-la-grande-motte?s_o=France+Travail&s_b=DigitalRecruiters",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FLCB",
       "phone": null,
       "recipient_id": null
     },
@@ -8748,23 +9308,97 @@
       "start": null,
       "duration": 24,
       "type": [
-        "Professionnalisation"
+        "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Citya Immobilier - Assistant / Assistante de gestion syndic immobilier (H/F)",
+      "title": "Vente, service d'un lieu culturel en apprentissage (H/F)",
       "rome_codes": [
-        "C1508"
+        "D1221"
       ],
-      "description": "Qui sommes-nous ?\nCitya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.\nEn 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.\nNous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !\nVous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.\nVous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.\nVos missions :\nEn Gestion de Copropriété :\n- Vous accompagnez un ensemble de co-propriétaires dans la gestion de leur immeuble\n- Vous participez et assurez le suivi des Assemblées Générales et des Conseils Syndicaux\n- Vous êtes le lien avec les prestataires travaux et veillez à l'avancée des chantiers\nEn Gestion Locative :\n- Vous conseillez un ensemble de propriétaires qui confient à l'agence la gestion de leur bien\n- Vous valorisez leur patrimoine et suivez les travaux à réaliser\n- Vous participez au développement d'un portefeuille client\nVous êtes titulaire ou en train de valider un Bac+2 et souhaitez apprendre le métier de Gestionnaire Immobilier ? Ce poste est fait pour vous !\n9 alternants sur 10 se verront proposer un CDI à l'issue de leur parcours !",
+      "description": "Vous occuperez ce poste afin de préparer un diplôme de niveau Bac, Bac+2 voir Bac +3.\n\nVos missions : \n- Accueillir les clients et faire le service des boissons chaudes et encas.\n- Faire la confection de planchas \n- Animer la zone, et faire le développement commercial (Etre force de proposition, animation et promotions sur les réseaux)\n- Echanger avec la clientèle sur les sujets culturels.\n\nVous travaillerez du jeudi au dimanche de 14h-15h à 21h30\n\nConditions d'accès aux contrats d'apprentissage :\n- Les jeunes âgés de 16 à 29 ans révolus\n- Au-delà de 29 ans révolus : les apprentis préparant un diplôme ou titre supérieur à celui obtenu, les travailleurs en situation de handicap, les personnes ayant un projet de création ou de reprise d'entreprise et les sportifs de haut niveau.\n\nVous devez impérativement candidater avec un texte de motivation.\nAttention pas de transports en commun aux horaires de travail.",
       "target_diploma": null,
       "desired_skills": [],
-      "to_be_acquired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-09-21T21:17:38.249Z",
-        "expiration": "2026-11-21T21:17:38.249Z"
+        "creation": "2026-09-22T09:48:05.185Z",
+        "expiration": "2026-11-22T09:48:05.185Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a470",
+      "partner_label": "France Travail",
+      "partner_job_id": "214FKSF"
+    },
+    "workplace": {
+      "siret": "45018827100032",
+      "brand": "HEXA JARDINS",
+      "legal_name": "HEXA'JARDINS",
+      "website": null,
+      "name": "HEXA'JARDINS",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 7018,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "81.30Z",
+          "label": "Services d'aménagement paysager"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FKSF",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Salon de l'emploi Lunel 2026 Apprenti Ouvrier/ère paysagiste (H/F)",
+      "rome_codes": [
+        "A1208"
+      ],
+      "description": "Employeur présent au salon de l'emploi le 13 10 26 de 9h00 à 13h00 à l'espace Castel 173 rue Marx Dormoy, LUNEL\n\nVous interviendrez  dans le secteur des espaces verts en création et entretien, en contrat d'apprentissage\nVous préparez le CAP ou le BP jardinier(e) paysagiste . \nContrat possible à partir de 16 ans . Rémunération en fonction de l'âge et du nombre d'années en apprentissage..",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Tailler les arbres",
+        "Préparer les sols, les plantations (épandage, semis, etc.)",
+        "Intégrer et entretenir un élément de décoration"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T09:37:29.087Z",
+        "expiration": "2026-11-22T09:37:29.087Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -8968,75 +9602,6 @@
       "publication": {
         "creation": "2026-09-21T16:58:17.534Z",
         "expiration": "2026-11-21T16:58:17.534Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12255",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DZFT"
-    },
-    "workplace": {
-      "siret": "85126685800022",
-      "brand": null,
-      "legal_name": "FELICE",
-      "website": null,
-      "name": "FELICE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZFT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI(E) COMMUNICATION (H/F)",
-      "rome_codes": [
-        "M1504"
-      ],
-      "description": "OFFRE D'ALTERNANCE - APPRENTI(E) COMMUNICATION / CRÉATION DE CONTENU\nLe Melice - Montpellier\n\nIMPORTANT\nEn raison de l'évolution des aides gouvernementales liées à l'apprentissage, nous n'acceptons aucune candidature au-dessus d'un niveau Bac +2 (ou équivalent).\n\nLe Melice recherche son/sa futur(e) apprenti(e) en communication pour accompagner le développement de sa visibilité et de son image à travers la création de contenus digitaux et événementiels.\n\nPROFIL RECHERCHÉ\nNous recherchons avant tout une personne créative, autonome et dynamique, avec une vraie sensibilité pour la production de contenu.\nLa maîtrise de la création de contenus est indispensable :\nphoto,\nvidéo,\nmontage,\ncréation de visuels,\ncontenus réseaux sociaux.\n\nMISSIONS PRINCIPALES\nCréation de contenus photo et vidéo pour les réseaux sociaux\nRéalisation de reels, stories, vidéos courtes et contenus engageants\nGestion et animation des réseaux sociaux\nCréation de supports de communication (flyers, affiches, menus, visuels)\nCouverture des événements organisés par l'établissement\nParticipation au développement de l'image et de la stratégie digitale du Melice\n\nOUTILS APPRÉCIÉS\nCanva\nCapCut / Premiere Pro / logiciels de montage\nMeta Business Suite\nMaîtrise d'Instagram, TikTok et Facebook\n\nPROFIL\nCréatif(ve) et force de proposition\nOrganisé(e) et réactif(ve)\nÀ l'aise avec les tendances réseaux sociaux\nBonne autonomie\nIntérêt pour l'univers de la restauration, de l'événementiel\n\nLieu du poste : En présentiel",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de communication orales, écrites et numériques",
-        "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
-        "Elaborer des processus, méthodes et outils de gestion des ressources humaines"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:49:17.467Z",
-        "expiration": "2026-11-21T16:49:17.467Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -9592,68 +10157,6 @@
       "publication": {
         "creation": "2026-09-20T12:55:54.088Z",
         "expiration": "2026-11-20T12:55:54.088Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aaf0a649b5a0cfb25b0508c",
-      "partner_label": "France Travail",
-      "partner_job_id": "7033327"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Saint-Aunès",
-        "geopoint": {
-          "coordinates": [
-            3.962108,
-            43.63586
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56402748?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Assistant de gestion (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Eau Air Système est une filiale du groupe BAUDIN CHATEAUNEUF, spécialisée dans le traitement de l'eau, de l'air et du chauffage. Forte de 80 collaborateurs et d'un CA de 18 M EUR, l'entreprise intervient sur l'ensemble du cycle de vie des installations : conception, mise en oeuvre, vérification des performances, mise en service, amélioration continue, maintenance et réparations.Grâce à son BE intégré, EAS est en mesure de gérer des macro-lots techniques regroupant traitement de l'eau, chauffage, ventilation et plomberie-sanitaire. Elle apporte une réponse complète, à la fois technique et environnementale, tout en assurant un accompagnement jusqu'à la mise en service et une assistance pendant l'exploitation.Ses domaines d'intervention couvrent notamment :Les piscines publiquesLes centres de thalassothérapieL'hôtellerie et les campingsLes aquariumsTout type de circuit fermé d'eau chaude ou d'eau froide sanitaire Dans le cadre du renforcement de nos équipes, nous recrutons un Alternant - Assistant de gestion (H/F) pour la rentrée . Poste basé à Saint-Aunès (34)Vous recherchez une alternance qui vous permettra de développer vos compétences dans l'Assistanat ? Cette opportunité est faite pour vous ! Sous la responsabilité de votre tuteur, vous aurez pour missions de :- Participer au secrétariat classique (gestion des appels et des courriers, suivi des stocks...),- Gérer les dossiers d'appel d'offres (constitution des dossiersbr /&gt;- Gérer le suivi administratif du personnel, le suivi administratif des chantiers (gestion des sous-traitant, suivi des pièces marchés chantier...) et la communication externe.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-19T11:53:21.590Z",
-        "expiration": "2026-11-19T11:53:21.590Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16239,16 +16742,212 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b1224f",
+      "id": "6ab2ff237caaafd3f596a472",
       "partner_label": "France Travail",
-      "partner_job_id": "7066742"
+      "partner_job_id": "7103238"
     },
     "workplace": {
       "siret": null,
       "brand": null,
       "legal_name": null,
       "website": null,
-      "name": "Citya Immobilier",
+      "name": "Groupe Nicollin",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.groupenicollin.com/fr/annonce/4611233-chef-de-secteur-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Groupe Nicollin - Responsable de secteur en propreté de locaux (H/F)",
+      "rome_codes": [
+        "K2203"
+      ],
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion et assainissement de l'eau\n\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T21:18:08.829Z",
+        "expiration": "2026-11-22T21:18:08.829Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab3000868233dbb8f698c68",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56987290"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPE NICOLLIN",
+      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/56987290?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chef de secteur H/F",
+      "rome_codes": [
+        "K2203"
+      ],
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T15:54:27.751Z",
+        "expiration": "2026-11-22T15:54:27.751Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a473",
+      "partner_label": "France Travail",
+      "partner_job_id": "7100605"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "GROUPAMA MEDITERRANEE",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "94.12Z",
+          "label": "Activités des organisations professionnelles"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ChofiqqcC9VLDMwRAAMuug==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Gestionnaire Comptabilité H/F H/F",
+      "rome_codes": [
+        "A1102"
+      ],
+      "description": "Groupama Méditerranée est une caisse régionale d'assurance mutualiste implantée sur l'ensemble de la région méditerranéenne. Engagée auprès de ses sociétaires, qu'ils soient particuliers, professionnels ou entreprises, elle propose des solutions de proximité adaptées à leurs besoins.\n\nRejoindre Groupama Méditerranée en alternance, c'est intégrer une structure à taille humaine fondée sur l'entraide, la proximité et l'accompagnement. C'est également l'opportunité de développer ses compétences, de bénéficier d'un suivi personnalisé et de construire un parcours professionnel riche et porteur de sens.\n\n?? Votre mission sera de participer, au sein d'une équipe, à la gestion comptable générale et sociale, en appui au quotidien des activités de l'entreprise.\n\nPlus spécifiquement, vous aurez la possibilité de participer :\n\n- Au traitement comptable des opérations courantes (saisie, lettrage, pointage...)\n- Au contrôle, à la validation et au suivi des notes de frais\n- À la participation au traitement comptable des charges sociales et opérations liées à la paie\n- À la vérification et à la conformité des pièces justificatives comptables\n- À la mise à jour et au suivi des comptes fournisseurs, comptes de tiers et comptes sociaux\n- À l'analyse des écarts, au rapprochement des écritures et à la préparation des justificatifs de comptes\n- À l'amélioration continue des processus comptables et des outils de gestion\n\n?? Ce que nous offrons :\n\nUn environnement de travail collaboratif et bienveillant, avec des opportunités de développement personnel et professionnel.\nDes avantages nombreux et attractifs : un 13ème mois, Tickets Restaurants, Mutuelle, Prévoyance, CSE, Réductions sur les produits IARD, PEE, PERCO, ordinateur professionnel ...\n\nEt la suite ? ?\n\nÀ réception de votre candidature, nous nous engageons à l'étudier avec attention.\nSi votre candidature attire notre attention, l'équipe RH vous contactera pour un premier entretien.\nSi vous êtes sélectionné(e) et si vous souhaitez poursuivre le processus de recrutement, vous rencontrerez vos futurs managers.\n\nPrêt(e) à relever le défi ? ??\n\n  \n Admis(e) au sein d'une formation supérieure Bac +2/+3 ou Licence en Comptabilité, Gestion ou équivalent universitaire.\n\nVous êtes un(e) candidat(e) dynamique, engagé(e) et doté(e) d'un réel savoir-être, faisant preuve de rigueur, d'organisation et d'un bon esprit d'analyse.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T14:36:08.613Z",
+        "expiration": "2026-11-22T14:36:08.613Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46d",
+      "partner_label": "France Travail",
+      "partner_job_id": "7096599"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
       "description": null,
       "size": null,
       "location": {
@@ -16264,14 +16963,138 @@
       "domain": {
         "idcc": null,
         "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56428601?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant Assistant Immobilier H/F",
+      "rome_codes": [
+        "C1502"
+      ],
+      "description": "Qui sommes-nous ?Citya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.En 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.Nous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !Vous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.Vous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.Vos missions :En Gestion de Copropriétp&gt;",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T12:23:14.302Z",
+        "expiration": "2026-11-22T12:23:14.302Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46c",
+      "partner_label": "France Travail",
+      "partner_job_id": "7094788"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56442696?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "ALTERNANCE Agent de Service Hospitalier (H/F)",
+      "rome_codes": [
+        "J1301"
+      ],
+      "description": "Envie de découvrir un secteur dynamique et qui forme à des métiers essentiels à tous ? C'est par ici ! Nous recherchons un Agent de Services Hospitaliers H/F pour notre entreprise partenaire à Montpellier dans le secteur de la propreté. Nous vous proposons d'intégrer notre formation TFP Agent Machiniste, dans le cadre d'un contrat en apprentissage.OMontpellier Quand ? : A partir de JuilletPour combien de temps ? : 12 mois Nombre de postes à pourvoir ? : 3 PostesUn peu plus de détails sur les missions ? Aux côtés de votre tuteur.rice, vous assurerez les missions suivantes : entretien et désinfection des chambres, des parties communes et des zones de circulation. Vous participerez au nettoyage et à l'hygiène des espaces de soins dans le respect des protocoles hospitaliers. Vous veillerez à la traçabilité des prestations réalisées, à l'utilisation conforme du matériel et des produits, ainsi qu'au respect strict des règles d'hygiène et de sécurité. Vous interviendrez sur un site hospitalier exigeant nécessitant rigueur, discrétion et sens du service. Rémunération : Selon la grille légale de l'apprentissageAucun frais à la charge de l'apprenti",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T12:21:29.186Z",
+        "expiration": "2026-11-22T12:21:29.186Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a46f",
+      "partner_label": "France Travail",
+      "partner_job_id": "214FLCB"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
         "naf": {
-          "code": "68.32A",
-          "label": "Administration d'immeubles et autres biens immobiliers"
+          "code": "59.14Z",
+          "label": "Projection de films cinématographiques"
         }
       }
     },
     "apply": {
-      "url": "https://recrutement.citya.com/fr/annonce/4609315-alternant-assistant-immobilier-hf-34280-la-grande-motte?s_o=France+Travail&s_b=DigitalRecruiters",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FLCB",
       "phone": null,
       "recipient_id": null
     },
@@ -16279,23 +17102,160 @@
       "start": null,
       "duration": 24,
       "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vente, service d'un lieu culturel en apprentissage (H/F)",
+      "rome_codes": [
+        "D1221"
+      ],
+      "description": "Vous occuperez ce poste afin de préparer un diplôme de niveau Bac, Bac+2 voir Bac +3.\n\nVos missions : \n- Accueillir les clients et faire le service des boissons chaudes et encas.\n- Faire la confection de planchas \n- Animer la zone, et faire le développement commercial (Etre force de proposition, animation et promotions sur les réseaux)\n- Echanger avec la clientèle sur les sujets culturels.\n\nVous travaillerez du jeudi au dimanche de 14h-15h à 21h30\n\nConditions d'accès aux contrats d'apprentissage :\n- Les jeunes âgés de 16 à 29 ans révolus\n- Au-delà de 29 ans révolus : les apprentis préparant un diplôme ou titre supérieur à celui obtenu, les travailleurs en situation de handicap, les personnes ayant un projet de création ou de reprise d'entreprise et les sportifs de haut niveau.\n\nVous devez impérativement candidater avec un texte de motivation.\nAttention pas de transports en commun aux horaires de travail.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures d'encaissement",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T09:48:05.185Z",
+        "expiration": "2026-11-22T09:48:05.185Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab2ff237caaafd3f596a470",
+      "partner_label": "France Travail",
+      "partner_job_id": "214FKSF"
+    },
+    "workplace": {
+      "siret": "45018827100032",
+      "brand": "HEXA JARDINS",
+      "legal_name": "HEXA'JARDINS",
+      "website": null,
+      "name": "HEXA'JARDINS",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 7018,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "81.30Z",
+          "label": "Services d'aménagement paysager"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FKSF",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Salon de l'emploi Lunel 2026 Apprenti Ouvrier/ère paysagiste (H/F)",
+      "rome_codes": [
+        "A1208"
+      ],
+      "description": "Employeur présent au salon de l'emploi le 13 10 26 de 9h00 à 13h00 à l'espace Castel 173 rue Marx Dormoy, LUNEL\n\nVous interviendrez  dans le secteur des espaces verts en création et entretien, en contrat d'apprentissage\nVous préparez le CAP ou le BP jardinier(e) paysagiste . \nContrat possible à partir de 16 ans . Rémunération en fonction de l'âge et du nombre d'années en apprentissage..",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Tailler les arbres",
+        "Préparer les sols, les plantations (épandage, semis, etc.)",
+        "Intégrer et entretenir un élément de décoration"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T09:37:29.087Z",
+        "expiration": "2026-11-22T09:37:29.087Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a8cc5b798c379c251783cc2",
+      "partner_label": "Meteojob",
+      "partner_job_id": "56303541"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ADECCO",
+      "description": "Vous cherchez un job pour quelques heures, quelques jours ou pour toujours ? <br /> <br /> <br /> Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec <strong>850 agences partout en France</strong> , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via <strong>nos applications Adecco &amp; Moi et QAPA</strong> , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. <strong>Parce qu'un job, ce n'est pas seulement un contrat</strong> . C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un <strong>accompagnement personnalisé</strong> , d' <strong>avantages exclusifs</strong> et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, <strong>CDD, CDI ou formation : à chacun sa voie, à chacun son rythme</strong> . Adecco, toujours à vos côtés !",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134701,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/56303541?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
         "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Citya Immobilier - Assistant / Assistante de gestion syndic immobilier (H/F)",
+      "title": "Chargé du Recrutement (h/f)",
       "rome_codes": [
-        "C1508"
+        "M1502"
       ],
-      "description": "Qui sommes-nous ?\nCitya Immobilier est la première entreprise familiale leader en administration de biens. Nous avons choisi un modèle économique durable et de proximité.\nEn 33 ans, nous sommes passés de 1 à 230 agences sur l'ensemble du territoire national. Proximité, innovation, digitalisation et qualité du service sont les valeurs que nous portons à travers nos collaborateurs.\nNous rejoindre, c'est aussi s'inscrire dans l'avenir, monter en compétences et embrasser des opportunités de carrière !\nVous intégrerez un cabinet ouvert sur 4 métiers : syndic de copropriété, gestion locative, location et transaction.\nVous souhaitez devenir Gestionnaire Immobilier ? Nous vous formons ! Confronté au terrain et fort d'un programme spécialisé, devenez un professionnel opérationnel en immobilier au sein d'une capitale dynamique.\nVos missions :\nEn Gestion de Copropriété :\n- Vous accompagnez un ensemble de co-propriétaires dans la gestion de leur immeuble\n- Vous participez et assurez le suivi des Assemblées Générales et des Conseils Syndicaux\n- Vous êtes le lien avec les prestataires travaux et veillez à l'avancée des chantiers\nEn Gestion Locative :\n- Vous conseillez un ensemble de propriétaires qui confient à l'agence la gestion de leur bien\n- Vous valorisez leur patrimoine et suivez les travaux à réaliser\n- Vous participez au développement d'un portefeuille client\nVous êtes titulaire ou en train de valider un Bac+2 et souhaitez apprendre le métier de Gestionnaire Immobilier ? Ce poste est fait pour vous !\n9 alternants sur 10 se verront proposer un CDI à l'issue de leur parcours !",
+      "description": "<p>Envie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !</p> <p>Notre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.</p> <p>  <strong>Vos missions :</strong> </p> <p>  GESTION  : </p> <ul>  <li>Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données</li>  <li>Gérer administrativement les intérimaires et/ou collaborateurs</li>  <li>Rédiger les contrats de mission et de mise à disposition</li> </ul> <p>  RECRUTEMENT  : </p> <ul>  <li>Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs</li>  <li>Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail</li>  <li>Rédiger les annonces d'emploi</li>  <li>Effectuer du Sourcing</li> </ul> <p>  VENTE: </p> <ul>  <li>S'assurer de la satisfaction des intérimaires et/ou des clients</li>  <li>Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation</li> </ul> <br />\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Chargé du recrutement (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <em>   Avantages:  </em> </p> <ul>  <li>Tickets Restaurant</li>  <li>Prise en charge partielle (70%) du titre de transport en commun</li>  <li>Tutorat</li> </ul> <p>Vous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.</p> <p>Curieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.</p> <p>  <strong>Vous êtes en cours de formation de Bac + 2 à Bac + 5, vous recherchez une entreprise pour réaliser votre stage.</strong> </p> <p>  <strong>N'hésitez plus, rejoigniez nous en postulant à cette offre!</strong> </p>",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-09-21T21:17:38.249Z",
-        "expiration": "2026-11-21T21:17:38.249Z"
+        "creation": "2026-09-21T22:08:10.956Z",
+        "expiration": "2026-11-21T22:08:10.956Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16499,75 +17459,6 @@
       "publication": {
         "creation": "2026-09-21T16:58:17.534Z",
         "expiration": "2026-11-21T16:58:17.534Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12255",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DZFT"
-    },
-    "workplace": {
-      "siret": "85126685800022",
-      "brand": null,
-      "legal_name": "FELICE",
-      "website": null,
-      "name": "FELICE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZFT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI(E) COMMUNICATION (H/F)",
-      "rome_codes": [
-        "M1504"
-      ],
-      "description": "OFFRE D'ALTERNANCE - APPRENTI(E) COMMUNICATION / CRÉATION DE CONTENU\nLe Melice - Montpellier\n\nIMPORTANT\nEn raison de l'évolution des aides gouvernementales liées à l'apprentissage, nous n'acceptons aucune candidature au-dessus d'un niveau Bac +2 (ou équivalent).\n\nLe Melice recherche son/sa futur(e) apprenti(e) en communication pour accompagner le développement de sa visibilité et de son image à travers la création de contenus digitaux et événementiels.\n\nPROFIL RECHERCHÉ\nNous recherchons avant tout une personne créative, autonome et dynamique, avec une vraie sensibilité pour la production de contenu.\nLa maîtrise de la création de contenus est indispensable :\nphoto,\nvidéo,\nmontage,\ncréation de visuels,\ncontenus réseaux sociaux.\n\nMISSIONS PRINCIPALES\nCréation de contenus photo et vidéo pour les réseaux sociaux\nRéalisation de reels, stories, vidéos courtes et contenus engageants\nGestion et animation des réseaux sociaux\nCréation de supports de communication (flyers, affiches, menus, visuels)\nCouverture des événements organisés par l'établissement\nParticipation au développement de l'image et de la stratégie digitale du Melice\n\nOUTILS APPRÉCIÉS\nCanva\nCapCut / Premiere Pro / logiciels de montage\nMeta Business Suite\nMaîtrise d'Instagram, TikTok et Facebook\n\nPROFIL\nCréatif(ve) et force de proposition\nOrganisé(e) et réactif(ve)\nÀ l'aise avec les tendances réseaux sociaux\nBonne autonomie\nIntérêt pour l'univers de la restauration, de l'événementiel\n\nLieu du poste : En présentiel",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de communication orales, écrites et numériques",
-        "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
-        "Elaborer des processus, méthodes et outils de gestion des ressources humaines"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:49:17.467Z",
-        "expiration": "2026-11-21T16:49:17.467Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -17126,72 +18017,6 @@
   },
   {
     "identifier": {
-      "id": "69cc493e8e98c08f34b4d182",
-      "partner_label": "Meteojob",
-      "partner_job_id": "52998970"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/52998970?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chef de secteur H/F",
-      "rome_codes": [
-        "K2203"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
-      "target_diploma": {
-        "european": "7",
-        "label": "Master, titre ingénieur, grande école (Bac+5)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-20T22:05:42.483Z",
-        "expiration": "2026-11-20T22:05:42.483Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab05c059b5a0cfb25b0badc",
       "partner_label": "France Travail",
       "partner_job_id": "214CVTJ"
@@ -17254,68 +18079,6 @@
       "publication": {
         "creation": "2026-09-20T12:55:54.088Z",
         "expiration": "2026-11-20T12:55:54.088Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aaf0a649b5a0cfb25b0508c",
-      "partner_label": "France Travail",
-      "partner_job_id": "7033327"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Saint-Aunès",
-        "geopoint": {
-          "coordinates": [
-            3.962108,
-            43.63586
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56402748?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant - Assistant de gestion (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Eau Air Système est une filiale du groupe BAUDIN CHATEAUNEUF, spécialisée dans le traitement de l'eau, de l'air et du chauffage. Forte de 80 collaborateurs et d'un CA de 18 M EUR, l'entreprise intervient sur l'ensemble du cycle de vie des installations : conception, mise en oeuvre, vérification des performances, mise en service, amélioration continue, maintenance et réparations.Grâce à son BE intégré, EAS est en mesure de gérer des macro-lots techniques regroupant traitement de l'eau, chauffage, ventilation et plomberie-sanitaire. Elle apporte une réponse complète, à la fois technique et environnementale, tout en assurant un accompagnement jusqu'à la mise en service et une assistance pendant l'exploitation.Ses domaines d'intervention couvrent notamment :Les piscines publiquesLes centres de thalassothérapieL'hôtellerie et les campingsLes aquariumsTout type de circuit fermé d'eau chaude ou d'eau froide sanitaire Dans le cadre du renforcement de nos équipes, nous recrutons un Alternant - Assistant de gestion (H/F) pour la rentrée . Poste basé à Saint-Aunès (34)Vous recherchez une alternance qui vous permettra de développer vos compétences dans l'Assistanat ? Cette opportunité est faite pour vous ! Sous la responsabilité de votre tuteur, vous aurez pour missions de :- Participer au secrétariat classique (gestion des appels et des courriers, suivi des stocks...),- Gérer les dossiers d'appel d'offres (constitution des dossiersbr /&gt;- Gérer le suivi administratif du personnel, le suivi administratif des chantiers (gestion des sous-traitant, suivi des pièces marchés chantier...) et la communication externe.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-19T11:53:21.590Z",
-        "expiration": "2026-11-19T11:53:21.590Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18485,68 +19248,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c0",
       "partner_label": "France Travail",
       "partner_job_id": "6943809"
@@ -18594,6 +19295,68 @@
         "G1603"
       ],
       "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -19347,72 +20110,6 @@
       "publication": {
         "creation": "2026-09-15T10:30:41.605Z",
         "expiration": "2026-11-15T10:30:41.605Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a664e09e5fa1b20ee1f7a1f",
-      "partner_label": "Jobs that make sense",
-      "partner_job_id": "6a664e09e5fa1b20ee1f7a1f"
-    },
-    "workplace": {
-      "siret": "87765787400047",
-      "brand": "LA PALANQUEE",
-      "legal_name": "SCIC LA PALANQUEE",
-      "website": "https://jobs.makesense.org/fr/projects/la-palanque-2379?source=api-apprentissage",
-      "name": "SCIC LA PALANQUEE",
-      "description": "La Palanquée, tiers-lieu citoyen du Bassin de Thau, accompagne les initiatives économiques, écologiques et solidaires par la découverte et le faire ensemble.",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "82.99Z",
-          "label": "Autres activités de soutien aux entreprises n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://jobs.makesense.org/fr/jobs/la-palanquee-assistante-responsable-administratifve-et-financierere-L8RgD4nNVciGNwggc3gr?source=api-apprentissage",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-10-01T00:00:00.000Z",
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "ASSISTANT·E RESPONSABLE ADMINISTRATIF·VE ET FINANCIER·ÈRE",
-      "rome_codes": [
-        "M1621"
-      ],
-      "description": "Tu travailleras directement aux côtés de Timothée, co-directeur en charge de l’administratif, du financier et de la gestion, également responsable de l’incubateur.\n\nL’objectif est de te permettre de monter progressivement en compétences et en autonomie sur la gestion administrative et\n\nfinancière des deux structures.\n\nGestion administrative et financière\n\n  - Réception, numérisation, renommage et classement des factures et pièces administratives ;\n  - Collecte mensuelle des justificatifs auprès de l’équipe et contrôle de leur transmission ;\n  - Préparation, organisation et collecte des pièces destinées à l’expert-comptable ;\n  - Suivi des factures fournisseurs, des règlements et des pièces manquantes ;\n  - Suivi des factures clients et relance des impayés, en lien avec la personne chargée du coworking et des bureaux\n  - occupés par les résident·es permanents ;\n  - Mise à jour des tableaux de suivi administratif, budgétaire et financier.\n  - Suivi des procédures en cours avec l'assurance Dommage Ouvrage et\n  - Responsabilité Civile Professionnelle (Déclarations et suivi administratif des sinistres auprès de notre assurance sous la supervision du référent bâtiment)\n  - Suivi administratif des prestataires d'entretien du bâtiment (ascenseur ; climatisation ; chauffage ; propreté ; ...), relance si nécessaire, demande de devis et benchmark de fournisseurs pour de petits travaux occasionnels\n\n\nAucune saisie comptable n’est demandée : la tenue de la comptabilité est entièrement assurée par notre cabinet d’expertise comptable.\n\nAdministration du personnel et paie\n\n  - Relance mensuelle de l’équipe pour la transmission des congés, absences, récupérations et arrêts de travail ;\n  - Collecte et contrôle des variables de paie ;\n  - Mise à jour des dossiers administratifs des salarié·es ;\n  - Saisie des variables de paie dans le logiciel ;\n  - Contrôle des éléments transmis et suivi des éventuelles corrections.\n\n\nLes bulletins de paie ne sont pas à établir : leur production est assurée par un prestataire extérieur.\n\nGestion administrative de l’incubateur\n\n  - Mise à jour des dossiers des porteur·ses de projets accompagnés ;\n  - Suivi des inscriptions, conventions, feuilles de présence et justificatifs ;\n  - Préparation des éléments nécessaires aux bilans et demandes de financement ;\n  - Appui à l’organisation des ateliers, jurys et temps collectifs ;\n  - Contribution au suivi administratif et financier des programmes d’accompagnement.\n\n\nVie du tiers-lieu et projets à impact\n\n  - Selon tes envies et tes centres d’intérêt, tu pourras également contribuer :\n  - À l’organisation de rencontres et d’événements professionnels ou citoyens ;\n  - Au développement commercial du lieux (accroissement des recettes commerciales du co-working, des bureaux à louer et du café restaurant lors d'évènements)\n  - A la programmation d'évènements, aux soirées et temps forts organisés à La Palanquée ;\n  - Aux projets liés à la transition écologique et à l’innovation sociale ;\n  - À l’amélioration des outils et des procédures internes.\n\n\nCette participation sera proposée en fonction de tes appétences et de tes centres d'intérêts.\n\nUne montée en responsabilités progressive\n\nCette alternance ne se limite pas à des tâches d’exécution. En fonction de tes compétences, de ta progression et de ton envie de t’investir, tu pourras prendre progressivement en charge un véritable périmètre de gestionnaire / responsable administratif·ve et financier·ère junior.\n\nToujours accompagné·e par le co-directeur, tu pourras participer au suivi budgétaire, au contrôle de gestion, à la préparation des dossiers de financement, à l’amélioration des procédures internes et à la production d’outils d’aide à la décision.\n\nL’objectif est qu’à l’issue de l’alternance, tu disposes d’une expérience complète et concrète de la fonction administrative et financière dans des structures de l’économie sociale et solidaire.\n\n\n\nTu prépares une formation de niveau Bac+2 ou Bac+3 dans les domaines de la gestion, de l’administration, de la comptabilité, de la finance, des ressources humaines ou de l’entrepreneuriat.\n\n  - Deuxième année de BTS ;\n  - Deuxième ou troisième année de BUT ;\n  - Deuxième ou troisième année de licence ;\n  - Ou formation équivalente.\n\n\nTu es organisé·e, rigoureux·se, polyvalent·e et à l’aise avec les outils numériques. Tu apprécies les missions concrètes, le travail en équipe et tu sais t’adapter à des sujets variés.\n\nUn premier niveau de connaissances théoriques ou pratiques en comptabilité et en analyse financière sont attendues : règles et méthodes comptables, soldes intermédiaires de gestion, ratios d’analyse financière, savoir lire et interpréter les documents comptables (compte de résultat, bilan, grand livre client, etc...)\n\nUne sensibilité à l’économie sociale et solidaire, à la transition écologique, à l’innovation sociale ou à l’entrepreneuriat à impact sera particulièrement appréciée.\n\nCe que nous proposons\n\n  - Une alternance responsabilisante et évolutive ;\n  - Un accompagnement régulier et une autonomie progressive ;\n  - Une expérience proche d’une fonction de RAF junior ;\n  - Une vision complète du fonctionnement d’une SCIC et d’une association ;\n  - Une équipe engagée, accessible et bienveillante ;\n  - Un lieu de travail vivant et convivial, en plein centre de Sète ;\n  - Des échanges quotidiens avec des entrepreneur·ses, associations, collectivités et acteurs économiques du Bassin de Thau ;\n  - La prise en charge de 50 % de l’abonnement TER entre Montpellier et Sète pour les étudiant·es résidant à Montpellier.\n\n\nConditions\n\nContrat d’apprentissage à partir de septembre 2026 ;\n\nLieu : La Palanquée - 3 bis rue Gabriel Péri, 34200 Sète ;\n\nRémunération selon les dispositions légales applicables.\n\nDurée du contrat : 1 an à 2 ans en fonction de la formation que tu prépares.\n\nProcessus de recrutement\n\nPour candidater, merci d’envoyer un CV, une lettre de motivation ainsi que tout autre document dont le ou la candidat·e souhaite nous faire part.\n\nRéception des candidatures jusqu’à la mi-août 2026 ;\n\nEntretiens organisés entre la dernière semaine d’août et la première semaine de septembre 2026 ;\n\nLa Palanquée étant fermée pendant les deux premières semaines d’août, toute l’équipe sera en congé sur cette période. Ne t’étonne donc pas si tu ne reçois pas de réponse avant le 17 août 😊",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-15T08:56:14.753Z",
-        "expiration": "2026-10-30T08:56:15.583Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -20420,69 +21117,6 @@
       "publication": {
         "creation": "2026-09-09T09:15:49.187Z",
         "expiration": "2026-11-09T09:15:49.187Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8cc5b798c379c251783cc2",
-      "partner_label": "Meteojob",
-      "partner_job_id": "56303541"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ADECCO",
-      "description": "Vous cherchez un job pour quelques heures, quelques jours ou pour toujours ? <br /> <br /> <br /> Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec <strong>850 agences partout en France</strong> , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via <strong>nos applications Adecco &amp; Moi et QAPA</strong> , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. <strong>Parce qu'un job, ce n'est pas seulement un contrat</strong> . C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un <strong>accompagnement personnalisé</strong> , d' <strong>avantages exclusifs</strong> et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, <strong>CDD, CDI ou formation : à chacun sa voie, à chacun son rythme</strong> . Adecco, toujours à vos côtés !",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134701,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/56303541?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé du Recrutement (h/f)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "<p>Envie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !</p> <p>Notre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.</p> <p>  <strong>Vos missions :</strong> </p> <p>  GESTION  : </p> <ul>  <li>Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données</li>  <li>Gérer administrativement les intérimaires et/ou collaborateurs</li>  <li>Rédiger les contrats de mission et de mise à disposition</li> </ul> <p>  RECRUTEMENT  : </p> <ul>  <li>Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs</li>  <li>Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail</li>  <li>Rédiger les annonces d'emploi</li>  <li>Effectuer du Sourcing</li> </ul> <p>  VENTE: </p> <ul>  <li>S'assurer de la satisfaction des intérimaires et/ou des clients</li>  <li>Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation</li> </ul> <br />\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Chargé du recrutement (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <em>   Avantages:  </em> </p> <ul>  <li>Tickets Restaurant</li>  <li>Prise en charge partielle (70%) du titre de transport en commun</li>  <li>Tutorat</li> </ul> <p>Vous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.</p> <p>Curieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.</p> <p>  <strong>Vous êtes en cours de formation de Bac + 2 à Bac + 5, vous recherchez une entreprise pour réaliser votre stage.</strong> </p> <p>  <strong>N'hésitez plus, rejoigniez nous en postulant à cette offre!</strong> </p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T23:08:51.728Z",
-        "expiration": "2026-11-08T23:08:51.728Z"
       },
       "opening_count": 1,
       "status": "Active"
