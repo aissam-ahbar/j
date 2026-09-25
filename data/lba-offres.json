@@ -1,6 +1,111 @@
 [
   {
     "identifier": {
+      "id": "6ab53cf76f4b8c242216a688",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ab53cf76f4b8c242216a688"
+    },
+    "workplace": {
+      "siret": "92165367100013",
+      "brand": "LE B12",
+      "legal_name": "CARPEDIEM",
+      "website": null,
+      "name": "CARPEDIEM",
+      "description": "Le B12, c'est un restaurant bistronomique installé à Vendargues, dans la zone de la Marbrerie. Une petite maison, une petite équipe, et un principe simple : tout est fait maison, des entrées aux desserts, avec des produits frais et une carte qui change au fil des saisons.\n\nNous servons uniquement le midi, du lundi au vendredi. Pas de service du soir, pas de week-end : c'est rare en restauration, et ça change tout quand on débute.\n\nNos clients sont des habitués, souvent des entreprises du secteur, et ils reviennent : le restaurant est noté 4,9 sur 5 sur Google. Cela veut dire une salle exigeante, où le service compte autant que l'assiette.\n\nC'est justement ce que nous voulons transmettre. Ici, on prend le temps d'expliquer : pourquoi on dresse de cette façon, comment on accueille un client,",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "145 R DE LA MARBRERIE - BAT. 12 34740 VENDARGUES",
+        "geopoint": {
+          "coordinates": [
+            3.953669,
+            43.652769
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab53cf76f4b8c242216a688/serveur-serveuse",
+      "phone": null,
+      "recipient_id": "partners_6ab53cf76f4b8c242216a688"
+    },
+    "contract": {
+      "start": "2026-09-24T15:08:39.870Z",
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur / Serveuse",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Le Serveur en restauration joue un rôle clé dans l'accueil et la réalisation d'un service à table de qualité. Accueille et installe les clients à leur table avec courtoisie Conseille les clients sur la carte, les différents plats et les boissons Prend les commandes et sert les clients avec efficacité Gère les encaissements et les transactions financières Veille à la propreté et à la bonne présentation des tables Assure le suivi des stocks de nourriture et de boissons Peut organiser et servir lors d'événements spéciaux ou de banquets",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de contrôle de soi",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tVeiller à la présentation soignée des plats",
+        "Aménagement\tRéaliser la mise en place de la salle et de l'office",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tEssuyer et ranger la vaisselle, la verrerie, les ustensiles de cuisine",
+        "Prévention des risques\tMaintenir un environnement de travail sécurisé et organisé",
+        "Gestion des stocks\tParticiper à la gestion des stocks de nourriture et de boissons",
+        "Gestion des stocks\tParticiper à un inventaire",
+        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Pilotage et maîtrise des coûts\tSaisir une commande sur informatique",
+        "Droit, contentieux et négociation\tGérer les situations d'urgence ou les plaintes des clients",
+        "Protection des personnes et de l'environnement\tAssister et aider les personnes en attendant les secours",
+        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
+        "Relation client\tAccueillir le client et l'installer",
+        "Relation client\tConseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Relation client\tEffectuer le service des plats à table",
+        "Relation client\tEvaluer la satisfaction des clients et recueillir les feedbacks",
+        "Relation client\tGarantir la satisfaction du client",
+        "Relation client\tPrendre une commande client",
+        "Relation client\tProposer des produits additionnels",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Communication\tMaintenir une communication claire et professionnelle",
+        "Communication\tRendre compte de son action, de risques ou d'anomalies au responsable",
+        "Communication\tS'exprimer avec politesse et courtoisie",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une certification de niveau CAP à Bac (niveau 3 ou 4) de l'hôtellerie/restauration."
+      ],
+      "publication": {
+        "creation": "2026-09-24T15:08:39.870Z",
+        "expiration": "2026-11-24T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ab37fe76f4b8c2422159573",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6ab37fe76f4b8c2422159573"
@@ -2514,102 +2619,6 @@
       "publication": {
         "creation": "2026-09-12T09:51:37.144Z",
         "expiration": "2026-11-12T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa3be95ef95c6a32325138b",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6aa3be95ef95c6a32325138b"
-    },
-    "workplace": {
-      "siret": "88145260100027",
-      "brand": "TABAC DE L'OVALIE",
-      "legal_name": "CHRISTOPHE ALCARAZ",
-      "website": null,
-      "name": "CHRISTOPHE ALCARAZ",
-      "description": "Tabac presse loto PMU et multiservices",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "901 RUE DE BUGAREL 34070 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.851929,
-            43.592081
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "47.26Z",
-          "label": "Commerce de détail de produits à base de tabac en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa3be95ef95c6a32325138b/vendeur-vendeuse-buraliste",
-      "phone": null,
-      "recipient_id": "partners_6aa3be95ef95c6a32325138b"
-    },
-    "contract": {
-      "start": "2026-11-01T00:00:00.000Z",
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse buraliste",
-      "rome_codes": [
-        "D1211"
-      ],
-      "description": "Le vendeur en boutique réalise la vente d'articles et d'accessoires destinés à des activités sportives, culturelles ou de loisirs auprès d'une clientèle de particuliers selon la réglementation du commerce, la stratégie et les objectifs commerciaux de l'entreprise. Peut proposer des services complémentaires (réglages de cycles, maintenance d'instruments de musique, préparation d'armes à feu, ...). Peut coordonner une équipe",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Etre à l'écoute, faire preuve d'empathie",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tPréparer et réaliser des performances sportives",
-        "Management\tPrévenir et résoudre les conflits",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéaliser l'étiquetage de produits",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tOrganiser le traitement des commandes",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAccueillir, orienter, renseigner un public",
-        "Relation client\tInformer, renseigner une personne sur les articles en vente",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tAssurer un service après-vente",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tRéaliser la mise en rayon",
-        "Développement commercial\tVendre ou louer des produits ou des services",
-        "Organisation\tUtiliser les outils numériques"
-      ],
-      "access_conditions": [
-        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) dans les secteurs de la vente, du commerce et de la distribution. Il est également accessible sur pratique ou connaissance d'un domaine spécifique (littérature, musique, discipline sportive, ...) sans diplôme particulier. Une autorisation délivrée par la Préfecture (Ministère de l'Intérieur) est requise pour le commerce d'armes et de munitions. Une licence et un agrément délivrés par la Direction des Douanes sont requis pour le commerce de tabac et des produits dérivés du tabac. La maîtrise d'un logiciel de gestion de stock peut être requise."
-      ],
-      "publication": {
-        "creation": "2026-09-11T08:40:53.835Z",
-        "expiration": "2026-11-11T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -6814,108 +6823,6 @@
   },
   {
     "identifier": {
-      "id": "6a6a5d1be972dfce87f76c06",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a6a5d1be972dfce87f76c06"
-    },
-    "workplace": {
-      "siret": "82026754000012",
-      "brand": null,
-      "legal_name": "FANY CUMINETTI",
-      "website": null,
-      "name": "FANY CUMINETTI",
-      "description": null,
-      "size": "1 ou 2 salariés",
-      "location": {
-        "address": "241 ALLEE DES VIGNES 34980 MONTFERRIER-SUR-LEZ",
-        "geopoint": {
-          "coordinates": [
-            3.863132,
-            43.671586
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a6a5d1be972dfce87f76c06/orthodontie",
-      "phone": null,
-      "recipient_id": "partners_6a6a5d1be972dfce87f76c06"
-    },
-    "contract": {
-      "start": "2026-08-31T00:00:00.000Z",
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Orthodontie",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "L'assistant dentaire joue un rôle important dans le fonctionnement quotidien d'un cabinet dentaire. Prépare les matériaux et les instruments nécessaires aux interventions Assiste le dentiste dans les procédures de soins dentaires Gère l'accueil et le confort des patients avant, pendant et après les soins Assure la stérilisation et le rangement du matériel dentaire Peut gérer les rendez-vous et les dossiers des patients Contribue à la gestion administrative du cabinet dentaire",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Etre force de proposition",
-        "Etre à l'écoute, faire preuve d'empathie",
-        "Faire preuve de rigueur et de précision",
-        "Faire preuve de réactivité"
-      ],
-      "to_be_acquired_skills": [
-        "Conseil, Transmission\tConseiller, accompagner une personne",
-        "Conseil, Transmission\tDonner des conseils post-intervention sur l'hygiène bucco-dentaire",
-        "Soin\tInstaller le patient pour la consultation ou l'examen",
-        "Soin\tRéceptionner les éléments médico-techniques et en informer le praticien, le patient en vue de l'intervention",
-        "Production, Fabrication\tPréparer le matériel, les produits selon les indications du praticien et la nature de l'intervention",
-        "Production, Fabrication\tPréparer, installer un dispositif médico-technique",
-        "Maintenance, Réparation\tContrôler la conformité d'un équipement, d'une machine, d'une installation",
-        "Maintenance, Réparation\tDésinfecter et décontaminer un équipement",
-        "Maintenance, Réparation\tNettoyer et stériliser les instruments dentaires",
-        "Maintenance, Réparation\tRespecter les protocoles de nettoyage et de désinfection",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Logistique\tPréparer les salles de soins et le matériel nécessaire aux interventions",
-        "Gestion administrative et comptable\tEtablir des éléments d'une commande",
-        "Gestion administrative et comptable\tRenseigner des documents médico-administratifs",
-        "Gestion administrative et comptable\tRéaliser la facturation",
-        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative d'une activité",
-        "Droit, contentieux et négociation\tRespecter les règles d'éthique et de déontologie",
-        "Relation client\tAccueillir, orienter et renseigner un patient",
-        "Relation client\tAssister le praticien dentaire (présentation des instruments) pendant l'intervention",
-        "Communication\tCréer une relation de confiance",
-        "Communication\tRelayer de l'information",
-        "Organisation\tAgir rapidement en cas d'urgence dentaire",
-        "Organisation\tGérer les dossiers des patients",
-        "Organisation\tRespecter les protocoles d'hygiène et de sécurité",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un Titre d'Assistant Dentaire (les centres de formation agréés par les Conseils régionaux de l'Ordre des Chirurgiens-Dentistes proposent cette formation qui se déroule en alternance, combinant cours théoriques et pratique en cabinet dentaire)."
-      ],
-      "publication": {
-        "creation": "2026-07-29T20:05:47.068Z",
-        "expiration": "2026-10-03T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6a279ea052ee2fcc7c00e7",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a6a279ea052ee2fcc7c00e7"
@@ -8241,6 +8148,327 @@
   },
   {
     "identifier": {
+      "id": "6ab5a2417caaafd3f59782d1",
+      "partner_label": "France Travail",
+      "partner_job_id": "214JPCX"
+    },
+    "workplace": {
+      "siret": "41481504302632",
+      "brand": null,
+      "legal_name": "LAFARGE BETONS",
+      "website": null,
+      "name": "LAFARGE BETONS",
+      "description": null,
+      "size": "1 000 à 1 999 salariés",
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 135,
+        "opco": "OPCO 2i",
+        "naf": {
+          "code": "23.63Z",
+          "label": "Fabrication de béton prêt à l'emploi"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JPCX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Devenez Conducteur de centrale à béton (H/F)",
+      "rome_codes": [
+        "H2804"
+      ],
+      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience. \nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\n Parcours de Recrutement sous réserve de validation étape les unes après les autres :\n 15 OCT / 9h00 : Réunion collective &amp; Visite site  (Chaussures fermées obligatoires)  15-16 OCT : Entretiens individuels   26-30 OCT : Immersion professionnelle (5 jours)   9 NOV - 29 DÉC : POEI (Formation + Tutorat)   DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP)   FIN DE CONTRAT : Possibilité de CDI",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Monter et régler une installation, une machine",
+        "Contrôler un approvisionnement",
+        "Respecter les procédures de sécurité lors du chargement et déchargement",
+        "Superviser le lancement d'une production",
+        "Définir les données de programmation",
+        "Bon niveau de communication orale en français ",
+        "Bon niveau d'expression à l'écrit"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T13:50:20.481Z",
+        "expiration": "2026-11-24T13:50:20.481Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d0",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164936"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:14.619Z",
+        "expiration": "2026-11-24T12:16:14.619Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d3",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164877"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:12.470Z",
+        "expiration": "2026-11-24T12:16:12.470Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d2",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164739"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56472055?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant(e) Bac+5 Environnement H/F",
+      "rome_codes": [
+        "A1312"
+      ],
+      "description": "Au sein de l'activité Ingénierie Environnementale et Ecologique (IEE), dans le cadre de votre alternance, vous serez rattaché(e) au Directeur de projet d'Egis Environnement intervenant sur le projet de création de la ligne nouvelle de TGV Montpellier Perpignan. Le projet de la Ligne Nouvelle Montpellier Perpignan vise à réaliser le maillon manquant pour relier les réseaux ferroviaires à grande vitesse français et espagnol. La première phase, entre Montpellier et Béziers, a été déclarée d'utilité publique en . EGIS appui actuellement le Maître d'Ouvrage dans la recherche et la mise en œuvre des sites de compensation des impacts associés aux premières interventions préparatoires (sondages géotechniques, diagnostic archéologiques et expérimentations écologiques).En tant qu'ingénieur.e/chargé.e environnement, vous interviendrez sur le marché d'acquisition de données naturalistes, de renforcement de la conception de moindre impact écologique de ce projet et la définition et la mise en œuvre des mesures compensatoires écologiques et agroenvironnementales nécessaires à ce projet.Dans ce cadre, vous participerez aux missions suivantes sous la responsabilité du directeur de projet d'Egis :Collecte de données environnementales et analyse d'études environnementales et de biodiversité relatives à la conception des mesures compensatoires nécessaires au projet la ligne nouvelle,Aide à la gestion et reporting du projet auprès du directeur de projet environnement d'Egis,Coordination et production des documents de suivi des prestations, des comptes-rendus, des interfaces avec les différents intervenants du projet.Participation aux réunions avec les parties prenantes en appui du Directeur de projet.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:06.840Z",
+        "expiration": "2026-11-24T12:16:06.840Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d6",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164021"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56460998?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti aide-soignant F/H/X",
+      "rome_codes": [
+        "J1501"
+      ],
+      "description": "Développez tous vos talents aux côtés de nos résidents.Dans nos 270 maisons de retraite Korian, refaire le monde avec Monique fait partie du métier d'aide-soignant, en plus\ndes soins : vous écoutez, rassurez et créez du lien en accompagnant les résidents et patients dans leurs activités du\nquotidien.En pratique : une\nformation de 12 à 18 mois avec 50% de théorique dans l'un des 12 sites de notre\nCFA des Métiers du Soin et 50% de pratique dans l'un de nos établissements.\n\n Rémunération\n&amp; avantages",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:15:34.730Z",
+        "expiration": "2026-11-24T12:15:34.730Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ab450957caaafd3f59713a4",
       "partner_label": "France Travail",
       "partner_job_id": "7151382"
@@ -8628,71 +8856,6 @@
       "publication": {
         "creation": "2026-09-22T21:18:08.829Z",
         "expiration": "2026-11-22T21:18:08.829Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab2ff237caaafd3f596a473",
-      "partner_label": "France Travail",
-      "partner_job_id": "7100605"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPAMA MEDITERRANEE",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "94.12Z",
-          "label": "Activités des organisations professionnelles"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ChofiqqcC9VLDMwRAAMuug==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Gestionnaire Comptabilité H/F H/F",
-      "rome_codes": [
-        "A1102"
-      ],
-      "description": "Groupama Méditerranée est une caisse régionale d'assurance mutualiste implantée sur l'ensemble de la région méditerranéenne. Engagée auprès de ses sociétaires, qu'ils soient particuliers, professionnels ou entreprises, elle propose des solutions de proximité adaptées à leurs besoins.\n\nRejoindre Groupama Méditerranée en alternance, c'est intégrer une structure à taille humaine fondée sur l'entraide, la proximité et l'accompagnement. C'est également l'opportunité de développer ses compétences, de bénéficier d'un suivi personnalisé et de construire un parcours professionnel riche et porteur de sens.\n\n?? Votre mission sera de participer, au sein d'une équipe, à la gestion comptable générale et sociale, en appui au quotidien des activités de l'entreprise.\n\nPlus spécifiquement, vous aurez la possibilité de participer :\n\n- Au traitement comptable des opérations courantes (saisie, lettrage, pointage...)\n- Au contrôle, à la validation et au suivi des notes de frais\n- À la participation au traitement comptable des charges sociales et opérations liées à la paie\n- À la vérification et à la conformité des pièces justificatives comptables\n- À la mise à jour et au suivi des comptes fournisseurs, comptes de tiers et comptes sociaux\n- À l'analyse des écarts, au rapprochement des écritures et à la préparation des justificatifs de comptes\n- À l'amélioration continue des processus comptables et des outils de gestion\n\n?? Ce que nous offrons :\n\nUn environnement de travail collaboratif et bienveillant, avec des opportunités de développement personnel et professionnel.\nDes avantages nombreux et attractifs : un 13ème mois, Tickets Restaurants, Mutuelle, Prévoyance, CSE, Réductions sur les produits IARD, PEE, PERCO, ordinateur professionnel ...\n\nEt la suite ? ?\n\nÀ réception de votre candidature, nous nous engageons à l'étudier avec attention.\nSi votre candidature attire notre attention, l'équipe RH vous contactera pour un premier entretien.\nSi vous êtes sélectionné(e) et si vous souhaitez poursuivre le processus de recrutement, vous rencontrerez vos futurs managers.\n\nPrêt(e) à relever le défi ? ??\n\n  \n Admis(e) au sein d'une formation supérieure Bac +2/+3 ou Licence en Comptabilité, Gestion ou équivalent universitaire.\n\nVous êtes un(e) candidat(e) dynamique, engagé(e) et doté(e) d'un réel savoir-être, faisant preuve de rigueur, d'organisation et d'un bon esprit d'analyse.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-22T14:36:08.613Z",
-        "expiration": "2026-11-22T14:36:08.613Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -9579,79 +9742,6 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12254",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DQGL"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "66.22Z",
-          "label": "Activités des agents et courtiers d'assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DQGL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller commercial en Assurances en Apprentissage (H/F)",
-      "rome_codes": [
-        "C1102"
-      ],
-      "description": "Nous recherchons un conseiller commercial en assurances en alternance qui prépare un Bachelor Commerce ou Banque Assurances.\n\nMissions principales :\n\n- Accueillir et conseiller les clients sur les produits d'assurance.\n- Participer à la prospection et au développement du portefeuille clients.\n- Analyser les besoins des clients et proposer des solutions adaptées.\n- Assister les conseillers commerciaux dans la gestion et le suivi des contrats.\n- Contribuer à la fidélisation de la clientèle.\n- Participer à des actions commerciales et marketing.\n- Apprendre et maîtriser les techniques de vente et de négociation.\n- Se former aux produits d'assurance et à la réglementation du secteur.\n\nProfil recherché :\n\n- Étudiant(e) en Bachelor Commerce ou Banque Assurance.\n- Intérêt marqué pour le secteur de l'assurance et la relation client.\n- Bonnes capacités relationnelles et commerciales.\n- Rigueur, organisation et sens du service client.\n- Dynamisme, motivation et esprit d'équipe.\n\nQualités personnelles :\n\n- Sens de l'écoute et de la communication.\n- Capacité d'adaptation et réactivité.\n- Autonomie et curiosité.\n- Esprit d'initiative et de synthèse.",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Assurances",
-        "Développer un portefeuille clients et prospects",
-        "Rassembler les justificatifs et transmettre la proposition d'assurance pour décision",
-        "Recueillir et analyser les besoins client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T14:23:18.839Z",
-        "expiration": "2026-11-21T14:23:18.839Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab05c059b5a0cfb25b0badc",
       "partner_label": "France Travail",
       "partner_job_id": "214CVTJ"
@@ -9906,137 +9996,6 @@
       "publication": {
         "creation": "2026-09-18T16:46:27.539Z",
         "expiration": "2026-11-18T16:46:27.539Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0ae",
-      "partner_label": "France Travail",
-      "partner_job_id": "6988078"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34560 Poussan",
-        "geopoint": {
-          "coordinates": [
-            3.672962,
-            43.4845
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56394318?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant administratif et commercial - Poussan (F/H)",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "Gestion et suivi des dossiers sinistres : ouverture, mise à jour et classement des dossiers.Accueil téléphonique et relation clients : prise de demandes, suivi des interventions et information des clients.Gestion des mails et courriers : traitement, rédaction et suivi des échanges avec clients, assurances et experts.Organisation des interventions : prise de rendez-vous et coordination avec les équipes terrain.Suivi administratif des devis et factures : préparation, contrôle et relances.Mise à jour des tableaux de suivi : suivi des dossiers, interventions, devis et facturation.Classement et archivage des documents administratifs.Support quotidien à l'équipe : aide à la gestion administrative et amélioration des procédures internes.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T12:06:31.342Z",
-        "expiration": "2026-11-18T12:06:31.342Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0a7",
-      "partner_label": "France Travail",
-      "partner_job_id": "214BXZY"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34980 Montferrier-sur-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.857232,
-            43.666999
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BXZY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) dentaire en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Le cabinet d'orthodontie de Montferrier sur Lez recherche un(e) assistant(e) dentaire en contrat d'apprentissage. \n\nVous interviendrez sur des missions variées :\nAccueil et accompagnement des patients\nGestion administrative des dossiers patients et des rendez-vous\nAssistance du praticien au fauteuil\nPréparation des instruments et du matériel médical\nStérilisation et gestion des règles d'hygiène\n\nProfil sérieux, motivé, très souriant recherché",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir, orienter et renseigner un patient",
-        "Relayer de l'information",
-        "Renseigner des documents médico-administratifs"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T11:59:17.631Z",
-        "expiration": "2026-11-18T11:59:17.631Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -10309,68 +10268,6 @@
       "publication": {
         "creation": "2026-09-17T03:19:19.152Z",
         "expiration": "2026-11-17T03:19:19.152Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c5",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944675"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34570 Vailhauquès",
-        "geopoint": {
-          "coordinates": [
-            3.729135,
-            43.661352
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/52542051?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial / Commerciale sédentaire (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nVotre mission\n\nEn tant que Commercial(e) en alternance, vous participez activement au développement national de la plateforme.\n\nDéveloppement commercial B2B***Prospection d'agents immobiliers indépendants\n* Développement auprès des réseaux de mandataires\n* Identification et activation de prescripteurs (coachs, formateurs, réseaux, etc Prise de rendez-vous et relances commerciales\n* Suivi du pipe commercial\n\nDémonstration &amp; conversion***Réalisation de démonstrations à distance de la plateforme (visio)\n* Présentation des avantages concurrentiels\n* Accompagnement à l'inscription et au premier projet\n\nDéveloppement du réseau de photographes***Sourcing et recrutement de photographes partenaires\n* Qualification des profils\n* Animation et suivi du réseau\n\nDescription du profil Autonome, organisé(e), et responsable.***Bonne communication, sens du relationnel, aisance à l'oral et bonne qualité rédactionnelle.***Force de proposition.***profil chasseur",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:16.501Z",
-        "expiration": "2026-11-17T03:19:16.501Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -13109,77 +13006,6 @@
   },
   {
     "identifier": {
-      "id": "6a9c960285d4232b2a9297fe",
-      "partner_label": "France Travail",
-      "partner_job_id": "213LNCV"
-    },
-    "workplace": {
-      "siret": "55204944702747",
-      "brand": "SNCF GARE DE ST DENIS STADE DE FRANCE",
-      "legal_name": "SOCIETE NATIONALE SNCF",
-      "website": null,
-      "name": "SOCIETE NATIONALE SNCF",
-      "description": null,
-      "size": "10 000 salariés et plus",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "49.10Z",
-          "label": "Transport ferroviaire interurbain de voyageurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://emploi.sncf.com/nos-offres/785054?extId=2026-015246&source=sncf-prod&NoSociete=389&NoSource=16023%3Futm_source%3Dfrancetravail&utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "ALTERNANCE - BTS Maintenance des Systèmes (MS) (H/F)",
-      "rome_codes": [
-        "I1323"
-      ],
-      "description": "Description du poste\nDescription de la mission :\n\nAssurer des interventions de maintenance multi technique, préventive et corrective, dans le second oeuvre et les équipements, du domaine du bâtiment et de l'électricité.\n\nAssurer des missions de surveillance d'entreprise\n\nOrganisation au quotidien des interventions prévues au plan annuel de maintenance.\n\nMise à jour de la GMAO\n\nAssistance et conseil aux clients\n\nRédaction de devis (pratique de BATIPRIX)\n\nGestion de la co activité\n\nVérification des décomptes et suivi des règlements\n\nInformations complémentaire :\n\nPermis B requis\n\nTélétravail possible\n\nDéplacements prévus \n\n\nProfil recherché\nCompétences attendues  \n\nAnalyse\n\nAnimer et piloter la qualité produite\n\nCoopération\n\nInnovation\n\nMéthode\n\nOrientation clients\n\nOrientation Performance\n\nPromouvoir l'entreprise\n\nConnaissance outils Microsoft Office\n\nOrganisation et rigueur\n\n\nRétribution et avantages\nla SNCF, votre salaire en apprentissage est fixé en pourcentage du SMIC ou du salaire minimal SNCF selon votre âge et de votre progression dans le cycle de formation, conformément au Code du Travail.\n\nEn contrat de professionnalisation, votre salaire est fixé par décret en pourcentage du SMIC et varie en fonction de votre âge.\n\nVotre rémunération peut être complétée par une prime individuelle de performance et d'intéressement en fonction des résultats de l'entreprise\n\nEn rejoignant le groupe SNCF, vous pourrez également bénéficier des avantages spécifiques tels que l'aide au logement, la protection sociale, les facilités de voyages, le comité d'entreprise ...\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Lecture de dessins techniques",
-        "Former les nouveaux techniciens aux procédures",
-        "Identifier les composants et les pièces défectueuses",
-        "Respecter les délais de réponse et de traitement",
-        "Vérifier le fonctionnement des équipements de signalisation"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-05T08:43:24.319Z",
-        "expiration": "2026-11-05T08:43:24.319Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9b449385d4232b2a921d5d",
       "partner_label": "France Travail",
       "partner_job_id": "213KPCY"
@@ -13530,73 +13356,6 @@
       "publication": {
         "creation": "2026-09-03T12:20:54.352Z",
         "expiration": "2026-11-03T12:20:54.352Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a99f32f85d4232b2a91a493",
-      "partner_label": "France Travail",
-      "partner_job_id": "213HZNB"
-    },
-    "workplace": {
-      "siret": "84888511700012",
-      "brand": "ANGE BOULANGERIE",
-      "legal_name": "CRESANGE",
-      "website": null,
-      "name": "CRESANGE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34920 Le Crès",
-        "geopoint": {
-          "coordinates": [
-            3.937288,
-            43.652827
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HZNB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance MCO manager d'unité marchande (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Recherche d'alternant en MCO, manager d'unité marchande Les missions :\n- Accueillir les clients avec le sourire\n- Conseiller les clients et participer activement à la vente\n- Mettre en avant les produits et les offres du moment\n- Proposer naturellement des produits complémentaires\n- Veiller à la bonne tenue de l'espace de vente\n- Participer au rangement, au nettoyage et à la mise en place\n- Encaisser les ventes et respecter les procédures de caisse\n- Remonter les informations importantes à votre responsable\nLe sourire et la satisfaction client sont au cœur de leurs mission !\nNous recherchons une personne :\n- Souriante, dynamique et organisée\n- Accueillante et à l'écoute des clients\n- Aimant le travail en équipe et le contact avec la clientèle\n\nAutres missions si la personne est en demande : gestion de planning, commande matières premières, réseaux sociaux.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-03T10:57:02.409Z",
-        "expiration": "2026-11-03T10:57:02.409Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -14863,86 +14622,6 @@
   },
   {
     "identifier": {
-      "id": "6a84dba7d07de55f76463737",
-      "partner_label": "France Travail",
-      "partner_job_id": "212NQLW"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34550 Bessan",
-        "geopoint": {
-          "coordinates": [
-            3.420637,
-            43.36465
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212NQLW",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Bessan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-17T15:34:19.650Z",
-        "expiration": "2026-10-17T15:34:19.650Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8238da38b5d9aee1ace007",
       "partner_label": "France Travail",
       "partner_job_id": "212MVHK"
@@ -15079,246 +14758,6 @@
   },
   {
     "identifier": {
-      "id": "6a765c4452e165fd1b089bbb",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GJMM"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34140 Mèze",
-        "geopoint": {
-          "coordinates": [
-            3.584267,
-            43.435562
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GJMM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Mèze (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-07T17:00:32.453Z",
-        "expiration": "2026-10-07T17:00:32.453Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a765c4452e165fd1b089bba",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GJJY"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GJJY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Frontignan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-07T16:56:17.481Z",
-        "expiration": "2026-10-07T16:56:17.481Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6d21b896004791b08ab52f",
-      "partner_label": "France Travail",
-      "partner_job_id": "211XQZV"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34550 Bessan",
-        "geopoint": {
-          "coordinates": [
-            3.420637,
-            43.36465
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XQZV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Bessan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-31T09:54:46.270Z",
-        "expiration": "2026-09-30T09:54:46.270Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a6d21b896004791b08ab530",
       "partner_label": "France Travail",
       "partner_job_id": "211XMMG"
@@ -15394,78 +14833,382 @@
   },
   {
     "identifier": {
-      "id": "6a6bd07a96004791b08a0d59",
-      "partner_label": "France Travail",
-      "partner_job_id": "211TDVZ"
+      "id": "6ab5a32168233dbb8f6afd83",
+      "partner_label": "Meteojob",
+      "partner_job_id": "57039530"
     },
     "workplace": {
-      "siret": "45105338302775",
+      "siret": null,
       "brand": null,
-      "legal_name": "VITALLIANCE",
+      "legal_name": null,
       "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
+      "name": "E.Leclerc",
+      "description": "<p>Le centre E.Leclerc de Béziers, la Devèze emploie une centaine de salariés dans des métiers alimentaires et non-alimentaires.</p> <p>Les 533 adhérents E.Leclerc exploitant 726 magasins indépendants en France, emploient 140.000 salariés. L'enseigne E.Leclerc a réalisé un chiffre d'affaires de 41 milliards d'euros (hors carburant) en 2021 et est le leader de la distribution française avec une part de marché de 22.5%.</p> <p>Employeurs engagés, les centres E.Leclerc accueillent chaque année près de 4.000 alternants (dont 2800 apprentis) et 10.000 stagiaires pour concourir à leur formation. Ils s'investissent également aux côtés de l'Agefiph dans une démarche volontariste d'intégration des personnes en situation de handicap.</p> <p>Faire partie de l'enseigne E.LECLERC, c'est intégrer une fédération d'entreprises dynamiques, en croissance et qui se démarquent autant par leur mode de fonctionnement que par leur capacité à innover et à bouleverser les idées reçues.</p>",
+      "size": null,
       "location": {
-        "address": "34340 Marseillan",
+        "address": "34500 Béziers",
         "geopoint": {
           "coordinates": [
-            3.536135,
-            43.338729
+            3.233465,
+            43.343264
           ],
           "type": "Point"
         }
       },
       "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
+        "idcc": null,
+        "opco": null,
+        "naf": null
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211TDVZ",
+      "url": "https://www.meteojob.com/jobs/57039530?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
       "start": null,
-      "duration": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Qualité (alternance) - H/F",
+      "rome_codes": [
+        "H1515"
+      ],
+      "description": "<p>E. Leclerc est un acteur militant de l'apprentissage. Nous sommes attachés à la transmission des savoir-faire, et l'alternance est un bon moyen de réussir son entrée dans la vie active. Chaque année, plus de 4.000 alternants sont accueillis dans l'enseigne.</p> <p>Toute l'équipe Qualité du magasin s'est préparée pour accueillir un alternant afin de lui apprendre toutes les techniques et les astuces du métier dans un univers où le contact humain est primordial !</p> <p>Vous vous formerez ainsi aux nombreuses facettes de ce métier :</p> <ul>  <li>   <p>Assurer les activités quotidiennes de la qualité (relevé températures, suivi des dates courtes, vérification des étiquetages et balisages des produits, suivi de l'hygiène et des procédures de nettoyage et désinfection)</p>  </li>  <li>   <p>Gérer les anomalies produits (suivi des réclamations clients et des retraits rappels de produits)</p>  </li>  <li>   <p>Mettre en place les procédures administratives (réglementation, hygiène, certification de services)</p>  </li>  <li>   <p>Appliquer les normes qualité et contrôler l'application des procédures, la conformité des produits et des installations</p>  </li>  <li>   <p>Assurer la mise en place de la gestion documentaire</p>  </li>  <li>   <p>Proposer des préconisations d'actions préventives et engager les mesures correctives nécessaires (reprise ou destruction des produits) en cas de problème constaté</p>  </li> </ul> <p>Progressivement, vous gagnerez en compétence et en autonomie.</p> <p>Durant tout votre parcours, un tuteur, salarié du magasin, vous accompagnera pour veiller à votre bonne intégration dans l'entreprise, et vous transmettre les bonnes pratiques qui vous permettront d'évoluer progressivement vers plus d'autonomie et de responsabilités.</p> <p>Si vous n'avez pas encore d'inscription dans une école ou une formation, vous pouvez quand même postuler et nous pourrons tenter de vous accompagner dans votre recherche.</p> <p>Nous vous proposons un contrat d'apprentissage/de professionnalisation d'une durée de 12 mois à compter d'octobre 2026. La rémunération sera fixée selon la grille légale des alternants (critère d'âge et d'année d'étude).</p>\r\n\r\nSecteur: Distribution &amp; Commerce de détail\r\n\r\nPoste: Assistant qualité (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>Cette offre est ouverte à tous candidats, qu'ils soient apprentis ou en reconversion professionnelle (contrat professionnel). Notre service RH pourra vous accompagner dans vos démarches (inscription en CFA ou organisme de formation).</p> <p>Préparant un diplôme, vous êtes rigoureux(se), force de proposition et avez un bon sens d'analyse et de la communication. Avoir le goût du commerce est un préalable. Pour le reste, nous vous accompagnerons durant toute votre présence dans l'entreprise, afin de vous permettre d'acquérir un savoir-faire et d'évoluer professionnellement.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T14:26:55.348Z",
+        "expiration": "2026-11-24T14:26:55.348Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d1",
+      "partner_label": "France Travail",
+      "partner_job_id": "214JPCX"
+    },
+    "workplace": {
+      "siret": "41481504302632",
+      "brand": null,
+      "legal_name": "LAFARGE BETONS",
+      "website": null,
+      "name": "LAFARGE BETONS",
+      "description": null,
+      "size": "1 000 à 1 999 salariés",
+      "location": {
+        "address": "34740 Vendargues",
+        "geopoint": {
+          "coordinates": [
+            3.963982,
+            43.658046
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 135,
+        "opco": "OPCO 2i",
+        "naf": {
+          "code": "23.63Z",
+          "label": "Fabrication de béton prêt à l'emploi"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JPCX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
       "type": [
         "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Auxiliaire de vie en alternance Marseillan (H/F)",
+      "title": "Devenez Conducteur de centrale à béton (H/F)",
       "rome_codes": [
-        "K1311"
+        "H2804"
       ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
+      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience. \nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\n Parcours de Recrutement sous réserve de validation étape les unes après les autres :\n 15 OCT / 9h00 : Réunion collective &amp; Visite site  (Chaussures fermées obligatoires)  15-16 OCT : Entretiens individuels   26-30 OCT : Immersion professionnelle (5 jours)   9 NOV - 29 DÉC : POEI (Formation + Tutorat)   DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP)   FIN DE CONTRAT : Possibilité de CDI",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
+        "Monter et régler une installation, une machine",
+        "Contrôler un approvisionnement",
+        "Respecter les procédures de sécurité lors du chargement et déchargement",
+        "Superviser le lancement d'une production",
+        "Définir les données de programmation",
+        "Bon niveau de communication orale en français ",
+        "Bon niveau d'expression à l'écrit"
       ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-28T11:18:54.482Z",
-        "expiration": "2026-09-28T11:18:54.482Z"
+        "creation": "2026-09-24T13:50:20.481Z",
+        "expiration": "2026-11-24T13:50:20.481Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d0",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164936"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738630?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Conseiller service après-vente Automobile F/H",
+      "rome_codes": [
+        "I1623"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Rattaché/e au chef d'atelier, vous serez formé.ep&gt;Accueillir les clients dans nos ateliersPrendre les RDV par téléphone et les planifierAssurer la prise en charge des véhiculesCoordonner l'intervention de réparation mécanique, en pilotant votre équipe autour des process de réparation et du respect des données légales de nos métiersDévelopper le commerce et conseiller le client sur les prestations à effectuerRestituer les véhicules aux clients et vous assurer de leur satisfaction",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:14.619Z",
+        "expiration": "2026-11-24T12:16:14.619Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d3",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164877"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/55738629?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti(e) Carrossier(e) H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !De Marmande à Perpignan, en\npassant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le\nGroupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos \ncollaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.Dans le cadre de votre contrat d'apprentissage BAC PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévisDémonter ou remplacer les éléments endommagésEvaluer l'état des dommages Procéder à des opérations de débosselage, planage, ponçageRemplacer les pare-chocs ou éléments de carrosserie en mauvais étatAméliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:12.470Z",
+        "expiration": "2026-11-24T12:16:12.470Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d2",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164739"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56472055?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternant(e) Bac+5 Environnement H/F",
+      "rome_codes": [
+        "A1312"
+      ],
+      "description": "Au sein de l'activité Ingénierie Environnementale et Ecologique (IEE), dans le cadre de votre alternance, vous serez rattaché(e) au Directeur de projet d'Egis Environnement intervenant sur le projet de création de la ligne nouvelle de TGV Montpellier Perpignan. Le projet de la Ligne Nouvelle Montpellier Perpignan vise à réaliser le maillon manquant pour relier les réseaux ferroviaires à grande vitesse français et espagnol. La première phase, entre Montpellier et Béziers, a été déclarée d'utilité publique en . EGIS appui actuellement le Maître d'Ouvrage dans la recherche et la mise en œuvre des sites de compensation des impacts associés aux premières interventions préparatoires (sondages géotechniques, diagnostic archéologiques et expérimentations écologiques).En tant qu'ingénieur.e/chargé.e environnement, vous interviendrez sur le marché d'acquisition de données naturalistes, de renforcement de la conception de moindre impact écologique de ce projet et la définition et la mise en œuvre des mesures compensatoires écologiques et agroenvironnementales nécessaires à ce projet.Dans ce cadre, vous participerez aux missions suivantes sous la responsabilité du directeur de projet d'Egis :Collecte de données environnementales et analyse d'études environnementales et de biodiversité relatives à la conception des mesures compensatoires nécessaires au projet la ligne nouvelle,Aide à la gestion et reporting du projet auprès du directeur de projet environnement d'Egis,Coordination et production des documents de suivi des prestations, des comptes-rendus, des interfaces avec les différents intervenants du projet.Participation aux réunions avec les parties prenantes en appui du Directeur de projet.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:16:06.840Z",
+        "expiration": "2026-11-24T12:16:06.840Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab5a2417caaafd3f59782d6",
+      "partner_label": "France Travail",
+      "partner_job_id": "7164021"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56460998?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti aide-soignant F/H/X",
+      "rome_codes": [
+        "J1501"
+      ],
+      "description": "Développez tous vos talents aux côtés de nos résidents.Dans nos 270 maisons de retraite Korian, refaire le monde avec Monique fait partie du métier d'aide-soignant, en plus\ndes soins : vous écoutez, rassurez et créez du lien en accompagnant les résidents et patients dans leurs activités du\nquotidien.En pratique : une\nformation de 12 à 18 mois avec 50% de théorique dans l'un des 12 sites de notre\nCFA des Métiers du Soin et 50% de pratique dans l'un de nos établissements.\n\n Rémunération\n&amp; avantages",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-24T12:15:34.730Z",
+        "expiration": "2026-11-24T12:15:34.730Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -15990,71 +15733,6 @@
       "publication": {
         "creation": "2026-09-22T15:54:27.751Z",
         "expiration": "2026-11-22T15:54:27.751Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab2ff237caaafd3f596a473",
-      "partner_label": "France Travail",
-      "partner_job_id": "7100605"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPAMA MEDITERRANEE",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "94.12Z",
-          "label": "Activités des organisations professionnelles"
-        }
-      }
-    },
-    "apply": {
-      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=ChofiqqcC9VLDMwRAAMuug==",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Gestionnaire Comptabilité H/F H/F",
-      "rome_codes": [
-        "A1102"
-      ],
-      "description": "Groupama Méditerranée est une caisse régionale d'assurance mutualiste implantée sur l'ensemble de la région méditerranéenne. Engagée auprès de ses sociétaires, qu'ils soient particuliers, professionnels ou entreprises, elle propose des solutions de proximité adaptées à leurs besoins.\n\nRejoindre Groupama Méditerranée en alternance, c'est intégrer une structure à taille humaine fondée sur l'entraide, la proximité et l'accompagnement. C'est également l'opportunité de développer ses compétences, de bénéficier d'un suivi personnalisé et de construire un parcours professionnel riche et porteur de sens.\n\n?? Votre mission sera de participer, au sein d'une équipe, à la gestion comptable générale et sociale, en appui au quotidien des activités de l'entreprise.\n\nPlus spécifiquement, vous aurez la possibilité de participer :\n\n- Au traitement comptable des opérations courantes (saisie, lettrage, pointage...)\n- Au contrôle, à la validation et au suivi des notes de frais\n- À la participation au traitement comptable des charges sociales et opérations liées à la paie\n- À la vérification et à la conformité des pièces justificatives comptables\n- À la mise à jour et au suivi des comptes fournisseurs, comptes de tiers et comptes sociaux\n- À l'analyse des écarts, au rapprochement des écritures et à la préparation des justificatifs de comptes\n- À l'amélioration continue des processus comptables et des outils de gestion\n\n?? Ce que nous offrons :\n\nUn environnement de travail collaboratif et bienveillant, avec des opportunités de développement personnel et professionnel.\nDes avantages nombreux et attractifs : un 13ème mois, Tickets Restaurants, Mutuelle, Prévoyance, CSE, Réductions sur les produits IARD, PEE, PERCO, ordinateur professionnel ...\n\nEt la suite ? ?\n\nÀ réception de votre candidature, nous nous engageons à l'étudier avec attention.\nSi votre candidature attire notre attention, l'équipe RH vous contactera pour un premier entretien.\nSi vous êtes sélectionné(e) et si vous souhaitez poursuivre le processus de recrutement, vous rencontrerez vos futurs managers.\n\nPrêt(e) à relever le défi ? ??\n\n  \n Admis(e) au sein d'une formation supérieure Bac +2/+3 ou Licence en Comptabilité, Gestion ou équivalent universitaire.\n\nVous êtes un(e) candidat(e) dynamique, engagé(e) et doté(e) d'un réel savoir-être, faisant preuve de rigueur, d'organisation et d'un bon esprit d'analyse.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-22T14:36:08.613Z",
-        "expiration": "2026-11-22T14:36:08.613Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -16941,79 +16619,6 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12254",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DQGL"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "66.22Z",
-          "label": "Activités des agents et courtiers d'assurances"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DQGL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller commercial en Assurances en Apprentissage (H/F)",
-      "rome_codes": [
-        "C1102"
-      ],
-      "description": "Nous recherchons un conseiller commercial en assurances en alternance qui prépare un Bachelor Commerce ou Banque Assurances.\n\nMissions principales :\n\n- Accueillir et conseiller les clients sur les produits d'assurance.\n- Participer à la prospection et au développement du portefeuille clients.\n- Analyser les besoins des clients et proposer des solutions adaptées.\n- Assister les conseillers commerciaux dans la gestion et le suivi des contrats.\n- Contribuer à la fidélisation de la clientèle.\n- Participer à des actions commerciales et marketing.\n- Apprendre et maîtriser les techniques de vente et de négociation.\n- Se former aux produits d'assurance et à la réglementation du secteur.\n\nProfil recherché :\n\n- Étudiant(e) en Bachelor Commerce ou Banque Assurance.\n- Intérêt marqué pour le secteur de l'assurance et la relation client.\n- Bonnes capacités relationnelles et commerciales.\n- Rigueur, organisation et sens du service client.\n- Dynamisme, motivation et esprit d'équipe.\n\nQualités personnelles :\n\n- Sens de l'écoute et de la communication.\n- Capacité d'adaptation et réactivité.\n- Autonomie et curiosité.\n- Esprit d'initiative et de synthèse.",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Assurances",
-        "Développer un portefeuille clients et prospects",
-        "Rassembler les justificatifs et transmettre la proposition d'assurance pour décision",
-        "Recueillir et analyser les besoins client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T14:23:18.839Z",
-        "expiration": "2026-11-21T14:23:18.839Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab1ae78375ebabde2e2ecfb",
       "partner_label": "Meteojob",
       "partner_job_id": "56933897"
@@ -17470,137 +17075,6 @@
   },
   {
     "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0ae",
-      "partner_label": "France Travail",
-      "partner_job_id": "6988078"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34560 Poussan",
-        "geopoint": {
-          "coordinates": [
-            3.672962,
-            43.4845
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56394318?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Assistant administratif et commercial - Poussan (F/H)",
-      "rome_codes": [
-        "D1401"
-      ],
-      "description": "Gestion et suivi des dossiers sinistres : ouverture, mise à jour et classement des dossiers.Accueil téléphonique et relation clients : prise de demandes, suivi des interventions et information des clients.Gestion des mails et courriers : traitement, rédaction et suivi des échanges avec clients, assurances et experts.Organisation des interventions : prise de rendez-vous et coordination avec les équipes terrain.Suivi administratif des devis et factures : préparation, contrôle et relances.Mise à jour des tableaux de suivi : suivi des dossiers, interventions, devis et facturation.Classement et archivage des documents administratifs.Support quotidien à l'équipe : aide à la gestion administrative et amélioration des procédures internes.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T12:06:31.342Z",
-        "expiration": "2026-11-18T12:06:31.342Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aadb9189b5a0cfb25afe0a7",
-      "partner_label": "France Travail",
-      "partner_job_id": "214BXZY"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34980 Montferrier-sur-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.857232,
-            43.666999
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BXZY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) dentaire en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Le cabinet d'orthodontie de Montferrier sur Lez recherche un(e) assistant(e) dentaire en contrat d'apprentissage. \n\nVous interviendrez sur des missions variées :\nAccueil et accompagnement des patients\nGestion administrative des dossiers patients et des rendez-vous\nAssistance du praticien au fauteuil\nPréparation des instruments et du matériel médical\nStérilisation et gestion des règles d'hygiène\n\nProfil sérieux, motivé, très souriant recherché",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir, orienter et renseigner un patient",
-        "Relayer de l'information",
-        "Renseigner des documents médico-administratifs"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-18T11:59:17.631Z",
-        "expiration": "2026-11-18T11:59:17.631Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aadb9189b5a0cfb25afe0ad",
       "partner_label": "France Travail",
       "partner_job_id": "214BWTM"
@@ -17865,68 +17339,6 @@
       "publication": {
         "creation": "2026-09-17T03:19:19.152Z",
         "expiration": "2026-11-17T03:19:19.152Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c5",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944675"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34570 Vailhauquès",
-        "geopoint": {
-          "coordinates": [
-            3.729135,
-            43.661352
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/52542051?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial / Commerciale sédentaire (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nVotre mission\n\nEn tant que Commercial(e) en alternance, vous participez activement au développement national de la plateforme.\n\nDéveloppement commercial B2B***Prospection d'agents immobiliers indépendants\n* Développement auprès des réseaux de mandataires\n* Identification et activation de prescripteurs (coachs, formateurs, réseaux, etc Prise de rendez-vous et relances commerciales\n* Suivi du pipe commercial\n\nDémonstration &amp; conversion***Réalisation de démonstrations à distance de la plateforme (visio)\n* Présentation des avantages concurrentiels\n* Accompagnement à l'inscription et au premier projet\n\nDéveloppement du réseau de photographes***Sourcing et recrutement de photographes partenaires\n* Qualification des profils\n* Animation et suivi du réseau\n\nDescription du profil Autonome, organisé(e), et responsable.***Bonne communication, sens du relationnel, aisance à l'oral et bonne qualité rédactionnelle.***Force de proposition.***profil chasseur",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:16.501Z",
-        "expiration": "2026-11-17T03:19:16.501Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -18245,68 +17657,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -18354,6 +17704,68 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21062,77 +20474,6 @@
   },
   {
     "identifier": {
-      "id": "6a9c960285d4232b2a9297fe",
-      "partner_label": "France Travail",
-      "partner_job_id": "213LNCV"
-    },
-    "workplace": {
-      "siret": "55204944702747",
-      "brand": "SNCF GARE DE ST DENIS STADE DE FRANCE",
-      "legal_name": "SOCIETE NATIONALE SNCF",
-      "website": null,
-      "name": "SOCIETE NATIONALE SNCF",
-      "description": null,
-      "size": "10 000 salariés et plus",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "49.10Z",
-          "label": "Transport ferroviaire interurbain de voyageurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://emploi.sncf.com/nos-offres/785054?extId=2026-015246&source=sncf-prod&NoSociete=389&NoSource=16023%3Futm_source%3Dfrancetravail&utm_source=POLEEMPLOI&utm_medium=TargetingSourcing&utm_campaign=SNCF_ACT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "ALTERNANCE - BTS Maintenance des Systèmes (MS) (H/F)",
-      "rome_codes": [
-        "I1323"
-      ],
-      "description": "Description du poste\nDescription de la mission :\n\nAssurer des interventions de maintenance multi technique, préventive et corrective, dans le second oeuvre et les équipements, du domaine du bâtiment et de l'électricité.\n\nAssurer des missions de surveillance d'entreprise\n\nOrganisation au quotidien des interventions prévues au plan annuel de maintenance.\n\nMise à jour de la GMAO\n\nAssistance et conseil aux clients\n\nRédaction de devis (pratique de BATIPRIX)\n\nGestion de la co activité\n\nVérification des décomptes et suivi des règlements\n\nInformations complémentaire :\n\nPermis B requis\n\nTélétravail possible\n\nDéplacements prévus \n\n\nProfil recherché\nCompétences attendues  \n\nAnalyse\n\nAnimer et piloter la qualité produite\n\nCoopération\n\nInnovation\n\nMéthode\n\nOrientation clients\n\nOrientation Performance\n\nPromouvoir l'entreprise\n\nConnaissance outils Microsoft Office\n\nOrganisation et rigueur\n\n\nRétribution et avantages\nla SNCF, votre salaire en apprentissage est fixé en pourcentage du SMIC ou du salaire minimal SNCF selon votre âge et de votre progression dans le cycle de formation, conformément au Code du Travail.\n\nEn contrat de professionnalisation, votre salaire est fixé par décret en pourcentage du SMIC et varie en fonction de votre âge.\n\nVotre rémunération peut être complétée par une prime individuelle de performance et d'intéressement en fonction des résultats de l'entreprise\n\nEn rejoignant le groupe SNCF, vous pourrez également bénéficier des avantages spécifiques tels que l'aide au logement, la protection sociale, les facilités de voyages, le comité d'entreprise ...\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Lecture de dessins techniques",
-        "Former les nouveaux techniciens aux procédures",
-        "Identifier les composants et les pièces défectueuses",
-        "Respecter les délais de réponse et de traitement",
-        "Vérifier le fonctionnement des équipements de signalisation"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-05T08:43:24.319Z",
-        "expiration": "2026-11-05T08:43:24.319Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9b449385d4232b2a921d5d",
       "partner_label": "France Travail",
       "partner_job_id": "213KPCY"
@@ -21483,73 +20824,6 @@
       "publication": {
         "creation": "2026-09-03T12:20:54.352Z",
         "expiration": "2026-11-03T12:20:54.352Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a99f32f85d4232b2a91a493",
-      "partner_label": "France Travail",
-      "partner_job_id": "213HZNB"
-    },
-    "workplace": {
-      "siret": "84888511700012",
-      "brand": "ANGE BOULANGERIE",
-      "legal_name": "CRESANGE",
-      "website": null,
-      "name": "CRESANGE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34920 Le Crès",
-        "geopoint": {
-          "coordinates": [
-            3.937288,
-            43.652827
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213HZNB",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance MCO manager d'unité marchande (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Recherche d'alternant en MCO, manager d'unité marchande Les missions :\n- Accueillir les clients avec le sourire\n- Conseiller les clients et participer activement à la vente\n- Mettre en avant les produits et les offres du moment\n- Proposer naturellement des produits complémentaires\n- Veiller à la bonne tenue de l'espace de vente\n- Participer au rangement, au nettoyage et à la mise en place\n- Encaisser les ventes et respecter les procédures de caisse\n- Remonter les informations importantes à votre responsable\nLe sourire et la satisfaction client sont au cœur de leurs mission !\nNous recherchons une personne :\n- Souriante, dynamique et organisée\n- Accueillante et à l'écoute des clients\n- Aimant le travail en équipe et le contact avec la clientèle\n\nAutres missions si la personne est en demande : gestion de planning, commande matières premières, réseaux sociaux.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Entretenir, nettoyer un espace, un lieu, un local"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-03T10:57:02.409Z",
-        "expiration": "2026-11-03T10:57:02.409Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23020,86 +22294,6 @@
   },
   {
     "identifier": {
-      "id": "6a84dba7d07de55f76463737",
-      "partner_label": "France Travail",
-      "partner_job_id": "212NQLW"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34550 Bessan",
-        "geopoint": {
-          "coordinates": [
-            3.420637,
-            43.36465
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212NQLW",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Bessan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-17T15:34:19.650Z",
-        "expiration": "2026-10-17T15:34:19.650Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a8238da38b5d9aee1ace007",
       "partner_label": "France Travail",
       "partner_job_id": "212MVHK"
@@ -23228,246 +22422,6 @@
       "publication": {
         "creation": "2026-08-12T11:53:18.394Z",
         "expiration": "2026-10-12T11:53:18.394Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a765c4452e165fd1b089bbb",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GJMM"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34140 Mèze",
-        "geopoint": {
-          "coordinates": [
-            3.584267,
-            43.435562
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GJMM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Mèze (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-07T17:00:32.453Z",
-        "expiration": "2026-10-07T17:00:32.453Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a765c4452e165fd1b089bba",
-      "partner_label": "France Travail",
-      "partner_job_id": "212GJJY"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212GJJY",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Frontignan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-07T16:56:17.481Z",
-        "expiration": "2026-10-07T16:56:17.481Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6d21b896004791b08ab52f",
-      "partner_label": "France Travail",
-      "partner_job_id": "211XQZV"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34550 Bessan",
-        "geopoint": {
-          "coordinates": [
-            3.420637,
-            43.36465
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XQZV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Bessan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-31T09:54:46.270Z",
-        "expiration": "2026-09-30T09:54:46.270Z"
       },
       "opening_count": 1,
       "status": "Active"
@@ -23738,86 +22692,6 @@
       "publication": {
         "creation": "2026-07-29T15:25:49.858Z",
         "expiration": "2026-09-27T15:25:49.855Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bd07a96004791b08a0d59",
-      "partner_label": "France Travail",
-      "partner_job_id": "211TDVZ"
-    },
-    "workplace": {
-      "siret": "45105338302775",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": null,
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34340 Marseillan",
-        "geopoint": {
-          "coordinates": [
-            3.536135,
-            43.338729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211TDVZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance Marseillan (H/F)",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs. Vitalliance est une société à mission notre raison d'être est : \"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\" Notre mot d'ordre : Savoir être là. Vous souhaitez donner un nouveau sens à votre carrière ?\n\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :\n\n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens. Nous recherchons des personnes capables de :\n\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles et professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\nDe vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accompagner une personne lors d'un déplacement",
-        "Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)",
-        "Adapter ses pratiques d'accueil et d'accompagnement selon les besoins particuliers des personnes",
-        "Adapter son comportement, sa pratique professionnelle aux situations",
-        "Aider une personne à s'habiller",
-        "Assurer une présence et un environnement sécurisant pour les personnes accompagnées",
-        "Détecter des situations à risques (troubles du comportement alimentaire, dénutrition, etc.) et orienter vers les personnes compétentes",
-        "Effectuer les courses d'une personne",
-        "Encourager l'autonomie dans les activités quotidiennes",
-        "Maintenir, favoriser le lien social de la personne",
-        "Préparer, aider à la prise des repas et encourager dans la manipulation des couverts",
-        "Prévenir les risques et la sécurité de la personne accompagnée",
-        "Savoir alerter en cas de problème ou d'urgence",
-        "Veiller à l'hygiène corporelle des personnes"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-28T11:18:54.482Z",
-        "expiration": "2026-09-28T11:18:54.482Z"
       },
       "opening_count": 1,
       "status": "Active"
