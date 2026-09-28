@@ -6958,114 +6958,6 @@
   },
   {
     "identifier": {
-      "id": "6a67112d1ae407c4c7c57a8c",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a67112d1ae407c4c7c57a8c"
-    },
-    "workplace": {
-      "siret": "99462318900028",
-      "brand": null,
-      "legal_name": "BENHAJ POUSSAN",
-      "website": null,
-      "name": "BENHAJ POUSSAN",
-      "description": "Commerce de proximité alimentaire proposant la vente de produits alimentaires, boissons et produits du quotidien. L’activité comprend l’accueil et le conseil des clients, la mise en rayon, la gestion des stocks, l’encaissement et l’entretien du magasin.",
-      "size": "Non diffusé",
-      "location": {
-        "address": "4 BOULEVARD RENE TULET 34560 POUSSAN",
-        "geopoint": {
-          "coordinates": [
-            3.670118,
-            43.487789
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "47.11B",
-          "label": "Commerce d'alimentation générale"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a67112d1ae407c4c7c57a8c/employé-polyvalent-employée-polyvalente-de-libre-service",
-      "phone": null,
-      "recipient_id": "partners_6a67112d1ae407c4c7c57a8c"
-    },
-    "contract": {
-      "start": "2026-09-01T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de libre-service",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "L'Employé de rayon libre-service est en charge de la présentation, la mise en rayon des produits et la gestion de l'espace de vente dans un magasin. Approvisionne et organise les produits en rayon selon la politique du magasin Veille à la propreté et à l'ordre de son espace de travail pour garantir un environnement agréable Contrôle les dates de péremption, la signalétique des prix et retire les produits non conformes Renseigne et oriente les clients dans le magasin pour faciliter leurs achats Participe aux inventaires et à la gestion des stocks pour optimiser la disponibilité des produits Peut effectuer des opérations de caisse et contribuer à l'accueil des clients",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Faire preuve d'autonomie",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tVérifier la température des réfrigérateurs, des chambres froides en réserve et en rayon",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Qualité\tContrôler l'état de conservation d'un produit périssable",
-        "Qualité\tContrôler la mise en rayon des articles",
-        "Qualité\tContrôler le balisage et l'étiquetage des produits en rayon",
-        "Qualité\tRetirer des produits non conformes",
-        "Gestion des stocks\tAgir rapidement en cas de rupture de stock",
-        "Gestion des stocks\tApprovisionner un rayon en respectant les rotations des produits",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRéaliser l'étiquetage de produits",
-        "Gestion des stocks\tRéaliser le réassort",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Gestion des stocks\tSurveiller les dates de péremption et retirer les produits obsolètes",
-        "Gestion des stocks\tTrier, ranger des produits, des matières premières",
-        "Gestion des stocks\tVérifier le réassort d'un rayon",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAccueillir et conseiller les clients sur les produits du rayon",
-        "Relation client\tAccueillir, orienter et renseigner un client",
-        "Relation client\tInformer, renseigner une personne sur les articles en vente",
-        "Développement commercial\tGérer les retours de produits et les échanges avec les clients",
-        "Développement commercial\tMettre en place des promotions et animations commerciales",
-        "Développement commercial\tOrganiser, aménager un espace de vente",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tRéaliser la mise en rayon",
-        "Organisation\tAssurer la propreté du rayon selon les normes sanitaires",
-        "Organisation\tEffectuer des tâches multiples et s'adapter aux changements rapides",
-        "Organisation\tFormer les nouveaux employés aux procédures du rayon",
-        "Organisation\tFormer les nouveaux employés sur les procédures de rayon",
-        "Organisation\tRespecter les normes de sécurité et d'hygiène en vigueur"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible sans qualification particulière, mais un CAP Employé de commerce multi-spécialités serait un plus. Un certificat d'aptitude à la conduite en sécurité-CACES- peut être requis."
-      ],
-      "publication": {
-        "creation": "2026-07-27T08:05:01.831Z",
-        "expiration": "2026-09-28T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5d31bc1ae407c4c7b76914",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a5d31bc1ae407c4c7b76914"
@@ -7804,6 +7696,68 @@
         "expiration": "2026-09-29T00:00:00.000Z"
       },
       "opening_count": 2,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab996654aa9d646c273299a",
+      "partner_label": "France Travail",
+      "partner_job_id": "7432728"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Leclerc Béziers",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://app.swipelink.fr//public/offer/163c114a-740f-4b08-ae7b-606e5c7f8e42?origin=france_travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Aide-magasinier / Aide-magasinière (H/F)",
+      "rome_codes": [
+        "N1110"
+      ],
+      "description": "Seconder le responsable dans le pilotage de l'activité et assurer son relais en son absence. Mettre en oeuvre et faire respecter le plan HACCP et les procédures qualité. Réaliser les contrôles, les audits internes et le suivi des non-conformités. Sensibiliser les équipes aux bonnes pratiques d'hygiène et accompagner les certifications.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-27T02:02:03.475Z",
+        "expiration": "2026-11-27T02:02:03.475Z"
+      },
+      "opening_count": 1,
       "status": "Active"
     },
     "is_delegated": false
@@ -14304,6 +14258,68 @@
   },
   {
     "identifier": {
+      "id": "6ab996654aa9d646c273299a",
+      "partner_label": "France Travail",
+      "partner_job_id": "7432728"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Leclerc Béziers",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://app.swipelink.fr//public/offer/163c114a-740f-4b08-ae7b-606e5c7f8e42?origin=france_travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Aide-magasinier / Aide-magasinière (H/F)",
+      "rome_codes": [
+        "N1110"
+      ],
+      "description": "Seconder le responsable dans le pilotage de l'activité et assurer son relais en son absence. Mettre en oeuvre et faire respecter le plan HACCP et les procédures qualité. Réaliser les contrôles, les audits internes et le suivi des non-conformités. Sensibiliser les équipes aux bonnes pratiques d'hygiène et accompagner les certifications.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-27T02:02:03.475Z",
+        "expiration": "2026-11-27T02:02:03.475Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ab84500079e5487fc3ebc53",
       "partner_label": "France Travail",
       "partner_job_id": "7401984"
@@ -17759,68 +17775,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -17868,6 +17822,68 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active"
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -21908,136 +21924,6 @@
       "publication": {
         "creation": "2026-07-30T14:11:45.554Z",
         "expiration": "2026-09-28T14:11:45.552Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6a1c0d1afdac9d88494845",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a6a1c0d1afdac9d88494845"
-    },
-    "workplace": {
-      "siret": "79499682700026",
-      "brand": "TRAMDRIVE",
-      "legal_name": "TRAM BOUL LES RIVES DU LEZ",
-      "website": null,
-      "name": "TRAM BOUL LES RIVES DU LEZ",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "Chemin des Barques 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.894131,
-            43.604577
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1c0d4ebca56dd596320d",
-      "phone": null,
-      "recipient_id": "partners_6a6a1c0d1afdac9d88494845"
-    },
-    "contract": {
-      "start": "2026-08-31T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1108"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-29T15:28:13.228Z",
-        "expiration": "2026-09-27T15:28:13.225Z"
-      },
-      "opening_count": 1,
-      "status": "Active"
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6a1b7d7bb47f5fb14abc1d",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6a6a1b7d7bb47f5fb14abc1d"
-    },
-    "workplace": {
-      "siret": "79499682700026",
-      "brand": "TRAMDRIVE",
-      "legal_name": "TRAM BOUL LES RIVES DU LEZ",
-      "website": null,
-      "name": "TRAM BOUL LES RIVES DU LEZ",
-      "description": "",
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "Chemin des Barques 34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.894131,
-            43.604577
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6a6a1b7d4ebca56dd59631fc",
-      "phone": null,
-      "recipient_id": "partners_6a6a1b7d7bb47f5fb14abc1d"
-    },
-    "contract": {
-      "start": "2026-08-31T00:00:00.000Z",
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
-      "rome_codes": [
-        "D1108"
-      ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. \\nPeut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-29T15:25:49.858Z",
-        "expiration": "2026-09-27T15:25:49.855Z"
       },
       "opening_count": 1,
       "status": "Active"
