@@ -1,6 +1,111 @@
 [
   {
     "identifier": {
+      "id": "6abbdb06999d7ac157466565",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6abbdb06999d7ac157466565"
+    },
+    "workplace": {
+      "siret": "45190631700214",
+      "brand": null,
+      "legal_name": "L ATELIER DES CHEFS",
+      "website": null,
+      "name": "L ATELIER DES CHEFS",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE PERGOLESE 75016 PARIS",
+        "geopoint": {
+          "coordinates": [
+            3.918117,
+            43.587041
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "55.20Z",
+          "label": "Hébergement touristique et autre hébergement de courte durée"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abbdb06999d7ac157466565/cap-fleuriste-en-apprentissage",
+      "phone": null,
+      "recipient_id": "partners_6abbdb06999d7ac157466565"
+    },
+    "contract": {
+      "start": "2026-09-29T15:36:38.559Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP Fleuriste en Apprentissage",
+      "rome_codes": [
+        "D1209"
+      ],
+      "description": "Un fleuriste est un professionnel spécialisé dans la vente et l'arrangement de fleurs et de plantes. Conçoit et réalise des compositions florales adaptées à divers événements Conseille les clients dans le choix des plantes et des arrangements Assure l'entretien quotidien des fleurs et des plantes pour garantir leur fraîcheur Gère les stocks de fleurs et passe des commandes auprès des fournisseurs Peut décorer des sites pour des événements spéciaux comme des mariages ou des réceptions Organise et optimise l'agencement de la boutique pour attirer et satisfaire la clientèle",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre à l'écoute, faire preuve d'empathie",
+        "Faire preuve de créativité, d'inventivité",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Production, Fabrication\tAppliquer un traitement, un produit",
+        "Production, Fabrication\tChoisir des fleurs adaptées à la situation",
+        "Production, Fabrication\tRéaliser une composition florale",
+        "Production, Fabrication\tUtiliser des techniques de préservation écologique des plantes",
+        "Aménagement\tEffectuer l'entretien de végétaux",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Qualité\tContrôler l'état de conservation d'un produit périssable",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion des stocks\tTrier des végétaux",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tGérer une caisse",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
+        "Protection des personnes et de l'environnement\tPromouvoir la durabilité dans le choix des produits",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Relation client\tConseiller les clients sur les soins des plantes",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer, renseigner une personne sur les articles en vente",
+        "Relation client\tProposer un traitement adapté",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tMaintenir la fraîcheur des fleurs en magasin",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un CAP Fleuriste ou un Brevet Professionnel Fleuriste."
+      ],
+      "publication": {
+        "creation": "2026-09-29T15:36:38.559Z",
+        "expiration": "2026-11-29T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
       "id": "6ab53cf76f4b8c242216a688",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6ab53cf76f4b8c242216a688"
@@ -7477,6 +7582,151 @@
   },
   {
     "identifier": {
+      "id": "6abc3973170bf3aae5851f1b",
+      "partner_label": "France Travail",
+      "partner_job_id": "214NQDX"
+    },
+    "workplace": {
+      "siret": "88379399400020",
+      "brand": null,
+      "legal_name": "SELARLU KINESIA",
+      "website": null,
+      "name": "SELARLU KINESIA",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34725 Saint-André-de-Sangonis",
+        "geopoint": {
+          "coordinates": [
+            3.502577,
+            43.643902
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "86.90E",
+          "label": "Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NQDX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Secrétaire médical / Secrétaire médicale (H/F)",
+      "rome_codes": [
+        "M1609"
+      ],
+      "description": "En contrat d'apprentissage, vous serez en charge de:\n\n- standard téléphonique\n- prise de RDV, gestion d'agenda\n- installation des patients en salle\n- gestion des dossiers des patients\n\n28H en entreprise et 7H en école à Clermont L'Hérault\n\nTravail le samedi",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Actualiser le dossier médical du patient",
+        "Renseigner des documents médico-administratifs",
+        "Accueillir, orienter et renseigner un patient"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-29T14:21:49.262Z",
+        "expiration": "2026-11-29T14:21:49.262Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abc3973170bf3aae5851f1e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214NJYX"
+    },
+    "workplace": {
+      "siret": "45105338302189",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": null,
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34140 Loupian",
+        "geopoint": {
+          "coordinates": [
+            3.626491,
+            43.439678
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NJYX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "URGENT - Auxiliaire de vie en alternance 8h/jour H/F (H/F)",
+      "rome_codes": [
+        "K1311"
+      ],
+      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.\nVitalliance est une société à mission notre raison d'être est :\n\"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"\nNotre mot d'ordre : Savoir être là.\n\nMissions :\nVous souhaitez donner un nouveau sens à votre carrière ?\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme, une personne en situation de handicap sur la ville de Loupian : \n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nProfil recherché :\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.\nNous recherchons des personnes capables de :\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nContrat et Avantages :\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40\n€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles\net professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\n- De vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\n- Formation AET \n\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer les courses d'une personne"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-29T11:33:51.736Z",
+        "expiration": "2026-11-29T11:33:51.736Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6abae7e0f1ddb5796bb3b197",
       "partner_label": "France Travail",
       "partner_job_id": "214LZDC"
@@ -10227,79 +10477,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193ba",
-      "partner_label": "France Travail",
-      "partner_job_id": "213ZWTC"
-    },
-    "workplace": {
-      "siret": "52884763500018",
-      "brand": "NORAUTO",
-      "legal_name": "AUTOMOBILES DE LA DOMITIENNE",
-      "website": null,
-      "name": "AUTOMOBILES DE LA DOMITIENNE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34440 Colombiers",
-        "geopoint": {
-          "coordinates": [
-            3.145229,
-            43.313579
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.20A",
-          "label": "Entretien et réparation de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213ZWTC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti en commerce d'accessoires automobile (H/F)",
-      "rome_codes": [
-        "D1223"
-      ],
-      "description": "Nous recherchons un alternant en commerce d'accessoires automobile (H/F) pour un centre auto de service rapide. Vous préparerez un BTS management des unités commerciales en alternance.\n\nPour nos magasins, nous recherchons des personnalités dynamiques et engagées.\nApporter des solutions, c'est notre quotidien !\nTon côté agile te permettra de t'adapter à toutes les situations.\nTon parcours en magasin c'est :\nD'assurer la prise en charge des clients en magasin : découvrir leurs besoins et proposer des solutions adaptées à leurs attentes (produit, prestation atelier, service..).\nDe développer les techniques de vente additionnelle pour optimiser le chiffre d'affaires de ton magasin.\nD'assurer la disponibilité et la mise en avant des produits en rayon, gérer les stocks du périmètre dont tu as la charge.\nD'être garant de la satisfaction client.\n\nLe centre auto est ouvert de 9h à 19h du lundi au samedi.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T14:38:24.256Z",
-        "expiration": "2026-11-17T14:38:24.256Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193b8",
       "partner_label": "France Travail",
       "partner_job_id": "6944721"
@@ -10690,71 +10867,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -10804,6 +10916,71 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -12804,77 +12981,6 @@
   },
   {
     "identifier": {
-      "id": "6a9f38dc95355def70a9e7c8",
-      "partner_label": "France Travail",
-      "partner_job_id": "213MCJC"
-    },
-    "workplace": {
-      "siret": "80362032700020",
-      "brand": null,
-      "legal_name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
-      "website": null,
-      "name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2128,
-        "opco": "Uniformation, l'Opco de la Cohésion sociale",
-        "naf": {
-          "code": "88.99B",
-          "label": "Action sociale sans hébergement n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MCJC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 18,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant / Assistante de vie - contrat en alternance (H/F)",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "Vous aimez vous rendre utile, vous êtes dynamique, autonome, et vous avez les sens des responsabilités, le métier d'aide à domicile est peut-être fait pour vous !\nLe GEIQ vous propose de vous aider à valider votre projet de carrière ou de reconversion, puis de vous former en contrat de professionnalisation sur une durée de 18 mois\n\n- 1 jours par semaine en formation au centre de formation ADRAR) : Préparation du Titre Professionnel Assistant-e de vie aux familles\n\n- 4 jours par semaine au domicile des personnes âgées sur un secteur proche de chez vous : entretien du domicile, linge, courses, stimulation, aide aux déplacements, aux repas, à l'hygiène.\n\nPlusieurs postes à pourvoir sur les villes : \nBédarieux, Castries, Ganges, Grande motte, St jean de védas, Sète, Frontignan, Lattes, Pérols, Palavas, Montpellier.\n\nLes avantages : la formation est financée par le GEIQ et pendant votre temps de travail, vous êtes rémunéré(e) à 100% du SMIC horaire, remboursements kilométriques, mutuelle et prévoyance, accompagnement personnalisé des salariés.\n\nA l'issue du contrat GEIQ vous détenez un diplôme reconnu dans le domaine avec l'accès à un CDI et des possibilités de passerelles vers d'autres métiers (Aide soignant, AES, responsable de secteur, coordinateur-trice...).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer les courses d'une personne",
-        "Surveiller l'état de santé d'une personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-07T11:32:06.703Z",
-        "expiration": "2026-11-07T11:32:06.703Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa1dbe3d4cd2f3dc00fe810",
       "partner_label": "France Travail",
       "partner_job_id": "213LZFQ"
@@ -13207,148 +13313,6 @@
       "publication": {
         "creation": "2026-09-02T21:19:27.960Z",
         "expiration": "2026-11-02T21:19:27.960Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750459891627144750e1d",
-      "partner_label": "France Travail",
-      "partner_job_id": "213FSXM"
-    },
-    "workplace": {
-      "siret": "10739758000013",
-      "brand": "LE RELAX CLUB",
-      "legal_name": "LE RELAX CLUB",
-      "website": null,
-      "name": "LE RELAX CLUB",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FSXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Serveur H/F en apprentissage",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Le Relax Club est un restaurant bar ambiance sur Béziers à la recherche de son futur apprenti en salle H/F en CAP.\nNous avons ouvert en Juillet 2026 et sommes à la recherche d'un collaborateur H/F souhaitant s'inscrire pleinement dans le développement de l'entreprise. \nNous proposons à notre clientèle une carte traditionnelle alliant burgers, salades, viandes et poissons. Le Service en salle implique la salle de restaurant et la terrasse extérieure. \n\nLes horaires en entreprise impliquent du travail en soirée et en week-end. Vous devez impérativement avoir un moyen de déplacement autonome.\n\nNous nous adaptons au rythme de l'alternance du centre de formation. \n\nLe poste est à pourvoir au plus vite.\n\nSi ce poste vous intéresse, merci de postuler avec un CV et une lettre de motivation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T15:25:46.077Z",
-        "expiration": "2026-11-01T15:25:46.077Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750459891627144750e23",
-      "partner_label": "France Travail",
-      "partner_job_id": "213FSPZ"
-    },
-    "workplace": {
-      "siret": "10739758000013",
-      "brand": "LE RELAX CLUB",
-      "legal_name": "LE RELAX CLUB",
-      "website": null,
-      "name": "LE RELAX CLUB",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FSPZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier en apprentissage (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Le Relax Club est un restaurant bar ambiance sur Béziers à la recherche de son futur apprenti cuisinier H/F en CAP.\nNous avons ouvert en Juillet 2026 et sommes à la recherche d'un collaborateur H/F souhaitant s'inscrire pleinement dans le développement de l'entreprise. \nNous proposons à notre clientèle une carte traditionnelle alliant burgers, salades, viandes et poissons.\n\nLes horaires en entreprise impliquent du travail en soirée et en week-end. Vous devez impérativement avoir un moyen de déplacement autonome.\n\nLe ryhtme et la durée du contrat dépendront du centre de formation (en général 2 jours en centre de formation et 3 jours en entreprise)\n\nLe poste est à pourvoir au plus vite.\n\nSi ce poste vous intéresse, merci de postuler avec un CV et une lettre de motivation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T15:20:27.437Z",
-        "expiration": "2026-11-01T15:20:27.437Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14251,39 +14215,175 @@
   },
   {
     "identifier": {
-      "id": "6a6d21b896004791b08ab530",
-      "partner_label": "France Travail",
-      "partner_job_id": "211XMMG"
+      "id": "6abcd9a3999d7ac15746c8ca",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6abcd9a3999d7ac15746c8ca"
     },
     "workplace": {
-      "siret": "51061039700026",
+      "siret": "93962613100014",
       "brand": null,
-      "legal_name": "ECO SUD SYSTEMES",
+      "legal_name": "CHEZ CANDY",
       "website": null,
-      "name": "ECO SUD SYSTEMES",
-      "description": "Société spécialisée dans la l'installation , le dépannage d'urgence et la maintenance d'installations frigorifiques dans le domaine du froid commercial et  industriel.\nNous travaillons avec de grands comptes.\nSociété en plein développement , gros challenge !!!",
-      "size": "20 à 49 salariés",
+      "name": "CHEZ CANDY",
+      "description": null,
+      "size": "Non diffusé",
       "location": {
-        "address": "34130 Mauguio",
+        "address": "5 Rue Jean Ladoux 34500 Béziers",
         "geopoint": {
           "coordinates": [
-            3.976877,
-            43.587984
+            3.234535,
+            43.351646
           ],
           "type": "Point"
         }
       },
       "domain": {
-        "idcc": 1412,
+        "idcc": null,
         "opco": "Opco entreprises de proximité",
         "naf": {
-          "code": "33.20B",
-          "label": "Installation de machines et équipements mécaniques"
+          "code": "47.75Z",
+          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XMMG",
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6abcd9a34bc5282510f3f929",
+      "phone": null,
+      "recipient_id": "partners_6abcd9a3999d7ac15746c8ca"
+    },
+    "contract": {
+      "start": "2026-10-05T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T09:42:59.439Z",
+        "expiration": "2026-11-29T09:42:59.439Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abcd8cec5256f3f6f916816",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6abcd8cec5256f3f6f916816"
+    },
+    "workplace": {
+      "siret": "93962613100014",
+      "brand": null,
+      "legal_name": "CHEZ CANDY",
+      "website": null,
+      "name": "CHEZ CANDY",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "5 Rue Jean Ladoux 34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.234535,
+            43.351646
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "47.75Z",
+          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6abcd8ce4bc5282510f3f91b",
+      "phone": null,
+      "recipient_id": "partners_6abcd8cec5256f3f6f916816"
+    },
+    "contract": {
+      "start": "2026-10-05T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien / Esthéticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T09:39:26.139Z",
+        "expiration": "2026-11-29T09:39:26.139Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abc3973170bf3aae5851f1b",
+      "partner_label": "France Travail",
+      "partner_job_id": "214NQDX"
+    },
+    "workplace": {
+      "siret": "88379399400020",
+      "brand": null,
+      "legal_name": "SELARLU KINESIA",
+      "website": null,
+      "name": "SELARLU KINESIA",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34725 Saint-André-de-Sangonis",
+        "geopoint": {
+          "coordinates": [
+            3.502577,
+            43.643902
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "86.90E",
+          "label": "Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NQDX",
       "phone": null,
       "recipient_id": null
     },
@@ -14291,35 +14391,172 @@
       "start": null,
       "start_type": null,
       "start_is_flexible": null,
-      "duration": 24,
+      "duration": 12,
       "type": [
         "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "ASSISTANT(E) CHARGE D AFFAIRE (H/F) en Alternance",
+      "title": "Secrétaire médical / Secrétaire médicale (H/F)",
       "rome_codes": [
-        "M1607"
+        "M1609"
       ],
-      "description": "**Alternance - Assistant(e) Chargé(e) d'Affaires (H/F)**\n\n **Vos missions**\n\nAu sein de notre équipe, vous accompagnerez les Chargés d'Affaires dans le suivi administratif et opérationnel de leurs projets. Vous serez formé(e) progressivement aux différentes missions afin de développer vos compétences.\n\nVos principales missions seront :\n\n* Assister les Chargés d'Affaires dans la gestion quotidienne des dossiers.\n* Établir et suivre les commandes fournisseurs.\n* Participer à la réalisation et au suivi des devis.\n* Assurer le suivi de la facturation clients.\n* Mettre à jour les tableaux de bord et les fichiers de reporting.\n* Répondre aux appels téléphoniques et assurer la relation avec les clients et les fournisseurs.\n* Participer au suivi administratif des affaires et à la gestion documentaire.\n* Contribuer au bon déroulement des projets en assurant la coordination des informations entre les différents interlocuteurs.\n\n **Profil recherché**\n\nVous préparez un diplôme de niveau Bac +2 à Bac +3 (BTS GPME, BTS Support à l'Action Managériale, BUT Gestion des Entreprises et des Administrations, Licence professionnelle ou équivalent) et recherchez une alternance.\n\nVous êtes :\n\n* Organisé(e), rigoureux(se) et méthodique.\n* À l'aise avec les outils informatiques, notamment Excel et le Pack Office.\n* Doté(e) d'un bon relationnel et d'un sens du service.\n* Curieux(se), motivé(e) et désireux(se) d'apprendre.\n* Capable de travailler en équipe tout en faisant preuve d'autonomie.\n\n **Pourquoi nous rejoindre ?**\n\n* Une alternance enrichissante au sein d'une entreprise dynamique.\n* Un accompagnement par des Chargés d'Affaires expérimentés.\n* Une montée en compétences sur la gestion de projets, la relation clients et le suivi administratif.\n* L'opportunité de développer une expérience concrète et professionnalisante.",
+      "description": "En contrat d'apprentissage, vous serez en charge de:\n\n- standard téléphonique\n- prise de RDV, gestion d'agenda\n- installation des patients en salle\n- gestion des dossiers des patients\n\n28H en entreprise et 7H en école à Clermont L'Hérault\n\nTravail le samedi",
       "target_diploma": {
         "european": "4",
         "label": "Bac, Bac Pro, BP (Bac)"
       },
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Classer des documents",
-        "Gérer les agendas et planifier des rendez-vous",
-        "Mettre à jour un dossier, une base de données",
-        "Rédiger un rapport, un compte rendu d'activité",
-        "Effectuer le suivi des dossiers clients et des procédures en cours",
-        "Veiller au respect des échéances administratives"
+        "Actualiser le dossier médical du patient",
+        "Renseigner des documents médico-administratifs",
+        "Accueillir, orienter et renseigner un patient"
       ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-07-31T08:00:28.332Z",
-        "expiration": "2026-09-30T08:00:28.332Z"
+        "creation": "2026-09-29T14:21:49.262Z",
+        "expiration": "2026-11-29T14:21:49.262Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abc3973170bf3aae5851f1e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214NJYX"
+    },
+    "workplace": {
+      "siret": "45105338302189",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": null,
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34140 Loupian",
+        "geopoint": {
+          "coordinates": [
+            3.626491,
+            43.439678
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NJYX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "URGENT - Auxiliaire de vie en alternance 8h/jour H/F (H/F)",
+      "rome_codes": [
+        "K1311"
+      ],
+      "description": "Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.\nVitalliance est une société à mission notre raison d'être est :\n\"Prendre soin des personnes en perte d'autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"\nNotre mot d'ordre : Savoir être là.\n\nMissions :\nVous souhaitez donner un nouveau sens à votre carrière ?\nVotre mission, en tant qu'auxiliaire de vie (ADV) en contrat d'apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme, une personne en situation de handicap sur la ville de Loupian : \n- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...\n- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.\n- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.\n- Incarner au quotidien notre raison d'être : « Savoir être là », avec écoute, respect et bienveillance.\n\nProfil recherché :\n\nMême sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.\nNous recherchons des personnes capables de :\n- Faire preuve d'empathie, de patience et de respect\n- Être à l'écoute et savoir s'adapter aux situations imprévues\n- Être fiable, ponctuel(le) et responsable\n\nContrat et Avantages :\n\nCe que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .\n- Un contrat d'apprentissage ou professionnalisation : temps plein\n- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %\n- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40\n€/km + temps de trajet payé  (selon règles internes)\n- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.\n- Un service social dédié pour vous accompagner dans vos démarches personnelles\net professionnelles.\n- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos collègues.\n- De vraies perspectives d'évolution grâce à notre centre de formation interne. (ADV Formateur, ADV Référent, ADV Contrôleur Qualité)\n- Formation AET \n\nRejoindre Vitalliance, c'est intégrer une équipe engagée, humaine et solidaire.\nC'est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.\n\nChez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.\n\n\nDans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer les courses d'une personne"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-29T11:33:51.736Z",
+        "expiration": "2026-11-29T11:33:51.736Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a2c871ea914bd1428f0f5b5",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54662577"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RESTALLIANCE",
+      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-06-09T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier F/H",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "6-10 ans",
+        "11-20 ans",
+        "20 ans d'expérience et plus"
+      ],
+      "publication": {
+        "creation": "2026-09-28T23:05:21.785Z",
+        "expiration": "2026-11-28T23:05:21.785Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -17758,79 +17995,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193ba",
-      "partner_label": "France Travail",
-      "partner_job_id": "213ZWTC"
-    },
-    "workplace": {
-      "siret": "52884763500018",
-      "brand": "NORAUTO",
-      "legal_name": "AUTOMOBILES DE LA DOMITIENNE",
-      "website": null,
-      "name": "AUTOMOBILES DE LA DOMITIENNE",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34440 Colombiers",
-        "geopoint": {
-          "coordinates": [
-            3.145229,
-            43.313579
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.20A",
-          "label": "Entretien et réparation de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213ZWTC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti en commerce d'accessoires automobile (H/F)",
-      "rome_codes": [
-        "D1223"
-      ],
-      "description": "Nous recherchons un alternant en commerce d'accessoires automobile (H/F) pour un centre auto de service rapide. Vous préparerez un BTS management des unités commerciales en alternance.\n\nPour nos magasins, nous recherchons des personnalités dynamiques et engagées.\nApporter des solutions, c'est notre quotidien !\nTon côté agile te permettra de t'adapter à toutes les situations.\nTon parcours en magasin c'est :\nD'assurer la prise en charge des clients en magasin : découvrir leurs besoins et proposer des solutions adaptées à leurs attentes (produit, prestation atelier, service..).\nDe développer les techniques de vente additionnelle pour optimiser le chiffre d'affaires de ton magasin.\nD'assurer la disponibilité et la mise en avant des produits en rayon, gérer les stocks du périmètre dont tu as la charge.\nD'être garant de la satisfaction client.\n\nLe centre auto est ouvert de 9h à 19h du lundi au samedi.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T14:38:24.256Z",
-        "expiration": "2026-11-17T14:38:24.256Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193b8",
       "partner_label": "France Travail",
       "partner_job_id": "6944721"
@@ -20680,77 +20844,6 @@
   },
   {
     "identifier": {
-      "id": "6a9f38dc95355def70a9e7c8",
-      "partner_label": "France Travail",
-      "partner_job_id": "213MCJC"
-    },
-    "workplace": {
-      "siret": "80362032700020",
-      "brand": null,
-      "legal_name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
-      "website": null,
-      "name": "GTP EMPLOY INSERT QUALIFICAT - DOMICILE GRAND SUD",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 2128,
-        "opco": "Uniformation, l'Opco de la Cohésion sociale",
-        "naf": {
-          "code": "88.99B",
-          "label": "Action sociale sans hébergement n.c.a."
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MCJC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 18,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant / Assistante de vie - contrat en alternance (H/F)",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "Vous aimez vous rendre utile, vous êtes dynamique, autonome, et vous avez les sens des responsabilités, le métier d'aide à domicile est peut-être fait pour vous !\nLe GEIQ vous propose de vous aider à valider votre projet de carrière ou de reconversion, puis de vous former en contrat de professionnalisation sur une durée de 18 mois\n\n- 1 jours par semaine en formation au centre de formation ADRAR) : Préparation du Titre Professionnel Assistant-e de vie aux familles\n\n- 4 jours par semaine au domicile des personnes âgées sur un secteur proche de chez vous : entretien du domicile, linge, courses, stimulation, aide aux déplacements, aux repas, à l'hygiène.\n\nPlusieurs postes à pourvoir sur les villes : \nBédarieux, Castries, Ganges, Grande motte, St jean de védas, Sète, Frontignan, Lattes, Pérols, Palavas, Montpellier.\n\nLes avantages : la formation est financée par le GEIQ et pendant votre temps de travail, vous êtes rémunéré(e) à 100% du SMIC horaire, remboursements kilométriques, mutuelle et prévoyance, accompagnement personnalisé des salariés.\n\nA l'issue du contrat GEIQ vous détenez un diplôme reconnu dans le domaine avec l'accès à un CDI et des possibilités de passerelles vers d'autres métiers (Aide soignant, AES, responsable de secteur, coordinateur-trice...).",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer les courses d'une personne",
-        "Surveiller l'état de santé d'une personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-07T11:32:06.703Z",
-        "expiration": "2026-11-07T11:32:06.703Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa1dbe3d4cd2f3dc00fe810",
       "partner_label": "France Travail",
       "partner_job_id": "213LZFQ"
@@ -20813,76 +20906,6 @@
       "publication": {
         "creation": "2026-09-07T10:57:13.134Z",
         "expiration": "2026-11-07T10:57:13.134Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a2c871ea914bd1428f0f5b5",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54662577"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "RESTALLIANCE",
-      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-06-09T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier F/H",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "6-10 ans",
-        "11-20 ans",
-        "20 ans d'expérience et plus"
-      ],
-      "publication": {
-        "creation": "2026-09-05T22:06:18.669Z",
-        "expiration": "2026-11-05T22:06:18.669Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -21153,148 +21176,6 @@
       "publication": {
         "creation": "2026-09-02T21:19:27.960Z",
         "expiration": "2026-11-02T21:19:27.960Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750459891627144750e1d",
-      "partner_label": "France Travail",
-      "partner_job_id": "213FSXM"
-    },
-    "workplace": {
-      "siret": "10739758000013",
-      "brand": "LE RELAX CLUB",
-      "legal_name": "LE RELAX CLUB",
-      "website": null,
-      "name": "LE RELAX CLUB",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FSXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Serveur H/F en apprentissage",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Le Relax Club est un restaurant bar ambiance sur Béziers à la recherche de son futur apprenti en salle H/F en CAP.\nNous avons ouvert en Juillet 2026 et sommes à la recherche d'un collaborateur H/F souhaitant s'inscrire pleinement dans le développement de l'entreprise. \nNous proposons à notre clientèle une carte traditionnelle alliant burgers, salades, viandes et poissons. Le Service en salle implique la salle de restaurant et la terrasse extérieure. \n\nLes horaires en entreprise impliquent du travail en soirée et en week-end. Vous devez impérativement avoir un moyen de déplacement autonome.\n\nNous nous adaptons au rythme de l'alternance du centre de formation. \n\nLe poste est à pourvoir au plus vite.\n\nSi ce poste vous intéresse, merci de postuler avec un CV et une lettre de motivation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T15:25:46.077Z",
-        "expiration": "2026-11-01T15:25:46.077Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9750459891627144750e23",
-      "partner_label": "France Travail",
-      "partner_job_id": "213FSPZ"
-    },
-    "workplace": {
-      "siret": "10739758000013",
-      "brand": "LE RELAX CLUB",
-      "legal_name": "LE RELAX CLUB",
-      "website": null,
-      "name": "LE RELAX CLUB",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213FSPZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier en apprentissage (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Le Relax Club est un restaurant bar ambiance sur Béziers à la recherche de son futur apprenti cuisinier H/F en CAP.\nNous avons ouvert en Juillet 2026 et sommes à la recherche d'un collaborateur H/F souhaitant s'inscrire pleinement dans le développement de l'entreprise. \nNous proposons à notre clientèle une carte traditionnelle alliant burgers, salades, viandes et poissons.\n\nLes horaires en entreprise impliquent du travail en soirée et en week-end. Vous devez impérativement avoir un moyen de déplacement autonome.\n\nLe ryhtme et la durée du contrat dépendront du centre de formation (en général 2 jours en centre de formation et 3 jours en entreprise)\n\nLe poste est à pourvoir au plus vite.\n\nSi ce poste vous intéresse, merci de postuler avec un CV et une lettre de motivation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-01T15:20:27.437Z",
-        "expiration": "2026-11-01T15:20:27.437Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -22264,84 +22145,6 @@
       "publication": {
         "creation": "2026-08-12T11:53:18.394Z",
         "expiration": "2026-10-12T11:53:18.394Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6d21b896004791b08ab530",
-      "partner_label": "France Travail",
-      "partner_job_id": "211XMMG"
-    },
-    "workplace": {
-      "siret": "51061039700026",
-      "brand": null,
-      "legal_name": "ECO SUD SYSTEMES",
-      "website": null,
-      "name": "ECO SUD SYSTEMES",
-      "description": "Société spécialisée dans la l'installation , le dépannage d'urgence et la maintenance d'installations frigorifiques dans le domaine du froid commercial et  industriel.\nNous travaillons avec de grands comptes.\nSociété en plein développement , gros challenge !!!",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1412,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "33.20B",
-          "label": "Installation de machines et équipements mécaniques"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211XMMG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "ASSISTANT(E) CHARGE D AFFAIRE (H/F) en Alternance",
-      "rome_codes": [
-        "M1607"
-      ],
-      "description": "**Alternance - Assistant(e) Chargé(e) d'Affaires (H/F)**\n\n **Vos missions**\n\nAu sein de notre équipe, vous accompagnerez les Chargés d'Affaires dans le suivi administratif et opérationnel de leurs projets. Vous serez formé(e) progressivement aux différentes missions afin de développer vos compétences.\n\nVos principales missions seront :\n\n* Assister les Chargés d'Affaires dans la gestion quotidienne des dossiers.\n* Établir et suivre les commandes fournisseurs.\n* Participer à la réalisation et au suivi des devis.\n* Assurer le suivi de la facturation clients.\n* Mettre à jour les tableaux de bord et les fichiers de reporting.\n* Répondre aux appels téléphoniques et assurer la relation avec les clients et les fournisseurs.\n* Participer au suivi administratif des affaires et à la gestion documentaire.\n* Contribuer au bon déroulement des projets en assurant la coordination des informations entre les différents interlocuteurs.\n\n **Profil recherché**\n\nVous préparez un diplôme de niveau Bac +2 à Bac +3 (BTS GPME, BTS Support à l'Action Managériale, BUT Gestion des Entreprises et des Administrations, Licence professionnelle ou équivalent) et recherchez une alternance.\n\nVous êtes :\n\n* Organisé(e), rigoureux(se) et méthodique.\n* À l'aise avec les outils informatiques, notamment Excel et le Pack Office.\n* Doté(e) d'un bon relationnel et d'un sens du service.\n* Curieux(se), motivé(e) et désireux(se) d'apprendre.\n* Capable de travailler en équipe tout en faisant preuve d'autonomie.\n\n **Pourquoi nous rejoindre ?**\n\n* Une alternance enrichissante au sein d'une entreprise dynamique.\n* Un accompagnement par des Chargés d'Affaires expérimentés.\n* Une montée en compétences sur la gestion de projets, la relation clients et le suivi administratif.\n* L'opportunité de développer une expérience concrète et professionnalisante.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Classer des documents",
-        "Gérer les agendas et planifier des rendez-vous",
-        "Mettre à jour un dossier, une base de données",
-        "Rédiger un rapport, un compte rendu d'activité",
-        "Effectuer le suivi des dossiers clients et des procédures en cours",
-        "Veiller au respect des échéances administratives"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-07-31T08:00:28.332Z",
-        "expiration": "2026-09-30T08:00:28.332Z"
       },
       "opening_count": 1,
       "status": "Active",
