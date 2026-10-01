@@ -1,6 +1,126 @@
 [
   {
     "identifier": {
+      "id": "6abd3ac6999d7ac157471b0a",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6abd3ac6999d7ac157471b0a"
+    },
+    "workplace": {
+      "siret": "84774076800035",
+      "brand": null,
+      "legal_name": "ATEXE",
+      "website": null,
+      "name": "ATEXE",
+      "description": "ATEXE Group est un cabinet d'expertise énergétique spécialisé dans les solutions clé en main en matière de rénovation énergétique, énergies renouvelables et amélioration de l'habitat sur lé département de l'Hérault, Gard et l'Aude.\n\nDotée en interne d'un bureau d'études avec des équipes d'installateurs et des chargés de projets, nous sommes en mesure de répondre à chaque projet avec des solutions à la pointe de la technologie.\n\nCertifiée RGE, Pompe à Chaleur, Ballon thermodynamique, Solaire Thermique, Photovoltaïque et Ventilation Double Flux, notre démarche s'inscrit dans une charte de qualité dont le respect est vérifié de façon régulière par des organismes indépendants.",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "48 RUE CLAUDE BALBASTRE 34070 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.861394,
+            43.573241
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Constructys",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abd3ac6999d7ac157471b0a/electricien-electricienne-d-équipement-domestique",
+      "phone": null,
+      "recipient_id": "partners_6abd3ac6999d7ac157471b0a"
+    },
+    "contract": {
+      "start": "2026-09-30T16:37:26.548Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 12,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Electricien / Electricienne d'équipement domestique",
+      "rome_codes": [
+        "F1602"
+      ],
+      "description": "L'électricien du bâtiment est chargé de la conception, de la mise en œuvre, de la maintenance et de l'optimisation d'une installation d'électricité à basse tension d'un bâtiment. Réalise des travaux d'installation et de mise en service des équipements électriques dans des bâtiments à usage domestique, tertiaire ou industriel selon les règles de sécurité Câble et raccorde des installations très basse tension (TBT) (téléphonie, informatique, alarmes, ...) Effectue des travaux de dépannage et de maintenance Effectue les travaux pour l'installation des énergies renouvelables (EnR) Gère des coupures d'électricité et la coordination des interventions pour les rétablir Contrôle de la conformité des installations aux normes de sécurité et aux réglementations en vigueur Suit des indicateurs de performance énergétique de l'installation et propose des solutions d'amélioration",
+      "target_diploma": {
+        "european": "4",
+        "label": "Bac, Bac Pro, BP (Bac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de sens des responsabilités",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tConseiller des produits, outils ou services aux clients en fonction de leurs besoins",
+        "Conseil, Transmission\tConseiller une organisation, une structure",
+        "Recherche, Innovation\tConcevoir une infrastructure de recharge pour véhicules électriques et hybrides rechargeables (irve)",
+        "Data et Nouvelles technologies\tMettre à jour la documentation technique et les rapports d'intervention",
+        "Data et Nouvelles technologies\tUtiliser des logiciels spécifiques",
+        "Conception\tConcevoir des systèmes électriques conformes aux normes de sécurité",
+        "Conception\tConcevoir une infrastructure électrique pour énergies renouvelables (enr)",
+        "Conception\tElaborer des processus et des modes opératoires techniques",
+        "Production, Fabrication\tInstaller des compteurs et effectuer des relevés de consommation",
+        "Production, Fabrication\tPréparer du matériel en prévision d'un travail",
+        "Production, Fabrication\tRéaliser les saignées et les creusements divers",
+        "Construction\tCâbler un matériel",
+        "Construction\tInstaller un système électrique",
+        "Construction\tMettre en place de petits appareillages Basse Tension (BT) tels que prises de courant, appareils d'éclairage, de commande, de coupure, de chauffage",
+        "Construction\tMettre le réseau en service et contrôler l'installation",
+        "Construction\tRaccorder des éléments basse tension",
+        "Construction\tRaccorder, gérer un réseau technique",
+        "Construction\tRéaliser et poser des chemins de câbles et des conduits électriques en apparent ou en encastré",
+        "Construction\tRéaliser la pose de la partie électrique des installations photovoltaïques",
+        "Construction\tRéaliser une opération de câblage électrique",
+        "Maintenance, Réparation\tChanger ou réparer une pièce ou un ensemble défectueux",
+        "Maintenance, Réparation\tContrôler la conformité des installations électriques",
+        "Maintenance, Réparation\tDiagnostiquer des pannes ou anomalies sur l'installation électrique et mettre en place les actions nécessaires pour y remédier",
+        "Maintenance, Réparation\tMettre en œuvre des plans de maintenance et de rénovation pour garantir la performance et la fiabilité de l'installation électrique",
+        "Maintenance, Réparation\tRéaliser un diagnostic technique",
+        "Prévention des risques\tAnticiper des dangers, problèmes ou besoins matériels et techniques",
+        "Prévention des risques\tContrôler la qualité des installations électriques",
+        "Prévention des risques\tEvaluer les risques liés aux installations électriques et proposer des mesures préventives",
+        "Prévention des risques\tRespecter les normes de sécurité sur les chantiers",
+        "Qualité\tVérifier le montage et le câblage (valeur des composants, continuité électrique, ...)",
+        "Gestion des stocks\tModéliser des plans d'approvisionnement grâce à des logiciels spécialisés",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative et financière d'une activité",
+        "Protection des personnes et de l'environnement\tProcéder à un diagnostic de performance énergétique",
+        "Protection des personnes et de l'environnement\tTrier les déchets selon leur traitement ou leur valorisation futurs",
+        "Développement commercial\tCommuniquer efficacement avec les clients sur les opérations réalisées",
+        "Stratégie de développement\tProposer des solutions pour améliorer l'efficacité énergétique",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac +2 en électricité. Un diplôme de niveau Bac professionnel à Bac+2 (BTS/DUT) peut être demandé selon le secteur (domotique, électrotechnique, automatisme, ...) et pour les postes d'encadrement d'équipe. Une formation à l'habilitation aux risques électriques (hors tension et sous-tension) est exigée. Des Certificat(s) d'Aptitude à la Conduite En Sécurité - CACES - conditionné par une aptitude médicale à renouveler périodiquement peuvent être requis."
+      ],
+      "publication": {
+        "creation": "2026-09-30T16:37:26.548Z",
+        "expiration": "2026-11-30T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": [
+        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
+        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste."
+      ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6abbdb06999d7ac157466565",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6abbdb06999d7ac157466565"
@@ -103,6 +223,102 @@
       "to_applicant_questions": []
     },
     "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6abb88ef26e85d6ce726813e",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6abb88ef26e85d6ce726813e"
+    },
+    "workplace": {
+      "siret": "32520376800016",
+      "brand": null,
+      "legal_name": "AVENIR DROIT",
+      "website": null,
+      "name": "AVENIR DROIT",
+      "description": "La SCP AVENIR DROIT est une étude de commissaires de justice (profession née de la fusion des huissiers de justice et des commissaires-priseurs judiciaires) installée à Pézenas, dans le département de l'Hérault.\nL'étude est composée de : 3 commissaires de justice associés et d'une équipe de 10 collaborateurs qualifiés.\nL'étude accompagnent les particuliers et les entreprises dans plusieurs domaines :\nRéalisation de constats, Exécution des décisions de justice, Recouvrement de créances, Contentieux locatif , Rédaction et signification des actes, Prisées et ventes aux enchères.",
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "14 COURS JEAN JAURES 34120 PEZENAS",
+        "geopoint": {
+          "coordinates": [
+            3.422363,
+            43.460286
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "69.10Z",
+          "label": "Activités juridiques"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6abb88ef26e85d6ce726813e/secrétaire-administratif-secrétaire-administrative",
+      "phone": null,
+      "recipient_id": "partners_6abb88ef26e85d6ce726813e"
+    },
+    "contract": {
+      "start": "2026-09-29T09:46:23.251Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Secrétaire administratif / Secrétaire administrative",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Réalise le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmet les informations (e-mail, notes, fax, ...) pour le compte d'un ou plusieurs services ou d'un responsable selon l'organisation de l'entreprise. Peut prendre en charge le suivi complet de dossiers (contrats de maintenance des équipements, de la structure, ...). Peut coordonner une équipe.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Faire preuve de rigueur et de précision",
+        "Faire preuve de réactivité",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
+        "Data et Nouvelles technologies\tRenseigner, mettre à jour une documentation technique",
+        "Data et Nouvelles technologies\tSaisir des documents juridiques",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Logistique\tOrganiser le traitement des commandes",
+        "Gestion administrative et comptable\tGérer les agendas et planifier des rendez-vous",
+        "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
+        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative d'une activité",
+        "Gestion et contrôle\tRéaliser des opérations comptables",
+        "Droit, contentieux et négociation\tSuivre un contrat, vérifier le respect des clauses contractuelles",
+        "Relation client\tAccueillir, orienter, renseigner un public",
+        "Organisation\tArchiver des dossiers et documents de référence",
+        "Organisation\tClasser des documents",
+        "Organisation\tUtiliser les outils numériques"
+      ],
+      "access_conditions": [
+        "Ce métier est accessible avec un diplôme de niveau Bac (Bac professionnel, technologique, ...) à Bac+2 (BTS, ...) en secrétariat, bureautique. Il est également accessible avec un BEP dans le secteur tertiaire complété par une expérience professionnelle dans le secteur. La pratique d'une ou plusieurs langues étrangères peut être requise. La maîtrise de l'outil bureautique (traitement de texte, tableur, ...) et des outils de communication (Internet, messagerie, ...) est exigée."
+      ],
+      "publication": {
+        "creation": "2026-09-29T09:46:23.251Z",
+        "expiration": "2026-12-01T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": [
+        "Quelles compétences souhaitez-vous développer grâce à cette expérience ?",
+        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
+        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste."
+      ]
+    },
+    "is_delegated": false
   },
   {
     "identifier": {
@@ -212,116 +428,6 @@
         "Qu’aimeriez-vous apprendre à travers cette alternance ?",
         "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?",
         "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste."
-      ]
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab37fe76f4b8c2422159573",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6ab37fe76f4b8c2422159573"
-    },
-    "workplace": {
-      "siret": "93993465900029",
-      "brand": "MISS COOKIES COFFEE",
-      "legal_name": "MCOFFEE LATTES",
-      "website": null,
-      "name": "MCOFFEE LATTES",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "AVENUE GEORGES FRECHE 34970 LATTES",
-        "geopoint": {
-          "coordinates": [
-            3.922562,
-            43.584249
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ab37fe76f4b8c2422159573/employé-polyvalent-employée-polyvalente-de-restaurant",
-      "phone": null,
-      "recipient_id": "partners_6ab37fe76f4b8c2422159573"
-    },
-    "contract": {
-      "start": "2026-09-23T07:29:43.279Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
-        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
-        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
-        "Production, Fabrication\tPréparer, assembler des plats simples",
-        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
-        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
-        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
-        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Maintenance, Réparation\tRéaliser la plonge",
-        "Prévention des risques\tGérer les situations de stress en heure de pointe",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Transport\tLivrer une commande",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAssurer un service client rapide et courtois",
-        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
-        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
-        "Relation client\tRéaliser un service en salle",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tAppliquer les promotions et les offres spéciales",
-        "Développement commercial\tAssurer une présentation attrayante des produits",
-        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
-        "Organisation\tMaintenir un environnement de travail propre et organisé",
-        "Organisation\tMaintenir un environnement de travail sécurisé",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
-      ],
-      "publication": {
-        "creation": "2026-09-23T07:29:43.279Z",
-        "expiration": "2026-11-23T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
       ]
     },
     "is_delegated": false
@@ -6782,124 +6888,6 @@
   },
   {
     "identifier": {
-      "id": "6a70a619bb092dca9f1241b4",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a70a619bb092dca9f1241b4"
-    },
-    "workplace": {
-      "siret": "30925723600070",
-      "brand": null,
-      "legal_name": "AR.TE.BA",
-      "website": null,
-      "name": "AR.TE.BA",
-      "description": "Ateliers A+ Management est un bureau de maîtrise d’oeuvre et d’OPC (Ordonnancement, Pilotage,Coordination) basé à Montpellier, composé de 100 collaborateurs. Le groupe regroupe des coordinateurs de travaux, économistes, ingénieurs fluides et architectes, évoluant dans une ambiance collaborative et pluridisciplinaire.\nMissions proposées\nAccompagné(e) par une équipe expérimentée, vous participerez aux tâches suivantes :\n• Aide à la gestion des dossiers techniques (classement, diffusion, suivi des\ndocuments)\n• Soutien à la réalisation et au suivi des ordres de service et avenants\n• Contribution à la gestion administrative des chantiers : suivi des paiements, gestion des pièces financières.\n- Appui à la rédaction des courriers et correspondances administratives",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "220 RUE DU CAPITAINE PIERRE PONTAL 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.901923,
-            43.608897
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "71.12B",
-          "label": "Ingénierie, études techniques"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a70a619bb092dca9f1241b4/assistant-e-technique",
-      "phone": null,
-      "recipient_id": "partners_6a70a619bb092dca9f1241b4"
-    },
-    "contract": {
-      "start": "2026-08-03T14:30:48.952Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) technique",
-      "rome_codes": [
-        "M1605"
-      ],
-      "description": "Le Secrétaire technique assure la coordination et l'efficacité des projets techniques. Assiste les ingénieurs et techniciens dans la gestion administrative des projets Prépare et organise les dossiers techniques et les réunions de projet Rédige des comptes rendus et assure le suivi des communications internes et externes Gère l'agenda et coordonne les rendez-vous et les déplacements des membres de l'équipe technique Maintient à jour les bases de données techniques et archive les documents importants Peut participer à la gestion des appels d'offres et à la préparation des contrats techniques",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Faire preuve d'autonomie",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Gestion des Ressources Humaines\tGérer les communications internes sur l'avancement des projets",
-        "Communication, Multimédia\tGérer la communication interne et externe",
-        "Data et Nouvelles technologies\tMaintenir à jour les dossiers administratifs",
-        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
-        "Production, Fabrication\tImprimer des documents techniques",
-        "Production, Fabrication\tOptimiser les processus administratifs techniques",
-        "Gestion des stocks\tAssurer le suivi des commandes et la gestion des stocks",
-        "Gestion administrative et comptable\tEffectuer le suivi des commandes, la facturation",
-        "Gestion administrative et comptable\tGérer les agendas et planifier des rendez-vous",
-        "Gestion administrative et comptable\tOrganiser des réunions et des visites de chantier",
-        "Gestion administrative et comptable\tRenseigner des supports de suivi d'activité",
-        "Gestion administrative et comptable\tRéaliser la gestion des déplacements professionnels",
-        "Gestion administrative et comptable\tRédiger des comptes rendus de réunion clairs et concis",
-        "Gestion administrative et comptable\tRédiger des rapports de suivi d'activité",
-        "Gestion administrative et comptable\tRédiger un rapport, un compte rendu d'activité",
-        "Gestion administrative et comptable\tSuivre l'avancement des projets techniques",
-        "Gestion administrative et comptable\tTenir à jour des agendas personnels et partagés",
-        "Pilotage et maîtrise des coûts\tRéaliser la gestion administrative du personnel",
-        "Gestion et contrôle\tSuivre la comptabilité d'une structure",
-        "Droit, contentieux et négociation\tVérifier la cohérence et le respect du cadre réglementaire des dossiers administratifs",
-        "Relation client\tAccueillir, orienter, renseigner un public",
-        "Relation client\tAssister un ingénieur lors de travaux de laboratoire pour la préparation de matériel, le relevé de résultat",
-        "Relation client\tFaciliter la collaboration entre les équipes techniques",
-        "Relation client\tGérer les appels téléphoniques entrants et sortants",
-        "Relation client\tParticiper à l'élaboration de dossiers administratifs (permis de construire par exemple)",
-        "Relation client\tRépondre aux appels téléphoniques, mails, tchat et renseigner les clients",
-        "Développement commercial\tCoordonner les réponses aux appels d'offres",
-        "Développement commercial\tRépondre à un appel d'offres",
-        "Stratégie de développement\tElaborer des tableaux de bord",
-        "Stratégie de développement\tOptimiser l'utilisation des ressources techniques",
-        "Communication\tCollaborer avec d'autres techniciens pour optimiser les processus de travail",
-        "Communication\tPréparer les dossiers techniques pour les réunions",
-        "Communication\tRelayer de l'information",
-        "Organisation\tArchiver des dossiers et documents de référence",
-        "Organisation\tClasser des documents",
-        "Organisation\tUtiliser les outils numériques"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un BTS, un DUT, une Licence professionnelle ou un Titre professionnel. Les niveaux d'études requis varient de Bac+2 à Bac+3."
-      ],
-      "publication": {
-        "creation": "2026-08-03T14:30:48.952Z",
-        "expiration": "2026-10-03T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?",
-        "Quelles compétences souhaitez-vous développer grâce à cette expérience ?",
-        "Quels outils ou méthodes de travail maîtrisez-vous et souhaitez-vous approfondir ?"
-      ]
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a5d31bc1ae407c4c7b76914",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a5d31bc1ae407c4c7b76914"
@@ -7577,6 +7565,279 @@
         "Qu’aimeriez-vous apprendre à travers cette alternance ?",
         "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?"
       ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae5858690",
+      "partner_label": "France Travail",
+      "partner_job_id": "214QFMZ"
+    },
+    "workplace": {
+      "siret": "61203023900224",
+      "brand": null,
+      "legal_name": "JEAN LOUIS DAVID FRANCE",
+      "website": null,
+      "name": "JEAN LOUIS DAVID FRANCE",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://smrtr.io/BtV_Z",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI COIFFEUR (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "L'enseigne Jean Louis David est N°1 en Europe avec plus de 900 salons, et accueille plus de 12 millions de clients par an dans un univers épuré et urbain.\n\nJean Louis David, c'est un cocktail explosif et imparfait qui vous ressemble ! \n\nL'enseigne fait partie du Groupe Provalliance , leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, The Barber Company, Saint Algue.).\n\nMarque créative et audacieuse, Jean Louis David positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.\n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme BP)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.\n\nQualifications\nNous recherchons des apprenti(e)s coiffeur(se)s motivé(e)s: \n\nPassionné(e) par la coiffure, vous souhaitez vous former dans un salon à l'écoute de vos besoins\nDoté(e) d'un bon relationnel, vous avez le sens du service client (écoute, disponibilité et bienveillance)\nInformations complémentaires\nAdresse postale : 1 rue des Pertuisanes, 34000 Montpellier.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T16:39:53.125Z",
+        "expiration": "2026-11-30T16:39:53.125Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae5858691",
+      "partner_label": "France Travail",
+      "partner_job_id": "214PWXD"
+    },
+    "workplace": {
+      "siret": "53012370200033",
+      "brand": null,
+      "legal_name": "GPT EMP GEIQ OC AGRI",
+      "website": null,
+      "name": "GPT EMP GEIQ OC AGRI",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34770 Gigean",
+        "geopoint": {
+          "coordinates": [
+            3.710151,
+            43.493648
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 9341,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PWXD",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier viticole en contrat de professionnalisation (H/F)",
+      "rome_codes": [
+        "A1418"
+      ],
+      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \nSecteur d'activité autour de Gigean (34).\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\n\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\n4 blocs de compétences certifiés indépendamment les uns des autres :\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\n- Travaux mécanisés de conduite du vignoble\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\n- Opérations de vinification\n\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\n400h de formation\nAlternance en Entreprise\nIndemnité repas: 2.66 € / jour\nIndemnité transport: 1.75 € / jour\n\nposte à pourvoir à compter du 19/10/2026",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soins aux arbres ou ceps"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T14:34:04.376Z",
+        "expiration": "2026-11-30T14:34:04.376Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae585868e",
+      "partner_label": "France Travail",
+      "partner_job_id": "7518223"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34160 Castries",
+        "geopoint": {
+          "coordinates": [
+            3.98781,
+            43.685056
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56271889?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant de gestion administrative - Castries (F/H)",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Gestion administrative et organisationnelle : assurer le suivi des dossiers, contrats, fournisseurs et documents administratifs, gérer les plannings et échéances, mettre à jour les outils de suivi et contribuer à l'amélioration des procédures internes.Gestion financière et pilotage : suivre les dépenses, recettes, factures et budgets, participer à l'élaboration des prévisionnels, analyser les coûts et la rentabilité et suivre les principaux indicateurs de performance.Expérience visiteur : gérer les demandes et échanges avec les visiteurs, assurer le suivi des sollicitations, recueillir leurs retours et contribuer à l'amélioration continue de leur expérience.Privatisations et événements : traiter les demandes de privatisation, identifier les besoins des clients, préparer les propositions, assurer le suivi commercial et coordonner l'organisation avec les équipes, prestataires et partenaires.Boutique et salon de thé : assurer le suivi des stocks, réaliser les inventaires, gérer les commandes et le réassort, suivre les fournisseurs et anticiper les besoins en approvisionnement.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T12:36:45.267Z",
+        "expiration": "2026-11-30T12:36:45.267Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae585868f",
+      "partner_label": "France Travail",
+      "partner_job_id": "7515707"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56512777?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "AXIOME LITTORAL recrute 2 alternants (es) H/F - FRONTIGNAN",
+      "rome_codes": [
+        "A1204"
+      ],
+      "description": "Accompagné par un responsable de mission, vous apprendrezTraiter les pièces comptables de vos clients de façon totalement dématérialiséeJustifier et analyser la cohérence des comptesEtablir et contrôler les déclarations de TVARelancer les clients pour les informations manquantesTravailler en équipe et progresser ensemblebr&gt;Pour en savoir plus cliquez ici : Cliquez ici",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T12:34:13.949Z",
+        "expiration": "2026-11-30T12:34:13.949Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
     },
     "is_delegated": false
   },
@@ -10125,79 +10386,6 @@
   },
   {
     "identifier": {
-      "id": "6ab05c059b5a0cfb25b0badc",
-      "partner_label": "France Travail",
-      "partner_job_id": "214CVTJ"
-    },
-    "workplace": {
-      "siret": "84407933500049",
-      "brand": null,
-      "legal_name": "TH ENERGIE",
-      "website": null,
-      "name": "TH ENERGIE",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34680 Saint-Georges-d'Orques",
-        "geopoint": {
-          "coordinates": [
-            3.776499,
-            43.616904
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.21A",
-          "label": "Travaux d'installation électrique dans tous locaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214CVTJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti électricien (H/F)",
-      "rome_codes": [
-        "K2147"
-      ],
-      "description": "RECHERCHE APPRENTI ÉLECTRICIEN\nNous recherchons un apprenti électricien motivé, avec une première expérience dans le domaine.\nSérieux, dynamique et envie d'apprendre ? Rejoins notre équipe !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Enseigner les savoirs professionnels et les techniques",
-        "Evaluer des acquis d'apprentissage, de formation ou d'expérience",
-        "Proposer des travaux et des exercices pratiques",
-        "Renseigner des supports d'évaluation scolaire"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-20T12:55:54.088Z",
-        "expiration": "2026-11-20T12:55:54.088Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aaf0a649b5a0cfb25b0508b",
       "partner_label": "France Travail",
       "partner_job_id": "7032602"
@@ -10867,71 +11055,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c0",
       "partner_label": "France Travail",
       "partner_job_id": "6943809"
@@ -10981,6 +11104,71 @@
         "G1603"
       ],
       "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -11646,225 +11834,6 @@
   },
   {
     "identifier": {
-      "id": "6aa872f15743d160f9f96ace",
-      "partner_label": "France Travail",
-      "partner_job_id": "213VWXD"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWXD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T15:51:28.262Z",
-        "expiration": "2026-11-14T15:51:28.262Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa872f15743d160f9f96acd",
-      "partner_label": "France Travail",
-      "partner_job_id": "213VWVK"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWVK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T15:50:27.826Z",
-        "expiration": "2026-11-14T15:50:27.826Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa47e15d4cd2f3dc010cae0",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SDVM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "46.36Z",
-          "label": "Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SDVM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller clientèle Alternance H/F (H/F)",
-      "rome_codes": [
-        "K1801"
-      ],
-      "description": "Cook-Shop recherche pour son magasin de Mauguio 1 Conseiller(e) clientèle. Directement rattaché(e) à la coordinatrice du magasin, et en étroite collaboration avec toute l'équipe du magasin, tes principales missions seront :\n\n- Accueillir et renseigner le client.\n\n- Identifier les besoins du client et l'aider dans son choix.\n\n- Effectuer et optimiser la mise en rayon conformément au concept de Cook-Shop et aux règles de merchandising.\n\n- Participer à la préparation d'opérations commerciales.\n\n- S'assurer de la bonne tenue du magasin, de la propreté.\n\n- Véhiculer une bonne image de l'entreprise.\n\n- Accompagner les clients dans leurs achats\n\n- Mettre en avant les caractéristiques techniques des produits vendus.\n\n- Gérer le SAV client\n\nIl te faudra :\nUne bonne présentation\nÊtre sérieux sans te prendre au sérieux\nÊtre avenant.e\nIl est indispensable d'avoir une bonne sensibilité à la gastronomie en général et à la pâtisserie en particulier.\n\nDiplôme préparé bac +2 maximum\n\nPoste à pourvoir immédiatement.\n\nAdresser lettre de motivation parlant de votre intérêt pour notre domaine d'activité.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir, orienter, renseigner un public",
-        "Proposer des actions de formation, d'orientation, d'accompagnement adaptées au profil de la personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T16:46:54.038Z",
-        "expiration": "2026-11-10T16:46:54.038Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa32d46d4cd2f3dc010596d",
       "partner_label": "France Travail",
       "partner_job_id": "213SCSC"
@@ -12063,71 +12032,6 @@
       "publication": {
         "creation": "2026-09-10T12:29:12.504Z",
         "expiration": "2026-11-10T12:29:12.504Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa1dbe3d4cd2f3dc00fe80a",
-      "partner_label": "France Travail",
-      "partner_job_id": "6767786"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56286673?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Commercial - Castelnau-le-Lez (F/H)",
-      "rome_codes": [
-        "D1107"
-      ],
-      "description": "Missions principales :Développer un portefeuille clients ;Prospecter sur le terrain et par téléphone ;Établir des propositions commerciales ;Assurer le suivi commercial et administratif ;Assurer la relation clientèle ;Participer au recrutement des intérimaires à placer..",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-09T12:19:28.549Z",
-        "expiration": "2026-11-09T12:19:28.549Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -13862,76 +13766,6 @@
   },
   {
     "identifier": {
-      "id": "6a8e15f2a49c76b718322087",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLXM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34720 Caux",
-        "geopoint": {
-          "coordinates": [
-            3.375498,
-            43.50905
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T09:02:13.808Z",
-        "expiration": "2026-10-20T09:02:13.808Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dba7d07de55f76463739",
       "partner_label": "France Travail",
       "partner_job_id": "6050814"
@@ -13991,79 +13825,6 @@
       "publication": {
         "creation": "2026-08-17T21:18:44.304Z",
         "expiration": "2026-10-17T21:18:44.304Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a862d234611e3d929beff6d",
-      "partner_label": "France Travail",
-      "partner_job_id": "212NXKH"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.395237,
-            43.301474
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.22A",
-          "label": "Travaux d'installation d'eau et de gaz en tous locaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212NXKH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Plombier sanitaire (H/F)",
-      "rome_codes": [
-        "F1603"
-      ],
-      "description": "Apprenti(e) plombier sanitaire - H/F\n\nNous recherchons un(e) apprenti(e) en plomberie sanitaire, motivé(e), sérieux(se) et volontaire, souhaitant se former au métier au sein d'une entreprise spécialisée dans la rénovation de salles de bain et les installations sanitaires.\n\nVos missions, accompagné(e) par l'équipe :\n\n* Installation et remplacement d'équipements sanitaires : WC, lavabos, vasques, baignoires, receveurs de douche.\n* Participation à la création et à la modification des réseaux d'alimentation en eau et d'évacuation\n* Pose de robinetterie et colonnes de douche\n* Installation et remplacement de chauffe-eau\n* Recherche et réparation de fuites\n* Participation aux rénovations complètes de salles de bain\n* Découverte et apprentissage de la pose de carrelage et faïence\n* Dépose des anciens équipements\n* Préparation et nettoyage des chantiers\n* Respect des consignes de sécurité et du matériel de l'entreprise\n\nProfil recherché :\n\n* Permis B \n* Souhait de préparer une formation ou un diplôme en plomberie sanitaire\n* Motivation réelle pour apprendre le métier\n* Ponctualité, sérieux et respect des consignes\n* Dynamisme et goût du travail manuel\n* Bon comportement chez les clients\n* Envie de progresser et de devenir autonome\n\nAucune expérience professionnelle importante n'est exigée : nous recherchons avant tout une personne motivée, fiable et réellement intéressée par la plomberie sanitaire et la rénovation.\n\nContrat d'apprentissage - rémunération selon l'âge et la réglementation en vigueur.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Installer des équipements de chauffage",
-        "Poser des éléments sanitaires",
-        "Réaliser des travaux de raccordement aux appareils de chauffage et éléments sanitaires",
-        "Réaliser un diagnostic de panne ou de dysfonctionnement d'installation"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-17T18:49:43.879Z",
-        "expiration": "2026-10-17T18:49:43.879Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14206,6 +13967,279 @@
       "publication": {
         "creation": "2026-08-12T11:53:18.394Z",
         "expiration": "2026-10-12T11:53:18.394Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae5858690",
+      "partner_label": "France Travail",
+      "partner_job_id": "214QFMZ"
+    },
+    "workplace": {
+      "siret": "61203023900224",
+      "brand": null,
+      "legal_name": "JEAN LOUIS DAVID FRANCE",
+      "website": null,
+      "name": "JEAN LOUIS DAVID FRANCE",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://smrtr.io/BtV_Z",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI COIFFEUR (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "L'enseigne Jean Louis David est N°1 en Europe avec plus de 900 salons, et accueille plus de 12 millions de clients par an dans un univers épuré et urbain.\n\nJean Louis David, c'est un cocktail explosif et imparfait qui vous ressemble ! \n\nL'enseigne fait partie du Groupe Provalliance , leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, The Barber Company, Saint Algue.).\n\nMarque créative et audacieuse, Jean Louis David positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.\n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme BP)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.\n\nQualifications\nNous recherchons des apprenti(e)s coiffeur(se)s motivé(e)s: \n\nPassionné(e) par la coiffure, vous souhaitez vous former dans un salon à l'écoute de vos besoins\nDoté(e) d'un bon relationnel, vous avez le sens du service client (écoute, disponibilité et bienveillance)\nInformations complémentaires\nAdresse postale : 1 rue des Pertuisanes, 34000 Montpellier.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T16:39:53.125Z",
+        "expiration": "2026-11-30T16:39:53.125Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae5858691",
+      "partner_label": "France Travail",
+      "partner_job_id": "214PWXD"
+    },
+    "workplace": {
+      "siret": "53012370200033",
+      "brand": null,
+      "legal_name": "GPT EMP GEIQ OC AGRI",
+      "website": null,
+      "name": "GPT EMP GEIQ OC AGRI",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34770 Gigean",
+        "geopoint": {
+          "coordinates": [
+            3.710151,
+            43.493648
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 9341,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PWXD",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Ouvrier viticole en contrat de professionnalisation (H/F)",
+      "rome_codes": [
+        "A1418"
+      ],
+      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \nSecteur d'activité autour de Gigean (34).\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\n\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\n4 blocs de compétences certifiés indépendamment les uns des autres :\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\n- Travaux mécanisés de conduite du vignoble\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\n- Opérations de vinification\n\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\n400h de formation\nAlternance en Entreprise\nIndemnité repas: 2.66 € / jour\nIndemnité transport: 1.75 € / jour\n\nposte à pourvoir à compter du 19/10/2026",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de soins aux arbres ou ceps"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T14:34:04.376Z",
+        "expiration": "2026-11-30T14:34:04.376Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae585868e",
+      "partner_label": "France Travail",
+      "partner_job_id": "7518223"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34160 Castries",
+        "geopoint": {
+          "coordinates": [
+            3.98781,
+            43.685056
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56271889?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Assistant de gestion administrative - Castries (F/H)",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Gestion administrative et organisationnelle : assurer le suivi des dossiers, contrats, fournisseurs et documents administratifs, gérer les plannings et échéances, mettre à jour les outils de suivi et contribuer à l'amélioration des procédures internes.Gestion financière et pilotage : suivre les dépenses, recettes, factures et budgets, participer à l'élaboration des prévisionnels, analyser les coûts et la rentabilité et suivre les principaux indicateurs de performance.Expérience visiteur : gérer les demandes et échanges avec les visiteurs, assurer le suivi des sollicitations, recueillir leurs retours et contribuer à l'amélioration continue de leur expérience.Privatisations et événements : traiter les demandes de privatisation, identifier les besoins des clients, préparer les propositions, assurer le suivi commercial et coordonner l'organisation avec les équipes, prestataires et partenaires.Boutique et salon de thé : assurer le suivi des stocks, réaliser les inventaires, gérer les commandes et le réassort, suivre les fournisseurs et anticiper les besoins en approvisionnement.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T12:36:45.267Z",
+        "expiration": "2026-11-30T12:36:45.267Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6abd8b06170bf3aae585868f",
+      "partner_label": "France Travail",
+      "partner_job_id": "7515707"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56512777?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "AXIOME LITTORAL recrute 2 alternants (es) H/F - FRONTIGNAN",
+      "rome_codes": [
+        "A1204"
+      ],
+      "description": "Accompagné par un responsable de mission, vous apprendrezTraiter les pièces comptables de vos clients de façon totalement dématérialiséeJustifier et analyser la cohérence des comptesEtablir et contrôler les déclarations de TVARelancer les clients pour les informations manquantesTravailler en équipe et progresser ensemblebr&gt;Pour en savoir plus cliquez ici : Cliquez ici",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T12:34:13.949Z",
+        "expiration": "2026-11-30T12:34:13.949Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -17577,79 +17611,6 @@
   },
   {
     "identifier": {
-      "id": "6ab05c059b5a0cfb25b0badc",
-      "partner_label": "France Travail",
-      "partner_job_id": "214CVTJ"
-    },
-    "workplace": {
-      "siret": "84407933500049",
-      "brand": null,
-      "legal_name": "TH ENERGIE",
-      "website": null,
-      "name": "TH ENERGIE",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34680 Saint-Georges-d'Orques",
-        "geopoint": {
-          "coordinates": [
-            3.776499,
-            43.616904
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1596,
-        "opco": "Constructys",
-        "naf": {
-          "code": "43.21A",
-          "label": "Travaux d'installation électrique dans tous locaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214CVTJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti électricien (H/F)",
-      "rome_codes": [
-        "K2147"
-      ],
-      "description": "RECHERCHE APPRENTI ÉLECTRICIEN\nNous recherchons un apprenti électricien motivé, avec une première expérience dans le domaine.\nSérieux, dynamique et envie d'apprendre ? Rejoins notre équipe !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Enseigner les savoirs professionnels et les techniques",
-        "Evaluer des acquis d'apprentissage, de formation ou d'expérience",
-        "Proposer des travaux et des exercices pratiques",
-        "Renseigner des supports d'évaluation scolaire"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-20T12:55:54.088Z",
-        "expiration": "2026-11-20T12:55:54.088Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aaf0a649b5a0cfb25b0508b",
       "partner_label": "France Travail",
       "partner_job_id": "7032602"
@@ -19164,154 +19125,6 @@
   },
   {
     "identifier": {
-      "id": "6aa872f15743d160f9f96ace",
-      "partner_label": "France Travail",
-      "partner_job_id": "213VWXD"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWXD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T15:51:28.262Z",
-        "expiration": "2026-11-14T15:51:28.262Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa872f15743d160f9f96acd",
-      "partner_label": "France Travail",
-      "partner_job_id": "213VWVK"
-    },
-    "workplace": {
-      "siret": "98428857100024",
-      "brand": null,
-      "legal_name": "MYLO",
-      "website": null,
-      "name": "MYLO",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34470 Pérols",
-        "geopoint": {
-          "coordinates": [
-            3.95229,
-            43.567226
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VWVK",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - SERVEUR SERVEUSE EN RESTAURATION (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) serveur(se) souhaitant apprendre et se perfectionner dans le métier du service en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T15:50:27.826Z",
-        "expiration": "2026-11-14T15:50:27.826Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a3475957f27726a0497c37c",
       "partner_label": "Meteojob",
       "partner_job_id": "54818857"
@@ -19372,77 +19185,6 @@
       "publication": {
         "creation": "2026-09-12T22:05:52.000Z",
         "expiration": "2026-11-12T22:05:52.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa47e15d4cd2f3dc010cae0",
-      "partner_label": "France Travail",
-      "partner_job_id": "213SDVM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "46.36Z",
-          "label": "Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SDVM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller clientèle Alternance H/F (H/F)",
-      "rome_codes": [
-        "K1801"
-      ],
-      "description": "Cook-Shop recherche pour son magasin de Mauguio 1 Conseiller(e) clientèle. Directement rattaché(e) à la coordinatrice du magasin, et en étroite collaboration avec toute l'équipe du magasin, tes principales missions seront :\n\n- Accueillir et renseigner le client.\n\n- Identifier les besoins du client et l'aider dans son choix.\n\n- Effectuer et optimiser la mise en rayon conformément au concept de Cook-Shop et aux règles de merchandising.\n\n- Participer à la préparation d'opérations commerciales.\n\n- S'assurer de la bonne tenue du magasin, de la propreté.\n\n- Véhiculer une bonne image de l'entreprise.\n\n- Accompagner les clients dans leurs achats\n\n- Mettre en avant les caractéristiques techniques des produits vendus.\n\n- Gérer le SAV client\n\nIl te faudra :\nUne bonne présentation\nÊtre sérieux sans te prendre au sérieux\nÊtre avenant.e\nIl est indispensable d'avoir une bonne sensibilité à la gastronomie en général et à la pâtisserie en particulier.\n\nDiplôme préparé bac +2 maximum\n\nPoste à pourvoir immédiatement.\n\nAdresser lettre de motivation parlant de votre intérêt pour notre domaine d'activité.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir, orienter, renseigner un public",
-        "Proposer des actions de formation, d'orientation, d'accompagnement adaptées au profil de la personne"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T16:46:54.038Z",
-        "expiration": "2026-11-10T16:46:54.038Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -19650,71 +19392,6 @@
       "publication": {
         "creation": "2026-09-10T12:29:12.504Z",
         "expiration": "2026-11-10T12:29:12.504Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa1dbe3d4cd2f3dc00fe80a",
-      "partner_label": "France Travail",
-      "partner_job_id": "6767786"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56286673?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Commercial - Castelnau-le-Lez (F/H)",
-      "rome_codes": [
-        "D1107"
-      ],
-      "description": "Missions principales :Développer un portefeuille clients ;Prospecter sur le terrain et par téléphone ;Établir des propositions commerciales ;Assurer le suivi commercial et administratif ;Assurer la relation clientèle ;Participer au recrutement des intérimaires à placer..",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-09T12:19:28.549Z",
-        "expiration": "2026-11-09T12:19:28.549Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -21801,76 +21478,6 @@
   },
   {
     "identifier": {
-      "id": "6a8e15f2a49c76b718322087",
-      "partner_label": "France Travail",
-      "partner_job_id": "212RLXM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34720 Caux",
-        "geopoint": {
-          "coordinates": [
-            3.375498,
-            43.50905
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212RLXM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Apprenti(e) en Cuisine (H/F)\nFormez-vous à un métier passionnant tout en étant rémunéré(e) !\n\nLe contrat d'apprentissage est accessible aux jeunes âgés de 16 à 29 ans révolus (à partir de 15 ans sous certaines conditions) et plus de 29 ans si vous êtes reconnu travailleur handicapé. Des dérogations sont envisageables sous certaines conditions.\n\nNotre établissement recherche un(e) Apprenti(e) en Cuisine dans le cadre d'un contrat d'apprentissage afin de préparer un diplôme en restauration (CAP Cuisine) \n\nVos missions \n\nAccompagné(e) par votre maître d'apprentissage, vous apprendrez à :\n\n- Préparer les ingrédients et participer à la réalisation des plats ;\n- Appliquer les règles d'hygiène et de sécurité alimentaire ;\n- Participer à la réception et au stockage des marchandises ;\n- Contribuer à la mise en place du service ;\n- Découvrir l'organisation d'une cuisine professionnelle ;\n- Développer progressivement votre autonomie et votre savoir-faire.\n\nProfil recherché\n\nVous avez entre 16 et 29 ans révolus (sauf dérogations prévues par la réglementation).\nVous êtes motivé(e), dynamique et avez envie d'apprendre.\nVous aimez le travail en équipe.\nVous êtes sérieux(se), ponctuel(le) et curieux(se).\n\nAucune expérience n'est exigée.\n\nPourquoi choisir l'apprentissage ?\n\n Une formation diplômante reconnue\n\n Une expérience professionnelle valorisante\n\n Une rémunération pendant vos études\n\n Un accompagnement par un professionnel expérimenté\n\n De réelles perspectives d'emploi à l'issue de la formation\n\nContrat\nType de contrat : Contrat d'apprentissage\nDurée : selon le diplôme préparé\nLieu de formation : Béziers\nDébut : 15/09/2026\nVous souhaitez apprendre un métier d'avenir et intégrer une équipe passionnée ?\n\n Adressez-nous votre candidature dès maintenant et venez découvrir les métiers de la cuisine !\n\nUne immersion en entreprise peut être organisée avant la signature du contrat afin de confirmer votre projet professionnel.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-20T09:02:13.808Z",
-        "expiration": "2026-10-20T09:02:13.808Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a84dba7d07de55f76463739",
       "partner_label": "France Travail",
       "partner_job_id": "6050814"
@@ -21930,79 +21537,6 @@
       "publication": {
         "creation": "2026-08-17T21:18:44.304Z",
         "expiration": "2026-10-17T21:18:44.304Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a862d234611e3d929beff6d",
-      "partner_label": "France Travail",
-      "partner_job_id": "212NXKH"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.395237,
-            43.301474
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "43.22A",
-          "label": "Travaux d'installation d'eau et de gaz en tous locaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212NXKH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Plombier sanitaire (H/F)",
-      "rome_codes": [
-        "F1603"
-      ],
-      "description": "Apprenti(e) plombier sanitaire - H/F\n\nNous recherchons un(e) apprenti(e) en plomberie sanitaire, motivé(e), sérieux(se) et volontaire, souhaitant se former au métier au sein d'une entreprise spécialisée dans la rénovation de salles de bain et les installations sanitaires.\n\nVos missions, accompagné(e) par l'équipe :\n\n* Installation et remplacement d'équipements sanitaires : WC, lavabos, vasques, baignoires, receveurs de douche.\n* Participation à la création et à la modification des réseaux d'alimentation en eau et d'évacuation\n* Pose de robinetterie et colonnes de douche\n* Installation et remplacement de chauffe-eau\n* Recherche et réparation de fuites\n* Participation aux rénovations complètes de salles de bain\n* Découverte et apprentissage de la pose de carrelage et faïence\n* Dépose des anciens équipements\n* Préparation et nettoyage des chantiers\n* Respect des consignes de sécurité et du matériel de l'entreprise\n\nProfil recherché :\n\n* Permis B \n* Souhait de préparer une formation ou un diplôme en plomberie sanitaire\n* Motivation réelle pour apprendre le métier\n* Ponctualité, sérieux et respect des consignes\n* Dynamisme et goût du travail manuel\n* Bon comportement chez les clients\n* Envie de progresser et de devenir autonome\n\nAucune expérience professionnelle importante n'est exigée : nous recherchons avant tout une personne motivée, fiable et réellement intéressée par la plomberie sanitaire et la rénovation.\n\nContrat d'apprentissage - rémunération selon l'âge et la réglementation en vigueur.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Installer des équipements de chauffage",
-        "Poser des éléments sanitaires",
-        "Réaliser des travaux de raccordement aux appareils de chauffage et éléments sanitaires",
-        "Réaliser un diagnostic de panne ou de dysfonctionnement d'installation"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-17T18:49:43.879Z",
-        "expiration": "2026-10-17T18:49:43.879Z"
       },
       "opening_count": 1,
       "status": "Active",
