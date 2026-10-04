@@ -6651,104 +6651,6 @@
   },
   {
     "identifier": {
-      "id": "6a71f85d70f5c146a4403426",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a71f85d70f5c146a4403426"
-    },
-    "workplace": {
-      "siret": "13002793100232",
-      "brand": null,
-      "legal_name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
-      "website": null,
-      "name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "154 RUE BERNARD GIRAUDEAU 34080 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.962108,
-            43.63586
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "47.71Z",
-          "label": "Commerce de détail d'habillement en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a71f85d70f5c146a4403426/cap-equipier-polyvalent-de-commerce-en-alternance",
-      "phone": null,
-      "recipient_id": "partners_6a71f85d70f5c146a4403426"
-    },
-    "contract": {
-      "start": "2026-08-04T14:34:05.426Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP Equipier polyvalent de commerce en alternance",
-      "rome_codes": [
-        "D1214"
-      ],
-      "description": "Réalise la vente d'articles destinés à l'équipement et à l'hygiène de la personne (vêtements, chaussures, bijoux, sacs à main, parfums, ...) auprès d'une clientèle de particuliers selon la réglementation du commerce, la stratégie et les objectifs commerciaux de l'entreprise. Peut proposer des services complémentaires à la vente (retouches, cartes de fidélité, ...). Peut coordonner une équipe.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de curiosité, d'ouverture d'esprit",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tAnimer, coordonner une équipe",
-        "Production, Fabrication\tPrendre les mensurations d'un client",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Qualité\tVérifier la symétrie et le bien-aller du vêtement sur mannequin ou lors de l'essayage",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tOrganiser le traitement des commandes",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAccueillir, orienter, renseigner un public",
-        "Relation client\tApporter une assistance technique aux équipes",
-        "Développement commercial\tAdapter une stratégie de vente à une cible ou un produit",
-        "Développement commercial\tAssurer un service après-vente",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tMettre en oeuvre des actions commerciales et promotionnelles",
-        "Développement commercial\tOrganiser, aménager un espace de vente",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tVendre ou louer des produits ou des services"
-      ],
-      "access_conditions": [
-        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac+2 (BTS, DUT, ...) dans les secteurs de la vente et du commerce. Des formations spécifiques (esthétique, couture, ...) peuvent être demandées. Il est également accessible avec une expérience professionnelle dans le secteur de la vente sans diplôme particulier. La maîtrise d'un logiciel de gestion de stock peut être demandée."
-      ],
-      "publication": {
-        "creation": "2026-08-04T14:34:05.426Z",
-        "expiration": "2026-10-04T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": []
-    },
-    "is_delegated": true
-  },
-  {
-    "identifier": {
       "id": "6a70caf6bb092dca9f125bf7",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a70caf6bb092dca9f125bf7"
@@ -7565,6 +7467,139 @@
         "Qu’aimeriez-vous apprendre à travers cette alternance ?",
         "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?"
       ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac17f3ca962accea385c471",
+      "partner_label": "France Travail",
+      "partner_job_id": "7635435"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Buffalo Grill",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://carrieres.buffalo-grill.fr/fr/annonce/4629751-alternance-serveur-hf-34000-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Buffalo Grill - Serveur / Serveuse en restauration (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "En quelques mots Tu as le sens de l'accueil et tu aimes offrir un service irréprochable ? En tant que Serveur en alternance, tu es l'ambassadeur de l'expérience client chez Buffalo Grill. Ta mission : assurer un service rapide et de qualité dans une ambiance chaleureuse et conviviale ! Le tout en veillant à satisfaire chaque client à sa table pour qu'il reparte avec le sourire et l'envie de revenir !\n« Ensemble, nous traçons un chemin où passion, partage et excellence ne font qu'un »\nCe qui t'attend si tu décides de nous rejoindre :\nDes parcours de formation spécialement créés pour chacun de nos métiers afin que tu bénéficies d'un accompagnement personnalisé ; des équipes chaleureuses et des opportunités de carrière, pour que tu puisses t'épanouir et donner le meilleur de toi-même.\nTon quotidien en tant que Serveur :\n- Le sourire, ce détail qui fait tout : Accompagné(e) au quotidien par ton/ta tuteur(trice), tu veilles à ce que chaque client se sente accueilli, écouté et servi à la perfection de l'entrée à la sortie du restaurant. Un petit sourire fait des merveilles, mais tu sais aussi que le service de qualité passe par l'efficacité. Pas de souci, tu maîtrises l'art du timing, même quand ça chauffe derrière les rangs.\n- Le conseil qui fait la différence : Tu aimes partager ta passion pour la carte et conseiller les clients avec enthousiasme. Tu as le super pouvoir de transformer une simple commande en un moment spécial ? On vous veut dans la grande aventure Buffalo Grill !\n- L'expert de l'expérience client : Tu t'assures de la satisfaction des clients pendant toute la durée du service. Objectif ? Garantir une expérience agréable à nos clients, pour leur donner l'envie de revenir ! Mais ce n'est pas tout. Ton avis compte ! Tu participes activement à améliorer l'expérience client, en apportant tes idées pour faire progresser la qualité du service. Enfin, tu participes à la fidélisation de nos clients :\n- En contribuant à renforcer la notoriété du restaurant sur Google.\n- En accompagnant les clients dans la création de leur carte de fidélité, en les encourageant à l'utiliser et à en profiter pleinement à chacune de leurs visites.\n- Le garant de la mise en place et de l'entretien de la salle : Avant le service, tu prépares la salle (dresser les tables, disposer les couverts, etc.) pour offrir un cadre agréable et impeccable aux clients. What else ? Maintenir la propreté de la salle avant - pendant et après le service. Même en plein rush, tu sais qu'il n'y a pas de compromis sur l'hygiène. Après tout, un service impeccable, c'est aussi un service sécurisé !\n- Le champion de la coopération : Tu collabores avec les autres membres de l'équipe que ce soit en cuisine ou en salle, pour une préparation et un service fluide, en assurant une qualité de service irréprochable, et une cohésion d'équipe digne des plus grandes franchises de NBA !\n- L'acteur des animations : Tu participes aux temps forts de l'année (Noël, Saint Valentin, Halloween, anniversaires, etc.) et bien sûr tu n'as pas peur d'enfiler le costume de notre mascotte Bizcoto !\nPourquoi rejoindre Buffalo Grill ?\nNous favorisons l'épanouissement de chacun :\n\nUne intégration soignée et un parcours de formation personnalisé grâce à notre école interne et nos outils (Suivi d'intégration personnalisé, B-learning, formation sur le terrain, etc.).\nDes opportunités de carrière à portée de main : 315 promotions internes en 2025 dont 70% sur des postes d'encadrants (Directeur de restaurant, Directeur Adjoint, Chef Grillardin et Responsable de Salle).\nUne ambiance de travail conviviale et authentique, où le respect et le plaisir d'accueillir sont au cœur des valeurs de nos équipes dynamiques et enthousiastes. Chez nous, tu trouveras un esprit familial et un management de proximité.\n\nNous te soutenons grâce à notre réseau :\n\nUne entreprise solide avec nos 325 restaurants en France, et notre programme de mobilité interne #BuffalOpportunité, offrant des opportunités de mobilité géographique partout en France !\nUn acteur local impliqué dans la dynamique des territoires depuis plus de 46 ans.\n\nNous offrons des opportunités à toutes et tous :\n\nUne accessibilité des métiers, sans qualification préalable requise.\nUne politique d'inclusion qui valorise la diversité :\n\n- L'index parité H/F : 84/100.\n- 49% de femmes dans nos effectifs, et plus de 40 % de femmes managers.\n- 6% de travailleurs en situation de handicap.\n- Une projection de 5% d'alternants en 2026 !\n- Et plus de 75 nationalités dans nos effectifs.\nEvoluer rapidement en tant qu'alternant(e ) c'est possible chez Buffalo Grill ! Tu aimes les défis ? Après avoir démontré ton savoir-faire, tu pourras évoluer vers des postes à plus fortes responsabilités, comme Responsable de salle, avant de pouvoir prétendre à des postes de direction si tel est ton souhait ! Nous t'accompagnons dans ton évolution professionnelle pour que tu puisses atteindre tes objectifs !\nTu es prêt(e) pour la prochaine étape ?\nProfil : \n- Tu prépar...",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-03T21:17:59.781Z",
+        "expiration": "2026-12-03T21:17:59.781Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac17f3ca962accea385c472",
+      "partner_label": "France Travail",
+      "partner_job_id": "7627169"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56569419?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Vendeur de magasin - Montpellier (F/H)",
+      "rome_codes": [
+        "N1110"
+      ],
+      "description": "Vous souhaitez évoluer dans un environnement commercial dynamique où la proximité client et la polyvalence sont au cœur du métier ?Rejoignez un magasin spécialisé dans les fournitures de bureau, la papeterie, les services aux professionnels et aux particuliers. Implanté à Montpellier, au cœur d'une zone commerciale attractive, ce point de vente à taille humaine accompagne quotidiennement une clientèle variée grâce à son expertise, sa qualité de service et son large choix de produits.Rattaché.e aux gérants, vous participer activement au bon fonctionnement quotidien de votre magasin. Vos missions, si vous l'acceptez sont :Accueillir et conseiller les clientsAssurer la vente en magasin et par téléphoneRéceptionner la marchandise et assurer sa mise en rayonPréparer les commandes clientsContribuer à la gestion des stocks et aux inventairesVeiller à la bonne tenue du magasin et à la qualité de l'expérience client selon les normes de l'enseigne.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-03T11:55:29.715Z",
+        "expiration": "2026-12-03T11:55:29.715Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
     },
     "is_delegated": false
   },
@@ -9037,71 +9072,6 @@
       "publication": {
         "creation": "2026-09-24T12:16:06.840Z",
         "expiration": "2026-11-24T12:16:06.840Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab5a2417caaafd3f59782d6",
-      "partner_label": "France Travail",
-      "partner_job_id": "7164021"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56460998?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti aide-soignant F/H/X",
-      "rome_codes": [
-        "J1501"
-      ],
-      "description": "Développez tous vos talents aux côtés de nos résidents.Dans nos 270 maisons de retraite Korian, refaire le monde avec Monique fait partie du métier d'aide-soignant, en plus\ndes soins : vous écoutez, rassurez et créez du lien en accompagnant les résidents et patients dans leurs activités du\nquotidien.En pratique : une\nformation de 12 à 18 mois avec 50% de théorique dans l'un des 12 sites de notre\nCFA des Métiers du Soin et 50% de pratique dans l'un de nos établissements.\n\n Rémunération\n&amp; avantages",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T12:15:34.730Z",
-        "expiration": "2026-11-24T12:15:34.730Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -13617,6 +13587,139 @@
   },
   {
     "identifier": {
+      "id": "6ac17f3ca962accea385c471",
+      "partner_label": "France Travail",
+      "partner_job_id": "7635435"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Buffalo Grill",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://carrieres.buffalo-grill.fr/fr/annonce/4629751-alternance-serveur-hf-34000-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Buffalo Grill - Serveur / Serveuse en restauration (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "En quelques mots Tu as le sens de l'accueil et tu aimes offrir un service irréprochable ? En tant que Serveur en alternance, tu es l'ambassadeur de l'expérience client chez Buffalo Grill. Ta mission : assurer un service rapide et de qualité dans une ambiance chaleureuse et conviviale ! Le tout en veillant à satisfaire chaque client à sa table pour qu'il reparte avec le sourire et l'envie de revenir !\n« Ensemble, nous traçons un chemin où passion, partage et excellence ne font qu'un »\nCe qui t'attend si tu décides de nous rejoindre :\nDes parcours de formation spécialement créés pour chacun de nos métiers afin que tu bénéficies d'un accompagnement personnalisé ; des équipes chaleureuses et des opportunités de carrière, pour que tu puisses t'épanouir et donner le meilleur de toi-même.\nTon quotidien en tant que Serveur :\n- Le sourire, ce détail qui fait tout : Accompagné(e) au quotidien par ton/ta tuteur(trice), tu veilles à ce que chaque client se sente accueilli, écouté et servi à la perfection de l'entrée à la sortie du restaurant. Un petit sourire fait des merveilles, mais tu sais aussi que le service de qualité passe par l'efficacité. Pas de souci, tu maîtrises l'art du timing, même quand ça chauffe derrière les rangs.\n- Le conseil qui fait la différence : Tu aimes partager ta passion pour la carte et conseiller les clients avec enthousiasme. Tu as le super pouvoir de transformer une simple commande en un moment spécial ? On vous veut dans la grande aventure Buffalo Grill !\n- L'expert de l'expérience client : Tu t'assures de la satisfaction des clients pendant toute la durée du service. Objectif ? Garantir une expérience agréable à nos clients, pour leur donner l'envie de revenir ! Mais ce n'est pas tout. Ton avis compte ! Tu participes activement à améliorer l'expérience client, en apportant tes idées pour faire progresser la qualité du service. Enfin, tu participes à la fidélisation de nos clients :\n- En contribuant à renforcer la notoriété du restaurant sur Google.\n- En accompagnant les clients dans la création de leur carte de fidélité, en les encourageant à l'utiliser et à en profiter pleinement à chacune de leurs visites.\n- Le garant de la mise en place et de l'entretien de la salle : Avant le service, tu prépares la salle (dresser les tables, disposer les couverts, etc.) pour offrir un cadre agréable et impeccable aux clients. What else ? Maintenir la propreté de la salle avant - pendant et après le service. Même en plein rush, tu sais qu'il n'y a pas de compromis sur l'hygiène. Après tout, un service impeccable, c'est aussi un service sécurisé !\n- Le champion de la coopération : Tu collabores avec les autres membres de l'équipe que ce soit en cuisine ou en salle, pour une préparation et un service fluide, en assurant une qualité de service irréprochable, et une cohésion d'équipe digne des plus grandes franchises de NBA !\n- L'acteur des animations : Tu participes aux temps forts de l'année (Noël, Saint Valentin, Halloween, anniversaires, etc.) et bien sûr tu n'as pas peur d'enfiler le costume de notre mascotte Bizcoto !\nPourquoi rejoindre Buffalo Grill ?\nNous favorisons l'épanouissement de chacun :\n\nUne intégration soignée et un parcours de formation personnalisé grâce à notre école interne et nos outils (Suivi d'intégration personnalisé, B-learning, formation sur le terrain, etc.).\nDes opportunités de carrière à portée de main : 315 promotions internes en 2025 dont 70% sur des postes d'encadrants (Directeur de restaurant, Directeur Adjoint, Chef Grillardin et Responsable de Salle).\nUne ambiance de travail conviviale et authentique, où le respect et le plaisir d'accueillir sont au cœur des valeurs de nos équipes dynamiques et enthousiastes. Chez nous, tu trouveras un esprit familial et un management de proximité.\n\nNous te soutenons grâce à notre réseau :\n\nUne entreprise solide avec nos 325 restaurants en France, et notre programme de mobilité interne #BuffalOpportunité, offrant des opportunités de mobilité géographique partout en France !\nUn acteur local impliqué dans la dynamique des territoires depuis plus de 46 ans.\n\nNous offrons des opportunités à toutes et tous :\n\nUne accessibilité des métiers, sans qualification préalable requise.\nUne politique d'inclusion qui valorise la diversité :\n\n- L'index parité H/F : 84/100.\n- 49% de femmes dans nos effectifs, et plus de 40 % de femmes managers.\n- 6% de travailleurs en situation de handicap.\n- Une projection de 5% d'alternants en 2026 !\n- Et plus de 75 nationalités dans nos effectifs.\nEvoluer rapidement en tant qu'alternant(e ) c'est possible chez Buffalo Grill ! Tu aimes les défis ? Après avoir démontré ton savoir-faire, tu pourras évoluer vers des postes à plus fortes responsabilités, comme Responsable de salle, avant de pouvoir prétendre à des postes de direction si tel est ton souhait ! Nous t'accompagnons dans ton évolution professionnelle pour que tu puisses atteindre tes objectifs !\nTu es prêt(e) pour la prochaine étape ?\nProfil : \n- Tu prépar...",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-03T21:17:59.781Z",
+        "expiration": "2026-12-03T21:17:59.781Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac17f3ca962accea385c472",
+      "partner_label": "France Travail",
+      "partner_job_id": "7627169"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56569419?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Vendeur de magasin - Montpellier (F/H)",
+      "rome_codes": [
+        "N1110"
+      ],
+      "description": "Vous souhaitez évoluer dans un environnement commercial dynamique où la proximité client et la polyvalence sont au cœur du métier ?Rejoignez un magasin spécialisé dans les fournitures de bureau, la papeterie, les services aux professionnels et aux particuliers. Implanté à Montpellier, au cœur d'une zone commerciale attractive, ce point de vente à taille humaine accompagne quotidiennement une clientèle variée grâce à son expertise, sa qualité de service et son large choix de produits.Rattaché.e aux gérants, vous participer activement au bon fonctionnement quotidien de votre magasin. Vos missions, si vous l'acceptez sont :Accueillir et conseiller les clientsAssurer la vente en magasin et par téléphoneRéceptionner la marchandise et assurer sa mise en rayonPréparer les commandes clientsContribuer à la gestion des stocks et aux inventairesVeiller à la bonne tenue du magasin et à la qualité de l'expérience client selon les normes de l'enseigne.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-03T11:55:29.715Z",
+        "expiration": "2026-12-03T11:55:29.715Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6abf6e0f999d7ac15747fa76",
       "partner_label": "OPCO EP",
       "partner_job_id": "6abf6e0f999d7ac15747fa76"
@@ -15984,71 +16087,6 @@
   },
   {
     "identifier": {
-      "id": "6ab5a2417caaafd3f59782d6",
-      "partner_label": "France Travail",
-      "partner_job_id": "7164021"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56460998?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti aide-soignant F/H/X",
-      "rome_codes": [
-        "J1501"
-      ],
-      "description": "Développez tous vos talents aux côtés de nos résidents.Dans nos 270 maisons de retraite Korian, refaire le monde avec Monique fait partie du métier d'aide-soignant, en plus\ndes soins : vous écoutez, rassurez et créez du lien en accompagnant les résidents et patients dans leurs activités du\nquotidien.En pratique : une\nformation de 12 à 18 mois avec 50% de théorique dans l'un des 12 sites de notre\nCFA des Métiers du Soin et 50% de pratique dans l'un de nos établissements.\n\n Rémunération\n&amp; avantages",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T12:15:34.730Z",
-        "expiration": "2026-11-24T12:15:34.730Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab4517868233dbb8f6a446d",
       "partner_label": "Meteojob",
       "partner_job_id": "57016169"
@@ -18184,71 +18222,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c1",
       "partner_label": "France Travail",
       "partner_job_id": "6943802"
@@ -18298,6 +18271,71 @@
         "D1410"
       ],
       "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c0",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943809"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
