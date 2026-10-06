@@ -6107,116 +6107,6 @@
   },
   {
     "identifier": {
-      "id": "6a7adf764a6872773527f055",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a7adf764a6872773527f055"
-    },
-    "workplace": {
-      "siret": "13002793100117",
-      "brand": null,
-      "legal_name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
-      "website": null,
-      "name": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE",
-      "description": "Institut de beauté multi cabines proposant des prestations complètes recherche un BP ESTHETIQUE",
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "904 Avenue du Maréchal Juin 30900 Nîmes",
-        "geopoint": {
-          "coordinates": [
-            3.880445,
-            43.625692
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "96.02B",
-          "label": "Soins de beauté"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a7adf764a6872773527f055/esthéticien-praticien-esthéticienne-praticienne",
-      "phone": null,
-      "recipient_id": "partners_6a7adf764a6872773527f055"
-    },
-    "contract": {
-      "start": "2026-08-11T08:38:14.653Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "BP ESTHETIQUE",
-      "rome_codes": [
-        "D1208"
-      ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés. Réalise des soins du visage et du corps adaptés aux clients Propose et vend des produits de beauté et de soin Effectue des épilations et prépare la peau avant et après les soins Conseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements Gère les rendez-vous et maintient l'espace de travail propre et accueillant Peut réaliser des soins spécifiques comme le maquillage ou la manucure",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de créativité, d'inventivité",
-        "Faire preuve de rigueur et de précision"
-      ],
-      "to_be_acquired_skills": [
-        "Conseil, Transmission\tConseiller sur la mise en valeur de son image personnelle",
-        "Soin\tAnalyser les caractéristiques de la peau pour adapter le maquillage",
-        "Soin\tConcevoir des maquillages",
-        "Soin\tPratiquer des techniques manuelles drainantes, relaxantes, raffermissantes et stimulantes",
-        "Soin\tProdiguer des soins corporels et esthétiques",
-        "Soin\tRéaliser des maquillages",
-        "Soin\tRéaliser des soins d'épilation",
-        "Soin\tRéaliser des soins de manucure, pédicure",
-        "Soin\tRéaliser des soins de pose de faux-cils, bijoux de peau, tatouages temporaires",
-        "Soin\tRéaliser des soins du visage et du corps",
-        "Soin\tRéaliser un raccord de maquillage ou de coiffure",
-        "Data et Nouvelles technologies\tMettre à jour un dossier, une base de données",
-        "Maintenance, Réparation\tEntretenir un outil ou matériel",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Maintenance, Réparation\tMaintenir l'hygiène des outils et produits de maquillage",
-        "Qualité\tVeiller à la conformité des machines et des soins des séances d'UV, spa, sauna, hammam",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Logistique\tGérer les rendez-vous et l'agenda des soins",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAccueillir le client et l'installer",
-        "Développement commercial\tDévelopper et fidéliser la relation client",
-        "Développement commercial\tMaintenir à jour les connaissances des tendances de maquillage",
-        "Développement commercial\tPrésenter et expliquer des techniques d'esthétique et de maquillage",
-        "Développement commercial\tVendre une prestation ou un produit",
-        "Organisation\tAssurer la confidentialité des informations client",
-        "Organisation\tUtiliser les outils numériques"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec un CAP en soins esthétiques et corporels. Un diplôme de niveau BAC (Brevet Professionnel, ...) ou BAC +2 (BTS, ...) en esthétique-cosmétique peut être requis."
-      ],
-      "publication": {
-        "creation": "2026-08-11T08:38:14.653Z",
-        "expiration": "2026-10-11T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Quelles compétences souhaitez-vous développer grâce à cette expérience ?",
-        "Quels outils ou méthodes de travail maîtrisez-vous et souhaitez-vous approfondir ?",
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
-      ]
-    },
-    "is_delegated": true
-  },
-  {
-    "identifier": {
       "id": "6a79e4f322a147e1a1f92b99",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a79e4f322a147e1a1f92b99"
@@ -7358,115 +7248,141 @@
   },
   {
     "identifier": {
-      "id": "6a2835d6d42244de8c4cbb43",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a2835d6d42244de8c4cbb43"
+      "id": "6ac4222432e88690a891c35e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214VJYM"
     },
     "workplace": {
-      "siret": "53515164100011",
-      "brand": "FLEUR DE SEL",
-      "legal_name": "ODONATES",
+      "siret": "10883560400019",
+      "brand": null,
+      "legal_name": "IA.A RENOVATION",
       "website": null,
-      "name": "ODONATES",
+      "name": "IA.A RENOVATION",
       "description": null,
-      "size": "10 à 19 salariés",
+      "size": "Non diffusé",
       "location": {
-        "address": "RUE DES ROSELIERES 34750 VILLENEUVE-LES-MAGUELONE",
+        "address": "34670 Baillargues",
         "geopoint": {
           "coordinates": [
-            3.856113,
-            43.537288
+            4.011786,
+            43.655493
           ],
           "type": "Point"
         }
       },
       "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
+        "idcc": null,
+        "opco": "inconnu",
         "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
+          "code": "43.34Z",
+          "label": "Travaux de peinture et vitrerie"
         }
       }
     },
     "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a2835d6d42244de8c4cbb43/vendeur-vendeuse-en-boulangerie-pâtisserie",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214VJYM",
       "phone": null,
-      "recipient_id": "partners_6a2835d6d42244de8c4cbb43"
+      "recipient_id": null
     },
     "contract": {
-      "start": "2026-08-06T09:29:34.999Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
       "type": [
         "Apprentissage"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Vendeur / Vendeuse en boulangerie-pâtisserie",
+      "title": "APPRENTI PEINTRE EN BÂTIMENT H/F (H/F)",
       "rome_codes": [
-        "D1106"
+        "F1606"
       ],
-      "description": "Réalise la vente de produits alimentaires (frais et hors frais) selon la réglementation du commerce, les règles d'hygiène et de sécurité alimentaires et les objectifs commerciaux de l'enseigne, de l'entreprise. Peut effectuer la préparation (cuisson, coupe, réalisation de plateaux, ...) de produits frais.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Etre à l'écoute, faire preuve d'empathie",
-        "Faire preuve de rigueur et de précision"
-      ],
+      "description": "Dans le cadre du développement de notre activité, notre entreprise recherche un(e) apprenti(e) peintre en bâtiment motivé(e) et sérieux(se) afin d'intégrer notre équipe et de se former au métier de peintre.\n\nAccompagné(e) par un professionnel expérimenté, vous participerez notamment à:\n-Preparation et organisation du chantier.\n-Travaux de rénovation et d'entretien.\n-Préparation des supports.\n-Travaux de peinture et finition....\n\nProfil recherché:\n-Motivé(e)\n-Sérieux(se) et ponctuel(le).\n-Dynamique et manuel(le)\n-Ayant envie d'apprendre de progresser dans le secteur du bâtiment.\n-Aimant travailler en équipe.\n-Respectueux(se) des consignes de sécurité.\n\nDébutant(e) accepté(e)\n\nPermis B préférable pas obligatoire.",
+      "target_diploma": null,
+      "desired_skills": [],
       "to_be_acquired_skills": [
-        "Management\tPrévenir et résoudre les conflits",
-        "Production, Fabrication\tConfectionner des confiseries",
-        "Production, Fabrication\tPréparer, assembler des plats simples",
-        "Production, Fabrication\tTransformer un produit frais (cuire, couper, préparer un plateau...)",
-        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Qualité\tContrôler l'état de conservation d'un produit périssable",
-        "Qualité\tRetirer des produits non conformes",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéaliser l'emballage de produits frais",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Logistique\tOrganiser le traitement des commandes",
-        "Transport\tLivrer une commande",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Gestion administrative et comptable\tRenseigner le support de suivi de traçabilité des marchandises",
-        "Pilotage et maîtrise des coûts\tAssurer la gestion administrative d'une activité",
-        "Gestion et contrôle\tRéaliser des opérations comptables",
-        "Relation client\tInformer, renseigner une personne sur les articles en vente",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tOrganiser, aménager un espace de vente",
-        "Développement commercial\tPrésenter et valoriser un produit ou un service",
-        "Développement commercial\tRéaliser la mise en rayon",
-        "Développement commercial\tVendre ou louer des produits ou des services",
-        "Communication\tCommuniquer à l'oral en milieu professionnel",
-        "Organisation\tUtiliser les outils numériques"
+        "Techniques de peinture artistique",
+        "Monter ou démonter un échafaudage",
+        "Préparer la peinture"
       ],
-      "access_conditions": [
-        "Ce métier est accessible avec un diplôme de niveau CAP/BEP à Bac (professionnel, ...) dans les secteurs de la vente, du commerce et de la distribution. Des formations spécifiques dans le secteur des métiers de bouche (boulangerie, pâtisserie, boucherie, poissonnerie, ...) peuvent être demandées. Il est également accessible avec une expérience professionnelle dans la vente sans diplôme particulier. La maîtrise d'un logiciel de gestion de stocks peut être demandée."
-      ],
+      "access_conditions": [],
       "publication": {
-        "creation": "2026-06-09T15:48:38.291Z",
-        "expiration": "2026-10-06T00:00:00.000Z"
+        "creation": "2026-10-05T18:34:43.069Z",
+        "expiration": "2026-12-05T18:34:43.069Z"
       },
       "opening_count": 1,
       "status": "Active",
-      "to_applicant_questions": [
-        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
-        "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?"
-      ]
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac4222432e88690a891c35f",
+      "partner_label": "France Travail",
+      "partner_job_id": "214TLCX"
+    },
+    "workplace": {
+      "siret": "38345126700017",
+      "brand": null,
+      "legal_name": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+      "website": null,
+      "name": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+      "description": null,
+      "size": "1 000 à 1 999 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 5005,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "64.19Z",
+          "label": "Autres intermédiations monétaires"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://emea3.recruitmentplatform.com/apply-app/pages/application-form?jobId=Q7SFK026203F3VBQB7V8N8MO5-5401578&langCode=fr_FR&sType=France_Travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé de Communication (F/H)",
+      "rome_codes": [
+        "C1206"
+      ],
+      "description": "La Caisse d'Epargne Languedoc Roussillon, acteur majeur sur son territoire, accompagne au quotidien l'ensemble des acteurs locaux et régionaux et leurs projets innovants.\n\nBanque historique des particuliers, nous sommes aussi la banque des professionnels et des décideurs en région, avec près de 1.1 million de clients représentant environ 40% de la population du territoire.\n\nBanque mutualiste, nous nous distinguons par une politique RSE (Responsabilité Sociétale des Entreprises) engagée et durable, portée par nos mandataires et nos 1400 collaborateurs.\n\nBanque digitale, nous proposons et développons les meilleurs outils au service de nos clients.\n\nAttachés au capital humain, nous formons et accompagnons nos collaborateurs tout au long de leur carrière.\n\nNous faisons partie du groupe BPCE, 2ème Groupe bancaire français. Avec 100 000 collaborateurs, nous sommes au service de 35 millions de clients dans le monde, particuliers, professionnels, entreprises, investisseurs et collectivités locales.\n\n \n\n\nAu sein de la Direction de la Communication, nous recherchons un Chargé de Communication (F/H) en CDD pour une durée de 6 mois, dans le cadre d'un remplacement en congé maternité. Le poste est basé à Montpellier.\n\nVous participez à la définition de la stratégie de communication de la Caisse d'Epargne Languedoc-Roussillon et à sa mise en œuvre. Vous travaillez à la fois en autonomie sur vos dossiers mais également en équipe sur des projets communs à la Direction ou avec d'autres Directions.\n\nVos missions sont les suivantes  :\n\nAccompagner la transformation de l'entreprise, donner du sens aux projets menés et développer la fierté d'appartenance des collaborateurs :\n\nen proposant et mettant en œuvre des plans de communication pertinents ayant recours à une communication à 360° (associant communication multi-média et évènementielle) ;\n\nen repensant la stratégie de contenus de l'entreprise (médias, ligne éditoriale) et en développant et mettant en œuvre les outils de communication adéquats.\n\nParticiper au développement de l'entreprise :\n\nen organisant des évènements clients au nom de l'entreprise ;\n\nen valorisant son image à travers des partenariats économiques et médias pertinents et le recours aux réseaux sociaux.\n\nDans le cadre de vos missions, vous êtes également amené(e) à piloter le budget de la Direction de la Communication et d'autres projets en fonction de l'évolution de l'entreprise.\n\nVous gérez vos projets dans leur intégralité : depuis l'élaboration de la stratégie de communication jusqu'à la production opérationnelle de chaque outil, pour la plupart réalisé par vos soins en interne (vidéo, infographie, écriture de discours, d'argumentaires, etc.).\n\nDes déplacements sont à prévoir sur l'ensemble du Languedoc Roussillon (sur une ou plusieurs journées).\n\nIl est nécessai",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-05T11:13:33.140Z",
+        "expiration": "2026-12-05T11:13:33.140Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
     },
     "is_delegated": false
   },
@@ -7664,6 +7580,157 @@
       "publication": {
         "creation": "2026-10-01T21:18:11.878Z",
         "expiration": "2026-12-01T21:18:11.878Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac4222432e88690a891c360",
+      "partner_label": "France Travail",
+      "partner_job_id": "214RCJX"
+    },
+    "workplace": {
+      "siret": "10014826100173",
+      "brand": "OHSMOSE AMAPA SAD MONTPELLIER",
+      "legal_name": "OHSMOSE",
+      "website": null,
+      "name": "OHSMOSE",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.976877,
+            43.587984
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Uniformation, l'Opco de la Cohésion sociale",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RCJX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 10,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant de vie aux Familles en alternance (H/F)",
+      "rome_codes": [
+        "K1311"
+      ],
+      "description": "Vous souhaitez rejoindre un secteur où l'humain est au cœur de chaque action ? En tant qu'Assistant de vie aux familles en contrat de professionnalisation , vous ne réalisez pas seulement l'entretien du domicile, vous améliorez le cadre de vie des personnes que vous accompagnez.\n\nEn binôme, votre rôle sera de garantir le bien-être, la dignité et l'autonomie des bénéficiaires (personnes âgées ou en situation de handicap) à travers :\n\n- Aide aux gestes essentiels de la vie courante, aide aux activités administratives\n- la garde d'enfants de plus de 3 ans",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Normes d'hygiène et de propreté",
+        "Effectuer les courses d'une personne",
+        "Apporter un soutien émotionnel aux personnes accompagnées et à leur entourage",
+        "Communiquer avec l'entourage de la personne accompagnée",
+        "Encourager l'autonomie dans les activités quotidiennes",
+        "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée",
+        "Faciliter la résolution de questions et démarches administratives",
+        "Maintenir, favoriser le lien social de la personne"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-01T14:25:30.962Z",
+        "expiration": "2026-12-01T14:25:30.962Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac4222432e88690a891c361",
+      "partner_label": "France Travail",
+      "partner_job_id": "214QGHX"
+    },
+    "workplace": {
+      "siret": "84226144800018",
+      "brand": null,
+      "legal_name": "IRDM",
+      "website": null,
+      "name": "IRDM",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34160 Castries",
+        "geopoint": {
+          "coordinates": [
+            3.98781,
+            43.685056
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2596,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QGHX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance coiffure BP COIFFURE ou MENTION (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "NOUS RECRUTONS !\nCONTRAT EN ALTERNANCE\nBP COIFFURE ou CERTIFICAT DE SPÉCIALISATION COIFFURE\nNous recherchons une personne :\nTrès motivé(e)\nPassionné(e) par la coiffure\nAvec une excellente présentation\nDynamique, sérieux(se) et ayant envie d'évoluer au sein d'une équipe professionnelle et chaleureuse.\nEnvie de rejoindre notre équipe ?\nVenez directement vous présenter au salon avec votre CV.\nNous avons hâte de vous rencontrer !\nResponsabilités\nRéaliser des prestations de coiffure mixtes, incluant coupe, coloration, brushing et soins capillaires selon les techniques apprises\nCollaborer avec l'équipe pour assurer un service client exceptionnel et favoriser la fidélisation.\nProfil recherché\nPassionné(e) par la coiffure avec une forte envie d'apprendre et de se perfectionner dans un environnement professionnel.\nExcellentes compétences en communication pour conseiller efficacement les clients et travailler en équipe.\nSens du service client, dynamisme et capacité à créer une expérience positive pour chaque visiteur.\nConnaissances de base en techniques capillaires: coupe, coloration.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Procéder à la mise en forme, au coiffage, à la fixation des cheveux (bouclage, brushing, ...)",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T17:02:44.125Z",
+        "expiration": "2026-11-30T17:02:44.125Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -8340,7 +8407,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Aide maternel / Aide maternelle de crèche - Halte-garderie (H/F)",
+      "title": "Apprenti/e Aide Maternel/e de Crèche (H/F)",
       "rome_codes": [
         "K1307"
       ],
@@ -8575,78 +8642,6 @@
       "publication": {
         "creation": "2026-09-25T12:20:18.160Z",
         "expiration": "2026-11-25T12:20:18.160Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab6f3aba68cd2546344bf92",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KJHZ"
-    },
-    "workplace": {
-      "siret": "82831114200016",
-      "brand": null,
-      "legal_name": "MMC GIGNAC",
-      "website": null,
-      "name": "MMC GIGNAC",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34150 Gignac",
-        "geopoint": {
-          "coordinates": [
-            3.564847,
-            43.648197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KJHZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Pâtissier / Pâtissière en apprentissage (H/F)",
-      "rome_codes": [
-        "D1104"
-      ],
-      "description": "Pour une boulangerie pâtisserie traditionnelle,  vous fabriquez de façon artisanale différentes pâtisseries, gâteaux, entremets...\n\nVous travaillez en équipe.\nVous avez deux jours de repos : lundi et dimanche. \n\nVous devez candidater par mail uniquement, ne pas téléphoner à l'entreprise.\n\nVous cherchez pour passer un CAP ou un BP pâtisserie.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Doser des ingrédients culinaires",
-        "Effectuer le montage et la décoration des produits pâtissiers"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T09:53:27.085Z",
-        "expiration": "2026-11-25T09:53:27.085Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9839,80 +9834,6 @@
       "publication": {
         "creation": "2026-09-21T16:58:17.534Z",
         "expiration": "2026-11-21T16:58:17.534Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12252",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DYTG"
-    },
-    "workplace": {
-      "siret": "82045923800011",
-      "brand": "COULEURS D'ICI",
-      "legal_name": "SOCIETE T.M.",
-      "website": null,
-      "name": "SOCIETE T.M.",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34880 Lavérune",
-        "geopoint": {
-          "coordinates": [
-            3.804882,
-            43.586196
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DYTG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI(E) - Serveur / Serveuse (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Restaurant semi-gastronomique à Lavérune, aux portes de Montpellier\nChez Couleurs d'ici, nous travaillons une cuisine française, créative élaborée à partir de produits frais et de saison.\nNotre carte évolue chaque premier mercredi du mois afin de suivre les produits du marché.\nQue ce soit pour un déjeuner entre amis, un dîner en amoureux, un repas d'affaires ou une occasion particulière, nous mettons tout en oeuvre pour faire de votre visite un moment unique.\nLaissez-vous guider par les couleurs des saisons... et venez partager un instant gourmand.\nNous recherchons un(e) apprenti(e) serveur(serveuse) pour un service d'environ 50 couverts par jour.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:40:32.814Z",
-        "expiration": "2026-11-21T16:40:32.814Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -12614,7 +12535,7 @@
       "rome_codes": [
         "G1703"
       ],
-      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
+      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte (après 6 mois d'ancienneté)\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -12897,74 +12818,6 @@
         "expiration": "2026-11-03T19:12:59.935Z"
       },
       "opening_count": 2,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a98a1c8e09d67ec4f63162a",
-      "partner_label": "France Travail",
-      "partner_job_id": "6533318"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Siège Sandaya - Direction IT/Marketing/Commercial",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://recrutement.sandaya.jobs/fr/offres/assistante-chargee-de-communication-en-alternance-e3ca2b?utm_source=francetravail&utm_medium=job-board",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) Chargé(e) de Communication en Alternance F/H - Siège Sandaya - Direction IT/Marketing/Commercial",
-      "rome_codes": [
-        "E1112"
-      ],
-      "description": "En pleine évolution depuis notre création en 2010 avec un seul camping, nous comptons aujourd'hui 69 campings à travers la France et l'Europe.\n \nPour accompagner notre développement et renforcer nos équipes, nous ouvrons ce nouveau poste en Alternance.\n \n \n \n Être Assistant(e) Chargé(e) de Communication en Alternance chez Sandaya\n \n \n \nLe service communication de Sandaya a pour mission d'Accroître la Notoriété de la Marque et de garantir sa cohérence sur l'ensemble des canaux.\n \nIl pilote des campagnes de communication (TV, radio, brochure, newsletters, influence...), anime les réseaux sociaux du groupe, gère les relations presse, développe les collaborations/partenariats (marques, événements, personnalités) et veille à l'e-réputation.\n \nL'équipe est également garante de l'application de la charte graphique et de la qualité des contenus produits.\n \n \n \n Une aventure pas comme les autres !\n \nRejoindre le Pôle Communication en tant qu'Assistant(e) Chargé(e) de Communication en Alternance, c'est intégrer un environnement stimulant, où les projets sont variés et au cœur de la stratégie de marque du Groupe.\n \n \n \n Pendant votre mission :\n \n- \nPartenariats &amp; Collaborations : En lien avec l'agence de communication, vous apportez un appui organisationnel et administratif à la mise en œuvre des partenariats (marques, événements locaux, personnalités) et participez au déploiement des activations.\n \n- \nJeux-concours : Vous recherchez et coordonnez les dotations auprès de nos marques et partenaires.\n \n- \nBrochure : Vous participez à la mise à jour de la brochure annuelle et à la coordination des échanges avec l'agence de création.\n \n- \nE-réputation &amp; Avis clients : Vous contribuez à la gestion de l'e-réputation de la marque et à la réponse aux avis clients sur nos différents canaux.\n \n- \nSignalétique, Goodies &amp; Support Campings : Vous coordonnez les demandes des campings et participez à la mise en place des différents supports sur le terrain.\n \n- \nCoordination Prestataires : Vous participez à la coordination des intervenants externes (agences de communication, imprimeurs, fournisseurs).\n \n- \nEnquêtes &amp; Analyses : Vous pilotez le lancement, le suivi et l'exploitation d'enquêtes qualitatives et quantitatives auprès de nos publics cibles.\n \n- \nCréation de contenus : Vous participez ponctuellement à la création et à l'adaptation de contenus digitaux selon les besoins de la marque\n \n \n \n \nLes plus :\n \n- Vous intégrez une équipe soudée \n- Un coach sportif et un coach de yoga interviennent dans nos locaux une fois par semaine chacun, pour vous aider à garder la forme et à vous détendre \n- Des locaux neufs et modernes pensés pour offrir un cadre de travail agréable \n- Des tickets restaurant (via une carte Swile) pour rendre vos pauses déjeuner encore plus plaisantes \n \n \n \nDate de début prévue : 9 novembre 2025\n \n Contrat: Alternance 12 mois\n \nLocalisation: Poste basé sur Mauguio (proche Aéroport de Montpellier)Dans votre vie de tous les jours\n \n- Vous faites preuve de proactivité et d'un véritable esprit d'initiative, en sachant proposer et anticiper les besoins \n- Vous êtes impliqué(e) dans les résultats et motivé(e) à contribuer concrètement à la performance des actions menées \n- Vous assumez vos responsabilités avec autonomie dans la gestion de vos missions et livrables \n- Vous avez un bon esprit d'analyse et savez prendre du recul pour évaluer l'impact de vos actions et ajuster si nécessaire \n- Vous êtes organisé(e), fiable et communiquez efficacement avec vos interlocuteurs internes et externes \n- Vous êtes curieux(se) et avez une appétence naturelle pour les tendances en communication et dans le secteur du tourisme \n \n Et côté compétences\n \n- Vous êtes titulaire d'une formation de niveau Bac +2 en Communication / Marketing \n- Vous rédigez des contenus clairs, engageants et adaptés aux différents supports (brochures, affiches, etc.) \n- Vous assurez le suivi de projets de communication en lien avec des prestataires (agences, imprimeurs, etc.) \n- Vous maîtrisez les bases de la communication digitale (reporting, brief créatif, etc.) \n- Vous êtes capable d'organiser, de structurer et de mettre à jour des documents partagés (planning, rétroplanning, etc.) \n- Vous connaissez les fondamentaux de la communication 360° (online / offline) \n- Vous possédez des bases en stratégie de marque et en image institutionnelle \n- Vous avez des notions en marketing d'influence et en gestion de la e-réputation \n- Vous disposez d'une bonne culture web et des réseaux sociaux \n- Vous maîtrisez l'orthographe et les règles rédactionnelles \n \n \n \nVos compétences, votre unicité : c'est tout ce qui compte pour nous. \n \nChez Sandaya, nous nous engageons pour l'égalité, l'inclusion et une vraie diversité .\n \nPostulez et intégrez une équipe qui célèbre vos forces.\n \n \n \n Bon à savoir\n \n- Une forte valeur RSE : plan de mobilité durable (prime covoiturage, prime vélo, prise en charge à 70% des transports en communs), temps d'engagement sociétal et autre...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-02T21:19:27.960Z",
-        "expiration": "2026-11-02T21:19:27.960Z"
-      },
-      "opening_count": 1,
       "status": "Active",
       "to_applicant_questions": null
     },
@@ -13587,6 +13440,282 @@
   },
   {
     "identifier": {
+      "id": "6ac4222432e88690a891c35e",
+      "partner_label": "France Travail",
+      "partner_job_id": "214VJYM"
+    },
+    "workplace": {
+      "siret": "10883560400019",
+      "brand": null,
+      "legal_name": "IA.A RENOVATION",
+      "website": null,
+      "name": "IA.A RENOVATION",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34670 Baillargues",
+        "geopoint": {
+          "coordinates": [
+            4.011786,
+            43.655493
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "43.34Z",
+          "label": "Travaux de peinture et vitrerie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214VJYM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTI PEINTRE EN BÂTIMENT H/F (H/F)",
+      "rome_codes": [
+        "F1606"
+      ],
+      "description": "Dans le cadre du développement de notre activité, notre entreprise recherche un(e) apprenti(e) peintre en bâtiment motivé(e) et sérieux(se) afin d'intégrer notre équipe et de se former au métier de peintre.\n\nAccompagné(e) par un professionnel expérimenté, vous participerez notamment à:\n-Preparation et organisation du chantier.\n-Travaux de rénovation et d'entretien.\n-Préparation des supports.\n-Travaux de peinture et finition....\n\nProfil recherché:\n-Motivé(e)\n-Sérieux(se) et ponctuel(le).\n-Dynamique et manuel(le)\n-Ayant envie d'apprendre de progresser dans le secteur du bâtiment.\n-Aimant travailler en équipe.\n-Respectueux(se) des consignes de sécurité.\n\nDébutant(e) accepté(e)\n\nPermis B préférable pas obligatoire.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de peinture artistique",
+        "Monter ou démonter un échafaudage",
+        "Préparer la peinture"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-05T18:34:43.069Z",
+        "expiration": "2026-12-05T18:34:43.069Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac4222432e88690a891c35f",
+      "partner_label": "France Travail",
+      "partner_job_id": "214TLCX"
+    },
+    "workplace": {
+      "siret": "38345126700017",
+      "brand": null,
+      "legal_name": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+      "website": null,
+      "name": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+      "description": null,
+      "size": "1 000 à 1 999 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 5005,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "64.19Z",
+          "label": "Autres intermédiations monétaires"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://emea3.recruitmentplatform.com/apply-app/pages/application-form?jobId=Q7SFK026203F3VBQB7V8N8MO5-5401578&langCode=fr_FR&sType=France_Travail",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé de Communication (F/H)",
+      "rome_codes": [
+        "C1206"
+      ],
+      "description": "La Caisse d'Epargne Languedoc Roussillon, acteur majeur sur son territoire, accompagne au quotidien l'ensemble des acteurs locaux et régionaux et leurs projets innovants.\n\nBanque historique des particuliers, nous sommes aussi la banque des professionnels et des décideurs en région, avec près de 1.1 million de clients représentant environ 40% de la population du territoire.\n\nBanque mutualiste, nous nous distinguons par une politique RSE (Responsabilité Sociétale des Entreprises) engagée et durable, portée par nos mandataires et nos 1400 collaborateurs.\n\nBanque digitale, nous proposons et développons les meilleurs outils au service de nos clients.\n\nAttachés au capital humain, nous formons et accompagnons nos collaborateurs tout au long de leur carrière.\n\nNous faisons partie du groupe BPCE, 2ème Groupe bancaire français. Avec 100 000 collaborateurs, nous sommes au service de 35 millions de clients dans le monde, particuliers, professionnels, entreprises, investisseurs et collectivités locales.\n\n \n\n\nAu sein de la Direction de la Communication, nous recherchons un Chargé de Communication (F/H) en CDD pour une durée de 6 mois, dans le cadre d'un remplacement en congé maternité. Le poste est basé à Montpellier.\n\nVous participez à la définition de la stratégie de communication de la Caisse d'Epargne Languedoc-Roussillon et à sa mise en œuvre. Vous travaillez à la fois en autonomie sur vos dossiers mais également en équipe sur des projets communs à la Direction ou avec d'autres Directions.\n\nVos missions sont les suivantes  :\n\nAccompagner la transformation de l'entreprise, donner du sens aux projets menés et développer la fierté d'appartenance des collaborateurs :\n\nen proposant et mettant en œuvre des plans de communication pertinents ayant recours à une communication à 360° (associant communication multi-média et évènementielle) ;\n\nen repensant la stratégie de contenus de l'entreprise (médias, ligne éditoriale) et en développant et mettant en œuvre les outils de communication adéquats.\n\nParticiper au développement de l'entreprise :\n\nen organisant des évènements clients au nom de l'entreprise ;\n\nen valorisant son image à travers des partenariats économiques et médias pertinents et le recours aux réseaux sociaux.\n\nDans le cadre de vos missions, vous êtes également amené(e) à piloter le budget de la Direction de la Communication et d'autres projets en fonction de l'évolution de l'entreprise.\n\nVous gérez vos projets dans leur intégralité : depuis l'élaboration de la stratégie de communication jusqu'à la production opérationnelle de chaque outil, pour la plupart réalisé par vos soins en interne (vidéo, infographie, écriture de discours, d'argumentaires, etc.).\n\nDes déplacements sont à prévoir sur l'ensemble du Languedoc Roussillon (sur une ou plusieurs journées).\n\nIl est nécessai",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-05T11:13:33.140Z",
+        "expiration": "2026-12-05T11:13:33.140Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab4517868233dbb8f6a446d",
+      "partner_label": "Meteojob",
+      "partner_job_id": "57016169"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "ADECCO",
+      "description": "Vous cherchez un job pour quelques heures, quelques jours ou pour toujours ? <br /> <br /> <br /> Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec <strong>850 agences partout en France</strong> , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via <strong>nos applications Adecco &amp; Moi et QAPA</strong> , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. <strong>Parce qu'un job, ce n'est pas seulement un contrat</strong> . C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un <strong>accompagnement personnalisé</strong> , d' <strong>avantages exclusifs</strong> et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, <strong>CDD, CDI ou formation : à chacun sa voie, à chacun son rythme</strong> . Adecco, toujours à vos côtés !",
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134701,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/57016169?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Chargé du Recrutement (h/f)",
+      "rome_codes": [
+        "M1502"
+      ],
+      "description": "<p>Envie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !</p> <p>Notre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.</p> <p>  <strong>Vos missions :</strong> </p> <p>  GESTION  : </p> <ul>  <li>Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données</li>  <li>Gérer administrativement les intérimaires et/ou collaborateurs</li>  <li>Rédiger les contrats de mission et de mise à disposition</li> </ul> <p>  RECRUTEMENT  : </p> <ul>  <li>Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs</li>  <li>Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail</li>  <li>Rédiger les annonces d'emploi</li>  <li>Effectuer du Sourcing</li> </ul> <p>  VENTE: </p> <ul>  <li>S'assurer de la satisfaction des intérimaires et/ou des clients</li>  <li>Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation</li> </ul> <br />\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Chargé du recrutement (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <em>   Avantages:  </em> </p> <ul>  <li>Tickets Restaurant</li>  <li>Prise en charge partielle (70%) du titre de transport en commun</li>  <li>Tutorat</li> </ul> <p>Vous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.</p> <p>Curieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.</p> <p>  <strong>Vous êtes en cours de formation de Bac + 2 à Bac + 5, vous recherchez une entreprise pour réaliser votre stage.</strong> </p> <p>  <strong>N'hésitez plus, rejoigniez nous en postulant à cette offre!</strong> </p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-04T23:06:10.306Z",
+        "expiration": "2026-12-04T23:06:10.306Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a2c871ea914bd1428f0f5b5",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54662577"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RESTALLIANCE",
+      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-06-09T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier F/H",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "6-10 ans",
+        "11-20 ans",
+        "20 ans d'expérience et plus"
+      ],
+      "publication": {
+        "creation": "2026-10-04T22:05:43.868Z",
+        "expiration": "2026-12-04T22:05:43.868Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ac17f3ca962accea385c471",
       "partner_label": "France Travail",
       "partner_job_id": "7635435"
@@ -13925,65 +14054,74 @@
   },
   {
     "identifier": {
-      "id": "6abe6b09c5256f3f6f924484",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6abe6b09c5256f3f6f924484"
+      "id": "6ac4222432e88690a891c360",
+      "partner_label": "France Travail",
+      "partner_job_id": "214RCJX"
     },
     "workplace": {
-      "siret": "89136186700015",
-      "brand": null,
-      "legal_name": "AUDREY MARRES",
+      "siret": "10014826100173",
+      "brand": "OHSMOSE AMAPA SAD MONTPELLIER",
+      "legal_name": "OHSMOSE",
       "website": null,
-      "name": "AUDREY MARRES",
+      "name": "OHSMOSE",
       "description": null,
-      "size": "1 ou 2 salariés",
+      "size": "Non diffusé",
       "location": {
-        "address": "1 Rue des Anciennes Carrieres 34440 Colombiers",
+        "address": "34130 Mauguio",
         "geopoint": {
           "coordinates": [
-            3.168102,
-            43.309493
+            3.976877,
+            43.587984
           ],
           "type": "Point"
         }
       },
       "domain": {
         "idcc": null,
-        "opco": "Opco entreprises de proximité",
+        "opco": "Uniformation, l'Opco de la Cohésion sociale",
         "naf": {
-          "code": "96.02B",
-          "label": "Soins de beauté"
+          "code": "88.10A",
+          "label": "Aide à domicile"
         }
       }
     },
     "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6abe6b094bc5282510f40d90",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RCJX",
       "phone": null,
-      "recipient_id": "partners_6abe6b09c5256f3f6f924484"
+      "recipient_id": null
     },
     "contract": {
-      "start": "2026-10-12T00:00:00.000Z",
+      "start": null,
       "start_type": null,
       "start_is_flexible": null,
-      "duration": 24,
+      "duration": 10,
       "type": [
-        "Apprentissage"
+        "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Esthéticien / Esthéticienne",
+      "title": "Assistant de vie aux Familles en alternance (H/F)",
       "rome_codes": [
-        "D1208"
+        "K1311"
       ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "description": "Vous souhaitez rejoindre un secteur où l'humain est au cœur de chaque action ? En tant qu'Assistant de vie aux familles en contrat de professionnalisation , vous ne réalisez pas seulement l'entretien du domicile, vous améliorez le cadre de vie des personnes que vous accompagnez.\n\nEn binôme, votre rôle sera de garantir le bien-être, la dignité et l'autonomie des bénéficiaires (personnes âgées ou en situation de handicap) à travers :\n\n- Aide aux gestes essentiels de la vie courante, aide aux activités administratives\n- la garde d'enfants de plus de 3 ans",
       "target_diploma": null,
       "desired_skills": [],
-      "to_be_acquired_skills": [],
+      "to_be_acquired_skills": [
+        "Normes d'hygiène et de propreté",
+        "Effectuer les courses d'une personne",
+        "Apporter un soutien émotionnel aux personnes accompagnées et à leur entourage",
+        "Communiquer avec l'entourage de la personne accompagnée",
+        "Encourager l'autonomie dans les activités quotidiennes",
+        "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée",
+        "Faciliter la résolution de questions et démarches administratives",
+        "Maintenir, favoriser le lien social de la personne"
+      ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-10-01T14:15:37.514Z",
-        "expiration": "2026-11-30T14:15:37.514Z"
+        "creation": "2026-10-01T14:25:30.962Z",
+        "expiration": "2026-12-01T14:25:30.962Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14054,6 +14192,80 @@
       "publication": {
         "creation": "2026-10-01T00:00:00.000Z",
         "expiration": "2026-11-01T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac4222432e88690a891c361",
+      "partner_label": "France Travail",
+      "partner_job_id": "214QGHX"
+    },
+    "workplace": {
+      "siret": "84226144800018",
+      "brand": null,
+      "legal_name": "IRDM",
+      "website": null,
+      "name": "IRDM",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "34160 Castries",
+        "geopoint": {
+          "coordinates": [
+            3.98781,
+            43.685056
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 2596,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QGHX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance coiffure BP COIFFURE ou MENTION (H/F)",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "NOUS RECRUTONS !\nCONTRAT EN ALTERNANCE\nBP COIFFURE ou CERTIFICAT DE SPÉCIALISATION COIFFURE\nNous recherchons une personne :\nTrès motivé(e)\nPassionné(e) par la coiffure\nAvec une excellente présentation\nDynamique, sérieux(se) et ayant envie d'évoluer au sein d'une équipe professionnelle et chaleureuse.\nEnvie de rejoindre notre équipe ?\nVenez directement vous présenter au salon avec votre CV.\nNous avons hâte de vous rencontrer !\nResponsabilités\nRéaliser des prestations de coiffure mixtes, incluant coupe, coloration, brushing et soins capillaires selon les techniques apprises\nCollaborer avec l'équipe pour assurer un service client exceptionnel et favoriser la fidélisation.\nProfil recherché\nPassionné(e) par la coiffure avec une forte envie d'apprendre et de se perfectionner dans un environnement professionnel.\nExcellentes compétences en communication pour conseiller efficacement les clients et travailler en équipe.\nSens du service client, dynamisme et capacité à créer une expérience positive pour chaque visiteur.\nConnaissances de base en techniques capillaires: coupe, coloration.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Techniques de coupes de cheveux",
+        "Accueillir le client et l'installer",
+        "Procéder à la mise en forme, au coiffage, à la fixation des cheveux (bouclage, brushing, ...)",
+        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
+        "Réaliser une coupe ou une coiffure"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T17:02:44.125Z",
+        "expiration": "2026-11-30T17:02:44.125Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14542,76 +14754,6 @@
   },
   {
     "identifier": {
-      "id": "6a2c871ea914bd1428f0f5b5",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54662577"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "RESTALLIANCE",
-      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-06-09T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier F/H",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "6-10 ans",
-        "11-20 ans",
-        "20 ans d'expérience et plus"
-      ],
-      "publication": {
-        "creation": "2026-09-28T23:05:21.785Z",
-        "expiration": "2026-11-28T23:05:21.785Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6abae7e0f1ddb5796bb3b197",
       "partner_label": "France Travail",
       "partner_job_id": "214LZDC"
@@ -15005,7 +15147,7 @@
       "remote": null
     },
     "offer": {
-      "title": "Aide maternel / Aide maternelle de crèche - Halte-garderie (H/F)",
+      "title": "Apprenti/e Aide Maternel/e de Crèche (H/F)",
       "rome_codes": [
         "K1307"
       ],
@@ -15521,78 +15663,6 @@
   },
   {
     "identifier": {
-      "id": "6ab6f3aba68cd2546344bf92",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KJHZ"
-    },
-    "workplace": {
-      "siret": "82831114200016",
-      "brand": null,
-      "legal_name": "MMC GIGNAC",
-      "website": null,
-      "name": "MMC GIGNAC",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34150 Gignac",
-        "geopoint": {
-          "coordinates": [
-            3.564847,
-            43.648197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 843,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KJHZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Pâtissier / Pâtissière en apprentissage (H/F)",
-      "rome_codes": [
-        "D1104"
-      ],
-      "description": "Pour une boulangerie pâtisserie traditionnelle,  vous fabriquez de façon artisanale différentes pâtisseries, gâteaux, entremets...\n\nVous travaillez en équipe.\nVous avez deux jours de repos : lundi et dimanche. \n\nVous devez candidater par mail uniquement, ne pas téléphoner à l'entreprise.\n\nVous cherchez pour passer un CAP ou un BP pâtisserie.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Caractéristiques des farines levure, additifs",
-        "Doser des ingrédients culinaires",
-        "Effectuer le montage et la décoration des produits pâtissiers"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T09:53:27.085Z",
-        "expiration": "2026-11-25T09:53:27.085Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab6f3aaa68cd2546344bf8d",
       "partner_label": "France Travail",
       "partner_job_id": "7350225"
@@ -16078,72 +16148,6 @@
       "publication": {
         "creation": "2026-09-24T12:16:06.840Z",
         "expiration": "2026-11-24T12:16:06.840Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab4517868233dbb8f6a446d",
-      "partner_label": "Meteojob",
-      "partner_job_id": "57016169"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "ADECCO",
-      "description": "Vous cherchez un job pour quelques heures, quelques jours ou pour toujours ? <br /> <br /> <br /> Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec <strong>850 agences partout en France</strong> , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via <strong>nos applications Adecco &amp; Moi et QAPA</strong> , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. <strong>Parce qu'un job, ce n'est pas seulement un contrat</strong> . C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un <strong>accompagnement personnalisé</strong> , d' <strong>avantages exclusifs</strong> et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, <strong>CDD, CDI ou formation : à chacun sa voie, à chacun son rythme</strong> . Adecco, toujours à vos côtés !",
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134701,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57016169?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé du Recrutement (h/f)",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "<p>Envie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !</p> <p>Notre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.</p> <p>  <strong>Vos missions :</strong> </p> <p>  GESTION  : </p> <ul>  <li>Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données</li>  <li>Gérer administrativement les intérimaires et/ou collaborateurs</li>  <li>Rédiger les contrats de mission et de mise à disposition</li> </ul> <p>  RECRUTEMENT  : </p> <ul>  <li>Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs</li>  <li>Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail</li>  <li>Rédiger les annonces d'emploi</li>  <li>Effectuer du Sourcing</li> </ul> <p>  VENTE: </p> <ul>  <li>S'assurer de la satisfaction des intérimaires et/ou des clients</li>  <li>Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation</li> </ul> <br />\r\n\r\nSecteur: Recrutement et placement\r\n\r\nPoste: Chargé du recrutement (H/F)\r\n\r\nTemps Plein\r\n\r\nProfil: <p>  <em>   Avantages:  </em> </p> <ul>  <li>Tickets Restaurant</li>  <li>Prise en charge partielle (70%) du titre de transport en commun</li>  <li>Tutorat</li> </ul> <p>Vous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.</p> <p>Curieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.</p> <p>  <strong>Vous êtes en cours de formation de Bac + 2 à Bac + 5, vous recherchez une entreprise pour réaliser votre stage.</strong> </p> <p>  <strong>N'hésitez plus, rejoigniez nous en postulant à cette offre!</strong> </p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-23T17:17:13.758Z",
-        "expiration": "2026-11-23T17:17:13.758Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -16989,80 +16993,6 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b12252",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DYTG"
-    },
-    "workplace": {
-      "siret": "82045923800011",
-      "brand": "COULEURS D'ICI",
-      "legal_name": "SOCIETE T.M.",
-      "website": null,
-      "name": "SOCIETE T.M.",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34880 Lavérune",
-        "geopoint": {
-          "coordinates": [
-            3.804882,
-            43.586196
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DYTG",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI(E) - Serveur / Serveuse (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Restaurant semi-gastronomique à Lavérune, aux portes de Montpellier\nChez Couleurs d'ici, nous travaillons une cuisine française, créative élaborée à partir de produits frais et de saison.\nNotre carte évolue chaque premier mercredi du mois afin de suivre les produits du marché.\nQue ce soit pour un déjeuner entre amis, un dîner en amoureux, un repas d'affaires ou une occasion particulière, nous mettons tout en oeuvre pour faire de votre visite un moment unique.\nLaissez-vous guider par les couleurs des saisons... et venez partager un instant gourmand.\nNous recherchons un(e) apprenti(e) serveur(serveuse) pour un service d'environ 50 couverts par jour.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:40:32.814Z",
-        "expiration": "2026-11-21T16:40:32.814Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab1ad989b5a0cfb25b1224e",
       "partner_label": "France Travail",
       "partner_job_id": "214DTSW"
@@ -17601,7 +17531,7 @@
       "rome_codes": [
         "D1501"
       ],
-      "description": "<p>  <strong>Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.</strong> </p> <p>Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ans</p> <p>  <strong>Votre formation :</strong> </p> <p>  Les techniques de commercialisation et de vente de produits ou de services en boulangerie.  <br />  Les connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ? </p> <ul>  <li>   <p>Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.</p>  </li>  <li>   <p>Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.</p>  </li>  <li>   <p>Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.</p>  </li>  <li>   <p>Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.</p>  </li>  <li>   <p>Contribuer aux actions commerciales et à l'animation de la boutique.</p>  </li> </ul> <p>  .  <br />  <strong>Vous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.</strong> </p> <p>  Vous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  <br />  Vous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  <br />  Dans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain. </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong>  <br />  Afin de permettre une bonne rotation des plannings de chaque membre de l'équipe,  <strong>vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.</strong>  <br />  <em>Compte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'��tre autonome dans vos déplacements.</em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Vendeur en boulangerie / pâtisserie (H/F)\r\n\r\nAvantages: 846,49 € - 1 801,8 € par mois\r\n\r\nProfil: <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance</p> <p>  <strong>Titre visé :</strong>  Titre Professionnel de Conseiller de Vente, niveau 4 Bac </p> <p>  <strong>Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?</strong>  <br />  <strong>Vous souhaitez rejoindre notre équipe de choc ? Rencontrons-nous !</strong> </p> <p>  <br />  <strong>Et Devenez un Ange, Gardien du bon !</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ansVotre for",
+      "description": "<p>  <strong>Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.</strong> </p> <p>Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ans</p> <p>  <strong>Votre formation :</strong> </p> <p>  Les techniques de commercialisation et de vente de produits ou de services en boulangerie.  <br />  Les connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ? </p> <ul>  <li>   <p>Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.</p>  </li>  <li>   <p>Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.</p>  </li>  <li>   <p>Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.</p>  </li>  <li>   <p>Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.</p>  </li>  <li>   <p>Contribuer aux actions commerciales et à l'animation de la boutique.</p>  </li> </ul> <p>  .  <br />  <strong>Vous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.</strong> </p> <p>  Vous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  <br />  Vous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  <br />  Dans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain. </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong>  <br />  Afin de permettre une bonne rotation des plannings de chaque membre de l'équipe,  <strong>vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.</strong>  <br />  <em>Compte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.</em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Vendeur en boulangerie / pâtisserie (H/F)\r\n\r\nAvantages: 846,49 € - 1 801,8 € par mois\r\n\r\nProfil: <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance</p> <p>  <strong>Titre visé :</strong>  Titre Professionnel de Conseiller de Vente, niveau 4 Bac </p> <p>  <strong>Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?</strong>  <br />  <strong>Vous souhaitez rejoindre notre équipe de choc ? Rencontrons-nous !</strong> </p> <p>  <br />  <strong>Et Devenez un Ange, Gardien du bon !</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente.Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 ansVotre for",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -18222,71 +18152,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c0",
       "partner_label": "France Travail",
       "partner_job_id": "6943809"
@@ -18336,6 +18201,71 @@
         "G1603"
       ],
       "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20234,7 +20164,7 @@
       "rome_codes": [
         "G1703"
       ],
-      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
+      "description": "Sous la responsabilité de la Responsable Hébergement, l'apprenti(e) réceptionniste pourra développer ses compétences en effectuant plusieurs missions :\n \n \n \n- Assurer l'accueil des clients du domaine (check-in/check-out) \n- Renseigner les clients sur toutes leurs demandes en veillant à leur entière satisfaction \n- Proposer une base d'informations d'activités touristiques et culturelles pour les clients du domaine \n- Travailler en collaboration constante avec l'équipe d'étages et de maintenance afin de garantir une fluidité optimale dans toutes les prestations proposées aux clients \n- Connaître les tarifs, packages, prix négociés et bons d'échanges pratiqués par le domaine, les différents types de chambres et la géographie de l'hôtel \n- Participer à l'organisation des évènements prévus sur le domaine- BTS Tourisme / Hôtellerie Restauration, Bac Pro Tourisme, Licence \n \n- Esprit de service et esprit d'équipe, discrétion, rigueur et sens de l'organisation sont les qualités requises pour le poste \n- Vous êtes une personne fiable, rigoureuse et savez travailler en autonomie \n- Anglais courant indispensable \n- La connaissance d'un logiciel hôtel serait un plus (Protel) \n \nVos avantages\n \n- Journée d'anniversaire offerte (après 6 mois d'ancienneté)\n \n- Mutuelle d'entreprise / Prévoyance\n \n- Avantage repas\n \n- Participer à la croissance d'un domaine d'exception dans le Languedoc Roussillon.\n \n- Possibilités d'évolution au sein du groupe",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -20517,74 +20447,6 @@
         "expiration": "2026-11-03T19:12:59.935Z"
       },
       "opening_count": 2,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a98a1c8e09d67ec4f63162a",
-      "partner_label": "France Travail",
-      "partner_job_id": "6533318"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Siège Sandaya - Direction IT/Marketing/Commercial",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://recrutement.sandaya.jobs/fr/offres/assistante-chargee-de-communication-en-alternance-e3ca2b?utm_source=francetravail&utm_medium=job-board",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant(e) Chargé(e) de Communication en Alternance F/H - Siège Sandaya - Direction IT/Marketing/Commercial",
-      "rome_codes": [
-        "E1112"
-      ],
-      "description": "En pleine évolution depuis notre création en 2010 avec un seul camping, nous comptons aujourd'hui 69 campings à travers la France et l'Europe.\n \nPour accompagner notre développement et renforcer nos équipes, nous ouvrons ce nouveau poste en Alternance.\n \n \n \n Être Assistant(e) Chargé(e) de Communication en Alternance chez Sandaya\n \n \n \nLe service communication de Sandaya a pour mission d'Accroître la Notoriété de la Marque et de garantir sa cohérence sur l'ensemble des canaux.\n \nIl pilote des campagnes de communication (TV, radio, brochure, newsletters, influence...), anime les réseaux sociaux du groupe, gère les relations presse, développe les collaborations/partenariats (marques, événements, personnalités) et veille à l'e-réputation.\n \nL'équipe est également garante de l'application de la charte graphique et de la qualité des contenus produits.\n \n \n \n Une aventure pas comme les autres !\n \nRejoindre le Pôle Communication en tant qu'Assistant(e) Chargé(e) de Communication en Alternance, c'est intégrer un environnement stimulant, où les projets sont variés et au cœur de la stratégie de marque du Groupe.\n \n \n \n Pendant votre mission :\n \n- \nPartenariats &amp; Collaborations : En lien avec l'agence de communication, vous apportez un appui organisationnel et administratif à la mise en œuvre des partenariats (marques, événements locaux, personnalités) et participez au déploiement des activations.\n \n- \nJeux-concours : Vous recherchez et coordonnez les dotations auprès de nos marques et partenaires.\n \n- \nBrochure : Vous participez à la mise à jour de la brochure annuelle et à la coordination des échanges avec l'agence de création.\n \n- \nE-réputation &amp; Avis clients : Vous contribuez à la gestion de l'e-réputation de la marque et à la réponse aux avis clients sur nos différents canaux.\n \n- \nSignalétique, Goodies &amp; Support Campings : Vous coordonnez les demandes des campings et participez à la mise en place des différents supports sur le terrain.\n \n- \nCoordination Prestataires : Vous participez à la coordination des intervenants externes (agences de communication, imprimeurs, fournisseurs).\n \n- \nEnquêtes &amp; Analyses : Vous pilotez le lancement, le suivi et l'exploitation d'enquêtes qualitatives et quantitatives auprès de nos publics cibles.\n \n- \nCréation de contenus : Vous participez ponctuellement à la création et à l'adaptation de contenus digitaux selon les besoins de la marque\n \n \n \n \nLes plus :\n \n- Vous intégrez une équipe soudée \n- Un coach sportif et un coach de yoga interviennent dans nos locaux une fois par semaine chacun, pour vous aider à garder la forme et à vous détendre \n- Des locaux neufs et modernes pensés pour offrir un cadre de travail agréable \n- Des tickets restaurant (via une carte Swile) pour rendre vos pauses déjeuner encore plus plaisantes \n \n \n \nDate de début prévue : 9 novembre 2025\n \n Contrat: Alternance 12 mois\n \nLocalisation: Poste basé sur Mauguio (proche Aéroport de Montpellier)Dans votre vie de tous les jours\n \n- Vous faites preuve de proactivité et d'un véritable esprit d'initiative, en sachant proposer et anticiper les besoins \n- Vous êtes impliqué(e) dans les résultats et motivé(e) à contribuer concrètement à la performance des actions menées \n- Vous assumez vos responsabilités avec autonomie dans la gestion de vos missions et livrables \n- Vous avez un bon esprit d'analyse et savez prendre du recul pour évaluer l'impact de vos actions et ajuster si nécessaire \n- Vous êtes organisé(e), fiable et communiquez efficacement avec vos interlocuteurs internes et externes \n- Vous êtes curieux(se) et avez une appétence naturelle pour les tendances en communication et dans le secteur du tourisme \n \n Et côté compétences\n \n- Vous êtes titulaire d'une formation de niveau Bac +2 en Communication / Marketing \n- Vous rédigez des contenus clairs, engageants et adaptés aux différents supports (brochures, affiches, etc.) \n- Vous assurez le suivi de projets de communication en lien avec des prestataires (agences, imprimeurs, etc.) \n- Vous maîtrisez les bases de la communication digitale (reporting, brief créatif, etc.) \n- Vous êtes capable d'organiser, de structurer et de mettre à jour des documents partagés (planning, rétroplanning, etc.) \n- Vous connaissez les fondamentaux de la communication 360° (online / offline) \n- Vous possédez des bases en stratégie de marque et en image institutionnelle \n- Vous avez des notions en marketing d'influence et en gestion de la e-réputation \n- Vous disposez d'une bonne culture web et des réseaux sociaux \n- Vous maîtrisez l'orthographe et les règles rédactionnelles \n \n \n \nVos compétences, votre unicité : c'est tout ce qui compte pour nous. \n \nChez Sandaya, nous nous engageons pour l'égalité, l'inclusion et une vraie diversité .\n \nPostulez et intégrez une équipe qui célèbre vos forces.\n \n \n \n Bon à savoir\n \n- Une forte valeur RSE : plan de mobilité durable (prime covoiturage, prime vélo, prise en charge à 70% des transports en communs), temps d'engagement sociétal et autre...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-02T21:19:27.960Z",
-        "expiration": "2026-11-02T21:19:27.960Z"
-      },
-      "opening_count": 1,
       "status": "Active",
       "to_applicant_questions": null
     },
