@@ -1,6 +1,117 @@
 [
   {
     "identifier": {
+      "id": "6accadc6f09ad73ee4629dba",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6accadc6f09ad73ee4629dba"
+    },
+    "workplace": {
+      "siret": "90295655600010",
+      "brand": null,
+      "legal_name": "SNC MONTAGNAC SERVICES",
+      "website": null,
+      "name": "SNC MONTAGNAC SERVICES",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "128 AVENUE PIERRE AZEMA 34530 MONTAGNAC",
+        "geopoint": {
+          "coordinates": [
+            3.489331,
+            43.475709
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "47.30Z",
+          "label": "Commerce de détail de carburants en magasin spécialisé"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6accadc6f09ad73ee4629dba/employé-polyvalent-en-bureau-de-tabac",
+      "phone": null,
+      "recipient_id": "partners_6accadc6f09ad73ee4629dba"
+    },
+    "contract": {
+      "start": "2026-10-12T09:52:06.431Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 36,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent en Bureau de Tabac",
+      "rome_codes": [
+        "D1507"
+      ],
+      "description": "L'Employé de rayon libre-service est en charge de la présentation, la mise en rayon des produits et la gestion de l'espace de vente dans un magasin. Approvisionne et organise les produits en rayon selon la politique du magasin Veille à la propreté et à l'ordre de son espace de travail pour garantir un environnement agréable Contrôle les dates de péremption, la signalétique des prix et retire les produits non conformes Renseigne et oriente les clients dans le magasin pour faciliter leurs achats Participe aux inventaires et à la gestion des stocks pour optimiser la disponibilité des produits Peut effectuer des opérations de caisse et contribuer à l'accueil des clients",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tVérifier la température des réfrigérateurs, des chambres froides en réserve et en rayon",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Qualité\tContrôler l'état de conservation d'un produit périssable",
+        "Qualité\tContrôler la mise en rayon des articles",
+        "Qualité\tContrôler le balisage et l'étiquetage des produits en rayon",
+        "Qualité\tRetirer des produits non conformes",
+        "Gestion des stocks\tAgir rapidement en cas de rupture de stock",
+        "Gestion des stocks\tApprovisionner un rayon en respectant les rotations des produits",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tOrganiser le stockage des denrées, en les triant par dates de péremption par exemple",
+        "Gestion des stocks\tRéaliser l'étiquetage de produits",
+        "Gestion des stocks\tRéaliser le réassort",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Gestion des stocks\tSurveiller les dates de péremption et retirer les produits obsolètes",
+        "Gestion des stocks\tTrier, ranger des produits, des matières premières",
+        "Gestion des stocks\tVérifier le réassort d'un rayon",
+        "Gestion administrative et comptable\tGérer une caisse",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAccueillir et conseiller les clients sur les produits du rayon",
+        "Relation client\tAccueillir, orienter et renseigner un client",
+        "Relation client\tInformer, renseigner une personne sur les articles en vente",
+        "Développement commercial\tGérer les retours de produits et les échanges avec les clients",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tRéaliser la mise en rayon",
+        "Organisation\tAssurer la propreté du rayon selon les normes sanitaires",
+        "Organisation\tEffectuer des tâches multiples et s'adapter aux changements rapides",
+        "Organisation\tRespecter les normes de sécurité et d'hygiène en vigueur"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible sans qualification particulière, mais un CAP Employé de commerce multi-spécialités serait un plus. Un certificat d'aptitude à la conduite en sécurité-CACES- peut être requis."
+      ],
+      "publication": {
+        "creation": "2026-10-12T09:52:06.431Z",
+        "expiration": "2026-12-12T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": [
+        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
+        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste.",
+        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
+      ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ac778c8236a5c3a16ed982f",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6ac778c8236a5c3a16ed982f"
@@ -10484,39 +10595,175 @@
   },
   {
     "identifier": {
-      "id": "6a7cf362017bca832204c9bc",
-      "partner_label": "France Travail",
-      "partner_job_id": "212KFNF"
+      "id": "6acc7c290dd186a592901e52",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6acc7c290dd186a592901e52"
     },
     "workplace": {
-      "siret": "33315936600017",
+      "siret": "88024572500010",
       "brand": null,
-      "legal_name": "HOTELLERIE DE BALAJAN",
+      "legal_name": "LA DOUC'HEURE",
       "website": null,
-      "name": "HOTELLERIE DE BALAJAN",
+      "name": "LA DOUC'HEURE",
       "description": null,
-      "size": "6 à 9 salariés",
+      "size": "1 ou 2 salariés",
       "location": {
-        "address": "34110 Vic-la-Gardiole",
+        "address": "1ter Rue du Pont Suspendu 34600 Le Poujol-sur-Orb",
         "geopoint": {
           "coordinates": [
-            3.792281,
-            43.487673
+            3.06274,
+            43.578778
           ],
           "type": "Point"
         }
       },
       "domain": {
         "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "opco": "Opco entreprises de proximité",
         "naf": {
-          "code": "55.10Z",
-          "label": "Hôtels et hébergement similaire"
+          "code": "96.02B",
+          "label": "Soins de beauté"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KFNF",
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6acc7c294bc5282510f888bc",
+      "phone": null,
+      "recipient_id": "partners_6acc7c290dd186a592901e52"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T06:20:25.225Z",
+        "expiration": "2026-12-11T06:20:25.225Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acc7b29f09ad73ee4627884",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6acc7b29f09ad73ee4627884"
+    },
+    "workplace": {
+      "siret": "88024572500010",
+      "brand": null,
+      "legal_name": "LA DOUC'HEURE",
+      "website": null,
+      "name": "LA DOUC'HEURE",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "1ter Rue du Pont Suspendu 34600 Le Poujol-sur-Orb",
+        "geopoint": {
+          "coordinates": [
+            3.06274,
+            43.578778
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6acc7b294bc5282510f888b1",
+      "phone": null,
+      "recipient_id": "partners_6acc7b29f09ad73ee4627884"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien / Esthéticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T06:16:09.531Z",
+        "expiration": "2026-12-11T06:16:09.531Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aa32a520d35903fc2689592",
+      "partner_label": "Hellowork",
+      "partner_job_id": "28b2a9bc-ac26-4ac6-baed-03bbf659eadf"
+    },
+    "workplace": {
+      "siret": "34386265202906",
+      "brand": null,
+      "legal_name": "FRAIKIN FRANCE",
+      "website": null,
+      "name": "FRAIKIN FRANCE",
+      "description": "Roulez, nous faisons le reste !\n\nEnvie de rejoindre le numéro N°1 Européen de la location de véhicules industriels, utilitaires et commerciaux : 60800 véhicules, 160 agences en France et Europe, présent dans 9 pays, 3000 collaborateurs et un chiffre d'affaires de 906 millions d'euros.\n\nChez Fraikin, aucune journée ne se ressemble. Dans nos métiers, la diversité des missions est forte, et nous mettons un point d'honneur à ce que nos collaborateurs gardent toute leur polyvalence. Dans notre quotidien, au contact des véhicules et des clients, c'est ce qui fait la différence. Nous rejoindre, c'est participer à l'avenir de l'entreprise, mais aussi préparer le vôtre !",
+      "size": "2 000 à 4 999 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 16,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "77.12Z",
+          "label": "Location et location-bail de camions"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJ4gpO&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83251890.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D83251890",
       "phone": null,
       "recipient_id": null
     },
@@ -10524,29 +10771,31 @@
       "start": null,
       "start_type": null,
       "start_is_flexible": null,
-      "duration": 24,
+      "duration": null,
       "type": [
-        "Apprentissage"
+        "Apprentissage",
+        "Professionnalisation"
       ],
       "remote": null
     },
     "offer": {
-      "title": "Apprenti serveur en restauration (H/F)",
+      "title": "Apprenti Mecanicien Poids Lourds H/F",
       "rome_codes": [
-        "G1803"
+        "I1613"
       ],
-      "description": "Située entre les collines de La Gardiole et la plage des Aresquiers, l'Hôtellerie de Balajan est à la recherche d'un apprenti serveur (H/F).\n\nVous assurez essentiellement les services du soir mais pourrez également intervenir sur les services du petit-déjeuner, du midi ainsi que sur certains évènements (banquets, etc).\n\nVous travaillez les week-ends et avez 2 jours de repos en semaine (1 jour + 2 demies-journées)\n\nConditions d'accès aux contrats d'apprentissage :\n- Les jeunes âgés de 16 à 29 ans révolus\n- Au-delà de 29 ans révolus : les apprentis préparant un diplôme ou titre supérieur à celui obtenu, les travailleurs en situation de handicap, les personnes ayant un projet de création ou de reprise d'entreprise et les sportifs de haut niveau.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
+      "description": "Dès la rentrée de 2026, rejoignez nos ateliers afin de réaliser des travaux de maintenance sur des véhicules industriels (PL) et sur les équipements qui les composent dans le respect des procédures et règles de sécurité en tant que :\n\nMécanicien Poids Lourds Multimarques (H/F)\n\nVous évoluerez dans un environnement multimarque qui vous permettra d'acquérir un vrai savoir-faire technique.\n\nAccompagné(e) de votre tuteur reconnu pour son expertise, vos missions seront les suivantes :\n\n·       Appliquer la gamme des actions préventives (contrôles visuels, contrôles d'usure...,)\n\n·       Analyser le fonctionnement des matériels et en diagnostiquer les défauts\n\n·       Effectuer la réparation des véhicules (sur moteur, boite de vitesse, freins, embrayages, éclairage...)",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Vous préparez un CAP, Bac Pro ou BTS MVTR - Maintenance des Véhicules de Transport Routier - et recherchez un contrat d'apprentissage de 12 mois ou 24 mois.\n\nVous êtes rigoureux(se), consciencieux(se) et appliqué(e) dans votre travail. Vous avez une forte motivation, une réelle envie d'apprendre et de vous impliquer dans votre projet professionnel.\n\nPoste à pourvoir dès la rentrée d'octobre 2026."
       ],
+      "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-08-12T11:53:18.394Z",
-        "expiration": "2026-10-12T11:53:18.394Z"
+        "creation": "2026-10-10T20:09:21.000Z",
+        "expiration": "2026-12-10T20:09:21.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11855,77 +12104,6 @@
   },
   {
     "identifier": {
-      "id": "6a9b4138b7a03ff3606f9989",
-      "partner_label": "Hellowork",
-      "partner_job_id": "2c472edb-a054-4006-bbf7-fc8c3806717f"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.995434,
-            43.59327
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4grt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82025022.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82025022",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Boutique de Pâtisserie Apprentissage 34 H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Vous cherchez à vivre une expérience enrichissante dans le commerce ?\n\nNous vous proposons l'opportunité d'intégrer une boutique d'ustensiles de pâtisserie et cuisine en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ. Au sein d'une équipe passionnée ,vous serez au coeur de l'action !\n\nLieu : Mauguio (34)\n\nDébut : Dès que possible\n\nModalité : Cette offre inclut le poste en boutique ET la formation Conseiller de vente (niveau Bac) avec votre école Mon Campus.   \n  \nVos missions principales seront:  \n  \n- Garantir une expérience client de qualité.  \n- Gérer le merchandising selon les préconisations   \n- Veiller à la gestion des stocks et aux réassorts.  \n- Réceptionner les marchandises, les traiter et assurer la mise en rayon",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous êtes passionné de pâtisserie et vous aimeriez partager votre passion avec la clientèle\n\nLes métiers de la vente vous intéressent\n\nVous aimeriez valider un titre professionnel de niveau bac\n\nVous êtes dynamique, souriant, impliqué, positif ?\n\nPostulez vite !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-04T20:07:44.000Z",
-        "expiration": "2026-12-04T20:07:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9b4138b7a03ff3606f9992",
       "partner_label": "Hellowork",
       "partner_job_id": "d94a3492-cdc3-4cfa-add5-c9814b5dd9ca"
@@ -11982,6 +12160,77 @@
       },
       "desired_skills": [
         "Votre profil :\n\nVous êtes souriant(e), positif(ve), dynamique et les métiers du commerce et de la vente vous attirent,\n\nVous êtes passionné(e) par les cosmétiques, la beauté, le bien-être,\n\nVous souhaitez valider un titre professionnel de niveau Bac ou Bac +2,\n\nPostulez vite !"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-04T20:07:44.000Z",
+        "expiration": "2026-12-04T20:07:44.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a9b4138b7a03ff3606f9989",
+      "partner_label": "Hellowork",
+      "partner_job_id": "2c472edb-a054-4006-bbf7-fc8c3806717f"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "Mon Campus Alternance",
+      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !\n\nhttps://www.mon-campus.fr/",
+      "size": null,
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.995434,
+            43.59327
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJ4grt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82025022.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82025022",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Alternance Conseiller·ère de Vente en Boutique de Pâtisserie Apprentissage 34 H/F",
+      "rome_codes": [
+        "D1403"
+      ],
+      "description": "Vous cherchez à vivre une expérience enrichissante dans le commerce ?\n\nNous vous proposons l'opportunité d'intégrer une boutique d'ustensiles de pâtisserie et cuisine en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ. Au sein d'une équipe passionnée ,vous serez au coeur de l'action !\n\nLieu : Mauguio (34)\n\nDébut : Dès que possible\n\nModalité : Cette offre inclut le poste en boutique ET la formation Conseiller de vente (niveau Bac) avec votre école Mon Campus.   \n  \nVos missions principales seront:  \n  \n- Garantir une expérience client de qualité.  \n- Gérer le merchandising selon les préconisations   \n- Veiller à la gestion des stocks et aux réassorts.  \n- Réceptionner les marchandises, les traiter et assurer la mise en rayon",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Votre profil :\n\nVous êtes passionné de pâtisserie et vous aimeriez partager votre passion avec la clientèle\n\nLes métiers de la vente vous intéressent\n\nVous aimeriez valider un titre professionnel de niveau bac\n\nVous êtes dynamique, souriant, impliqué, positif ?\n\nPostulez vite !"
       ],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -14609,78 +14858,6 @@
       "publication": {
         "creation": "2026-09-24T20:11:12.000Z",
         "expiration": "2026-11-24T20:11:12.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a8e129a4b5bbabffa34b09a",
-      "partner_label": "Hellowork",
-      "partner_job_id": "a033a1ba-a421-42df-ba3e-973379ec4985"
-    },
-    "workplace": {
-      "siret": "99882350431782",
-      "brand": "ADECCO",
-      "legal_name": "ADECCO FRANCE",
-      "website": null,
-      "name": "ADECCO FRANCE",
-      "description": "Adecco est l’un des leaders en France et dans le monde sur le marché du travail temporaire. Adecco œuvre au plus près des entreprises et des candidats grâce à son réseau d’agences de proximité.",
-      "size": "2 000 à 4 999 salariés",
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "78.20Z",
-          "label": "Activités des agences de travail temporaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pKTDTi&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82629969.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D82629969",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-09-14T20:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Chargé du Recrutement H/F",
-      "rome_codes": [
-        "M1502"
-      ],
-      "description": "Votre mission\n\nEnvie de rejoindre une équipe dynamique, conviviale avec de belles valeurs, pour un stage gratifiant, avec du sens, alors n'hésitez plus, rejoignez nous !  \n\nNotre agence Adecco Lunel recherche un(e) Stagiaire chargé(e) de recrutement d'une durée minimum de 6 mois.  \n\nVos missions :  \n\nGESTION:\n\n- Constituer les dossiers d'inscription, les saisir et mettre à jour la base de données\n- Gérer administrativement les intérimaires et/ou collaborateurs\n- Rédiger les contrats de mission et de mise à disposition\n\nRECRUTEMENT:\n- Intégrer et Accueillir sur site des intérimaires et/ou collaborateurs\n- Informer les candidats et/ou intérimaires sur la mission proposée, leurs statuts, droits, obligations et règles de sécurité au travail\n- Rédiger les annonces d'emploi\n- Effectuer du Sourcing\n\nVENTE:\n- S'assurer de la satisfaction des intérimaires et/ou des clients\n- Accompagner et suivre régulièrement sur le parcours professionnel des intérimaires et/ou collaborateurs : actions de professionnalisation et de fidélisation\n\nVotre profil\n\nAvantages:\n\n- Tickets Restaurant\n- Prise en charge partielle (70%) du titre de transport en commun\n- Tutorat\n\nVous avez une forte énergie, une bonne humeur communicative et le goût du relationnel.  \nCurieux, vous apprenez vite. Vous aimez la polyvalence ? Tant mieux ce poste est anti-routine.   \nVous êtes en cours de formation de Bac +2 à Bac +5, vous recherchez une entreprise pour réaliser votre stage.  \nN'hésitez plus, rejoigniez nous en postulant à cette offre!\nA propos de nous\n\nVous cherchez un job pour quelques heures, quelques jours ou pour toujours ?  \n Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec 850 agences partout en France, nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via nos applications Adecco &amp; Moi et QAPA, vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. Parce qu'un job, ce n'est pas seulement un contrat. C'est une expérience réelle, faite de rencontres, parfois un vrai tournant. Avec Adecco, vous bénéficiez d'un accompagnement personnalisé, d'avantages exclusifs et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, CDD, CDI ou formation : à chacun sa voie, à chacun son rythme. Adecco, toujours à vos côtés !",
-      "target_diploma": {
-        "european": "6",
-        "label": "Licence, BUT, Licence Pro (Bac+3)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T20:11:06.000Z",
-        "expiration": "2026-11-24T20:11:06.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -18747,80 +18924,6 @@
   },
   {
     "identifier": {
-      "id": "6aa32a520d35903fc2689592",
-      "partner_label": "Hellowork",
-      "partner_job_id": "28b2a9bc-ac26-4ac6-baed-03bbf659eadf"
-    },
-    "workplace": {
-      "siret": "34386265202906",
-      "brand": null,
-      "legal_name": "FRAIKIN FRANCE",
-      "website": null,
-      "name": "FRAIKIN FRANCE",
-      "description": "Roulez, nous faisons le reste !\n\nEnvie de rejoindre le numéro N°1 Européen de la location de véhicules industriels, utilitaires et commerciaux : 60800 véhicules, 160 agences en France et Europe, présent dans 9 pays, 3000 collaborateurs et un chiffre d'affaires de 906 millions d'euros.\n\nChez Fraikin, aucune journée ne se ressemble. Dans nos métiers, la diversité des missions est forte, et nous mettons un point d'honneur à ce que nos collaborateurs gardent toute leur polyvalence. Dans notre quotidien, au contact des véhicules et des clients, c'est ce qui fait la différence. Nous rejoindre, c'est participer à l'avenir de l'entreprise, mais aussi préparer le vôtre !",
-      "size": "2 000 à 4 999 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 16,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "77.12Z",
-          "label": "Location et location-bail de camions"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4gpO&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83251890.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D83251890",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Mecanicien Poids Lourds H/F",
-      "rome_codes": [
-        "I1613"
-      ],
-      "description": "Dès la rentrée de 2026, rejoignez nos ateliers afin de réaliser des travaux de maintenance sur des véhicules industriels (PL) et sur les équipements qui les composent dans le respect des procédures et règles de sécurité en tant que :\n\nMécanicien Poids Lourds Multimarques (H/F)\n\nVous évoluerez dans un environnement multimarque qui vous permettra d'acquérir un vrai savoir-faire technique.\n\nAccompagné(e) de votre tuteur reconnu pour son expertise, vos missions seront les suivantes :\n\n·       Appliquer la gamme des actions préventives (contrôles visuels, contrôles d'usure...,)\n\n·       Analyser le fonctionnement des matériels et en diagnostiquer les défauts\n\n·       Effectuer la réparation des véhicules (sur moteur, boite de vitesse, freins, embrayages, éclairage...)",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous préparez un CAP, Bac Pro ou BTS MVTR - Maintenance des Véhicules de Transport Routier - et recherchez un contrat d'apprentissage de 12 mois ou 24 mois.\n\nVous êtes rigoureux(se), consciencieux(se) et appliqué(e) dans votre travail. Vous avez une forte motivation, une réelle envie d'apprendre et de vous impliquer dans votre projet professionnel.\n\nPoste à pourvoir dès la rentrée d'octobre 2026."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-10T13:27:07.000Z",
-        "expiration": "2026-11-10T13:27:07.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa1d7675f46a1ba3de19830",
       "partner_label": "Les emplois de l'inclusion",
       "partner_job_id": "180231"
@@ -19730,78 +19833,6 @@
       "publication": {
         "creation": "2026-08-17T21:18:44.304Z",
         "expiration": "2026-10-17T21:18:44.304Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a7cf362017bca832204c9bc",
-      "partner_label": "France Travail",
-      "partner_job_id": "212KFNF"
-    },
-    "workplace": {
-      "siret": "33315936600017",
-      "brand": null,
-      "legal_name": "HOTELLERIE DE BALAJAN",
-      "website": null,
-      "name": "HOTELLERIE DE BALAJAN",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34110 Vic-la-Gardiole",
-        "geopoint": {
-          "coordinates": [
-            3.792281,
-            43.487673
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "55.10Z",
-          "label": "Hôtels et hébergement similaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KFNF",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti serveur en restauration (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Située entre les collines de La Gardiole et la plage des Aresquiers, l'Hôtellerie de Balajan est à la recherche d'un apprenti serveur (H/F).\n\nVous assurez essentiellement les services du soir mais pourrez également intervenir sur les services du petit-déjeuner, du midi ainsi que sur certains évènements (banquets, etc).\n\nVous travaillez les week-ends et avez 2 jours de repos en semaine (1 jour + 2 demies-journées)\n\nConditions d'accès aux contrats d'apprentissage :\n- Les jeunes âgés de 16 à 29 ans révolus\n- Au-delà de 29 ans révolus : les apprentis préparant un diplôme ou titre supérieur à celui obtenu, les travailleurs en situation de handicap, les personnes ayant un projet de création ou de reprise d'entreprise et les sportifs de haut niveau.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-08-12T11:53:18.394Z",
-        "expiration": "2026-10-12T11:53:18.394Z"
       },
       "opening_count": 1,
       "status": "Active",
