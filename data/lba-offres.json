@@ -6828,6 +6828,222 @@
   },
   {
     "identifier": {
+      "id": "6acd5c980226c9bf0008d13d",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CXFR"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "23.63Z",
+          "label": "Fabrication de béton prêt à l'emploi"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CXFR",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CONDUCTEUR DE CENTRALE A BETON (H/F)",
+      "rome_codes": [
+        "H2804"
+      ],
+      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience.\nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\nParcours de Recrutement sous réserve de validation étape les unes après les autres :\n15 OCT / 9h00 : Réunion collective &amp; Visite site (Chaussures fermées obligatoires) 15-16 OCT : Entretiens individuels 26-30 OCT : Immersion professionnelle (5 jours) 9 NOV - 29 DÉC : POEI (Formation + Tutorat) DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP) FIN DE CONTRAT : Possibilité de CDI",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Définir les données de programmation",
+        "Contrôler un approvisionnement",
+        "Monter et régler une installation, une machine",
+        "Superviser le lancement d'une production"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T17:19:29.389Z",
+        "expiration": "2026-12-12T17:19:29.389Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acd5c980226c9bf0008d144",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CSZP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CSZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T16:02:10.564Z",
+        "expiration": "2026-12-12T16:02:10.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acd5c980226c9bf0008d145",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CDDM"
+    },
+    "workplace": {
+      "siret": "41808426500028",
+      "brand": null,
+      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "website": null,
+      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.30A",
+          "label": "Hébergement social pour personnes âgées"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CDDM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 13,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Aide-soignant (H/F)",
+      "rome_codes": [
+        "J1501"
+      ],
+      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) aide-soignant(e) motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'aide-soignant(e) dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'aide-soignant(e).\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Distribuer les repas et collations au patient ou résident selon les besoins ou la prescription médicale"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T11:12:06.455Z",
+        "expiration": "2026-12-12T11:12:06.455Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ac96843015572e53e599d69",
       "partner_label": "France Travail",
       "partner_job_id": "214ZVQS"
@@ -7935,13 +8151,13 @@
       "partner_job_id": "214KZML"
     },
     "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
+      "siret": "88997982900021",
+      "brand": "LES PETITS BOUCHONS",
+      "legal_name": "LES PETITS BOUCHONS",
       "website": null,
-      "name": null,
+      "name": "LES PETITS BOUCHONS",
       "description": null,
-      "size": null,
+      "size": "10 à 19 salariés",
       "location": {
         "address": "34380 Viols-le-Fort",
         "geopoint": {
@@ -7954,7 +8170,7 @@
       },
       "domain": {
         "idcc": null,
-        "opco": null,
+        "opco": "Opco entreprises de proximité",
         "naf": {
           "code": "88.91A",
           "label": "Accueil de jeunes enfants"
@@ -8494,82 +8710,6 @@
       "publication": {
         "creation": "2026-09-21T18:29:25.519Z",
         "expiration": "2026-11-21T18:29:25.519Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab1ad989b5a0cfb25b1225a",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DZSH"
-    },
-    "workplace": {
-      "siret": "49413215200039",
-      "brand": null,
-      "legal_name": "MAGALI MORALES",
-      "website": null,
-      "name": "MAGALI MORALES",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34280 La Grande-Motte",
-        "geopoint": {
-          "coordinates": [
-            4.074672,
-            43.56818
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.02A",
-          "label": "Coiffure"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZSH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Coiffeur / Coiffeuse",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "Nous recherchons un coiffeur / une coiffeuse en CONTRAT ALTERNANCE OU APPRENTISSAGE pour préparer un BP COIFFURE \nVous travaillerez 5 jours par semaine de 9h00 à 18h00 en continu, et sur 2 salons situés à la Grande Motte, avec 2 jours de repos à déterminer.\nVOUS ETES TITULAIRE D UN CAP COIFFURE et souhaitez évoluer vers un BP",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:58:17.534Z",
-        "expiration": "2026-11-21T16:58:17.534Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9524,76 +9664,6 @@
   },
   {
     "identifier": {
-      "id": "6aab15ec5743d160f9fa4540",
-      "partner_label": "France Travail",
-      "partner_job_id": "213YJRC"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YJRC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier(ere) en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Vous serez formé(e) au sein d'un restaurant en cuisine traditionnelle dans le cadre d'un contrat d'apprentissage.\nLa partie théorique de la formation sera dispensée à Nimes ou à Montpellier",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-16T12:11:36.335Z",
-        "expiration": "2026-11-16T12:11:36.335Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aab15eb5743d160f9fa4539",
       "partner_label": "France Travail",
       "partner_job_id": "213YJDC"
@@ -9649,15 +9719,9 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Règles d'hygiène et de sécurité alimentaire",
-        "Techniques de dressage de table",
-        "Techniques de service à l'assiette",
-        "Techniques du service en salle",
         "Réaliser la mise en place de la salle et de l'office",
         "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Prendre une commande client"
+        "Effectuer le service des plats à table"
       ],
       "access_conditions": [],
       "publication": {
@@ -10020,149 +10084,6 @@
       "publication": {
         "creation": "2026-09-15T10:30:41.605Z",
         "expiration": "2026-11-15T10:30:41.605Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b96",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PLSM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.21Z",
-          "label": "Services des traiteurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PLSM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti / Apprentie Agent polyvalent de la restauration (H/F)",
-      "rome_codes": [
-        "G1502"
-      ],
-      "description": "Empanadas Lab est un atelier de cuisine spécialisé dans la gastronomie argentine. Nous recherchons un(e) apprenti(e) \"Agent Polyvalent de la Restauration\" motivé et passionné pour rejoindre notre équipe. Vous aurez l'opportunité d'apprendre les techniques de préparation et de cuisson de spécialités argentines. Sous la supervision de notre chef, vous développerez vos compétences culinaires dans une ambiance bienveillante et familiale.\n\n**Missions :**\n\n- Préparation des ingrédients (légumes, viandes, etc.)\n- Confection d'empanadas\n- Participation à l'élaboration de nouvelles recettes\n- Maintien de la propreté et de l'hygiène dans la cuisine\n\n**Profil recherché :**\n\n- Passion pour la cuisine et désir d'apprendre\n- Sérieux, rigueur et ponctualité\n- Capacité à travailler en équipe\n- Idéalement, déjà inscrit dans une école de cuisine ou ayant trouvé son établissement de formation\n\n**Ce que nous offrons :**\n\n- Une formation pratique et complète en cuisine et en service\n- Un environnement de travail convivial et familial\n- Des horaires adaptés à votre formation",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Normes d'hygiène et de sécurité",
-        "Communiquer à l'oral en milieu professionnel",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:08:27.665Z",
-        "expiration": "2026-11-08T17:08:27.665Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b9d",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PLRD"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.21Z",
-          "label": "Services des traiteurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PLRD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti / Apprentie Cuisine (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Empanadas Lab est un atelier de cuisine spécialisé dans la gastronomie argentine. Nous recherchons un(e) apprenti(e) en cuisine motivé et passionné pour rejoindre notre équipe. Vous aurez l'opportunité d'apprendre les techniques de préparation et de cuisson de spécialités argentines. Sous la supervision de notre chef, vous développerez vos compétences culinaires dans une ambiance bienveillante et familiale.\n\n**Missions :**\n\n- Préparation des ingrédients (légumes, viandes, etc.)\n- Confection d'empanadas\n- Participation à l'élaboration de nouvelles recettes\n- Maintien de la propreté et de l'hygiène dans la cuisine\n\n**Profil recherché :**\n\n- Passion pour la cuisine et désir d'apprendre\n- Sérieux, rigueur et ponctualité\n- Capacité à travailler en équipe\n- Idéalement, déjà inscrit dans une école de cuisine ou ayant trouvé son établissement de formation\n\n**Ce que nous offrons :**\n\n- Une formation pratique et complète en cuisine\n- Un environnement de travail convivial et familial\n- Des horaires adaptés à votre formation",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:06:34.508Z",
-        "expiration": "2026-11-08T17:06:34.508Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -10595,6 +10516,290 @@
   },
   {
     "identifier": {
+      "id": "6acdec0f66f2a3ca60c938df",
+      "partner_label": "Veritone",
+      "partner_job_id": "6acdec0f66f2a3ca60c938df"
+    },
+    "workplace": {
+      "siret": "32853833500824",
+      "brand": null,
+      "legal_name": "ASSURANCE MUTUELLE DES MOTARDS",
+      "website": "",
+      "name": "ASSURANCE MUTUELLE DES MOTARDS",
+      "description": "Vous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.\r\nUne première expérience (stage/projet) en marketing est un plus.\r\nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.\r\nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,…).\r\nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.\r\nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.\r\n\r\nL'intérêt pour l'univers moto / motards est fortement apprécié.\r\n\r\nAutonomie progressive dans la réalisation des missions confiées.\r\n\r\nPoste à pourvoir pour 2 ans en alternance idéalement.\r\n\r\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\r\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
+      "size": "250 à 499 salariés",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1672,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "65.12Z",
+          "label": "Autres assurances"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci44MzI5OS4xMzY4MEBhbWRtLmFwbGl0cmFrLmNvbQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-10-20T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 0,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": "hybrid"
+    },
+    "offer": {
+      "title": "Apprenti(e) chef de projet marketing territorial H/F",
+      "rome_codes": [
+        "D1434"
+      ],
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues. \r\n\r\nVous êtes passionné(e) de 2/3 roues ? Vous souhaitez travailler dans un environnement dynamique et challengeant ? Vous êtes motivé(e) et prêt(e) à relever les défis avec nous ? Vous souhaitez donner plus de sens à votre carrière en travaillant pour une entreprise de l'Economie Sociale et Solidaire ? Nos équipes vous attendent !\n\nSpécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.\r\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\r\n\r\nApprenti(e) Chef de projet Marketing Territorial F/H\r\n\r\nDans ce cadre-là, vos missions principales seront :\r\n\r\nEtre un soutien à la déclinaison d'animations territoriales\r\n- Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.\r\n- Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations\r\n-Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial\r\n\r\nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise\r\n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.\r\n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.\r\n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.\r\n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.\r\n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T08:30:06.000Z",
+        "expiration": "2026-11-10T08:30:06.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acd5c980226c9bf0008d13d",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CXFR"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "23.63Z",
+          "label": "Fabrication de béton prêt à l'emploi"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CXFR",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CONDUCTEUR DE CENTRALE A BETON (H/F)",
+      "rome_codes": [
+        "H2804"
+      ],
+      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience.\nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\nParcours de Recrutement sous réserve de validation étape les unes après les autres :\n15 OCT / 9h00 : Réunion collective &amp; Visite site (Chaussures fermées obligatoires) 15-16 OCT : Entretiens individuels 26-30 OCT : Immersion professionnelle (5 jours) 9 NOV - 29 DÉC : POEI (Formation + Tutorat) DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP) FIN DE CONTRAT : Possibilité de CDI",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Définir les données de programmation",
+        "Contrôler un approvisionnement",
+        "Monter et régler une installation, une machine",
+        "Superviser le lancement d'une production"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T17:19:29.389Z",
+        "expiration": "2026-12-12T17:19:29.389Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acd5c980226c9bf0008d144",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CSZP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CSZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T16:02:10.564Z",
+        "expiration": "2026-12-12T16:02:10.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acd5c980226c9bf0008d145",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CDDM"
+    },
+    "workplace": {
+      "siret": "41808426500028",
+      "brand": null,
+      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "website": null,
+      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.30A",
+          "label": "Hébergement social pour personnes âgées"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CDDM",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 13,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Aide-soignant (H/F)",
+      "rome_codes": [
+        "J1501"
+      ],
+      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) aide-soignant(e) motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'aide-soignant(e) dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'aide-soignant(e).\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Distribuer les repas et collations au patient ou résident selon les besoins ou la prescription médicale"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T11:12:06.455Z",
+        "expiration": "2026-12-12T11:12:06.455Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acc7c290dd186a592901e52",
       "partner_label": "OPCO EP",
       "partner_job_id": "6acc7c290dd186a592901e52"
@@ -10722,6 +10927,75 @@
       "publication": {
         "creation": "2026-10-12T06:16:09.531Z",
         "expiration": "2026-12-11T06:16:09.531Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a3475957f27726a0497c37c",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54818857"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "BOULANGERIE ANGE",
+      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
+      "size": null,
+      "location": {
+        "address": "34170 Castelnau-le-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.91013,
+            43.637422
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP Boulanger en apprentissage H/F",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-11T22:05:32.533Z",
+        "expiration": "2026-12-11T22:05:32.533Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11751,75 +12025,6 @@
   },
   {
     "identifier": {
-      "id": "6a3475957f27726a0497c37c",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54818857"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54818857?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CAP Boulanger en apprentissage H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "<p>  <strong>Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.</strong> </p> <p>Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ans</p> <p>Vous serez formé(e) à la préparation des produits proposés en boulangerie :</p> <p>Sandwichs, viennoiseries, pizza, tartes, etc. et bien sûr le bon pain.</p> <p>Le métier de boulanger a beaucoup évolué et intègre désormais, outre la préparation, la fermentation, la cuisson et la commercialisation du pain et d'autres aspects techniques.</p> <p>Au quotidien, le boulanger doit garantir l'approvisionnement, stocker et contrôler les matières premières.</p> <p>Il doit notamment maitriser les techniques de pétrissage de la pâte, la pesée, connaître les techniques de façonnage, de cuisson</p> <p>  <strong>Plus qu'un métier, une vocation !</strong> </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong> </p> <p>  Vous travaillez selon un planning tournant défini à l'avance, incluant des prises de poste en  <strong>ouverture, journée ou fermeture</strong>  .  <br />  L'amplitude horaire permet une organisation en continu, sans coupure.  <br />  <em>   Il est important d'être autonome dans vos déplacements compte tenu des horaires et de l'accès à notre boulangerie.  </em> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Boulanger (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Le CAP Boulanger est accessible aux élèves à partir du niveau troisième.</p> <p>Le diplôme peut également être obtenu en un an si le candidat est déjà titulaire d'un premier CAP ou bien d'un baccalauréat.</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance en contrat d'apprentissage</p> <p>  <em>       Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?    <br />    Vous voulez rejoindre notre équipe de choc ? Rencontrons-nous !     </em> </p> <p>  <strong>Et devenez un Ange, Gardien du bon ?</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer notre équipe de choc de la boulangerie Ange pour préparer votre CAP Boulangerie.Vous suivrez un CAP en alternance au sein d'une de notre boulangerie au choix sur 1 ou 2 ansVous serez f",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-05T23:05:15.000Z",
-        "expiration": "2026-12-05T23:05:15.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a73b5051e39cbba1ed3b65a",
       "partner_label": "Hellowork",
       "partner_job_id": "4506dbca-1a48-4f1e-85a6-124c3a8f889b"
@@ -12095,290 +12300,6 @@
       "publication": {
         "creation": "2026-10-04T22:05:44.000Z",
         "expiration": "2026-12-04T22:05:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9b4138b7a03ff3606f9992",
-      "partner_label": "Hellowork",
-      "partner_job_id": "d94a3492-cdc3-4cfa-add5-c9814b5dd9ca"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !  \nRetrouvez nous sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4gDp&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82026187.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82026187",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Cosmétiques H/F",
-      "rome_codes": [
-        "D1214"
-      ],
-      "description": "Dans le cadre de votre formation au métier de Conseiller de vente en alternance (Titre professionnel niveau Bac) avec l'école Mon Campus, nous vous proposons d'intégrer une une boutique à l'enseigne reconnue en France de cosmétiques en contrat d'apprentissage à Montpellier pour une durée de 12 mois environ.\n\nVoici vos missions !   \n  \n- Accueil et conseil à la clientèle,  \n- Merchandising selon les préconisations et les indications de vos responsables,  \n- Veille à la gestion du stock et réception des colis,  \n- gestion des commandes web,  \n- ventes additionnelles et fidélisation",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous êtes souriant(e), positif(ve), dynamique et les métiers du commerce et de la vente vous attirent,\n\nVous êtes passionné(e) par les cosmétiques, la beauté, le bien-être,\n\nVous souhaitez valider un titre professionnel de niveau Bac ou Bac +2,\n\nPostulez vite !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-04T20:07:44.000Z",
-        "expiration": "2026-12-04T20:07:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9b4138b7a03ff3606f9989",
-      "partner_label": "Hellowork",
-      "partner_job_id": "2c472edb-a054-4006-bbf7-fc8c3806717f"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.995434,
-            43.59327
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4grt&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82025022.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82025022",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Boutique de Pâtisserie Apprentissage 34 H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Vous cherchez à vivre une expérience enrichissante dans le commerce ?\n\nNous vous proposons l'opportunité d'intégrer une boutique d'ustensiles de pâtisserie et cuisine en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ. Au sein d'une équipe passionnée ,vous serez au coeur de l'action !\n\nLieu : Mauguio (34)\n\nDébut : Dès que possible\n\nModalité : Cette offre inclut le poste en boutique ET la formation Conseiller de vente (niveau Bac) avec votre école Mon Campus.   \n  \nVos missions principales seront:  \n  \n- Garantir une expérience client de qualité.  \n- Gérer le merchandising selon les préconisations   \n- Veiller à la gestion des stocks et aux réassorts.  \n- Réceptionner les marchandises, les traiter et assurer la mise en rayon",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous êtes passionné de pâtisserie et vous aimeriez partager votre passion avec la clientèle\n\nLes métiers de la vente vous intéressent\n\nVous aimeriez valider un titre professionnel de niveau bac\n\nVous êtes dynamique, souriant, impliqué, positif ?\n\nPostulez vite !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-04T20:07:44.000Z",
-        "expiration": "2026-12-04T20:07:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9b4138b7a03ff3606f9994",
-      "partner_label": "Hellowork",
-      "partner_job_id": "79a14b6b-bcf6-4abe-81a5-7108d7ff7184"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !  \nToutes nos infos sont sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ64Mg&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82026223.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82026223",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Boutique de Prêt à Porter H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Vous cherchez votre alternance dans le commerce à Montpellier centre ? Nous vous proposons d'intégrer une boutique partenaire en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ :\n\nEn cours 1 journée par semaine (en distanciel) avec votre Ecole Mon Campus, vous travaillerez 4 jours en entreprise et contribuerez à l'animation de la boutique.\n\nVos missions seront :  \n  \n- Accueillir et accompagner le client / la cliente dans ses choix   \n- Gérer le réassort des tailles sur le plateau de vente  \n- participer à la gestion des stocks et au traitement des livraisons  \n- Gérer les encaissements et les échanges",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous appréciez le contact client, le travail en équipe et l'esprit \"boutique\"\n\nVous êtes dynamique, méthodique et rigoureux\n\nVous aimez la mode\n\nVous souhaitez valider un titre professionnel niveau Bac ou Bac +2 dans le commerce ?\n\nNous attendons votre CV !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-04T20:07:31.000Z",
-        "expiration": "2026-12-04T20:07:31.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a9b4138b7a03ff3606f9985",
-      "partner_label": "Hellowork",
-      "partner_job_id": "253d9ea6-4ad7-4877-a757-308da99289ec"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année pour vous former à des métiers qui recrutent en commerce, comptabilité, digital  \nRetrouve-nous sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4goy&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82024333.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82024333",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller de Vente Polyvalent en Streetfood H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Nous recherchons pour notre entreprise partenaire, une enseigne de street food du coeur de ville, un / une alternant(e) pour compléter l'équipe du restaurant de Montpellier.   \n  \nDans le cadre de la formation MEM - Manager d'Etablissement Marchand avec Mon Campus, rejoins un acteur du commerce sympathique et proche de ses clients !  \n  \nTes principales missions seront :  \n  \n- l'accueil et le conseil avisé à la clientèle  \n  \n- le maintien des stocks et la veille à une bonne rotation des produits  \n  \n- la prise de commande et quelques manipulations de préparation  \n  \n- la veille au maintien d'un espace accueillant  \n  \n- la participation à l'animation de l'équipe !",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "- Tu aimes le contact client et les missions rythmées\n\n- Tu es polyvalent, sérieux, dynamiqué\n\n- Tu souhaites valider un titre niveau Bac +2 en commerce\n\nNous attendons ton CV !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-04T20:06:13.000Z",
-        "expiration": "2026-12-04T20:06:13.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -13229,77 +13150,6 @@
       "publication": {
         "creation": "2026-09-30T09:39:26.139Z",
         "expiration": "2026-11-29T09:39:26.139Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a6bcc54ab2acc1970752e27",
-      "partner_label": "Hellowork",
-      "partner_job_id": "a8efd960-6524-4a4a-a0b9-445a974539e1"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Formez-vous aux métiers de la vente et du commerce en alternance avec votre école en ligne Mon Campus et décrochez votre Titre Professionnel ! Retrouvez-nous sur www.mon-campus.fr",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ8B9I&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81888809.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bcommerce%26utm_content%3Dfluxbonnealternance%26utm_term%3D81888809",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Négociateur·trice Technico Commercial - Apprentissage H/F",
-      "rome_codes": [
-        "D1407"
-      ],
-      "description": "Dans le cadre de la formation au Titre Professionnel NTC Négociateur Technico Commercial en alternance (contrat d'apprentissage) avec votre école Mon Campus, vous occuperez un poste d'apprenti dans un CRC (centre de relation-clients).\n\nLe rythme d'alternance hebdomadaire est : 1 jour de cours en ligne - 4 jours entreprise.\n\nVos missions :\n\n- Participation aux campagnes d'appels sortants pour l'implantation et la présentation au public d'un nouveau produit (prospection à froid)\n\n- réception des appels entrants, redirection vers les services concernés\n\n- Prospection à chaud vers les professionnels\n\n- vente de contrats et de prestations additionnelles",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous êtes :\n\nCommercial dans l'âme, vous appréciez le contact téléphonique. Vous êtes déterminé, souriant et dynamique.\n\nVous savez gérer les situations de stress et vous ne vous découragez jamais !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-29T20:06:13.000Z",
-        "expiration": "2026-11-29T20:06:13.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14171,77 +14021,6 @@
   },
   {
     "identifier": {
-      "id": "6a8f6432e075d4e1ad808fdd",
-      "partner_label": "Hellowork",
-      "partner_job_id": "f624bc21-ca84-4a45-a609-9b89a8804d44"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pKTDOD&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82702288.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D82702288",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Vendeur en Boulangerie en Apprentissage H/F",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "En boutique, vous faites le lien entre les produits et les clients.  \n  \nDans le cadre de la formation Conseiller de vente avec Mon Campus, vous travaillez en alternance, en contrat d'apprentissage, sur les rayons boulangerie, pâtisserie et sandwicherie.  \n  \nVos missions s'articulent autour de ces points :  \n  \n- Conseiller les clients et orienter leurs choix.  \n- Mettre en place les vitrines et valoriser les produits.  \n- Assurer le réassort et la tenue du rayon.  \n- Participer à la mise en valeur de l'espace de vente.  \n- Appliquer les règles d'hygiène et de service.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous avancez bien sur ce poste si le contact client vous vient naturellement.  \n  \nVous avez surtout :  \n  \n- Une vraie envie d'apprendre le commerce.  \n- Un bon sens du service et de l'accueil.  \n- De la rigueur pour le réassort et la présentation.  \n- Une attitude sérieuse et à l'aise avec le rythme d'une boutique."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T20:11:25.000Z",
-        "expiration": "2026-11-25T20:11:25.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a90b5aae075d4e1ad8176e2",
       "partner_label": "Hellowork",
       "partner_job_id": "07afeada-ef2b-4469-9403-21d97ddc87f3"
@@ -14316,13 +14095,13 @@
       "partner_job_id": "214KZML"
     },
     "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
+      "siret": "88997982900021",
+      "brand": "LES PETITS BOUCHONS",
+      "legal_name": "LES PETITS BOUCHONS",
       "website": null,
-      "name": null,
+      "name": "LES PETITS BOUCHONS",
       "description": null,
-      "size": null,
+      "size": "10 à 19 salariés",
       "location": {
         "address": "34380 Viols-le-Fort",
         "geopoint": {
@@ -14335,7 +14114,7 @@
       },
       "domain": {
         "idcc": null,
-        "opco": null,
+        "opco": "Opco entreprises de proximité",
         "naf": {
           "code": "88.91A",
           "label": "Accueil de jeunes enfants"
@@ -16023,82 +15802,6 @@
   },
   {
     "identifier": {
-      "id": "6ab1ad989b5a0cfb25b1225a",
-      "partner_label": "France Travail",
-      "partner_job_id": "214DZSH"
-    },
-    "workplace": {
-      "siret": "49413215200039",
-      "brand": null,
-      "legal_name": "MAGALI MORALES",
-      "website": null,
-      "name": "MAGALI MORALES",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34280 La Grande-Motte",
-        "geopoint": {
-          "coordinates": [
-            4.074672,
-            43.56818
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.02A",
-          "label": "Coiffure"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DZSH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Coiffeur / Coiffeuse",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "Nous recherchons un coiffeur / une coiffeuse en CONTRAT ALTERNANCE OU APPRENTISSAGE pour préparer un BP COIFFURE \nVous travaillerez 5 jours par semaine de 9h00 à 18h00 en continu, et sur 2 salons situés à la Grande Motte, avec 2 jours de repos à déterminer.\nVOUS ETES TITULAIRE D UN CAP COIFFURE et souhaitez évoluer vers un BP",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-21T16:58:17.534Z",
-        "expiration": "2026-11-21T16:58:17.534Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab1ad989b5a0cfb25b1224e",
       "partner_label": "France Travail",
       "partner_job_id": "214DTSW"
@@ -17699,76 +17402,6 @@
   },
   {
     "identifier": {
-      "id": "6aab15ec5743d160f9fa4540",
-      "partner_label": "France Travail",
-      "partner_job_id": "213YJRC"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YJRC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier(ere) en contrat d'apprentissage (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Vous serez formé(e) au sein d'un restaurant en cuisine traditionnelle dans le cadre d'un contrat d'apprentissage.\nLa partie théorique de la formation sera dispensée à Nimes ou à Montpellier",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-16T12:11:36.335Z",
-        "expiration": "2026-11-16T12:11:36.335Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aab15eb5743d160f9fa4539",
       "partner_label": "France Travail",
       "partner_job_id": "213YJDC"
@@ -17824,15 +17457,9 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Règles d'hygiène et de sécurité alimentaire",
-        "Techniques de dressage de table",
-        "Techniques de service à l'assiette",
-        "Techniques du service en salle",
         "Réaliser la mise en place de la salle et de l'office",
         "Accueillir le client et l'installer",
-        "Effectuer le service des plats à table",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Prendre une commande client"
+        "Effectuer le service des plats à table"
       ],
       "access_conditions": [],
       "publication": {
@@ -18279,148 +17906,6 @@
   },
   {
     "identifier": {
-      "id": "6a5957f36a281b681b498363",
-      "partner_label": "Hellowork",
-      "partner_job_id": "bac2b045-b0ec-4735-b02a-98428f4777d2"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIA3&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81337810.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D81337810",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Vendeur·se en Épicerie en Apprentissage H/F",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Rejoignez une structure partenaire de Mon Campus en tant que Vendeur-conseil en apprentissage pour une durée de 12 mois environ.\n\n2 postes sont à pourvoir à Montpellier, dans le cadre de la formation au Titre de Conseiller de vente avec Mon Campus.\n\nRythme : 1 jour de cours par semaine / 4 jours en entreprise\n\nModalité des cours : en distanciel\n\nDébut : dès que possible en entreprise, possibilité de démarrer les cours en décalé (juillet ou octobre 2026)  \n  \nEn poste, vos missions principales seront:  \n  \n- Gérer le merchandising   \n- Maitriser la gestion des stocks et les réassorts.  \n- mettre en oeuvre des opérations commerciales attractives.  \n- Assurer la gestion de la caisse et les retours produit.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nsérieux et attentif\n\nVous aimez la relation-client\n\nVous appréciez le travail en équipe\n\nVous souhaitez valider une certification niveau bac\n\nN'hésitez pas à postuler !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-15T20:08:05.000Z",
-        "expiration": "2026-11-15T20:08:05.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5957f36a281b681b49836e",
-      "partner_label": "Hellowork",
-      "partner_job_id": "666c50f6-54c8-44ba-83f6-7d6a8e53df33"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !  \nRetrouvez toutes nos informations sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIlj&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81338236.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D81338236",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Boutique de Décoration H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Vous cherchez votre alternance dans le commerce à Montpellier centre ? Nous vous proposons d'intégrer une boutique partenaire en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ :\n\nEn cours 1 journée par semaine avec votre Ecole Mon Campus, vous travaillerez 4 jours en entreprise et contribuerez à l'animation de la boutique.\n\nVos missions seront :  \n  \n- Accueillir et accompagner le client dans ses choix   \n- Gérer le réassort sur le plateau de vente  \n- participer à la gestion des stocks et au traitement des livraisons  \n- Gérer les encaissements et les échanges",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous appréciez le contact client, le travail en équipe et l'esprit \"boutique\"\n\nVous êtes dynamique, méthodique et rigoureux\n\nVous aimez la décoration d'intérieur\n\nVous souhaitez valider un titre professionnel niveau Bac ou Bac +2 dans le commerce\n\nPostulez vite !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-15T20:05:52.000Z",
-        "expiration": "2026-11-15T20:05:52.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aab12f99dceff7dd4ba0039",
       "partner_label": "Hellowork",
       "partner_job_id": "dc6be3c0-0dea-4910-a1f7-38a7f1facd25"
@@ -18568,219 +18053,6 @@
   },
   {
     "identifier": {
-      "id": "6a5957f36a281b681b49836d",
-      "partner_label": "Hellowork",
-      "partner_job_id": "6c8d87fa-9e84-4d10-82dc-a7cd3ca60b2c"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année en commerce, comptabilité, RH, paie, digital et secrétariat !  \nToutes nos infos sont sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIo7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81338209.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D81338209",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller·ère de Vente en Boutique de Prêt à Porter H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Vous cherchez votre alternance dans le commerce à Montpellier centre ? Nous vous proposons d'intégrer une boutique partenaire en tant que Conseiller/ère de vente en alternance pour une durée de 12 mois environ :\n\nEn cours 1 journée par semaine (en distanciel) avec votre Ecole Mon Campus, vous travaillerez 4 jours en entreprise et contribuerez à l'animation de la boutique.\n\nVos missions seront :  \n  \n- Accueillir et accompagner le client / la cliente dans ses choix   \n- Gérer le réassort des tailles sur le plateau de vente  \n- participer à la gestion des stocks et au traitement des livraisons  \n- Gérer les encaissements et les échanges",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Votre profil :\n\nVous appréciez le contact client, le travail en équipe et l'esprit \"boutique\"\n\nVous êtes dynamique, méthodique et rigoureux\n\nVous aimez la mode\n\nVous souhaitez valider un titre professionnel niveau Bac ou Bac +2 dans le commerce ?\n\nNous attendons votre CV !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T20:13:49.000Z",
-        "expiration": "2026-11-14T20:13:49.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5957f36a281b681b49836c",
-      "partner_label": "Hellowork",
-      "partner_job_id": "34712c81-a064-420b-9a4e-ae5b0211bd2e"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Mon Campus, c'est l'école nouvelle génération 100% en ligne, accessible partout en France, avec des rentrées toute l'année pour vous former à des métiers qui recrutent en commerce, comptabilité, digital  \nRetrouve-nous sur\n\nhttps://www.mon-campus.fr/",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4guY&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81338135.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D81338135",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Alternance Conseiller de Vente Polyvalent en Streetfood H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Nous recherchons pour notre entreprise partenaire, une enseigne de street food du coeur de ville, un / une alternant(e) pour compléter l'équipe du restaurant de Montpellier.   \n  \nDans le cadre de la formation MEM - Manager d'Etablissement Marchand avec Mon Campus, rejoins un acteur du commerce sympathique et proche de ses clients !  \n  \nTes principales missions seront :  \n  \n- l'accueil et le conseil avisé à la clientèle  \n  \n- le maintien des stocks et la veille à une bonne rotation des produits  \n  \n- la prise de commande et quelques manipulations de préparation  \n  \n- la veille au maintien d'un espace accueillant  \n  \n- la participation à l'animation de l'équipe !",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "- Tu aimes le contact client et les missions rythmées\n\n- Tu es polyvalent, sérieux, dynamiqué\n\n- Tu souhaites valider un titre niveau Bac +2 en commerce\n\nNous attendons ton CV !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T20:12:40.000Z",
-        "expiration": "2026-11-14T20:12:40.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a5957f36a281b681b49835f",
-      "partner_label": "Hellowork",
-      "partner_job_id": "c766130e-4ccd-4bfd-9408-f0169a2ac794"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Mon Campus Alternance",
-      "description": "Avec l'école Mon Campus, obtiens ta certification en commerce et fais de ta passion ton métier !   \nRetrouve-nous sur www.mon-campus.fr",
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIHl&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81337589.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bvente%252Csav%26utm_content%3Dfluxbonnealternance%26utm_term%3D81337589",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Conseiller de Vente en Apprentissage H/F",
-      "rome_codes": [
-        "D1403"
-      ],
-      "description": "Tu veux briller dans l'univers de la mode et transformer ta passion en carrière ?  \nEnfile tes plus belles baskets : on a l'alternance de tes rêves à Montpellier.   \n  \nDans le cadre d'un partenariat avec une boutique ultra stylée, on recrute un(e) vendeur(se) en alternance pour préparer un Titre Pro Conseiller de vente en contrat d'apprentissage pour 12 mois.   \nDu concret, du style et un vrai tremplin pour ta carrière !  \n  \nLes missions du poste :  \n  \n- Accueillir chaque client comme une VIP, avec le sourire   \n- Mettre en valeur les vêtements, chaussures et accessoires comme un(e) pro du merchandising  \n- Faire vibrer la boutique avec des animations, des promos et les vibes qu'il faut  \n- Encaisser avec classe et fidéliser les clients avec un sens du contact au top  \n- Garder un espace de vente clean, canon et inspirant, parce que l'image, c'est tout !",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Ton profil :\n\n- Tu veux décrocher une certification niveau Bac en commerce, vente ou équivalent et tu sais ce que tu veux  \n- Tu cherches une alternance en contrat d'apprentissage de 12 mois pour apprendre, progresser et briller  \n- Tu es organisé(e), réactif(ve) et tu sais gérer plusieurs trucs en même temps (même quand ça bouge !)  \n- Tu as déjà bossé en vente ou t'as juste la fibre mode ? Parfait, c'est ton petit plus  \n  \nTu veux une alternance qui te ressemble ?  \n  \nEnvoie ta candidature maintenant et viens faire la différence en boutique !  \n  \nDémarrage : dès que possible  \nLieu : Montpellier"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-14T20:11:54.000Z",
-        "expiration": "2026-11-14T20:11:54.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a346e317f27726a04970758",
       "partner_label": "Hellowork",
       "partner_job_id": "bdbc73f9-99d1-400b-acc1-dc2c930b58e4"
@@ -18844,77 +18116,6 @@
       "publication": {
         "creation": "2026-09-11T20:09:01.000Z",
         "expiration": "2026-11-11T20:09:01.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa71effe3e77bdfae2b04f8",
-      "partner_label": "ATS_Hellowork",
-      "partner_job_id": "4023450/30218184VAEA/33B"
-    },
-    "workplace": {
-      "siret": "34326067500040",
-      "brand": null,
-      "legal_name": "TRESSOL CHABRIER",
-      "website": null,
-      "name": "TRESSOL CHABRIER",
-      "description": "Acteur majeur de l'automobile dans le sud de la France, nous sommes un groupe de distribution très dynamique présent dans 26 villes en Occitanie, PACA et Nouvelle Aquitaine.\r\nLe groupe Tressol Chabrier c'est 72 points de vente et 34 marques Auto/Moto.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.11Z",
-          "label": "Commerce de voitures et de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa71effe3e77bdfae2b04f8/vendeur-automobile-en-alternance-h-f",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur Automobile en Alternance (H/F)",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Vous souhaitez vous orienter vers la fonction commerciale ? Le domaine automobile vous attire ? Vous recherchez un métier et une entreprise dynamique dans lesquels vous investir ?\r\n \r\nNous recherchons, pour notre concession Cupra/Seat/Skoda située à Lattes, notre futur(e) Vendeur(se) Automobile (H/F) en contrat d'alternance.\r\n \r\nAu sein de nos équipes et sous la responsabilité de votre tuteur, vous aurez pour missions d'intervenir en collaboration puis en autonomie sur :\r\n \r\n\r\n- La prospection de nouveaux clients\r\n- L'accueil physique en concession de clients\r\n- La présentation et le conseil sur nos véhicules\r\n- La commercialisation des produits périphériques (garanties, financement, entretien)\r\n- L'estimation physique d'un véhicule d'occasion pour reprise\r\n- Les activités de reporting\r\n\r\n Liste non exhaustive\r\n\r\n Nous vous proposons d'intégrer un groupe solide en alliant la théorie enseignée par votre formation et la pratique de nos méthodes acquise sur la concession.",
-      "target_diploma": null,
-      "desired_skills": [
-        "De tempérament dynamique, motivé(e) par le challenge de l'atteinte d'objectifs commerciaux et passionné(e) d'automobile, vous souhaitez vous inscrire dans cette aventure avec nous ? N'hésitez plus et rejoignez-nos équipes !\r\n\r\nPermis B obligatoire"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-11T06:46:06.000Z",
-        "expiration": "2026-11-11T06:46:06.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -19055,149 +18256,6 @@
       "publication": {
         "creation": "2026-09-09T09:15:49.187Z",
         "expiration": "2026-11-09T09:15:49.187Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b96",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PLSM"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.21Z",
-          "label": "Services des traiteurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PLSM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti / Apprentie Agent polyvalent de la restauration (H/F)",
-      "rome_codes": [
-        "G1502"
-      ],
-      "description": "Empanadas Lab est un atelier de cuisine spécialisé dans la gastronomie argentine. Nous recherchons un(e) apprenti(e) \"Agent Polyvalent de la Restauration\" motivé et passionné pour rejoindre notre équipe. Vous aurez l'opportunité d'apprendre les techniques de préparation et de cuisson de spécialités argentines. Sous la supervision de notre chef, vous développerez vos compétences culinaires dans une ambiance bienveillante et familiale.\n\n**Missions :**\n\n- Préparation des ingrédients (légumes, viandes, etc.)\n- Confection d'empanadas\n- Participation à l'élaboration de nouvelles recettes\n- Maintien de la propreté et de l'hygiène dans la cuisine\n\n**Profil recherché :**\n\n- Passion pour la cuisine et désir d'apprendre\n- Sérieux, rigueur et ponctualité\n- Capacité à travailler en équipe\n- Idéalement, déjà inscrit dans une école de cuisine ou ayant trouvé son établissement de formation\n\n**Ce que nous offrons :**\n\n- Une formation pratique et complète en cuisine et en service\n- Un environnement de travail convivial et familial\n- Des horaires adaptés à votre formation",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Normes d'hygiène et de sécurité",
-        "Communiquer à l'oral en milieu professionnel",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:08:27.665Z",
-        "expiration": "2026-11-08T17:08:27.665Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa08a4795355def70aa5b9d",
-      "partner_label": "France Travail",
-      "partner_job_id": "213PLRD"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.21Z",
-          "label": "Services des traiteurs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PLRD",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti / Apprentie Cuisine (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Empanadas Lab est un atelier de cuisine spécialisé dans la gastronomie argentine. Nous recherchons un(e) apprenti(e) en cuisine motivé et passionné pour rejoindre notre équipe. Vous aurez l'opportunité d'apprendre les techniques de préparation et de cuisson de spécialités argentines. Sous la supervision de notre chef, vous développerez vos compétences culinaires dans une ambiance bienveillante et familiale.\n\n**Missions :**\n\n- Préparation des ingrédients (légumes, viandes, etc.)\n- Confection d'empanadas\n- Participation à l'élaboration de nouvelles recettes\n- Maintien de la propreté et de l'hygiène dans la cuisine\n\n**Profil recherché :**\n\n- Passion pour la cuisine et désir d'apprendre\n- Sérieux, rigueur et ponctualité\n- Capacité à travailler en équipe\n- Idéalement, déjà inscrit dans une école de cuisine ou ayant trouvé son établissement de formation\n\n**Ce que nous offrons :**\n\n- Une formation pratique et complète en cuisine\n- Un environnement de travail convivial et familial\n- Des horaires adaptés à votre formation",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-08T17:06:34.508Z",
-        "expiration": "2026-11-08T17:06:34.508Z"
       },
       "opening_count": 1,
       "status": "Active",
