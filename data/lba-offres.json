@@ -2931,116 +2931,6 @@
   },
   {
     "identifier": {
-      "id": "6aa523ab7d0e8c4fde44be29",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6aa523ab7d0e8c4fde44be29"
-    },
-    "workplace": {
-      "siret": "93277162900015",
-      "brand": null,
-      "legal_name": "L'ATIENDA",
-      "website": null,
-      "name": "L'ATIENDA",
-      "description": "L'Atienda recherche son/sa futur(e) apprenti(e) !\n\nPetit restaurant colombien indépendant situé dans l'Écusson de Montpellier, nous recherchons une personne motivée pour se former à la restauration et découvrir notre cuisine colombienne.\n\nAu programme : cuisine, préparation, service, accueil client, boissons, commandes à emporter et fonctionnement quotidien d'un petit restaurant.\n\nNous recherchons surtout quelqu'un de sérieux, dynamique, curieux et qui aime travailler en équipe. \n\nDébutant accepté selon profil. Dans l'idéal, une personne bilingue français/espagnol.\n\nFormation en alternance à Montpellier.",
-      "size": "Non diffusé",
-      "location": {
-        "address": "37 RUE ALEXANDRE CABANEL 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.875091,
-            43.607613
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6aa523ab7d0e8c4fde44be29/employé-polyvalent-employée-polyvalente-de-restauration",
-      "phone": null,
-      "recipient_id": "partners_6aa523ab7d0e8c4fde44be29"
-    },
-    "contract": {
-      "start": "2026-09-12T10:04:27.843Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restauration",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
-        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
-        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
-        "Production, Fabrication\tPréparer, assembler des plats simples",
-        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
-        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
-        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
-        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Maintenance, Réparation\tRéaliser la plonge",
-        "Prévention des risques\tGérer les situations de stress en heure de pointe",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Transport\tLivrer une commande",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAssurer un service client rapide et courtois",
-        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
-        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
-        "Relation client\tRéaliser un service en salle",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tAppliquer les promotions et les offres spéciales",
-        "Développement commercial\tAssurer une présentation attrayante des produits",
-        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
-        "Organisation\tMaintenir un environnement de travail propre et organisé",
-        "Organisation\tMaintenir un environnement de travail sécurisé",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
-      ],
-      "publication": {
-        "creation": "2026-09-12T10:04:27.843Z",
-        "expiration": "2026-11-13T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Avez-vous déjà réalisé une expérience (stage, job, bénévolat) en lien avec ce poste ?",
-        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-        "Quels outils ou méthodes de travail maîtrisez-vous et souhaitez-vous approfondir ?"
-      ]
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa520a9b272299cc426f78c",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6aa520a9b272299cc426f78c"
@@ -6828,6 +6718,224 @@
   },
   {
     "identifier": {
+      "id": "6aceae2f0226c9bf000933f3",
+      "partner_label": "France Travail",
+      "partner_job_id": "215DMMZ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DMMZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 9,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Recrutement MRS  Agent propreté et hygiène (H/F)",
+      "rome_codes": [
+        "K2205"
+      ],
+      "description": "Recrutement sans CV via la Méthode de Recrutement par Simulation (MRS)\n\nLe GEIQ HPA recrute des candidat(e)s motivé(e)s pour préparer un titre professionnel Agent\nde Propreté et d'Hygiène en contrat de professionnalisation.\n\nLieu de formation : 34500 Béziers\n\nStructure d'accueil : Différents campings de Vendres à Marseillan Plage en fonction du lieu d'habitation\n\nVos missions (en alternance en camping ou structure touristique) :\n\n- Nettoyer et entretenir les locaux (mobil-homes, sanitaires, espaces communs).\n- Utiliser les produits et matériels adaptés en respectant les règles d'hygiène et de\nsécurité.\n- Contribuer au confort et à la satisfaction des vacanciers.\n\nProfil recherché :\n\n- Motivation et envie d'apprendre un métier concret et utile.\n- Sens de l'organisation, rigueur et esprit d'équipe.\n- Accessible à tous, sans condition de diplôme.\n\nNous proposons :\n- Un contrat de professionnalisation rémunéré.\n- Une formation qualifiante reconnue est prise en charge par le GEIQ (Titre professionnel Agent de Propreté et d'Hygiène).\n- Un accompagnement personnalisé tout au long du parcours.\n\nDans un premier temps, vous serez convié(e) à une réunion d'information collective\npour découvrir le métier, la formation et le fonctionnement du contrat.\n\n40 postes environ sur le secteur sont disponibles.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Caractéristiques des produits d'entretien",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Baliser les zones glissantes",
+        "Préparer du matériel en prévision d'un travail"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T11:46:14.471Z",
+        "expiration": "2026-12-13T11:46:14.471Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceae2f0226c9bf000933f5",
+      "partner_label": "France Travail",
+      "partner_job_id": "215DHNQ"
+    },
+    "workplace": {
+      "siret": "84986640500012",
+      "brand": null,
+      "legal_name": "NIL",
+      "website": null,
+      "name": "NIL",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DHNQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE Serveur/ Serveuse (H/F)",
+      "rome_codes": [
+        "G1810"
+      ],
+      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T10:26:44.473Z",
+        "expiration": "2026-12-13T10:26:44.473Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceae2f0226c9bf000933f6",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CYJR"
+    },
+    "workplace": {
+      "siret": "30431848800042",
+      "brand": null,
+      "legal_name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
+      "website": null,
+      "name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
+      "description": null,
+      "size": "100 à 199 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 413,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.90B",
+          "label": "Hébergement social pour adultes et familles en difficultés et autre hébergement social"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/charge-e-de-mission-aupres-de-la-direction-du-pole-sante-et-solidarite-h-f-alternance-montpellier-aers/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Directeur adjoint / Directrice adjointe d'établissement médicosoc (H/F)",
+      "rome_codes": [
+        "K1407"
+      ],
+      "description": "L'AERS recrute un(e) Chargé(e) de mission auprès de la Direction du Pôle Santé et Solidarité (H/F) - Alternance\n\nPoste à pourvoir dès que possible - Contrat d'apprentissage de 12 mois\n\n\n\nNous vous proposons d'intégrer l'équipe du Pôle Santé et Solidarité et de travailler aux côtés de la Directrice du Pôle. Vous contribuerez activement aux projets menés au sein de ses différents établissements et services médico-sociaux, notamment les Lits d'Accueil Médicalisés (LAM), les Lits Halte Soins Santé (LHSS) et les Appartements de Coordination Thérapeutique (ACT).\n\n\n\nVous participerez notamment aux missions suivantes :\n\n\nQualité et évaluation :\n\n * Participation à la préparation des évaluations de nos établissements selon le référentiel de la Haute Autorité de Santé (HAS).\n * Participation à la mise à jour des procédures, à la création d'outils et de documents en lien avec les chefs de service et les professionnels.\n * Participation à la démarche de prévention des risques professionnels.\n\n\n\nOrganisation et ressources humaines :\n\n * Collaboration avec le service RH sur diverses missions (plan de développement des compétences, fiches de poste, etc.).\n * Identification, sur le terrain, des besoins d'évolution des pratiques professionnelles et de l'organisation des établissements et services.\n * Participation à l'évolution des pratiques en matière de santé et d'accompagnement, en lien avec les professionnels.\n * Participation à l'amélioration du processus d'intégration et d'évaluation des stagiaires.\n\n\n\nPilotage et projets transversaux :\n\n * Participation à la mise en œuvre de projets transversaux au sein du Pôle Santé et Solidarité.\n * Participation au suivi des outils de mesure de l'activité et des indicateurs, ainsi qu'à l'analyse des résultats.\n * Participation aux relations avec les fournisseurs et prestataires (recherche, demandes de devis, comparaison des offres et suivi des prestations).\n * Missions d'assistance à la Direction, notamment en matière d'organisation, de coordination et de suivi de projets.\n\n\n\nCette liste est non exhaustive et pourra évoluer en fonction de vos compétences, de vos centres d'intérêt et des besoins du service.\n\n\n\nConditions\n\n * Du lundi au vendredi, de 9h à 17h.\n * Rémunération selon le barème d'apprentissage de la CCN66 (plus favorable que le minimum légal).\n * Locaux principaux situés au 209 rue Georges Séguy, accessibles en tramway (ligne 3, arrêt Celleneuve).\n * Des déplacements ponctuels sont à prévoir au sein des différents établissements du Pôle, situés à Montpellier.\n * Véhicules et vélos de service à disposition pour les déplacements professionnels.\n\n\n * Vous préparez un Master 1 ou Master 2 en gestion des établissements médico-sociaux, management des ressources humaines ou qualité.\n * Vous maîtrisez le Pack Office.\n * Vous faites preuve de rigueur, d'organisation et d'adaptabilité.\n * Vos qualités relationnelles vous permettent de travailler avec l'ensemble des professionnels.\n * Vous faites preuve de discrétion et respectez les règles de confidentialité.\n * Permis B apprécié, mais non obligatoire.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Animer, coordonner une équipe",
+        "Piloter une activité"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T18:14:13.722Z",
+        "expiration": "2026-12-12T18:14:13.722Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acd5c980226c9bf0008d13d",
       "partner_label": "France Travail",
       "partner_job_id": "215CXFR"
@@ -6870,7 +6978,7 @@
       "start_is_flexible": null,
       "duration": 12,
       "type": [
-        "Apprentissage"
+        "Professionnalisation"
       ],
       "remote": null
     },
@@ -6965,76 +7073,6 @@
       "publication": {
         "creation": "2026-10-12T16:02:10.564Z",
         "expiration": "2026-12-12T16:02:10.564Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acd5c980226c9bf0008d145",
-      "partner_label": "France Travail",
-      "partner_job_id": "215CDDM"
-    },
-    "workplace": {
-      "siret": "41808426500028",
-      "brand": null,
-      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
-      "website": null,
-      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34240 Lamalou-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.079984,
-            43.596729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "87.30A",
-          "label": "Hébergement social pour personnes âgées"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CDDM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 13,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Aide-soignant (H/F)",
-      "rome_codes": [
-        "J1501"
-      ],
-      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) aide-soignant(e) motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'aide-soignant(e) dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'aide-soignant(e).\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Distribuer les repas et collations au patient ou résident selon les besoins ou la prescription médicale"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-12T11:12:06.455Z",
-        "expiration": "2026-12-12T11:12:06.455Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -8210,81 +8248,6 @@
       "publication": {
         "creation": "2026-09-25T15:36:33.816Z",
         "expiration": "2026-11-25T15:36:33.816Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab5a2417caaafd3f59782d1",
-      "partner_label": "France Travail",
-      "partner_job_id": "214JPCX"
-    },
-    "workplace": {
-      "siret": "41481504302632",
-      "brand": null,
-      "legal_name": "LAFARGE BETONS",
-      "website": null,
-      "name": "LAFARGE BETONS",
-      "description": null,
-      "size": "1 000 à 1 999 salariés",
-      "location": {
-        "address": "34740 Vendargues",
-        "geopoint": {
-          "coordinates": [
-            3.963982,
-            43.658046
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 135,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "23.63Z",
-          "label": "Fabrication de béton prêt à l'emploi"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JPCX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Devenez Conducteur de centrale à béton (H/F)",
-      "rome_codes": [
-        "H2804"
-      ],
-      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience. \nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\n Parcours de Recrutement sous réserve de validation étape les unes après les autres :\n 15 OCT / 9h00 : Réunion collective &amp; Visite site  (Chaussures fermées obligatoires)  15-16 OCT : Entretiens individuels   26-30 OCT : Immersion professionnelle (5 jours)   9 NOV - 29 DÉC : POEI (Formation + Tutorat)   DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP)   FIN DE CONTRAT : Possibilité de CDI",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Monter et régler une installation, une machine",
-        "Contrôler un approvisionnement",
-        "Superviser le lancement d'une production",
-        "Définir les données de programmation",
-        "Bon niveau de communication orale en français ",
-        "Bon niveau d'expression à l'écrit"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T13:50:20.481Z",
-        "expiration": "2026-11-24T13:50:20.481Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -10020,79 +9983,6 @@
   },
   {
     "identifier": {
-      "id": "6aa9c4875743d160f9f9d817",
-      "partner_label": "France Travail",
-      "partner_job_id": "213WSKJ"
-    },
-    "workplace": {
-      "siret": "80321984900012",
-      "brand": null,
-      "legal_name": "MIZADOCK",
-      "website": null,
-      "name": "MIZADOCK",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34560 Villeveyrac",
-        "geopoint": {
-          "coordinates": [
-            3.595684,
-            43.498799
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1505,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WSKJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprentisage Vendeur Conseil en Alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "SPAR, leader du commerce de proximité, recrute 1 alternant(e) (contrat d'apprentissage) pour un poste de Vendeur Conseil, en partenariat avec l'école ISCDYS.\nMissions :\nVous ferez vos cours en distanciel\nVous accueillez et conseillez la clientèle avec le sourire\nVous réceptionnez les marchandises et les produits, et contrôlez la conformité des livraisons\nVous effectuez et contrôlez le balisage et l'étiquetage des produits en rayon\nVous suivez l'état des stocks et identifiez les besoins en approvisionnement\nVous effectuez les opérations d'encaissement\nVous effectuez l'entretien de l'espace de vente et des produits en rayon\nVous travaillerez selon un planning tournant, les samedi après-midi et dimanche matin se font par roulement de 1 semaine sur 2\n\nPrise de poste au plus tôt",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-15T10:30:41.605Z",
-        "expiration": "2026-11-15T10:30:41.605Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a9f38dc95355def70a9e7c7",
       "partner_label": "France Travail",
       "partner_job_id": "6697142"
@@ -10516,17 +10406,232 @@
   },
   {
     "identifier": {
-      "id": "6acdec0f66f2a3ca60c938df",
-      "partner_label": "Veritone",
-      "partner_job_id": "6acdec0f66f2a3ca60c938df"
+      "id": "6ace3b0ed37fcd71a1ea2cf7",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6ace3b0ed37fcd71a1ea2cf7"
+    },
+    "workplace": {
+      "siret": "91318472700018",
+      "brand": "NEHRIA",
+      "legal_name": "NEHRIA",
+      "website": null,
+      "name": "NEHRIA",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "8 Place de la République 34560 Villeveyrac",
+        "geopoint": {
+          "coordinates": [
+            3.605878,
+            43.499162
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ace3b0e4bc5282510f89af8",
+      "phone": null,
+      "recipient_id": "partners_6ace3b0ed37fcd71a1ea2cf7"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Coiffeur / Coiffeuse",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Doté(e) d'un sens aigu de créativité, cet artiste du cheveu sculpte, colore et soigne les chevelures pour sublimer chaque client.\\nAccueille et conseille les clients en fonction de leur style et de leurs attentes\\nRéalise des coupes, des colorations et des coiffures adaptées à chaque individu\\nPropose et effectue des soins capillaires pour améliorer la santé des cheveux\\nGère les rendez-vous et l'organisation quotidienne du salon",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T14:07:10.828Z",
+        "expiration": "2026-12-12T14:07:10.828Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceae2f0226c9bf000933f3",
+      "partner_label": "France Travail",
+      "partner_job_id": "215DMMZ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "78.30Z",
+          "label": "Autre mise à disposition de ressources humaines"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DMMZ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 9,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Recrutement MRS  Agent propreté et hygiène (H/F)",
+      "rome_codes": [
+        "K2205"
+      ],
+      "description": "Recrutement sans CV via la Méthode de Recrutement par Simulation (MRS)\n\nLe GEIQ HPA recrute des candidat(e)s motivé(e)s pour préparer un titre professionnel Agent\nde Propreté et d'Hygiène en contrat de professionnalisation.\n\nLieu de formation : 34500 Béziers\n\nStructure d'accueil : Différents campings de Vendres à Marseillan Plage en fonction du lieu d'habitation\n\nVos missions (en alternance en camping ou structure touristique) :\n\n- Nettoyer et entretenir les locaux (mobil-homes, sanitaires, espaces communs).\n- Utiliser les produits et matériels adaptés en respectant les règles d'hygiène et de\nsécurité.\n- Contribuer au confort et à la satisfaction des vacanciers.\n\nProfil recherché :\n\n- Motivation et envie d'apprendre un métier concret et utile.\n- Sens de l'organisation, rigueur et esprit d'équipe.\n- Accessible à tous, sans condition de diplôme.\n\nNous proposons :\n- Un contrat de professionnalisation rémunéré.\n- Une formation qualifiante reconnue est prise en charge par le GEIQ (Titre professionnel Agent de Propreté et d'Hygiène).\n- Un accompagnement personnalisé tout au long du parcours.\n\nDans un premier temps, vous serez convié(e) à une réunion d'information collective\npour découvrir le métier, la formation et le fonctionnement du contrat.\n\n40 postes environ sur le secteur sont disponibles.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Caractéristiques des produits d'entretien",
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Baliser les zones glissantes",
+        "Préparer du matériel en prévision d'un travail"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T11:46:14.471Z",
+        "expiration": "2026-12-13T11:46:14.471Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceae2f0226c9bf000933f5",
+      "partner_label": "France Travail",
+      "partner_job_id": "215DHNQ"
+    },
+    "workplace": {
+      "siret": "84986640500012",
+      "brand": null,
+      "legal_name": "NIL",
+      "website": null,
+      "name": "NIL",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DHNQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE Serveur/ Serveuse (H/F)",
+      "rome_codes": [
+        "G1810"
+      ],
+      "description": "Pour un restaurant indien, vous ferez l'accueil des clients, vous répondez au téléphone, prise de commande aussi et gestion des commandes à emporter (Uber eats...) Vous apprendrez la réalisation de cocktails.\n\nVos horaires : 11H30 à 14H30 / soirée à partir de 18H30 à 23H30\nAutonomie, sens des responsabilités, sens de la relation avec la clientèle\n\nLieu accessible par le TRAM (100m)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T10:26:44.473Z",
+        "expiration": "2026-12-13T10:26:44.473Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceab59bd527d1b3c35ead6",
+      "partner_label": "Hellowork",
+      "partner_job_id": "e6e6013b-daf5-4abb-b4c2-2ec190493564"
     },
     "workplace": {
       "siret": "32853833500824",
       "brand": null,
       "legal_name": "ASSURANCE MUTUELLE DES MOTARDS",
-      "website": "",
+      "website": null,
       "name": "ASSURANCE MUTUELLE DES MOTARDS",
-      "description": "Vous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.\r\nUne première expérience (stage/projet) en marketing est un plus.\r\nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.\r\nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,…).\r\nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.\r\nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.\r\n\r\nL'intérêt pour l'univers moto / motards est fortement apprécié.\r\n\r\nAutonomie progressive dans la réalisation des missions confiées.\r\n\r\nPoste à pourvoir pour 2 ans en alternance idéalement.\r\n\r\nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.\r\nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination.",
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.   \n  \nVous êtes passionné(e) de 2/3 roues ? Vous souhaitez travailler dans un environnement dynamique et challengeant ? Vous êtes motivé(e) et prêt(e) à relever les défis avec nous ? Vous souhaitez donner plus de sens à votre carrière en travaillant pour une entreprise de l'Economie Sociale et Solidaire ? Nos équipes vous attendent !",
       "size": "250 à 499 salariés",
       "location": {
         "address": "34470 Pérols",
@@ -10548,33 +10653,182 @@
       }
     },
     "apply": {
-      "url": "https://www.aplitrak.com/?adid=SnVsaWV0dGUuSGFyc3Rlci44MzI5OS4xMzY4MEBhbWRtLmFwbGl0cmFrLmNvbQ",
+      "url": "https://r.holeest.com/redirect?jd_token=wAsJuf&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84377946.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bmarketing%252Cgraphisme%252Caudiovisuel%252Cpub%26utm_content%3Dfluxbonnealternance%26utm_term%3D84377946",
       "phone": null,
       "recipient_id": null
     },
     "contract": {
-      "start": "2026-10-20T00:00:00.000Z",
+      "start": null,
       "start_type": null,
       "start_is_flexible": null,
-      "duration": 0,
+      "duration": null,
       "type": [
-        "Apprentissage"
+        "Apprentissage",
+        "Professionnalisation"
       ],
       "remote": "hybrid"
     },
     "offer": {
-      "title": "Apprenti(e) chef de projet marketing territorial H/F",
+      "title": "Apprenti Chef de Projet Marketing Territorial H/F",
       "rome_codes": [
-        "D1434"
+        "M1711"
       ],
-      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues. \r\n\r\nVous êtes passionné(e) de 2/3 roues ? Vous souhaitez travailler dans un environnement dynamique et challengeant ? Vous êtes motivé(e) et prêt(e) à relever les défis avec nous ? Vous souhaitez donner plus de sens à votre carrière en travaillant pour une entreprise de l'Economie Sociale et Solidaire ? Nos équipes vous attendent !\n\nSpécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.\r\nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :\r\n\r\nApprenti(e) Chef de projet Marketing Territorial F/H\r\n\r\nDans ce cadre-là, vos missions principales seront :\r\n\r\nEtre un soutien à la déclinaison d'animations territoriales\r\n- Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.\r\n- Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations\r\n-Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial\r\n\r\nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise\r\n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.\r\n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.\r\n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.\r\n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.\r\n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.",
-      "target_diploma": null,
+      "description": "Spécialiste de l'assurance du 2-3 roues à moteur, l'Assurance Mutuelle Des Motards est reconnue sur son marché en tant que spécialiste et notamment pour sa qualité de service et son implication dans la pratique du 2/3 roues.  \nActeur de l'Economie sociale et solidaire et fidèle à ses valeurs de respect et de solidarité, l'Assurance Mutuelle Des Motards recherche, dans le cadre de son développement un(e) :  \n  \nApprenti(e) Chef de projet Marketing Territorial F/H  \n  \nDans ce cadre-là, vos missions principales seront :  \n  \nEtre un soutien à la déclinaison d'animations territoriales  \n- Être l'interlocuteur des acteurs terrain sur les besoins d'animations en lien avec les partenaires prévention.  \n- Être le point d'entrée sur les besoins en matériel, communications et autres pour le déploiement des animations  \n-Soutenir l'élaboration et les bilans des plans d'actions territoriaux en appui du chef de projet Marketing Territorial  \n  \nParticiper aux réflexions de positionnement et de développement des Maisons des Motards sur le territoire en cohérence avec les orientations stratégiques d'entreprise  \n- Assister le Chef de Projet Marketing Territorial dans la réalisation d'états des lieux, suivi des indicateurs clés, production de supports d'analyse et de synthèse.  \n- Contribuer à la collecte, à la consolidation et à l'analyse des données liées aux implantations et aux activités des Maisons des Motards sur le territoire.  \n- Suivre et analyser d'éventuels tests/ expérimentations et évolutions misent en place consécutives aux travaux et arbitrages par l'entreprise.  \n- Contribuer à la formalisation et être force de proposition sur les recommandations et pistes d'évolution visant à renforcer l'attractivité et les animations du réseau des Maisons des Motards.  \n- Participer à la préparation des comités, réunions et présentations en réalisant des supports, comptes rendus et synthèses destinés aux différentes parties prenantes.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [
+        "Vous préparez un Master I et II en école de commerce, université ou équivalent avec une spécialisation en marketing.  \nUne première expérience (stage/projet) en marketing est un plus.  \nVous êtes reconnu(e) pour votre capacité d'analyse et de synthèse. Vous disposez d'un intérêt pour le marketing territorial et les dynamiques locales.  \nVous justifiez d'une bonne maîtrise des outils d'analyse (Excel, google Sheets ou autres) et rédactionnels/ graphiques (Canva, Powerpoint,...).  \nVous avez un esprit analytique, le sens de l'organisation et êtes rigoureux/se.  \nVous faites preuve de curiosité, proactivité. Vous avez l'esprit d'équipe.  \n  \nL'intérêt pour l'univers moto / motards est fortement apprécié.  \n  \nAutonomie progressive dans la réalisation des missions confiées.  \n  \nPoste à pourvoir pour 2 ans en alternance idéalement.  \n  \nAu sein de la Mutuelle des Motards, nous valorisons l'équilibre vie professionnelle/ vie personnelle, des opportunités de mobilité interne et de nombreux avantages appréciables au quotidien.  \nHandi-accueillante et engagée dans la prise en compte de toutes les diversités, notre politique d'embauche s'engage à promouvoir les compétences, dans le respect des principes de non-discrimination."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T06:32:18.000Z",
+        "expiration": "2026-12-13T06:32:18.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a346e317f27726a04970758",
+      "partner_label": "Hellowork",
+      "partner_job_id": "bdbc73f9-99d1-400b-acc1-dc2c930b58e4"
+    },
+    "workplace": {
+      "siret": "39112579600071",
+      "brand": null,
+      "legal_name": "RESTALLIANCE",
+      "website": null,
+      "name": "RESTALLIANCE",
+      "description": "Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.",
+      "size": "2 000 à 4 999 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1266,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.29A",
+          "label": "Restauration collective sous contrat"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJbIC9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80087486.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brestauration%26utm_content%3Dfluxbonnealternance%26utm_term%3D80087486",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier H/F",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Alternant Cuisinier H/F à Agde \n\nTu as trouvé ton école pour une formation culinaire en Alternance ?\n\nTu es passionné(e) par la cuisine ?\n\nViens chez Restalliance et transforme ta passion en moments conviviaux dans des établissements de santé !\n\nTes missions :\n\n Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les résidents d'une Résidence Sénior.\n\n Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).\n\n Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.\n\nNous t'offrons :\n\n Contrat d'apprentissage de 1 ou 2 ans à Agde.\n\n Horaires : 7h00 - 15h00 du Lundi au Vendredi.\n\n Avantages repas, transport, mutuelle.\n\n Possibilité de CDI et d'évolution.\n\n Environnement riche en expériences humaines et culinaires.\n\nTes prochaines étapes :\n\n Un échange téléphonique avec notre équipe recrutement ou avec un agent IA (Alex)\n\n Un Entretien sur site avec votre futur chef(fe) gérant.\n\nPrêt(e) à relever le défi ? Envoie ta candidature !",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-10-13T08:30:06.000Z",
-        "expiration": "2026-11-10T08:30:06.000Z"
+        "creation": "2026-10-12T20:07:16.000Z",
+        "expiration": "2026-12-12T20:07:16.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aceae2f0226c9bf000933f6",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CYJR"
+    },
+    "workplace": {
+      "siret": "30431848800042",
+      "brand": null,
+      "legal_name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
+      "website": null,
+      "name": "D ENTRAIDE ET DE RECLASSEMENT SOCIAL",
+      "description": null,
+      "size": "100 à 199 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 413,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.90B",
+          "label": "Hébergement social pour adultes et familles en difficultés et autre hébergement social"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://taleez.com/apply/charge-e-de-mission-aupres-de-la-direction-du-pole-sante-et-solidarite-h-f-alternance-montpellier-aers/applying",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Directeur adjoint / Directrice adjointe d'établissement médicosoc (H/F)",
+      "rome_codes": [
+        "K1407"
+      ],
+      "description": "L'AERS recrute un(e) Chargé(e) de mission auprès de la Direction du Pôle Santé et Solidarité (H/F) - Alternance\n\nPoste à pourvoir dès que possible - Contrat d'apprentissage de 12 mois\n\n\n\nNous vous proposons d'intégrer l'équipe du Pôle Santé et Solidarité et de travailler aux côtés de la Directrice du Pôle. Vous contribuerez activement aux projets menés au sein de ses différents établissements et services médico-sociaux, notamment les Lits d'Accueil Médicalisés (LAM), les Lits Halte Soins Santé (LHSS) et les Appartements de Coordination Thérapeutique (ACT).\n\n\n\nVous participerez notamment aux missions suivantes :\n\n\nQualité et évaluation :\n\n * Participation à la préparation des évaluations de nos établissements selon le référentiel de la Haute Autorité de Santé (HAS).\n * Participation à la mise à jour des procédures, à la création d'outils et de documents en lien avec les chefs de service et les professionnels.\n * Participation à la démarche de prévention des risques professionnels.\n\n\n\nOrganisation et ressources humaines :\n\n * Collaboration avec le service RH sur diverses missions (plan de développement des compétences, fiches de poste, etc.).\n * Identification, sur le terrain, des besoins d'évolution des pratiques professionnelles et de l'organisation des établissements et services.\n * Participation à l'évolution des pratiques en matière de santé et d'accompagnement, en lien avec les professionnels.\n * Participation à l'amélioration du processus d'intégration et d'évaluation des stagiaires.\n\n\n\nPilotage et projets transversaux :\n\n * Participation à la mise en œuvre de projets transversaux au sein du Pôle Santé et Solidarité.\n * Participation au suivi des outils de mesure de l'activité et des indicateurs, ainsi qu'à l'analyse des résultats.\n * Participation aux relations avec les fournisseurs et prestataires (recherche, demandes de devis, comparaison des offres et suivi des prestations).\n * Missions d'assistance à la Direction, notamment en matière d'organisation, de coordination et de suivi de projets.\n\n\n\nCette liste est non exhaustive et pourra évoluer en fonction de vos compétences, de vos centres d'intérêt et des besoins du service.\n\n\n\nConditions\n\n * Du lundi au vendredi, de 9h à 17h.\n * Rémunération selon le barème d'apprentissage de la CCN66 (plus favorable que le minimum légal).\n * Locaux principaux situés au 209 rue Georges Séguy, accessibles en tramway (ligne 3, arrêt Celleneuve).\n * Des déplacements ponctuels sont à prévoir au sein des différents établissements du Pôle, situés à Montpellier.\n * Véhicules et vélos de service à disposition pour les déplacements professionnels.\n\n\n * Vous préparez un Master 1 ou Master 2 en gestion des établissements médico-sociaux, management des ressources humaines ou qualité.\n * Vous maîtrisez le Pack Office.\n * Vous faites preuve de rigueur, d'organisation et d'adaptabilité.\n * Vos qualités relationnelles vous permettent de travailler avec l'ensemble des professionnels.\n * Vous faites preuve de discrétion et respectez les règles de confidentialité.\n * Permis B apprécié, mais non obligatoire.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Animer, coordonner une équipe",
+        "Piloter une activité"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T18:14:13.722Z",
+        "expiration": "2026-12-12T18:14:13.722Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -10626,7 +10880,7 @@
       "start_is_flexible": null,
       "duration": 12,
       "type": [
-        "Apprentissage"
+        "Professionnalisation"
       ],
       "remote": null
     },
@@ -10721,76 +10975,6 @@
       "publication": {
         "creation": "2026-10-12T16:02:10.564Z",
         "expiration": "2026-12-12T16:02:10.564Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acd5c980226c9bf0008d145",
-      "partner_label": "France Travail",
-      "partner_job_id": "215CDDM"
-    },
-    "workplace": {
-      "siret": "41808426500028",
-      "brand": null,
-      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
-      "website": null,
-      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34240 Lamalou-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.079984,
-            43.596729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "87.30A",
-          "label": "Hébergement social pour personnes âgées"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CDDM",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 13,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Aide-soignant (H/F)",
-      "rome_codes": [
-        "J1501"
-      ],
-      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) aide-soignant(e) motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'aide-soignant(e) dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'aide-soignant(e).\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Distribuer les repas et collations au patient ou résident selon les besoins ou la prescription médicale"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-12T11:12:06.455Z",
-        "expiration": "2026-12-12T11:12:06.455Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14435,143 +14619,6 @@
   },
   {
     "identifier": {
-      "id": "6abae564c6b865ac2948c688",
-      "partner_label": "ATS_Hellowork",
-      "partner_job_id": "4358702/30375775CDPDA/34C"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "DIGITRE",
-      "description": "DIGIT RE GROUP a été créée en 2016. Elle regroupe plusieurs sociétés, qui opèrent dans le domaine de l'immobilier digital, tant en ce qui concerne les transactions, que l'administration de biens, que des services y afférents. Avec près de 5500 conseillers immobiliers indépendants, DIGIT RE GROUP est aujourd'hui un des leaders du marché de l'immobilier en France. Nos équipes accompagnent au quotidien les conseillers immobiliers indépendants Capifrance et Optimhome dans leur réussite.",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6abae564c6b865ac2948c688/chargé-e-de-projet-digital-alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "CHARGÉ(E) DE PROJET DIGITAL – ALTERNANCE",
-      "rome_codes": [
-        "M1718"
-      ],
-      "description": "Au sein de l'équipe Acquisition et sous la responsabilité de la Responsable Acquisition, vous participez au développement et à l'optimisation des dispositifs digitaux de Capifrance et Optimhome.\r\n\r\nVous intervenez sur différents projets liés aux sites web, au recrutement digital et à l'emailing.\r\n\r\nVos principales missions:\r\n\r\nSites web\r\n\r\n- Participer aux évolutions et mises à jour des sites Capifrance et Optimhome.\r\n- Suivre les demandes et évolutions avec les équipes internes et les prestataires.\r\n- Participer aux tests et recettes des nouvelles fonctionnalités.\r\n- Contribuer à l'amélioration des parcours utilisateurs et à la génération de leads.\r\n- Suivre les performances des sites et leurs principaux KPI.\r\n Sites recrutement\r\n\r\n- Participer à l'animation et à la mise à jour des sites recrutement sous WordPress.\r\n- Suivre les évolutions et corrections avec les prestataires.\r\n- Contribuer à l'amélioration des contenus et des parcours utilisateurs.\r\n- Participer au suivi des performances et aux optimisations SEO.\r\nEmailing\r\n\r\n- Participer à la préparation et à l'envoi des newsletters Capifrance et Optimhome.\r\n- Contribuer à la création et à l'intégration des campagnes emailing.\r\n- Participer au suivi des performances des campagnes : ouvertures, clics, trafic et leads.\r\n- Proposer des pistes d'amélioration.\r\n Missions transverses\r\n\r\n- Effectuer une veille sur les tendances et bonnes pratiques du digital.\r\n- Participer aux différents projets de l'équipe Acquisition.\r\n- Créer et mettre à jour des supports et documentations.\r\n- Être force de proposition sur les sujets digitaux.\r\nPourquoi nous rejoindre ?\r\n- Une expérience professionnalisante avec de vraies responsabilités\r\n- Des projets digitaux variés et concrets\r\n- Une équipe bienveillante, dynamique et accessible\r\n- Des bureaux agréables dans le quartier Eureka à Castelnau-le-Lez\r\n- L'opportunité de développer vos compétences en marketing digital, gestion de projet et analyse de performance.\r\n\r\nInformations complémentaires\r\n\r\n- Type de contrat : Apprentissage\r\n- Durée : 1 an\r\n- Date de démarrage : Octobre 2026\r\n- Localisation : Castelnau-le-Lez (34170)\r\nNos avantages\r\n-Tickets restaurant SWILE (8,40 € par jour travaillé)\r\n- Événements et moments de convivialité\r\n- Environnement stimulant favorisant l'autonomie et les initiatives\r\n- Mutuelle prise en charge à 60 %\r\n- Télétravail possible\r\n\r\nEnvie de relever le défi ?\r\nRejoignez une équipe passionnée et participez au développement de projets digitaux innovants au sein d'un groupe en pleine croissance. Nous avons hâte de découvrir votre candidature !",
-      "target_diploma": null,
-      "desired_skills": [
-        "Vous préparez une formation Bac+4 à Bac+5 en stratégie digital/ marketing digital.\r\nVous êtes :\r\n\r\n- Curieux(se) et à l'aise avec les outils digitaux ;\r\n- A l'aise à l'oral et la rédaction ;\r\n- Organisé(e) et rigoureux(se) ;\r\n- En capacité de gérer les priorités ;\r\n- À l'aise dans le travail en équipe ;\r\n- Force de proposition et avez envie d'apprendre.\r\nUne première connaissance de WordPress et des outils d'emailing est un plus."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T07:49:44.000Z",
-        "expiration": "2026-11-25T07:49:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a4446cdb611be0d00217d41",
-      "partner_label": "Meteojob",
-      "partner_job_id": "55104961"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "GROUPE NICOLLIN",
-      "description": "Le Groupe NICOLLIN s'est construit depuis plus de 80 ans autour de valeurs simples : l'humain et le sens du travail bien fait. Ainsi, grâce à son expérience et à ses valeurs, le Groupe NICOLLIN est devenu une entreprise de services reconnue. Aujourd'hui le Groupe NICOLLIN compte 12000 salariés, réalise un CA de 700M € en France (Métropolitaine et DOM-COM) et se structure autour de 3 pôles d'activités : NICOLLIN Environnement (Gestion des déchets et propreté urbaine), NICOLLIN Services (Nettoyage industriel, sécurité, accueil…) et NICOLLIN Eau (Gestion de l'eau, assainissement).",
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/55104961?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Ouvrier espaces verts H/F",
-      "rome_codes": [
-        "A1203"
-      ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <ul>  <li>Dans le cadre du développement de notre filière</li> </ul> <p>  <b>Espaces Verts</b>  , nous recherchons un·e  <b>ouvrier/ère espaces verts</b>  en  <b>contrat d'apprentissage</b>  , basé·e à  <b>Castelnau-le-Lez (34)</b>  . </p> <p>  <b>   <br />   Vos missions :   <br />  </b>  L'entretien des gazons naturels et/ou synthétiques La tonte, le traçage et les différentes opérations de préparation des terrains Les travaux de fertilisation, de regarnissage et d'aération des surfaces sportives L'entretien des systèmes d'arrosage et des équipements liés aux terrains L'utilisation et l'entretien du matériel spécifique Le respect des règles de sécurité, de qualité et de protection de l'environnement </p>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Ouvrier des espaces verts (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Titulaire d'un diplôme dans le domaine des espaces verts</li>  <li>Vous préparez un Certificat de Spécialisation (CS) Entretien des terrains de sport</li>  <li>Passionné·e par les espaces verts et l'univers du sport</li>  <li>Rigoureux/se, organisé·e et volontaire</li>  <li>Apprécié·e pour votre esprit d'équipe et votre sens de la collaboration</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat</strong>   : Contrat d'apprentissage  </li>  <li>   <b>Horaires</b>   : 35h  </li>  <li>   <strong>Rémunération</strong>   : Selon grille alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> GNB",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T22:06:32.000Z",
-        "expiration": "2026-11-24T22:06:32.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6968b8582fd23d7ccdf73258",
       "partner_label": "Hellowork",
       "partner_job_id": "d7500d52-82e7-4c0f-9232-aeff5b117dae"
@@ -14637,81 +14684,6 @@
       "publication": {
         "creation": "2026-09-24T20:11:12.000Z",
         "expiration": "2026-11-24T20:11:12.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab5a2417caaafd3f59782d1",
-      "partner_label": "France Travail",
-      "partner_job_id": "214JPCX"
-    },
-    "workplace": {
-      "siret": "41481504302632",
-      "brand": null,
-      "legal_name": "LAFARGE BETONS",
-      "website": null,
-      "name": "LAFARGE BETONS",
-      "description": null,
-      "size": "1 000 à 1 999 salariés",
-      "location": {
-        "address": "34740 Vendargues",
-        "geopoint": {
-          "coordinates": [
-            3.963982,
-            43.658046
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 135,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "23.63Z",
-          "label": "Fabrication de béton prêt à l'emploi"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JPCX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Devenez Conducteur de centrale à béton (H/F)",
-      "rome_codes": [
-        "H2804"
-      ],
-      "description": "Le Groupe Lafarge recrute tous candidats motivés et intéressés par le postes Conducteur de centrale à béton sans diplôme ni expérience. \nUn métier porteur, à la fois technique et relationnel qui vous offrira ensuite de nombreuses opportunités soit dans la technique, soit dans le commercial.\n\nLe conducteur de Centrale assure la production des bétons, l'entretien de 1er niveau du matériel,\ngère les commandes et organise les livraisons, dans le respect des règles de qualité, de sécurité et d'environnement. Sur leur centrale à béton, ils prennent en charge:\n- La fabrication des bétons en conformité avec nos normes qualité\n- L'enregistrement des commandes de notre client\n- L'organisation de la livraison des bétons commandés\n- La gestion des stocks de matières premières\n- L'entretien courant du site et du matériel dans le respect des règles de sécurité\n\nNous vous invitons à regarder cette vidéo pour mieux comprendre le métier de conducteur de centrale à béton chez Lafarge : https://www.youtube.com/watch?v=c7UvqPa7_NA\n\n Parcours de Recrutement sous réserve de validation étape les unes après les autres :\n 15 OCT / 9h00 : Réunion collective &amp; Visite site  (Chaussures fermées obligatoires)  15-16 OCT : Entretiens individuels   26-30 OCT : Immersion professionnelle (5 jours)   9 NOV - 29 DÉC : POEI (Formation + Tutorat)   DÈS LE 11 JAN 2027 : Contrat de Pro (Objectif CQP)   FIN DE CONTRAT : Possibilité de CDI",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Monter et régler une installation, une machine",
-        "Contrôler un approvisionnement",
-        "Superviser le lancement d'une production",
-        "Définir les données de programmation",
-        "Bon niveau de communication orale en français ",
-        "Bon niveau d'expression à l'écrit"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T13:50:20.481Z",
-        "expiration": "2026-11-24T13:50:20.481Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -17980,112 +17952,39 @@
   },
   {
     "identifier": {
-      "id": "6aa9c4875743d160f9f9d817",
-      "partner_label": "France Travail",
-      "partner_job_id": "213WSKJ"
+      "id": "6aceab99bd527d1b3c35f927",
+      "partner_label": "ATS_Hellowork",
+      "partner_job_id": "4023450/30532944VAEA/33B"
     },
     "workplace": {
-      "siret": "80321984900012",
+      "siret": "34326067500040",
       "brand": null,
-      "legal_name": "MIZADOCK",
+      "legal_name": "TRESSOL CHABRIER",
       "website": null,
-      "name": "MIZADOCK",
-      "description": null,
-      "size": "6 à 9 salariés",
+      "name": "TRESSOL CHABRIER",
+      "description": "Acteur majeur de l'automobile dans le sud de la France, nous sommes un groupe de distribution très dynamique présent dans 26 villes en Occitanie, PACA et Nouvelle Aquitaine.\r\nLe groupe Tressol Chabrier c'est 72 points de vente et 34 marques Auto/Moto.",
+      "size": "50 à 99 salariés",
       "location": {
-        "address": "34560 Villeveyrac",
+        "address": "34970 Lattes",
         "geopoint": {
           "coordinates": [
-            3.595684,
-            43.498799
+            3.900373,
+            43.570523
           ],
           "type": "Point"
         }
       },
       "domain": {
-        "idcc": 1505,
-        "opco": "L'Opcommerce",
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
         "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
+          "code": "45.11Z",
+          "label": "Commerce de voitures et de véhicules automobiles légers"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WSKJ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprentisage Vendeur Conseil en Alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "SPAR, leader du commerce de proximité, recrute 1 alternant(e) (contrat d'apprentissage) pour un poste de Vendeur Conseil, en partenariat avec l'école ISCDYS.\nMissions :\nVous ferez vos cours en distanciel\nVous accueillez et conseillez la clientèle avec le sourire\nVous réceptionnez les marchandises et les produits, et contrôlez la conformité des livraisons\nVous effectuez et contrôlez le balisage et l'étiquetage des produits en rayon\nVous suivez l'état des stocks et identifiez les besoins en approvisionnement\nVous effectuez les opérations d'encaissement\nVous effectuez l'entretien de l'espace de vente et des produits en rayon\nVous travaillerez selon un planning tournant, les samedi après-midi et dimanche matin se font par roulement de 1 semaine sur 2\n\nPrise de poste au plus tôt",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-15T10:30:41.605Z",
-        "expiration": "2026-11-15T10:30:41.605Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a346e317f27726a04970758",
-      "partner_label": "Hellowork",
-      "partner_job_id": "bdbc73f9-99d1-400b-acc1-dc2c930b58e4"
-    },
-    "workplace": {
-      "siret": "39112579600071",
-      "brand": null,
-      "legal_name": "RESTALLIANCE",
-      "website": null,
-      "name": "RESTALLIANCE",
-      "description": "Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.",
-      "size": "2 000 à 4 999 salariés",
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1266,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.29A",
-          "label": "Restauration collective sous contrat"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIC9&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F80087486.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Brestauration%26utm_content%3Dfluxbonnealternance%26utm_term%3D80087486",
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aceab99bd527d1b3c35f927/vendeur-automobile-en-alternance-h-f",
       "phone": null,
       "recipient_id": null
     },
@@ -18098,24 +17997,23 @@
         "Apprentissage",
         "Professionnalisation"
       ],
-      "remote": "onsite"
+      "remote": null
     },
     "offer": {
-      "title": "Apprenti Cuisinier H/F",
+      "title": "Vendeur Automobile en Alternance (H/F)",
       "rome_codes": [
-        "G1609"
+        "D1404"
       ],
-      "description": "Alternant Cuisinier H/F à Agde \n\nTu as trouvé ton école pour une formation culinaire en Alternance ?\n\nTu es passionné(e) par la cuisine ?\n\nViens chez Restalliance et transforme ta passion en moments conviviaux dans des établissements de santé !\n\nTes missions :\n\n Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les résidents d'une Résidence Sénior.\n\n Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).\n\n Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.\n\nNous t'offrons :\n\n Contrat d'apprentissage de 1 ou 2 ans à Agde.\n\n Horaires : 7h00 - 15h00 du Lundi au Vendredi.\n\n Avantages repas, transport, mutuelle.\n\n Possibilité de CDI et d'évolution.\n\n Environnement riche en expériences humaines et culinaires.\n\nTes prochaines étapes :\n\n Un échange téléphonique avec notre équipe recrutement ou avec un agent IA (Alex)\n\n Un Entretien sur site avec votre futur chef(fe) gérant.\n\nPrêt(e) à relever le défi ? Envoie ta candidature !",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
+      "description": "Vous souhaitez vous orienter vers la fonction commerciale ? Le domaine automobile vous attire ? Vous recherchez un métier et une entreprise dynamique dans lesquels vous investir ?\r\n \r\nNous recherchons, pour notre concession Cupra/Seat/Skoda située à Lattes, notre futur(e) Vendeur(se) Automobile (H/F) en contrat d'alternance.\r\n \r\nAu sein de nos équipes et sous la responsabilité de votre tuteur, vous aurez pour missions d'intervenir en collaboration puis en autonomie sur :\r\n \r\n\r\n- La prospection de nouveaux clients\r\n- L'accueil physique en concession de clients\r\n- La présentation et le conseil sur nos véhicules\r\n- La commercialisation des produits périphériques (garanties, financement, entretien)\r\n- L'estimation physique d'un véhicule d'occasion pour reprise\r\n- Les activités de reporting\r\n\r\n Liste non exhaustive\r\n\r\n Nous vous proposons d'intégrer un groupe solide en alliant la théorie enseignée par votre formation et la pratique de nos méthodes acquise sur la concession.",
+      "target_diploma": null,
+      "desired_skills": [
+        "De tempérament dynamique, motivé(e) par le challenge de l'atteinte d'objectifs commerciaux et passionné(e) d'automobile, vous souhaitez vous inscrire dans cette aventure avec nous ? N'hésitez plus et rejoignez-nos équipes !\r\n\r\nPermis B obligatoire"
+      ],
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-09-11T20:09:01.000Z",
-        "expiration": "2026-11-11T20:09:01.000Z"
+        "creation": "2026-09-11T06:46:06.000Z",
+        "expiration": "2026-11-11T06:46:06.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -18534,82 +18432,6 @@
         "expiration": "2026-11-03T19:12:59.935Z"
       },
       "opening_count": 2,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a974ba853f09a327a252260",
-      "partner_label": "EDF",
-      "partner_job_id": "180466"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "EDF",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "Saint-marcel 34230 Saint-Pargoire",
-        "geopoint": {
-          "coordinates": [
-            3.526693,
-            43.541999
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "35.11Z",
-          "label": "Production d'électricité"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.edf.fr/edf-recrute/offre/detail/FRA-REC-2026-27360?idOrigine=502",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-10-01T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance – Ingénieur de production F/H",
-      "rome_codes": [
-        "H2706"
-      ],
-      "description": "Rattaché(e) à un îlot de production au sein de l’atelier de Framatome Saint-Marcel, vous prenez en charge les missions suivantes :\r\nApporter un support aux méthodistes de l’îlot de production sur les améliorations techniques.\r\nAssurer le suivi de la production et analyser les écarts entre le théorique et le réalisé (délais – Ta/Tp).\r\nParticiper aux démarches d’amélioration continue visant des gains de productivité et des gains financiers.\r\nApporter un support au QC.\r\nDéployer des initiatives permettant d’augmenter les capacités de production.\r\nCréer les standards 5S des chantiers : équipements, accès, plateformes et outils spécifiques.\n\nProfil recherché :\n\nVous intégrez une école d’ingénieurs, généraliste ou à dominante mécanique, et recherchez une alternance d’une durée de 36 mois. Vous souhaitez développer vos compétences dans le domaine de la production industrielle et vous investir dans des missions concrètes, au plus près des activités de terrain.\r\nRigoureux(se), organisé(e) et proactif(ve), vous faites preuve d’un bon esprit d’analyse et savez être force de proposition face aux problématiques rencontrées. Vous appréciez le travail en équipe et disposez de bonnes capacités de communication vous permettant d’interagir avec différents interlocuteurs.\r\nCurieux(se) et impliqué(e), vous manifestez un intérêt pour les environnements industriels, le suivi de production et les démarches d’amélioration continue.",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Exploitation / Production"
-      ],
-      "access_conditions": [
-        "Débutant"
-      ],
-      "publication": {
-        "creation": "2026-09-01T00:00:00.000Z",
-        "expiration": "2026-11-08T00:00:00.000Z"
-      },
-      "opening_count": 1,
       "status": "Active",
       "to_applicant_questions": null
     },
