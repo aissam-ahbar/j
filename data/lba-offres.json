@@ -4731,9 +4731,9 @@
       "recipient_id": "partners_6a99b9933d397359dc344553"
     },
     "contract": {
-      "start": "2026-10-01T00:00:00.000Z",
-      "start_type": "precise_date",
-      "start_is_flexible": true,
+      "start": "2026-10-26T10:24:08.741Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
       "duration": 12,
       "type": [
         "Apprentissage"
@@ -4796,7 +4796,7 @@
       ],
       "publication": {
         "creation": "2026-09-03T18:16:51.644Z",
-        "expiration": "2026-11-03T00:00:00.000Z"
+        "expiration": "2026-12-26T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -5372,230 +5372,6 @@
   },
   {
     "identifier": {
-      "id": "6a8ebc81cc26d36574c4218d",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a8ebc81cc26d36574c4218d"
-    },
-    "workplace": {
-      "siret": "32922456200655",
-      "brand": null,
-      "legal_name": "LA COMPAGNIE DE FORMATION",
-      "website": null,
-      "name": "LA COMPAGNIE DE FORMATION",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "140 Rue Robert Koch 34090 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.842501,
-            43.62289
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8ebc81cc26d36574c4218d/commis-de-cuisine-en-alternance",
-      "phone": null,
-      "recipient_id": "partners_6a8ebc81cc26d36574c4218d"
-    },
-    "contract": {
-      "start": "2026-08-26T10:14:25.033Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "commis de cuisine en alternance",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Le Commis de cuisine, un acteur essentiel dans la préparation des mets et la production en cuisine. Assiste les cuisiniers, chefs de partie dans la préparation des plats Prépare les ingrédients nécessaires à la confection des recettes Maintient la propreté des plans de travail et des ustensiles de cuisine Participe à la réception et au stockage des marchandises Applique les normes d'hygiène et de sécurité alimentaire Peut aider à la mise en place des plats pour le service",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve de rigueur et de précision",
-        "Faire preuve de réactivité",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
-        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
-        "Production, Fabrication\tDresser des plats pour le service",
-        "Production, Fabrication\tDécouper et tailler les légumes, fruits et condiments",
-        "Production, Fabrication\tEplucher des légumes et des fruits",
-        "Production, Fabrication\tManipuler des équipements de cuisine",
-        "Production, Fabrication\tOptimiser l'utilisation des ressources alimentaires",
-        "Production, Fabrication\tPréparer des ustensiles de cuisine",
-        "Production, Fabrication\tPréparer et réaliser les pâtes, appareils et crèmes pour les desserts",
-        "Production, Fabrication\tPréparer les viandes et les poissons",
-        "Production, Fabrication\tPrésenter et décorer les préparations selon les consignes",
-        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
-        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Protection des personnes et de l'environnement\tAppliquer les écogestes dans sa pratique",
-        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
-        "Communication\tMaintenir une communication efficace avec la direction",
-        "Communication\tS'intégrer dans l'équipe et faire preuve de coopération",
-        "Organisation\tAssurer le respect des normes de sécurité alimentaire",
-        "Organisation\tMaintenir un environnement de travail propre et organisé",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
-        "Organisation\tRéaliser ses activités selon les étapes et les temps impartis"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une qualification de niveau 3 (CAP) de l'hôtellerie/restauration."
-      ],
-      "publication": {
-        "creation": "2026-08-26T10:14:25.033Z",
-        "expiration": "2026-10-26T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-        "Avez-vous déjà réalisé une expérience (stage, job, bénévolat) en lien avec ce poste ?",
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
-      ]
-    },
-    "is_delegated": true
-  },
-  {
-    "identifier": {
-      "id": "6a8ea74141b0a0e294ad4627",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a8ea74141b0a0e294ad4627"
-    },
-    "workplace": {
-      "siret": "32922456200655",
-      "brand": null,
-      "legal_name": "LA COMPAGNIE DE FORMATION",
-      "website": null,
-      "name": "LA COMPAGNIE DE FORMATION",
-      "description": null,
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "140 Rue Robert Koch 34090 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            4.094236,
-            43.556871
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "55.10Z",
-          "label": "Hôtels et hébergement similaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a8ea74141b0a0e294ad4627/demi-chef-de-rang-en-apprentissage",
-      "phone": null,
-      "recipient_id": "partners_6a8ea74141b0a0e294ad4627"
-    },
-    "contract": {
-      "start": "2026-08-26T08:43:45.879Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "demi-chef de rang en apprentissage",
-      "rome_codes": [
-        "G1810"
-      ],
-      "description": "Le Chef de rang orchestre le service des tables au sein du restaurant. Organise et prépare la mise en place de son rang avant le service Anime et coordonne les activités de son équipe de serveurs Accueille et conseille les clients avec professionnalisme Prend les commandes et veille à leur bonne exécution en cuisine Veille au bon déroulement du service à table Contrôle la satisfaction des clients et gère les éventuelles réclamations",
-      "target_diploma": {
-        "european": "5",
-        "label": "BTS, DEUST (Bac+2)"
-      },
-      "desired_skills": [
-        "Avoir le sens du service",
-        "Faire preuve de contrôle de soi",
-        "Faire preuve de leadership",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Management\tAnimer, coordonner une équipe",
-        "Management\tAssurer un débriefing auprès de l'équipe",
-        "Gestion des Ressources Humaines\tEtre attentif à la bonne intégration de chaque nouveau collaborateur",
-        "Production, Fabrication\tVeiller à la présentation soignée des plats",
-        "Aménagement\tRéaliser la mise en place de la salle et de l'office",
-        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
-        "Gestion des stocks\tParticiper à la gestion des stocks de nourriture et de boissons",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Gestion administrative et comptable\tGérer une caisse",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Pilotage et maîtrise des coûts\tSaisir une commande sur informatique",
-        "Droit, contentieux et négociation\tGérer les plaintes de manière professionnelle",
-        "Protection des personnes et de l'environnement\tAssister et aider les personnes en attendant les secours",
-        "Protection des personnes et de l'environnement\tIntégrer l'éco-responsabilité dans toutes les dimensions de son activité",
-        "Relation client\tAccueillir le client et l'installer",
-        "Relation client\tConseiller le client dans ses choix de boissons ou plats selon ses goûts",
-        "Relation client\tEffectuer le service des plats à table",
-        "Relation client\tGarantir la satisfaction du client",
-        "Relation client\tGérer les retours des clients pour améliorer les services",
-        "Relation client\tPrendre une commande client",
-        "Relation client\tProposer des produits additionnels",
-        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
-        "Communication\tAssurer une communication claire et efficace avec l'équipe",
-        "Communication\tParler une ou plusieurs langues étrangères",
-        "Communication\tRendre compte de son action, de risques ou d'anomalies au responsable",
-        "Communication\tS'exprimer avec politesse et courtoisie",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une qualification de niveau CAP à Bac+2."
-      ],
-      "publication": {
-        "creation": "2026-08-26T08:43:45.879Z",
-        "expiration": "2026-10-26T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-        "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?",
-        "Avez-vous déjà réalisé une expérience (stage, job, bénévolat) en lien avec ce poste ?"
-      ]
-    },
-    "is_delegated": true
-  },
-  {
-    "identifier": {
       "id": "6a70caf6bb092dca9f125bf7",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a70caf6bb092dca9f125bf7"
@@ -6012,7 +5788,7 @@
       "recipient_id": "partners_6a4f7377a8013626d33338b9"
     },
     "contract": {
-      "start": "2026-09-01T08:48:01.896Z",
+      "start": "2026-10-26T09:29:51.795Z",
       "start_type": "des_que_possible",
       "start_is_flexible": false,
       "duration": 24,
@@ -6071,127 +5847,13 @@
       ],
       "publication": {
         "creation": "2026-07-09T10:09:59.315Z",
-        "expiration": "2026-11-01T00:00:00.000Z"
+        "expiration": "2026-12-26T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active",
       "to_applicant_questions": []
     },
     "is_delegated": true
-  },
-  {
-    "identifier": {
-      "id": "6a4cbba9689956564490ae61",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a4cbba9689956564490ae61"
-    },
-    "workplace": {
-      "siret": "35135720700031",
-      "brand": null,
-      "legal_name": "PAGES",
-      "website": null,
-      "name": "PAGES",
-      "description": "Nous sommes fabricants de matériel viticole et spécialisés dans la conception et la fabrication d'interceps mécaniques destinés au travail du sol dans la vigne. Entreprise familiale située dans l'Hérault à SERVIAN (34290)",
-      "size": "Non diffusé",
-      "location": {
-        "address": "9 RUE DE L'ARTISANAT 34290 SERVIAN",
-        "geopoint": {
-          "coordinates": [
-            3.312363,
-            43.389945
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "46.61Z",
-          "label": "Commerce de gros (commerce interentreprises) de matériel agricole"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a4cbba9689956564490ae61/technicien-technicienne-de-maintenance-en-matériels-agricoles",
-      "phone": null,
-      "recipient_id": "partners_6a4cbba9689956564490ae61"
-    },
-    "contract": {
-      "start": "2026-08-31T06:28:10.728Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien / Technicienne de maintenance en matériels agricoles",
-      "rome_codes": [
-        "I1603"
-      ],
-      "description": "Au croisement de la mécanique et du monde agricole, son rôle clé est l'entretien et l'optimisation des équipements agricoles. Diagnostique les pannes et effectue les réparations nécessaires sur divers matériels agricoles. Réalise des opérations de maintenance préventive et corrective pour assurer la longévité des équipements. Utilise des outils de diagnostic électronique pour identifier les défaillances et optimiser les réglages. Peut intervenir directement sur le terrain pour réparer des machines en panne, minimisant ainsi les temps d'arrêt. Conseille les agriculteurs sur l'utilisation optimale et l'entretien de leurs équipements. Gère l'inventaire des pièces détachées et passe des commandes pour maintenir un stock adéquat.",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Etre force de proposition",
-        "Faire preuve d'autonomie",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Conseil, Transmission\tAccompagner les clients et utilisateurs dans la prise en main de l'équipement",
-        "Conseil, Transmission\tFormer les utilisateurs à l'opération sécuritaire des machines",
-        "Maintenance, Réparation\tAssurer la maintenance préventive des équipements agricoles",
-        "Maintenance, Réparation\tChanger ou réparer une pièce ou un ensemble défectueux",
-        "Maintenance, Réparation\tContrôler les circuits hydrauliques et échanger les composants",
-        "Maintenance, Réparation\tContrôler, remplacer, régler les équipements périphériques du moteur thermique",
-        "Maintenance, Réparation\tDiagnostiquer les pannes mécaniques ou électroniques",
-        "Maintenance, Réparation\tEntretenir et contrôler les circuits électriques et électroniques embarqués",
-        "Maintenance, Réparation\tEntretenir et contrôler les embrayages et transmissions",
-        "Maintenance, Réparation\tEntretenir et contrôler les systèmes de freinage et les pneumatiques",
-        "Maintenance, Réparation\tOptimiser les procédures de réparation des équipements agricoles",
-        "Maintenance, Réparation\tPrendre en charge un matériel pour réaliser les opérations d'entretien programmé",
-        "Maintenance, Réparation\tRemettre en état et dépanner les circuits et composants électriques et électroniques embarqués des matériels agricoles",
-        "Maintenance, Réparation\tRemettre en état et dépanner les moteurs thermiques des matériels agricoles",
-        "Maintenance, Réparation\tRemettre en état et dépanner les organes de transmission et de freinage des matériels agricoles",
-        "Maintenance, Réparation\tRemettre en état les organes et dépanner les circuits hydrauliques des matériels agricoles",
-        "Maintenance, Réparation\tRéaliser l'entretien périodique des machines et équipements selon les préconisations du constructeur",
-        "Maintenance, Réparation\tRéaliser la maintenance des équipements spécifiques du machinisme agricole",
-        "Maintenance, Réparation\tRéaliser un dépannage sur site (terrain agricole, route, ...) ou le remorquage d'un engin (engin de chantier, machine agricole, ...)",
-        "Maintenance, Réparation\tRéparer des éléments assemblés vissés et pièces mécano-soudées",
-        "Maintenance, Réparation\tVérifier la conformité des équipements utilisés",
-        "Prévention des risques\tInspecter régulièrement les machines agricoles pour assurer leur fonctionnalité",
-        "Prévention des risques\tManœuvrer les matériels en sécurité",
-        "Prévention des risques\tUtiliser les appareils de métrologie et de tests adaptés pour s'assurer du bon fonctionnement de l'équipement",
-        "Qualité\tRéaliser les essais de fonctionnement des matériels agricoles",
-        "Gestion des stocks\tGérer l'inventaire des pièces de rechange",
-        "Pilotage et maîtrise des coûts\tEvaluer les coûts de réparation et préparer des devis détaillés",
-        "Relation client\tConseiller les agriculteurs sur l'entretien des machines",
-        "Stratégie de développement\tAnalyser les performances des engins après réparation",
-        "Communication\tFavoriser un environnement de travail collaboratif",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une formation de niveau CAP/BEP, Bac Pro ou encore BTS en mécanique et/ou maintenance de matériels agricoles. La connaissance du monde agricole est toutefois un atout."
-      ],
-      "publication": {
-        "creation": "2026-07-07T08:41:13.737Z",
-        "expiration": "2026-10-31T00:00:00.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?",
-        "Avez-vous déjà réalisé une expérience (stage, job, bénévolat) en lien avec ce poste ?",
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
-      ]
-    },
-    "is_delegated": false
   },
   {
     "identifier": {
@@ -9163,6 +8825,80 @@
   },
   {
     "identifier": {
+      "id": "6968b8642fd23d7ccdf738c5",
+      "partner_label": "Hellowork",
+      "partner_job_id": "e081c099-a375-4f6b-be2d-ee6778609158"
+    },
+    "workplace": {
+      "siret": "78916932300019",
+      "brand": null,
+      "legal_name": "LES MOUSQUETAIRES",
+      "website": null,
+      "name": "LES MOUSQUETAIRES",
+      "description": "Rejoindre le Groupement Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec  7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !\n\nIntermarché, c'est l'enseigne historique du Groupement Mousquetaires. Son positionnement unique de Producteurs &amp; Commerçants fait sa force. S'appuyant sur le du Groupement Mousquetaires, Intermarché propose des produits sains, accessibles et issus d'une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c'est l'engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l'ensemble du territoire.\n\nLe magasin Intermarché de Saint Gély du Fesc, pour poursuivre ses engagements et la valorisation des bons produits locaux et accessibles, renforce son équipe en recrutant un Assistant Comptable en alternance H/F.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.813999,
+            43.685148
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJ4gGe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F71677962.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D71677962",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Assistant Comptable en Alternance H/F",
+      "rome_codes": [
+        "M1213"
+      ],
+      "description": "Vous participez à la performance du point de vente, par la gestion de la comptabilité fournisseur. Interlocuteur clé des équipes et de la Direction, vous assurez la gestion de ces activités en alternant période en entreprise et dans votre établissement scolaire.\n\nVous aurez notamment pour missions :\n\n- La gestion de la comptabilité fournisseur (pointage des factures, établissement des règlements, contrat commerciaux, ...)\n- La communication du magasin\n- Le recrutement\n- ...",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Chez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\n\nDe formation Bac ou plus, vous souhaitez vous former dans le domaine de la comptabilité dans la grande distribution.\n\nVous êtes reconnu pour votre sens de la confidentialité, votre organisation, votre rigueur et votre autonomie. Vous avez un esprit d'analyse et de synthèse. Vous savez mettre à jour vos connaissances. Vous êtes à l'aise avec les différents outils informatiques.\n\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\n\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-24T20:10:01.000Z",
+        "expiration": "2026-12-24T20:10:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6adc5f44149b034bd053a96c",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56814066"
@@ -10452,7 +10188,7 @@
       "legal_name": "EMEIS",
       "website": null,
       "name": "EMEIS",
-      "description": "La Clinique La Lironde est un établissement de psychiatrie générale, situé en périphérie de Montpellier. Implanté au coeur d'un agréable parc arboré de 4 hectares, notre établissement offre à ses patients un accueil de qualité dans un environnement privilégié.\nNotre clinique psychiatrique assure le suivi psychiatrique et le traitement psychothérapeutique des maladies psychiques de l'adulte et dispose également d'un service d'hospitalisation dédié aux adolescents âgés de 12 à 18 ans.\nNotre équipe médicale expérimentée dans les différents secteurs de la pathologie mentale et des suivis thérapeutiques, collabore avec un réseau de soins, en vue d'une prise en charge globale du patient.",
+      "description": "La Clinique La Lironde est un établissement de psychiatrie générale, situé en périphérie de Montpellier. Implanté au coeur d'un agréable parc arboré de 4 hectares, notre établissement offre à ses patients un accueil de qualité dans un environnement privilégié.\nNotre clinique psychiatrique assure le suivi psychiatrique et le traitement psychothérapeutique des maladies psychiques de l'adulte et dispose également d'un service d'hospitalisation dédié aux adolescents âg��s de 12 à 18 ans.\nNotre équipe médicale expérimentée dans les différents secteurs de la pathologie mentale et des suivis thérapeutiques, collabore avec un réseau de soins, en vue d'une prise en charge globale du patient.",
       "size": "10 000 salariés et plus",
       "location": {
         "address": "34980 Montferrier-sur-Lez",
@@ -12013,9 +11749,9 @@
   },
   {
     "identifier": {
-      "id": "6ad5c8005334fda8505e7a2b",
+      "id": "6ad5c7fe5334fda8505e7a2a",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56753533"
+      "partner_job_id": "56753532"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -12026,11 +11762,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34450 Vias",
+        "address": "34420 Portiragnes",
         "geopoint": {
           "coordinates": [
-            3.395237,
-            43.301474
+            3.344913,
+            43.297541
           ],
           "type": "Point"
         }
@@ -12045,9 +11781,78 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753533?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56753532?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6ad5c8005334fda8505e7a2b"
+      "recipient_id": "partners_6ad5c7fe5334fda8505e7a2a"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T07:36:20.353Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ad5c7fc2c77d038809ded7e",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56753530"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34420 Portiragnes",
+        "geopoint": {
+          "coordinates": [
+            3.344913,
+            43.297541
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56753530?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ad5c7fc2c77d038809ded7e"
     },
     "contract": {
       "start": null,
@@ -12220,9 +12025,9 @@
   },
   {
     "identifier": {
-      "id": "6ad5c7fe5334fda8505e7a2a",
+      "id": "6ad5c8005334fda8505e7a2b",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56753532"
+      "partner_job_id": "56753533"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -12233,11 +12038,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34420 Portiragnes",
+        "address": "34450 Vias",
         "geopoint": {
           "coordinates": [
-            3.344913,
-            43.297541
+            3.395237,
+            43.301474
           ],
           "type": "Point"
         }
@@ -12252,78 +12057,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753532?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56753533?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6ad5c7fe5334fda8505e7a2a"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-19T07:36:20.353Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad5c7fc2c77d038809ded7e",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56753530"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34420 Portiragnes",
-        "geopoint": {
-          "coordinates": [
-            3.344913,
-            43.297541
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753530?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6ad5c7fc2c77d038809ded7e"
+      "recipient_id": "partners_6ad5c8005334fda8505e7a2b"
     },
     "contract": {
       "start": null,
@@ -12788,6 +12524,282 @@
   },
   {
     "identifier": {
+      "id": "6acfb88deb1fb948b46ac9e7",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676042"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34600 Bédarieux",
+        "geopoint": {
+          "coordinates": [
+            3.154586,
+            43.613706
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676042?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb88deb1fb948b46ac9e7"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb89822ce23a2ad44535d",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676054"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34450 Vias",
+        "geopoint": {
+          "coordinates": [
+            3.395237,
+            43.301474
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb88f22ce23a2ad445356",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676045"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676045?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb88f22ce23a2ad445356"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb89deb1fb948b46ac9ef",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676060"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676060?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb89deb1fb948b46ac9ef"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acfb892eb1fb948b46ac9e8",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56676048"
@@ -12926,144 +12938,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb89deb1fb948b46ac9ef",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676060"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676060?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb89deb1fb948b46ac9ef"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb89822ce23a2ad44535d",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676054"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.395237,
-            43.301474
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb7b3eb1fb948b46ac92d",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56673770"
@@ -13133,75 +13007,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb88f22ce23a2ad445356",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676045"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34240 Lamalou-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.079984,
-            43.596729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676045?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb88f22ce23a2ad445356"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb88beb1fb948b46ac9e4",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56676041"
@@ -13237,75 +13042,6 @@
       "url": "https://www.directemploi.com/candidatOffre/56676041?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6acfb88beb1fb948b46ac9e4"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb88deb1fb948b46ac9e7",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676042"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34600 Bédarieux",
-        "geopoint": {
-          "coordinates": [
-            3.154586,
-            43.613706
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676042?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb88deb1fb948b46ac9e7"
     },
     "contract": {
       "start": null,
@@ -14168,6 +13904,75 @@
   },
   {
     "identifier": {
+      "id": "6acfb1f7eb1fb948b46ac403",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56591546"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34130 Mauguio",
+        "geopoint": {
+          "coordinates": [
+            3.976877,
+            43.587984
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56591546?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb1f7eb1fb948b46ac403"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T16:51:50.139Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acfb1f9eb1fb948b46ac404",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56591547"
@@ -14375,75 +14180,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb1f7eb1fb948b46ac403",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56591546"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34130 Mauguio",
-        "geopoint": {
-          "coordinates": [
-            3.976877,
-            43.587984
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591546?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb1f7eb1fb948b46ac403"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T16:51:50.139Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb19b22ce23a2ad444d03",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56591445"
@@ -14513,9 +14249,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb19d22ce23a2ad444d05",
+      "id": "6acfb1a422ce23a2ad444d0f",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56591446"
+      "partner_job_id": "56591451"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14526,11 +14262,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34540 Balaruc-le-Vieux",
+        "address": "34200 Sète",
         "geopoint": {
           "coordinates": [
-            3.689893,
-            43.466263
+            3.687298,
+            43.40682
           ],
           "type": "Point"
         }
@@ -14545,9 +14281,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591446?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56591451?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb19d22ce23a2ad444d05"
+      "recipient_id": "partners_6acfb1a422ce23a2ad444d0f"
     },
     "contract": {
       "start": null,
@@ -14651,9 +14387,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb1a422ce23a2ad444d0f",
+      "id": "6acfb19d22ce23a2ad444d05",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56591451"
+      "partner_job_id": "56591446"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14664,11 +14400,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34200 Sète",
+        "address": "34540 Balaruc-le-Vieux",
         "geopoint": {
           "coordinates": [
-            3.687298,
-            43.40682
+            3.689893,
+            43.466263
           ],
           "type": "Point"
         }
@@ -14683,9 +14419,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591451?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56591446?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb1a422ce23a2ad444d0f"
+      "recipient_id": "partners_6acfb19d22ce23a2ad444d05"
     },
     "contract": {
       "start": null,
@@ -14996,75 +14732,6 @@
   },
   {
     "identifier": {
-      "id": "6acfa75922ce23a2ad44431d",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "54404122"
-    },
-    "workplace": {
-      "siret": "40125156602093",
-      "brand": null,
-      "legal_name": "EMEIS",
-      "website": "https://www.emeis-group.com/",
-      "name": "EMEIS",
-      "description": "<p>L'ACCOMPAGNEMENT ET LE SOIN PERSONNALISÉS POUR CHAQUE PERSONNE FRAGILISÉE</p><p>Nous sommes 76 000 médecins, infirmiers, aides-soignants, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles :</p><p>- Au sein de nos maisons de retraite (EHPAD)<br />- Au sein de nos cliniques de soins médicaux et de réadaptation<br />- Au sein de nos cliniques de santé mentale<br />- Avec des services d’aide à domicile.</p><p>Nous proposons à chacune des personnes dont nous prenons soin un parcours sur-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation). Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident, patient et bénéficiaire est unique.</p><p>Chez emeis, nous sommes forces de vie.</p>",
-      "size": "10 000 salariés et plus",
-      "location": {
-        "address": "34230 Usclas-d'Hérault",
-        "geopoint": {
-          "coordinates": [
-            3.462912,
-            43.521255
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/54404122?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfa75922ce23a2ad44431d"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Cuisinier.ère en alternance - St Clement de Rivière (34)",
-      "rome_codes": [
-        "G1606"
-      ],
-      "description": "<p>Nous mettons les petits plats dans les grands pour nos alternant.e.s en restauration ! Qui sommes-nous ? L’accompagnement et le soin personnalisés pour chaque personne fragiliséeNous sommes 83 500 médecins, infirmier.ère.s, aides-soignant.e.s, auxiliaires de vie, rééducateur.trice.s, psychologues, cuisinier.ère.s, gouvernant.e.s, et métiers d’appui… engagé.e.s chaque jour auprès des plus fragiles :· Au sein de nos maisons de retraite (EHPAD)· Au sein de nos cliniques de soins médicaux et de réadaptation· Au sein de nos cliniques de santé mentale· Avec des services d’aide à domicile.Nous proposons à chacune des personnes dont nous prenons soin un parcours sur-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation).Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident.e, patient.e et bénéficiaire est unique. Chez emeis, nous sommes forces de vie. Vos missions, si vous les acceptez :Vous participez à la qualité de la prestation de restauration pour nos patients et assurez leur sécurité alimentaire (contrôles de T°, traçabilité…). Au cours de votre alternance, vous pourrez être amené.e selon votre niveau de formation :Apprendre et respecter les normes HACCP en cuisine,Participer à la plonge et au nettoyage de la cuisine,Participer à la fabrication des plats en tenant compte des régimes particuliers et des préconisations de l’équipe soignante,Respecter les conditions de fabrication (traçabilité, températures et refroidissement),Dresser les préparations en respectant les zones de fabrication,Respecter les recettes mises à disposition par le.la chef.fe de cuisine,Participerez à l’amélioration de la prestation de cuisine en collaboration avec l’équipe Ce que vous aimerez chez nous :Exercer des missions utiles, porteuses de sens et d'impact ;Construire une carrière épanouissante et riche d’opportunités dans le secteur du soin ;Travailler au sein d’une équipe solidaire dans laquelle chacun compte, apprend des autres et s'entraide ;Être accompagné par un tuteur dédié, mais aussi bénéficier de l’expérience de toute une équipe ;Rejoindre une communauté d’alternant.e.s qui, comme vous, s’investit dans un métier d’avenir. Plus qu'une alternance, c'est un parcours que nous vous proposons et nous serons là pour vous aider à le construire.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T16:06:26.251Z",
-        "expiration": "2026-11-18T16:27:38.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfa757eb1fb948b46ab9d7",
       "partner_label": "Direct Emploi",
       "partner_job_id": "54404116"
@@ -15118,6 +14785,75 @@
         "I1309"
       ],
       "description": "<p>Agent.e de maintenance ou futur.e Agent.e de maintenance, et si c’était vous notre talent de demain ?Vous aimez la polyvalence de votre métier et souhaitez contribuer au bien-être et confort de nos résidents/patients ? Vous êtes au bon endroit ! Quel que soit votre parcours ou vos diplômes, nous avons une opportunité pour vous ! Nous accompagnons, grâce à la formation, les personnes désireuses d'apprendre un nouveau métier ou souhaitant entreprendre une reconversion professionnelle.Au sein d'emeis, nous recherchons avant tout des personnes engagées et enthousiastes pour rejoindre nos équipes et exercer à nos côtés une mission porteuse de sens ! Vos missions :Veiller aux respect des normes de sécurité et au confort des personnes,Tenir à jour le registre de sécurité et le carnet sanitaire,Mise en œuvre des activités de prévention et sensibilisation du personnel au risque incendie,Assurer le bon fonctionnement des équipements des installations concourant à la sécurité des personnes, des biens et de l’environnement,Piloter et assurer le suivi des entretiens préventifs prévus avec les sociétés de maintenance et les visites des bureaux de contrôle,Utiliser un logiciel GMAO dans le cadre des opérations de maintenance,Faire chiffrer les travaux correctifs pour son établissement,Assister le chargé d’affaires maintenance pour faire chiffrer les travaux d’investissement (visite avec entreprise, métrés…),Organiser, suivre et réceptionner des travaux ou des levées de réserves auprès des prestataires externes et sociétés de maintenance,Piloter l’entretien des espaces verts,Gérer les commandes et les stocks des consommables et outillages nécessaire à la maintenance du bâtiment.Assurer une bonne communication et un reporting auprès de sa Direction et du chargé d’affaire maintenance,Piloter les consommations énergétiques en lien avec la Direction d’établissement et le chargé d’affaires maintenance. Rejoindre emeis, c’est aussi trouver :Le sens et l’utilité de vos missions au quotidien ;Une équipe solidaire dans laquelle chacun compte ;L’opportunité de contribuer à la santé et au bien-être des plus fragiles ;La possibilité de développer vos compétences, diversifier vos connaissances et enrichir votre parcours à travers des formations personnalisées ;Des possibilités d’évoluer dans votre métier.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T16:06:26.251Z",
+        "expiration": "2026-11-18T16:27:38.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfa75922ce23a2ad44431d",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "54404122"
+    },
+    "workplace": {
+      "siret": "40125156602093",
+      "brand": null,
+      "legal_name": "EMEIS",
+      "website": "https://www.emeis-group.com/",
+      "name": "EMEIS",
+      "description": "<p>L'ACCOMPAGNEMENT ET LE SOIN PERSONNALISÉS POUR CHAQUE PERSONNE FRAGILISÉE</p><p>Nous sommes 76 000 médecins, infirmiers, aides-soignants, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles :</p><p>- Au sein de nos maisons de retraite (EHPAD)<br />- Au sein de nos cliniques de soins médicaux et de réadaptation<br />- Au sein de nos cliniques de santé mentale<br />- Avec des services d’aide à domicile.</p><p>Nous proposons à chacune des personnes dont nous prenons soin un parcours sur-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation). Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident, patient et bénéficiaire est unique.</p><p>Chez emeis, nous sommes forces de vie.</p>",
+      "size": "10 000 salariés et plus",
+      "location": {
+        "address": "34230 Usclas-d'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.462912,
+            43.521255
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/54404122?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfa75922ce23a2ad44431d"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Cuisinier.ère en alternance - St Clement de Rivière (34)",
+      "rome_codes": [
+        "G1606"
+      ],
+      "description": "<p>Nous mettons les petits plats dans les grands pour nos alternant.e.s en restauration ! Qui sommes-nous ? L’accompagnement et le soin personnalisés pour chaque personne fragiliséeNous sommes 83 500 médecins, infirmier.ère.s, aides-soignant.e.s, auxiliaires de vie, rééducateur.trice.s, psychologues, cuisinier.ère.s, gouvernant.e.s, et métiers d’appui… engagé.e.s chaque jour auprès des plus fragiles :· Au sein de nos maisons de retraite (EHPAD)· Au sein de nos cliniques de soins médicaux et de réadaptation· Au sein de nos cliniques de santé mentale· Avec des services d’aide à domicile.Nous proposons à chacune des personnes dont nous prenons soin un parcours sur-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation).Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident.e, patient.e et bénéficiaire est unique. Chez emeis, nous sommes forces de vie. Vos missions, si vous les acceptez :Vous participez à la qualité de la prestation de restauration pour nos patients et assurez leur sécurité alimentaire (contrôles de T°, traçabilité…). Au cours de votre alternance, vous pourrez être amené.e selon votre niveau de formation :Apprendre et respecter les normes HACCP en cuisine,Participer à la plonge et au nettoyage de la cuisine,Participer à la fabrication des plats en tenant compte des régimes particuliers et des préconisations de l’équipe soignante,Respecter les conditions de fabrication (traçabilité, températures et refroidissement),Dresser les préparations en respectant les zones de fabrication,Respecter les recettes mises à disposition par le.la chef.fe de cuisine,Participerez à l’amélioration de la prestation de cuisine en collaboration avec l’équipe Ce que vous aimerez chez nous :Exercer des missions utiles, porteuses de sens et d'impact ;Construire une carrière épanouissante et riche d’opportunités dans le secteur du soin ;Travailler au sein d’une équipe solidaire dans laquelle chacun compte, apprend des autres et s'entraide ;Être accompagné par un tuteur dédié, mais aussi bénéficier de l’expérience de toute une équipe ;Rejoindre une communauté d’alternant.e.s qui, comme vous, s’investit dans un métier d’avenir. Plus qu'une alternance, c'est un parcours que nous vous proposons et nous serons là pour vous aider à le construire.</p>",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -17874,7 +17610,7 @@
       "rome_codes": [
         "D1106"
       ],
-      "description": "Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente / OU VCO OU BTS MCO.\n\nVous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 à 2 ans\n\nVotre formation :\n\nLes techniques de commercialisation et de vente de produits ou de services en boulangerie.  \nLes connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ?\n\n- Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.\n- Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.\n- Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.\n- Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.\n- Contribuer aux actions commerciales et à l'animation de la boutique.\n\n.   \nVous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.\n\nVous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  \nVous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  \n  \nDans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajout��e sur la pratique liée à vos études et à l'amour du terrain.\n\nEt l'organisation chez Ange, ça donne quoi ?  \nAfin de permettre une bonne rotation des plannings de chaque membre de l'équipe, vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.  \nCompte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.\n\nATTENTION LIEU DE TRAVAIL EN HYPER CENTRE DE BEZIERS A COTES DES HALLES DE BEZIERS AVEC STATIONNEMENT COMPLIQUE.",
+      "description": "Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente / OU VCO OU BTS MCO.\n\nVous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 à 2 ans\n\nVotre formation :\n\nLes techniques de commercialisation et de vente de produits ou de services en boulangerie.  \nLes connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ?\n\n- Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.\n- Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.\n- Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.\n- Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.\n- Contribuer aux actions commerciales et à l'animation de la boutique.\n\n.   \nVous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.\n\nVous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  \nVous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  \n  \nDans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain.\n\nEt l'organisation chez Ange, ça donne quoi ?  \nAfin de permettre une bonne rotation des plannings de chaque membre de l'équipe, vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.  \nCompte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.\n\nATTENTION LIEU DE TRAVAIL EN HYPER CENTRE DE BEZIERS A COTES DES HALLES DE BEZIERS AVEC STATIONNEMENT COMPLIQUE.",
       "target_diploma": {
         "european": "5",
         "label": "BTS, DEUST (Bac+2)"
@@ -18450,80 +18186,6 @@
   },
   {
     "identifier": {
-      "id": "6968b8642fd23d7ccdf738c5",
-      "partner_label": "Hellowork",
-      "partner_job_id": "e081c099-a375-4f6b-be2d-ee6778609158"
-    },
-    "workplace": {
-      "siret": "78916932300019",
-      "brand": null,
-      "legal_name": "LES MOUSQUETAIRES",
-      "website": null,
-      "name": "LES MOUSQUETAIRES",
-      "description": "Rejoindre le Groupement Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec  7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !\n\nIntermarché, c'est l'enseigne historique du Groupement Mousquetaires. Son positionnement unique de Producteurs &amp; Commerçants fait sa force. S'appuyant sur le du Groupement Mousquetaires, Intermarché propose des produits sains, accessibles et issus d'une production française et responsable. Agir pour placer le mieux manger à la portée de tous, c'est l'engagement qui anime les équipes au quotidien. Et ce modèle plaît ; Intermarché, enseigne solidaire et de proximité, figure parmi les enseignes de grande distribution préférées des Français qui bénéficient directement de ses 1 800 points de vente répartis sur l'ensemble du territoire.\n\nLe magasin Intermarché de Saint Gély du Fesc, pour poursuivre ses engagements et la valorisation des bons produits locaux et accessibles, renforce son équipe en recrutant un Assistant Comptable en alternance H/F.",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34980 Saint-Gély-du-Fesc",
-        "geopoint": {
-          "coordinates": [
-            3.813999,
-            43.685148
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4gGe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F71677962.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D71677962",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Assistant Comptable en Alternance H/F",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "Vous participez à la performance du point de vente, par la gestion de la comptabilité fournisseur. Interlocuteur clé des équipes et de la Direction, vous assurez la gestion de ces activités en alternant période en entreprise et dans votre établissement scolaire.\n\nVous aurez notamment pour missions :\n\n- La gestion de la comptabilité fournisseur (pointage des factures, établissement des règlements, contrat commerciaux, ...)\n- La communication du magasin\n- Le recrutement\n- ...",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Chez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\n\nDe formation Bac ou plus, vous souhaitez vous former dans le domaine de la comptabilité dans la grande distribution.\n\nVous êtes reconnu pour votre sens de la confidentialité, votre organisation, votre rigueur et votre autonomie. Vous avez un esprit d'analyse et de synthèse. Vous savez mettre à jour vos connaissances. Vous êtes à l'aise avec les différents outils informatiques.\n\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\n\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-23T20:14:39.000Z",
-        "expiration": "2026-11-23T20:14:39.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab2ff237caaafd3f596a472",
       "partner_label": "France Travail",
       "partner_job_id": "7103238"
@@ -18583,6 +18245,77 @@
       "publication": {
         "creation": "2026-09-22T21:18:08.829Z",
         "expiration": "2026-11-22T21:18:08.829Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ade8b38ec4f5594ab3e180d",
+      "partner_label": "ATS_Hellowork",
+      "partner_job_id": "4351351/30657441AMPD/19B"
+    },
+    "workplace": {
+      "siret": "34326067500040",
+      "brand": null,
+      "legal_name": "TRESSOL CHABRIER",
+      "website": null,
+      "name": "TRESSOL CHABRIER",
+      "description": "Acteur majeur de l'automobile dans le sud de la France, nous sommes un groupe de distribution très dynamique présent dans 26 villes en Occitanie, PACA et Nouvelle Aquitaine.\r\nLe groupe Tressol Chabrier c'est 72 points de vente et 34 marques Auto/Moto.",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.11Z",
+          "label": "Commerce de voitures et de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6ade8b38ec4f5594ab3e180d/apprenti-magasinier-pièces-détachées-h-f",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Magasinier Pièces Détachées (H/F)",
+      "rome_codes": [
+        "D1223"
+      ],
+      "description": "Passionné(e) de mécanique, vous souhaitez approfondir vos connaissances en pièces détachées ?\r\n\r\n \r\nNous recherchons au sein de notre concession Citroën située à Béziers, notre futur(e) Apprenti(e) Magasinier pièces détachées (H/F) en contrat d'alternance.\r\n\r\n \r\nAu sein de notre magasin de pièces détachées et sous la responsabilité de votre Maître d'apprentissage, vous assurerez la réception des commandes de pièces (identification, vérification) ainsi que son stockage et la saisie informatique.\r\n\r\n \r\nVous préparerez et contrôlerez les commandes pour nos clients ainsi que leur expédition dans les délais impartis.\r\n\r\n \r\nVous réaliserez les inventaires des produits et repérerez les anomalies de stock.\r\n\r\n \r\nDans un deuxième temps, vous servirez l'atelier en pièces détachées.\r\nNos avantages :\r\n\r\n- Tickets restaurant\r\n- Mutuelle avec participation employeur\r\n- Environnement de travail bienveillant et stimulant\r\n- Parcours d'intégration et formation tout au long de votre carrière",
+      "target_diploma": null,
+      "desired_skills": [
+        "Nous vous proposons de vous accompagner dans l'apprentissage de votre futur métier de magasinier et d'intégrer un Groupe solide dans lequel vous pourrez vous inscrire au-delà de votre période de formation (type Bac Pro Logistique ou préparateur de commande)\r\n\r\n&nbsp;\r\nDynamique, autonome et motivé(e), vous êtes passionné(e) par la logistique et possédez un fort esprit d'équipe : alors n'hésitez plus et rejoignez nos équipes !"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-22T12:05:20.000Z",
+        "expiration": "2026-11-22T12:05:20.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -19596,76 +19329,6 @@
       "publication": {
         "creation": "2026-09-09T09:16:41.548Z",
         "expiration": "2026-11-09T09:16:41.548Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa1d7675f46a1ba3de19831",
-      "partner_label": "Les emplois de l'inclusion",
-      "partner_job_id": "180230"
-    },
-    "workplace": {
-      "siret": "53012370200033",
-      "brand": null,
-      "legal_name": "GEIQ OC AGRI",
-      "website": "https://www.crge-occitanie.fr/groupements-d-employeurs/gedar-geiq-oc-agri-vignemploi/",
-      "name": "GEIQ OC AGRI",
-      "description": "Vign’emploi est une initiative née de la volonté de simplifier et de renforcer l’emploi dans la filière viticole. Cette bannière commune réunit deux structures complémentaires créées par et pour les professionnels :\r\n\r\n    Le Groupement d’Employeurs GEDAR\r\n    Le GEIQ Oc Agri\r\n\r\nEnsemble, elles apportent des solutions concrètes, humaines et adaptées aux besoins de la vigne et du vin !",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 9341,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa1d7675f46a1ba3de19831/agent-viticole",
-      "phone": null,
-      "recipient_id": "partners_6aa1d7675f46a1ba3de19831"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "agent viticole",
-      "rome_codes": [
-        "A1418"
-      ],
-      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \r\nSecteur d'activité autour de MONTPELLIER (34).\r\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\r\n\r\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\r\n4 blocs de compétences certifiés indépendamment les uns des autres :\r\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\r\n- Travaux mécanisés de conduite du vignoble\r\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\r\n- Opérations de vinification\r\n\r\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\r\n400h de formation\r\nAlternance en Entreprise\r\nIndemnité repas: 2.66 € / jour\r\nIndemnité transport: 1.75 € / jour\r\n\r\nposte à pourvoir à compter du 19/10/2026",
-      "target_diploma": null,
-      "desired_skills": [
-        "personne motivée avec un attrait pour les postes en viticulture"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-09T09:15:49.187Z",
-        "expiration": "2026-11-09T09:15:49.187Z"
       },
       "opening_count": 1,
       "status": "Active",
