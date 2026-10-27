@@ -1,6 +1,115 @@
 [
   {
     "identifier": {
+      "id": "6ae0512d149b034bd05510ae",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ae0512d149b034bd05510ae"
+    },
+    "workplace": {
+      "siret": "80001625500013",
+      "brand": "BURGER'N'CO",
+      "legal_name": "L'ONCLE SAM",
+      "website": null,
+      "name": "L'ONCLE SAM",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "4 RUE VANNEAU 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.880472,
+            43.608035
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae0512d149b034bd05510ae/employé-polyvalent-employée-polyvalente-de-restaurant",
+      "phone": null,
+      "recipient_id": "partners_6ae0512d149b034bd05510ae"
+    },
+    "contract": {
+      "start": "2026-10-27T07:22:21.787Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé polyvalent / Employée polyvalente de restaurant",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-10-27T07:22:21.787Z",
+        "expiration": "2026-12-27T00:00:00.000Z"
+      },
+      "opening_count": 2,
+      "status": "Active",
+      "to_applicant_questions": [
+        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?",
+        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste."
+      ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6adb826f149b034bd053742f",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6adb826f149b034bd053742f"
@@ -4847,7 +4956,7 @@
       "recipient_id": "partners_6a99a6af3d397359dc3432d5"
     },
     "contract": {
-      "start": "2026-09-03T16:56:15.706Z",
+      "start": "2026-10-26T21:06:55.128Z",
       "start_type": "des_que_possible",
       "start_is_flexible": false,
       "duration": 12,
@@ -4902,7 +5011,7 @@
       ],
       "publication": {
         "creation": "2026-09-03T16:56:15.706Z",
-        "expiration": "2026-11-03T00:00:00.000Z"
+        "expiration": "2026-12-26T00:00:00.000Z"
       },
       "opening_count": 2,
       "status": "Active",
@@ -5854,6 +5963,294 @@
       "to_applicant_questions": []
     },
     "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693504",
+      "partner_label": "France Travail",
+      "partner_job_id": "215RLJN"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLJN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur en bricolage en apprentissage (H/F)",
+      "rome_codes": [
+        "D1212"
+      ],
+      "description": "Nous recrutons deux personnes en contrat d'apprentissage en alternance pour préparer le titre professionnel de conseiller vendeur.\n** Attention la formation se déroulera à l'AFPA de Saint Jean de Védas (logement pris en charge) et sera précédée d'une POEI** \n\nVous êtes âgé de 16 à 29 ans révolus.\n\nVos missions dans l'entreprise : \n-Vous accueillez le client, diagnostiquez ses besoins, concrétisez la vente par des solutions adaptées aux projets clients.\n-Vous contribuez à la tenue du linéaire, vous suivez la performance économique.\n-Vous appliquez les consignes de sécurité.\nUne appétence pour la grande distribution et plus particulièrement des produits du secteur d'amélioration de la maison.\n\nLe magasin est ouvert tous les jours (le dimanche sur volontariat) avec une amplitude horaire de 7 à 20 heures",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T16:34:10.807Z",
+        "expiration": "2026-12-26T16:34:10.807Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693501",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QSQC"
+    },
+    "workplace": {
+      "siret": "80039784600034",
+      "brand": "BOULANGERIE SANDRA LEROY",
+      "legal_name": "LEROY-TRUFER",
+      "website": null,
+      "name": "LEROY-TRUFER",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QSQC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP BOULANGER (H/F)",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T10:25:48.778Z",
+        "expiration": "2026-12-26T10:25:48.778Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693503",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QRKT"
+    },
+    "workplace": {
+      "siret": "49909293000076",
+      "brand": "LUNDI MATIN",
+      "legal_name": "LUNDIMATIN",
+      "website": "http://www.lundimatin.fr",
+      "name": "LUNDIMATIN",
+      "description": "Basée à Montpellier, LUNDI MATIN édite une suite logicielle omnicanale unique : Logiciels ERP / CRMLogiciels de e-commerce Logiciels de gestion de marketplaceLogiciels de caisse, Spécialiste reconnu, LUNDI MATIN adresse 5000 clients dont de grands groupes nationaux tels que Les Galeries Lafayette, Legrand, OVH, Veepee, CM CIC ...",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "58.29C",
+          "label": "Édition de logiciels applicatifs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRKT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "ALTERNANCE - Technicien système (H/F)",
+      "rome_codes": [
+        "M1810"
+      ],
+      "description": "Contexte\nEn tant que Technicien Système et Réseau en alternance, vous travaillerez sous la responsabilité du chef de service infrastructure et participerez à la maintenance, à la sécurité et à l'optimisation du parc informatique et des outils systèmes et réseaux.\nVous serez impliqué dans des missions variées allant de l'assistance aux utilisateurs à la gestion d'infrastructures cloud et locales, en passant par la sécurité et le monitoring.\n\nACTIVITÉS PRINCIPALES\nVos missions\nMaintenance du parc informatique : installation, configuration et mise à jour des postes, serveurs et périphériques.\nSupport aux utilisateurs internes : assistance technique, résolution d'incidents, conseils sur l'utilisation des outils.\nAdministration systèmes : Linux, environnements web LAMP, outils internes (email, gestion réseau).\nInfrastructure et cloud : participation à la gestion de l'infrastructure cloud, surveillance, audits de sécurité et recommandations pour améliorer performances et résilience.\nSécurité : participation à l'évaluation des vulnérabilités, mise en œuvre de correctifs et suivi des failles de sécurité.\nRéseaux et téléphonie : maintenance des réseaux locaux et de la téléphonie IP, optimisation des performances.\nSurveillance et reporting : création et mise à jour de cadres de monitoring et de rapports pour la direction technique.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Administrer un système d'informations",
+        "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+        "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+        "Apporter une assistance technique aux équipes"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T09:57:40.267Z",
+        "expiration": "2026-12-26T09:57:40.267Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693502",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QRHL"
+    },
+    "workplace": {
+      "siret": "49909293000076",
+      "brand": "LUNDI MATIN",
+      "legal_name": "LUNDIMATIN",
+      "website": null,
+      "name": "LUNDIMATIN",
+      "description": null,
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "58.29C",
+          "label": "Édition de logiciels applicatifs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRHL",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Technicien d'Assistance Client (H/F)",
+      "rome_codes": [
+        "D1432"
+      ],
+      "description": "Contexte\n\nSous la direction du Responsable de BU, vous intégrerez l'équipe du Support Client chargée d'assister nos clients dans l'utilisation de nos solutions logicielles (ERP, Caisse, Ecommerce)\n\n\nACTIVITÉS PRINCIPALES\nAssistance technique \n\nRéceptionner et qualifier les demandes (téléphone + tickets) : compréhension du besoin, reformulation, collecte des informations utiles\nPrendre en charge les demandes à dominante technique : intégrations, connecteurs, échanges de données, erreurs systèmes, comportements non reproductibles \"côté usage\"\nRéaliser un diagnostic approfondi : analyse de logs, vérifications d'environnement, contrôles de paramétrage technique et tests croisés\nReproduire les anomalies complexes, isoler les causes probables et proposer des contournements / correctifs de configuration quand possible\nCollaborer avec les équipes produit/développement en fournissant des éléments exploitables (étapes, logs, contexte, hypothèses et tests réalisés)\nÊtre le point d'appui technique des chargés d'assistance : aide au diagnostic, conseils de qualification, montée en compétence sur les sujets récurrents\n\nGarantir la mise à jour documentaire\nCapitaliser sur les cas techniques : fiches d'incident, checklists de diagnostic, procédures de vérification (logs/flux/intégrations)\nRédiger et maintenir une documentation claire\n\n\nFormation\n\n\nRéaliser des accompagnements à la prise en main (démarrage, bonnes pratiques, rappels sur les paramétrages clés) et s'assurer de l'autonomie progressive des utilisateurs\nIntervenir sur des sujets de formation \"technique\" (préconisations, prérequis, intégrations) et contribuer à outiller l'équipe support (guides, ateliers internes)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer le suivi des commandes, la facturation",
+        "Etablir un devis",
+        "Utiliser les outils numériques"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T09:54:38.236Z",
+        "expiration": "2026-12-26T09:54:38.236Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
   },
   {
     "identifier": {
@@ -7501,7 +7898,7 @@
       "rome_codes": [
         "M1810"
       ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion de l'eau et assainissement\n\nDans le cadre de notre développement, nous recrutons un-e Technicien-ne Support Informatique pour rejoindre notre équipe à Castelnau-le-Lez (34).En tant que membre de l'équipe support, vous serez en charge de :\n\nAssister les utilisateurs/rices du groupe sur leurs problématiques informatiques\nDiagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces\nConseiller sur les bonnes pratiques en sécurité informatique\nIntervenir à distance ou sur site pour résoudre les incidents\nGérer les demandes liées aux équipements sous garantie et assurer leur suivi\nSuivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires\nRédiger des procédures techniques et guides utilisateurs\nParticiper aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe\n\nProfil recherché :\nCompétences et qualifications requises :\n\nVous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3\nVous êtes rigoureux/se, autonome, organisé-e et à l'écoute\nVous aimez le travail en équipe et avez le sens du service\n\nCompétences techniques que vous allez pratiquer et développer :\n\nVirtualisation : VMWare\nSauvegarde : VEEAM\nSupervision &amp; gestion : Citrix, GLPI, Zabbix\nSystèmes : Windows, Office 365, GPO, Active Directory\nRéseaux &amp; sécurité : Firewall Stormshield, switchs, antivirus, droits d'accès\nDocumentation et procédures\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recrutons un-e Technicien-ne Support Informatique pour rejoindre notre équipe à Castelnau-le-Lez (34).En tant que membre de l'équipe support, vous serez en charge de :\n\nAssister les utilisateurs/rices du groupe sur leurs problématiques informatiques\nDiagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces\nConseiller sur les bonnes pratiques en sécurité informatique\nIntervenir à distance ou sur site pour résoudre les incidents\nGérer les demandes liées aux équipements sous garantie et assurer leur suivi\nSuivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires\nRédiger des procédures techniques et guides utilisateurs\nParticiper aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe\n\nProfil recherché :\nCompétences et qualifications requises :\n\nVous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3\nVous êtes rigoureux/se, autonome, organisé-e et à l'écoute\nVous aimez le travail en équipe et avez le sens du service\n\nCompétences techniques que vous allez pratiquer et développer :\n\nVirtualisation : VMWare\nSauvegarde : VEEAM\nSupervision &amp; gestion : Citrix, GLPI, Zabbix\nSystèmes : Windows, Office 365, GPO, Active Directory\nRéseaux &amp; sécurité : Firewall Stormshield, switchs, antivirus, droits d'accès\nDocumentation et procédures\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -7793,10 +8190,11 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
         "Organiser et animer des activités ludiques et d'éveil",
+        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
         "Préparer et donner un repas, une boisson à l'enfant",
-        "Procéder à la toilette et aux soins de l'enfant"
+        "Procéder à la toilette et aux soins de l'enfant",
+        "Procurer à l'enfant des éléments de confort, de réconfort"
       ],
       "access_conditions": [],
       "publication": {
@@ -7862,7 +8260,7 @@
       "rome_codes": [
         "K2203"
       ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion et assainissement de l'eau\n\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -8556,71 +8954,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aac67ab0dece6ea6e4193c0",
       "partner_label": "France Travail",
       "partner_job_id": "6943809"
@@ -8670,6 +9003,71 @@
         "G1603"
       ],
       "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-17T03:18:30.925Z",
+        "expiration": "2026-11-17T03:18:30.925Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aac67ab0dece6ea6e4193c1",
+      "partner_label": "France Travail",
+      "partner_job_id": "6943802"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commercial B2B (H/F)",
+      "rome_codes": [
+        "D1410"
+      ],
+      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -8816,6 +9214,508 @@
       "publication": {
         "creation": "2026-08-31T11:19:08.813Z",
         "expiration": "2026-10-31T11:19:08.813Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae06115bbefc38a6ced3ae0",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56831260"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56831260?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ae06115bbefc38a6ced3ae0"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-27T08:30:13.052Z",
+        "expiration": "2026-11-26T08:30:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693504",
+      "partner_label": "France Travail",
+      "partner_job_id": "215RLJN"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLJN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur en bricolage en apprentissage (H/F)",
+      "rome_codes": [
+        "D1212"
+      ],
+      "description": "Nous recrutons deux personnes en contrat d'apprentissage en alternance pour préparer le titre professionnel de conseiller vendeur.\n** Attention la formation se déroulera à l'AFPA de Saint Jean de Védas (logement pris en charge) et sera précédée d'une POEI** \n\nVous êtes âgé de 16 à 29 ans révolus.\n\nVos missions dans l'entreprise : \n-Vous accueillez le client, diagnostiquez ses besoins, concrétisez la vente par des solutions adaptées aux projets clients.\n-Vous contribuez à la tenue du linéaire, vous suivez la performance économique.\n-Vous appliquez les consignes de sécurité.\nUne appétence pour la grande distribution et plus particulièrement des produits du secteur d'amélioration de la maison.\n\nLe magasin est ouvert tous les jours (le dimanche sur volontariat) avec une amplitude horaire de 7 à 20 heures",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T16:34:10.807Z",
+        "expiration": "2026-12-26T16:34:10.807Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdc92ec4f5594ab3ea2e5",
+      "partner_label": "Hellowork",
+      "partner_job_id": "9d4c8b0a-a47f-4af3-9ffc-24428b5dec07"
+    },
+    "workplace": {
+      "siret": "31926713400033",
+      "brand": null,
+      "legal_name": "JC DECAUX HOLDING",
+      "website": null,
+      "name": "JC DECAUX HOLDING",
+      "description": "JCDecaux est N°1 mondial du mobilier urbain et de la publicité dans les transports, N°1 européen de l'affichage grand format et leader dans le vélo en libre-service.  \n  \nAvec un effectif de plus de 13 000 collaborateurs, le Groupe est présent dans plus de 80 pays. Un chiffre d'affaires de 3 618,5 millions d'euros a été réalisé en 2018.  \n  \nInventeur du concept du Mobilier Urbain en 1964, JCDecaux est le seul acteur mondial à exercer exclusivement le métier de la Communication Extérieure.",
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 86,
+        "opco": "AFDAS",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=BnpHhT&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84799276.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D84799276",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Assistant Technique et Administratif H/F",
+      "rome_codes": [
+        "M1607"
+      ],
+      "description": "Le poste d'Assistant Technique et Administratif en agence permet de faire le lien avec le responsable d'exploitation sur le terrain, pour la mise en place des chantiers liés à l'installation de mobilier urbain et d'assurer la gestion du parc au global.A ce titre, en étant rattaché(e) au Responsable Administratif et Financier, vous devez assurer les missions suivantes : - Réalisation des Oms de montage, démontage, déplacements pour la partie mobilier urbain (SAP)- Suivi des travaux en cours,- Gestion des sinistres (RC, mobiliers) - traitement (dépôt de plainte, photo, déclaration...) &amp; notes de débits [suivi du vandalisme par ville selon l'importance]- Devis et facturation, - Traitement des commandes- Gestion des mobiliers dans Gemeo (outil interne).- Assistanat et reporting auprès du Responsable Administratif et Financier (dans le cadre de nos obligations contractuelles)- Demande de raccordement Enedis- Traitement des factures sur Basware et provisions fournisseurs en fin de mois- Déclarations préalables, déclarations de sous-traitance",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Personne motivée par le domaine du mobilier urbain (aspect technique) avec ou sans expérienceEn formation Bac +2 à dominante Comptabilité/Gestion- Esprit d'équipe, goût et intérêt (curiosité) pour apprendre, comprendre et mettre en place des études économiques sur des sujets transverses- Sens du relationnel, communication écrite et oral sont un plus.- Bonne connaissance des outils bureautiques attendue notamment Excel (SAP est un plus).- Méthodique, organisé(e) et rigoureux(se).- Capacité d'analyse, d'adaptation (les missions seront variées) et de réactivité.- Disponibilité, autonomie."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T12:03:38.000Z",
+        "expiration": "2026-12-26T12:03:38.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693501",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QSQC"
+    },
+    "workplace": {
+      "siret": "80039784600034",
+      "brand": "BOULANGERIE SANDRA LEROY",
+      "legal_name": "LEROY-TRUFER",
+      "website": null,
+      "name": "LEROY-TRUFER",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "34200 Sète",
+        "geopoint": {
+          "coordinates": [
+            3.687298,
+            43.40682
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QSQC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "CAP BOULANGER (H/F)",
+      "rome_codes": [
+        "D1102"
+      ],
+      "description": "Nous recherchons un aide-boulanger (H/F) en contrat d'apprentissage CAP Boulangerie.\n\nEtre motivé(e), sérieux(se) et ponctuel(le).\nAvoir envie de découvrir et apprendre le métier de boulanger.\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T10:25:48.778Z",
+        "expiration": "2026-12-26T10:25:48.778Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693503",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QRKT"
+    },
+    "workplace": {
+      "siret": "49909293000076",
+      "brand": "LUNDI MATIN",
+      "legal_name": "LUNDIMATIN",
+      "website": "http://www.lundimatin.fr",
+      "name": "LUNDIMATIN",
+      "description": "Basée à Montpellier, LUNDI MATIN édite une suite logicielle omnicanale unique : Logiciels ERP / CRMLogiciels de e-commerce Logiciels de gestion de marketplaceLogiciels de caisse, Spécialiste reconnu, LUNDI MATIN adresse 5000 clients dont de grands groupes nationaux tels que Les Galeries Lafayette, Legrand, OVH, Veepee, CM CIC ...",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "58.29C",
+          "label": "Édition de logiciels applicatifs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRKT",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "ALTERNANCE - Technicien système (H/F)",
+      "rome_codes": [
+        "M1810"
+      ],
+      "description": "Contexte\nEn tant que Technicien Système et Réseau en alternance, vous travaillerez sous la responsabilité du chef de service infrastructure et participerez à la maintenance, à la sécurité et à l'optimisation du parc informatique et des outils systèmes et réseaux.\nVous serez impliqué dans des missions variées allant de l'assistance aux utilisateurs à la gestion d'infrastructures cloud et locales, en passant par la sécurité et le monitoring.\n\nACTIVITÉS PRINCIPALES\nVos missions\nMaintenance du parc informatique : installation, configuration et mise à jour des postes, serveurs et périphériques.\nSupport aux utilisateurs internes : assistance technique, résolution d'incidents, conseils sur l'utilisation des outils.\nAdministration systèmes : Linux, environnements web LAMP, outils internes (email, gestion réseau).\nInfrastructure et cloud : participation à la gestion de l'infrastructure cloud, surveillance, audits de sécurité et recommandations pour améliorer performances et résilience.\nSécurité : participation à l'évaluation des vulnérabilités, mise en œuvre de correctifs et suivi des failles de sécurité.\nRéseaux et téléphonie : maintenance des réseaux locaux et de la téléphonie IP, optimisation des performances.\nSurveillance et reporting : création et mise à jour de cadres de monitoring et de rapports pour la direction technique.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Administrer un système d'informations",
+        "Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",
+        "Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives",
+        "Apporter une assistance technique aux équipes"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T09:57:40.267Z",
+        "expiration": "2026-12-26T09:57:40.267Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693502",
+      "partner_label": "France Travail",
+      "partner_job_id": "215QRHL"
+    },
+    "workplace": {
+      "siret": "49909293000076",
+      "brand": "LUNDI MATIN",
+      "legal_name": "LUNDIMATIN",
+      "website": null,
+      "name": "LUNDIMATIN",
+      "description": null,
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "58.29C",
+          "label": "Édition de logiciels applicatifs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRHL",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Technicien d'Assistance Client (H/F)",
+      "rome_codes": [
+        "D1432"
+      ],
+      "description": "Contexte\n\nSous la direction du Responsable de BU, vous intégrerez l'équipe du Support Client chargée d'assister nos clients dans l'utilisation de nos solutions logicielles (ERP, Caisse, Ecommerce)\n\n\nACTIVITÉS PRINCIPALES\nAssistance technique \n\nRéceptionner et qualifier les demandes (téléphone + tickets) : compréhension du besoin, reformulation, collecte des informations utiles\nPrendre en charge les demandes à dominante technique : intégrations, connecteurs, échanges de données, erreurs systèmes, comportements non reproductibles \"côté usage\"\nRéaliser un diagnostic approfondi : analyse de logs, vérifications d'environnement, contrôles de paramétrage technique et tests croisés\nReproduire les anomalies complexes, isoler les causes probables et proposer des contournements / correctifs de configuration quand possible\nCollaborer avec les équipes produit/développement en fournissant des éléments exploitables (étapes, logs, contexte, hypothèses et tests réalisés)\nÊtre le point d'appui technique des chargés d'assistance : aide au diagnostic, conseils de qualification, montée en compétence sur les sujets récurrents\n\nGarantir la mise à jour documentaire\nCapitaliser sur les cas techniques : fiches d'incident, checklists de diagnostic, procédures de vérification (logs/flux/intégrations)\nRédiger et maintenir une documentation claire\n\n\nFormation\n\n\nRéaliser des accompagnements à la prise en main (démarrage, bonnes pratiques, rappels sur les paramétrages clés) et s'assurer de l'autonomie progressive des utilisateurs\nIntervenir sur des sujets de formation \"technique\" (préconisations, prérequis, intégrations) et contribuer à outiller l'équipe support (guides, ateliers internes)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Effectuer le suivi des commandes, la facturation",
+        "Etablir un devis",
+        "Utiliser les outils numériques"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T09:54:38.236Z",
+        "expiration": "2026-12-26T09:54:38.236Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6968b8582fd23d7ccdf73258",
+      "partner_label": "Hellowork",
+      "partner_job_id": "d7500d52-82e7-4c0f-9232-aeff5b117dae"
+    },
+    "workplace": {
+      "siret": "57202552610945",
+      "brand": null,
+      "legal_name": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
+      "website": null,
+      "name": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
+      "description": "Vous pensez que la préservation de l'eau et de l'environnement sont des enjeux majeurs pour notre société ? Vous souhaitez évoluer au sein d'une entreprise engagée pour la protection des ressources naturelles et soucieuse de la qualité de vie au travail, dont les valeurs de respect et de solidarité sont plébiscitées par ses collaborateurs/trices  ? Vous souhaitez avoir les moyens d'être utile en ayant un impact positif sur notre planète ?\n\nGrand groupe international présent sur les cinq continents, Veolia a pour ambition de devenir l'entreprise de référence de la transformation écologique.\n\nRejoignez les 15 000 collaborateurs de Veolia Eau France qui s'engagent au quotidien auprès des collectivités et des industriels pour desservir 1 français sur 3 en eau potable, dépolluer les eaux usées, produire de l'énergie renouvelable et sensibiliser les consommateurs. Face aux impacts du changement climatique, nous proposons des solutions innovantes, locales et flexibles pour adapter la gestion de l'eau.\n\nEnsemble soyons acteurs de la transformation écologique !",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34110 Frontignan",
+        "geopoint": {
+          "coordinates": [
+            3.755072,
+            43.443309
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "36.00Z",
+          "label": "Captage, traitement et distribution d'eau"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJ4gCe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F74044574.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D74044574",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Agent de Réseau - Canalisateur en Alternance H/F",
+      "rome_codes": [
+        "K2301"
+      ],
+      "description": "Au sein du service local Ouest Hérault du territoire Hérault, vous intégrerez l'équipe d'exploitation qui assure l'installation et l'entretien des réseaux de distribution d'eau potable et des réseaux d'assainissement. Sur une période de 13 mois (490 heures de formation), vous bénéficierez d'un enseignement professionnel sur : la lecture de plan, la pose de canalisations d'eaux usées et d'eau potable, l'utilisation de petits engins de chantiers, la topographie, la maçonnerie, la réfection provisoire de chaussée, les techniques d'intervention sur réseaux en place, la signalisation de chantier. L'entreprise financera l'habilitation AIPR et le Caces ® R 482 catégorie A.\n\nÀ l'issue de la formation, vous serez en mesure d'intervenir sur :\n\n- La réalisation les petits travaux de voirie annexe à un chantier de pose de canalisation,\n- La construction d'un réseau d'assainissement et à la construction d'un réseau d'adduction d'eau potable en travaux publics,\n- Les travaux de plomberie et de tuyauterie : réparations de fuites, entretien des réseaux,\n- Les travaux sur branchements et canalisations d'Eau Potable et d'Eaux Usées (réparations, travaux neufs, renouvellement, manoeuvre et entretien des accessoires sur réseaux),\n- Le terrassement manuel et mini-pelle (si titulaire du CACES),\n- L'exécution de petits travaux de maçonnerie (pose abri compteur, regards assainissement,...),\n- La pose et dépose de compteurs.",
+      "target_diploma": null,
+      "desired_skills": [
+        "Le permis B est indispensable. Vous devez être impérativement majeur.\n\nVous allez débuter une formation de Titre professionnel canalisateur en alternance au sein de l'organisme INNOVISTA basé à Toulouse.\n\nVous êtes motivé(e) et  vous avez l'envie d'apprendre. Vous avez une aptitude au travail manuel.\n\nVous aimez travailler en équipe et à l'extérieur."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-25T22:07:35.000Z",
+        "expiration": "2026-12-25T22:07:35.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9362,7 +10262,7 @@
       "rome_codes": [
         "M1810"
       ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <b>Environnement</b>   : gestion des déchets, propreté urbaine  </li>  <li>   <b>Services</b>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <b>Eau</b>   : gestion de l'eau et assainissement  </li> </ul> <p>  Dans le cadre de notre développement, nous recrutons un·e  <strong>Technicien</strong>  ·  <strong>ne Support Informatique</strong>  pour rejoindre notre équipe à  <strong>Castelnau-le-Lez (34)</strong>  . </p>   <p>En tant que membre de l'équipe support, vous serez en charge de :</p>  <ul>   <li>Assister les utilisateurs/rices du groupe sur leurs problématiques informatiques</li>   <li>Diagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces</li>   <li>Conseiller sur les bonnes pratiques en sécurité informatique</li>   <li>Intervenir à distance ou sur site pour résoudre les incidents</li>   <li>Gérer les demandes liées aux équipements sous garantie et assurer leur suivi</li>   <li>Suivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires</li>   <li>Rédiger des procédures techniques et guides utilisateurs</li>   <li>Participer aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe</li>  </ul> \r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Technicien support informatique (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <p>Compétences etqualifications requises :</p> <ul>  <li>Vous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3</li>  <li>Vous êtes rigoureux/se, autonome, organisé·e et à l'écoute</li>  <li>Vous aimez le travail en équipe et avez le sens du service</li> </ul> <p>Compétences techniques que vous allez pratiquer et développer:</p> <ul>  <li>   <strong>Virtualisation</strong>   : VMWare  </li>  <li>   <strong>Sauvegarde</strong>   : VEEAM  </li>  <li>   <strong>Supervision &amp; gestion</strong>   : Citrix, GLPI, Zabbix  </li>  <li>   <strong>Systèmes</strong>   : Windows, Office 365, GPO, Active Directory  </li>  <li>   <strong>Réseaux &amp; sécurité</strong>   : Firewall Stormshield, switchs, antivirus, droits d'accès  </li>  <li>   <strong>Documentation et procédures</strong>  </li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <b>Contrat :</b>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération:</b>   Selon la grille d'alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>9 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>250 M€</b>  ,  <b>NICOLLIN Services</b>  accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM. </p> <p>  À travers la diversité de ses activités,  <b>NICOLLIN Services</b>  propose une offre complète de prestations :  <b>propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.</b> </p> <p>  Dans le cadre de notre développement, nous recrutons un·e  <strong>Technicien</strong>  ·  <strong>ne Support Informatique</strong>  pour rejoindre notre équipe à  <strong>Castelnau-le-Lez (34)</strong>  . </p>   <p>En tant que membre de l'équipe support, vous serez en charge de :</p>  <ul>   <li>Assister les utilisateurs/rices du groupe sur leurs problématiques informatiques</li>   <li>Diagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces</li>   <li>Conseiller sur les bonnes pratiques en sécurité informatique</li>   <li>Intervenir à distance ou sur site pour résoudre les incidents</li>   <li>Gérer les demandes liées aux équipements sous garantie et assurer leur suivi</li>   <li>Suivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires</li>   <li>Rédiger des procédures techniques et guides utilisateurs</li>   <li>Participer aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe</li>  </ul> \r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Technicien support informatique (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <p>Compétences etqualifications requises :</p> <ul>  <li>Vous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3</li>  <li>Vous êtes rigoureux/se, autonome, organisé·e et à l'écoute</li>  <li>Vous aimez le travail en équipe et avez le sens du service</li> </ul> <p>Compétences techniques que vous allez pratiquer et développer:</p> <ul>  <li>   <strong>Virtualisation</strong>   : VMWare  </li>  <li>   <strong>Sauvegarde</strong>   : VEEAM  </li>  <li>   <strong>Supervision &amp; gestion</strong>   : Citrix, GLPI, Zabbix  </li>  <li>   <strong>Systèmes</strong>   : Windows, Office 365, GPO, Active Directory  </li>  <li>   <strong>Réseaux &amp; sécurité</strong>   : Firewall Stormshield, switchs, antivirus, droits d'accès  </li>  <li>   <strong>Documentation et procédures</strong>  </li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <b>Contrat :</b>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération:</b>   Selon la grille d'alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
       "target_diploma": {
         "european": "6",
         "label": "Licence, BUT, Licence Pro (Bac+3)"
@@ -9371,8 +10271,8 @@
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-10-23T23:06:05.677Z",
-        "expiration": "2026-12-23T23:06:05.677Z"
+        "creation": "2026-10-23T23:06:06.000Z",
+        "expiration": "2026-12-23T23:06:06.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9701,7 +10601,7 @@
       "recipient_id": null
     },
     "contract": {
-      "start": "2026-10-22T20:00:00.000Z",
+      "start": "2026-10-25T22:00:00.000Z",
       "start_type": null,
       "start_is_flexible": null,
       "duration": null,
@@ -10178,80 +11078,6 @@
   },
   {
     "identifier": {
-      "id": "69bf2424a78b36212d76dff6",
-      "partner_label": "Hellowork",
-      "partner_job_id": "6e19903c-61a2-47b8-a4ca-aa8c4cb34443"
-    },
-    "workplace": {
-      "siret": "40125156602093",
-      "brand": null,
-      "legal_name": "EMEIS",
-      "website": null,
-      "name": "EMEIS",
-      "description": "La Clinique La Lironde est un établissement de psychiatrie générale, situé en périphérie de Montpellier. Implanté au coeur d'un agréable parc arboré de 4 hectares, notre établissement offre à ses patients un accueil de qualité dans un environnement privilégié.\nNotre clinique psychiatrique assure le suivi psychiatrique et le traitement psychothérapeutique des maladies psychiques de l'adulte et dispose également d'un service d'hospitalisation dédié aux adolescents âg��s de 12 à 18 ans.\nNotre équipe médicale expérimentée dans les différents secteurs de la pathologie mentale et des suivis thérapeutiques, collabore avec un réseau de soins, en vue d'une prise en charge globale du patient.",
-      "size": "10 000 salariés et plus",
-      "location": {
-        "address": "34980 Montferrier-sur-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.857232,
-            43.666999
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco Santé",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIoN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77087900.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D77087900",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Agent·e de Maintenance en Alternance - St Clément de Rivière 34 H/F",
-      "rome_codes": [
-        "I1203"
-      ],
-      "description": "Agent.e de maintenance ou futur.e Agent.e de maintenance, et si c'était vous notre talent de demain ?\n\nVous aimez la polyvalence de votre métier et souhaitez contribuer au bien-être et confort de nos résidents/patients ? Vous êtes au bon endroit !\n\nQuel que soit votre parcours ou vos diplômes, nous avons une opportunité pour vous ! Nous accompagnons, grâce à la formation, les personnes désireuses d'apprendre un nouveau métier ou souhaitant entreprendre une reconversion professionnelle.\n\nAu sein d'emeis, nous recherchons avant tout des personnes engagées et enthousiastes pour rejoindre nos équipes et exercer à nos côtés une mission porteuse de sens !\n\nVos missions :\n\n- Veiller aux respect des normes de sécurité et au confort des personnes,\n- Tenir à jour le registre de sécurité et le carnet sanitaire,  \nMise en oeuvre des activités de prévention et sensibilisation du personnel au risque incendie,\n- Assurer le bon fonctionnement des équipements des installations concourant à la sécurité des personnes, des biens et de l'environnement,\n- Piloter et assurer le suivi des entretiens préventifs prévus avec les sociétés de maintenance et les visites des bureaux de contrôle,\n- Utiliser un logiciel GMAO dans le cadre des opérations de maintenance,\n- Faire chiffrer les travaux correctifs pour son établissement,\n- Assister le chargé d'affaires maintenance pour faire chiffrer les travaux d'investissement (visite avec entreprise, métrés...),\n- Organiser, suivre et réceptionner des travaux ou des levées de réserves auprès des prestataires externes et sociétés de maintenance,\n- Piloter l'entretien des espaces verts,\n- Gérer les commandes et les stocks des consommables et outillages nécessaire à la maintenance du bâtiment.\n- Assurer une bonne communication et un reporting auprès de sa Direction et du chargé d'affaire maintenance,\n- Piloter les consommations énergétiques en lien avec la Direction d'établissement et le chargé d'affaires maintenance.\n\nRejoindre emeis, c'est aussi trouver :\n\n- Le sens et l'utilité de vos missions au quotidien ;\n- Une équipe solidaire dans laquelle chacun compte ;\n- L'opportunité de contribuer à la santé et au bien-être des plus fragiles ;\n- La possibilité de développer vos compétences, diversifier vos connaissances et enrichir votre parcours à travers des formations personnalisées ;\n- Des possibilités d'évoluer dans votre métier.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous êtes étudiant.e et vous préparez un diplôme dans le domaine de la maintenance ?  \nUne formation en alternance, un diplôme, et avec ceci... l'accès à un poste en CDI à la fin de votre formation !\n\nVos atouts pour réussir :\n\nSi vous êtes souriant.e, dynamique, avec un fort esprit d'équipe et que vous êtes également reconnu.e pour les compétences suivantes :\n\n- Votre polyvalence.\n- Votre conscience professionnelle.\n- Votre sens de l'organisation.\n- Votre capacité à vous adapter aux situations d'urgences liées au fonctionnement de l'établissement.\n\nVotre profil nous intéresse !\n\nPour aller plus loin :\n\n- Postulez dès maintenant !\n- Nous avons plus de 350 établissements répartis sur la France, il y en a forcément un près de chez vous !\n- Nous recrutons en alternance en contrat d'apprentissage ou de professionnalisation. Selon votre profil, et vos envies, nous vous proposons le parcours qui vous correspond.\n\nRejoindre emeis, c'est participer à une aventure pleine de défis au coeur de nos résidences et cliniques."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T20:20:52.000Z",
-        "expiration": "2026-12-21T20:20:52.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6968b8562fd23d7ccdf73163",
       "partner_label": "Hellowork",
       "partner_job_id": "b6a43aa2-8611-41a5-a135-28af51c5b9fa"
@@ -10308,6 +11134,80 @@
       "target_diploma": null,
       "desired_skills": [
         "Vous êtes motivé et avez soif d'apprendre un nouveau métier\n\nVous préparez un diplôme CAP, BEP, BTS etc..."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-21T20:20:52.000Z",
+        "expiration": "2026-12-21T20:20:52.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "69bf2424a78b36212d76dff6",
+      "partner_label": "Hellowork",
+      "partner_job_id": "6e19903c-61a2-47b8-a4ca-aa8c4cb34443"
+    },
+    "workplace": {
+      "siret": "40125156602093",
+      "brand": null,
+      "legal_name": "EMEIS",
+      "website": null,
+      "name": "EMEIS",
+      "description": "La Clinique La Lironde est un établissement de psychiatrie générale, situé en périphérie de Montpellier. Implanté au coeur d'un agréable parc arboré de 4 hectares, notre établissement offre à ses patients un accueil de qualité dans un environnement privilégié.\nNotre clinique psychiatrique assure le suivi psychiatrique et le traitement psychothérapeutique des maladies psychiques de l'adulte et dispose également d'un service d'hospitalisation dédié aux adolescents âgés de 12 à 18 ans.\nNotre équipe médicale expérimentée dans les différents secteurs de la pathologie mentale et des suivis thérapeutiques, collabore avec un réseau de soins, en vue d'une prise en charge globale du patient.",
+      "size": "10 000 salariés et plus",
+      "location": {
+        "address": "34980 Montferrier-sur-Lez",
+        "geopoint": {
+          "coordinates": [
+            3.857232,
+            43.666999
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJbIoN&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F77087900.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bproduction%26utm_content%3Dfluxbonnealternance%26utm_term%3D77087900",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Agent·e de Maintenance en Alternance - St Clément de Rivière 34 H/F",
+      "rome_codes": [
+        "I1203"
+      ],
+      "description": "Agent.e de maintenance ou futur.e Agent.e de maintenance, et si c'était vous notre talent de demain ?\n\nVous aimez la polyvalence de votre métier et souhaitez contribuer au bien-être et confort de nos résidents/patients ? Vous êtes au bon endroit !\n\nQuel que soit votre parcours ou vos diplômes, nous avons une opportunité pour vous ! Nous accompagnons, grâce à la formation, les personnes désireuses d'apprendre un nouveau métier ou souhaitant entreprendre une reconversion professionnelle.\n\nAu sein d'emeis, nous recherchons avant tout des personnes engagées et enthousiastes pour rejoindre nos équipes et exercer à nos côtés une mission porteuse de sens !\n\nVos missions :\n\n- Veiller aux respect des normes de sécurité et au confort des personnes,\n- Tenir à jour le registre de sécurité et le carnet sanitaire,  \nMise en oeuvre des activités de prévention et sensibilisation du personnel au risque incendie,\n- Assurer le bon fonctionnement des équipements des installations concourant à la sécurité des personnes, des biens et de l'environnement,\n- Piloter et assurer le suivi des entretiens préventifs prévus avec les sociétés de maintenance et les visites des bureaux de contrôle,\n- Utiliser un logiciel GMAO dans le cadre des opérations de maintenance,\n- Faire chiffrer les travaux correctifs pour son établissement,\n- Assister le chargé d'affaires maintenance pour faire chiffrer les travaux d'investissement (visite avec entreprise, métrés...),\n- Organiser, suivre et réceptionner des travaux ou des levées de réserves auprès des prestataires externes et sociétés de maintenance,\n- Piloter l'entretien des espaces verts,\n- Gérer les commandes et les stocks des consommables et outillages nécessaire à la maintenance du bâtiment.\n- Assurer une bonne communication et un reporting auprès de sa Direction et du chargé d'affaire maintenance,\n- Piloter les consommations énergétiques en lien avec la Direction d'établissement et le chargé d'affaires maintenance.\n\nRejoindre emeis, c'est aussi trouver :\n\n- Le sens et l'utilité de vos missions au quotidien ;\n- Une équipe solidaire dans laquelle chacun compte ;\n- L'opportunité de contribuer à la santé et au bien-être des plus fragiles ;\n- La possibilité de développer vos compétences, diversifier vos connaissances et enrichir votre parcours à travers des formations personnalisées ;\n- Des possibilités d'évoluer dans votre métier.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Vous êtes étudiant.e et vous préparez un diplôme dans le domaine de la maintenance ?  \nUne formation en alternance, un diplôme, et avec ceci... l'accès à un poste en CDI à la fin de votre formation !\n\nVos atouts pour réussir :\n\nSi vous êtes souriant.e, dynamique, avec un fort esprit d'équipe et que vous êtes également reconnu.e pour les compétences suivantes :\n\n- Votre polyvalence.\n- Votre conscience professionnelle.\n- Votre sens de l'organisation.\n- Votre capacité à vous adapter aux situations d'urgences liées au fonctionnement de l'établissement.\n\nVotre profil nous intéresse !\n\nPour aller plus loin :\n\n- Postulez dès maintenant !\n- Nous avons plus de 350 établissements répartis sur la France, il y en a forcément un près de chez vous !\n- Nous recrutons en alternance en contrat d'apprentissage ou de professionnalisation. Selon votre profil, et vos envies, nous vous proposons le parcours qui vous correspond.\n\nRejoindre emeis, c'est participer à une aventure pleine de défis au coeur de nos résidences et cliniques."
       ],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -11013,7 +11913,7 @@
       "rome_codes": [
         "K2203"
       ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>12 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>700 M€</b>  , nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités : </p> <ul>  <li>   <strong>Environnement</strong>   : gestion des déchets, propreté urbaine  </li>  <li>   <strong>Services</strong>   : nettoyage industriel, sécurité, accueil  </li>  <li>   <strong>Eau</strong>   : gestion et assainissement de l'eau  </li> </ul> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>9 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>250 M€</b>  ,  <b>NICOLLIN Services</b>  accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM. </p> <p>  À travers la diversité de ses activités,  <b>NICOLLIN Services</b>  propose une offre complète de prestations :  <b>propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.</b> </p> <p>  Dans le cadre de notre développement, nous recherchons un·e  <strong>Responsable de secteur</strong>  pour un poste en  <b>contrat d'apprentissage</b>  basé à  <b>Castelnau-le-Lez (34).</b> </p> <p>Vos missions :</p> <p>Véritable relais de terrain entre les client·e·s, les équipes et la direction, vous êtes garant·e de la bonne exécution des prestations sur votre périmètre.</p> <p>Vos responsabilités :</p> <ul>  <li>   <strong>Manager les équipes</strong>   d'agent·e·s de service : organisation, encadrement, accompagnement  </li>  <li>   <strong>Garantir la qualité de service</strong>   et le respect du cahier des charges  </li>  <li>   <strong>Recruter et former</strong>   les agent·e·s, définir les moyens humains et techniques adaptés  </li>  <li>   <strong>Suivre les prestations sur le terrain</strong>   , effectuer les contrôles et veiller au bon déroulement des opérations  </li>  <li>   <strong>Assurer la sécurité</strong>   et le respect des règles d'hygiène  </li>  <li>   <strong>Gérer la relation client</strong>   , identifier les besoins, assurer la satisfaction  </li>  <li>   <strong>Interagir avec les fournisseurs/euses</strong>   dans le cadre des prestations  </li> </ul>\r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Directeur d'agence de propreté et services associés (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <ul>  <li>Vous préparez un master type école de commerce</li>  <li>Autonomie, rigueur et sens de l'organisation</li>  <li>Capacité à prendre des décisions, anticiper et gérer les imprévus</li>  <li>Excellentes qualités humaines et sens du service client</li>  <li>Aisance relationnelle, capacité à communiquer clairement</li>  <li>Maîtrise de la gestion des conflits et du management de proximité</li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <strong>Contrat :</strong>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération</b>   : Selon la grille d'alternance  </li>  <li>   <b>Avantages sociaux :</b>   véhicule de service, téléphone et ordinateur portable fournis  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale et responsable</b>   , attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
       "target_diploma": {
         "european": "7",
         "label": "Master, titre ingénieur, grande école (Bac+5)"
@@ -11022,8 +11922,8 @@
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-10-20T22:09:53.748Z",
-        "expiration": "2026-12-20T22:09:53.748Z"
+        "creation": "2026-10-20T22:09:54.000Z",
+        "expiration": "2026-12-20T22:09:54.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11680,75 +12580,6 @@
   },
   {
     "identifier": {
-      "id": "6ad5c8045334fda8505e7a33",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56753535"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-19T07:36:20.353Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ad5c7fe5334fda8505e7a2a",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56753532"
@@ -11818,9 +12649,9 @@
   },
   {
     "identifier": {
-      "id": "6ad5c7fc2c77d038809ded7e",
+      "id": "6ad5c8005334fda8505e7a2b",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56753530"
+      "partner_job_id": "56753533"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -11831,11 +12662,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34420 Portiragnes",
+        "address": "34450 Vias",
         "geopoint": {
           "coordinates": [
-            3.344913,
-            43.297541
+            3.395237,
+            43.301474
           ],
           "type": "Point"
         }
@@ -11850,9 +12681,78 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753530?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56753533?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6ad5c7fc2c77d038809ded7e"
+      "recipient_id": "partners_6ad5c8005334fda8505e7a2b"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T07:36:20.353Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ad5c8045334fda8505e7a33",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56753535"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
     },
     "contract": {
       "start": null,
@@ -12025,9 +12925,9 @@
   },
   {
     "identifier": {
-      "id": "6ad5c8005334fda8505e7a2b",
+      "id": "6ad5c7fc2c77d038809ded7e",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56753533"
+      "partner_job_id": "56753530"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -12038,11 +12938,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34450 Vias",
+        "address": "34420 Portiragnes",
         "geopoint": {
           "coordinates": [
-            3.395237,
-            43.301474
+            3.344913,
+            43.297541
           ],
           "type": "Point"
         }
@@ -12057,9 +12957,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753533?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56753530?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6ad5c8005334fda8505e7a2b"
+      "recipient_id": "partners_6ad5c7fc2c77d038809ded7e"
     },
     "contract": {
       "start": null,
@@ -12524,9 +13424,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb88deb1fb948b46ac9e7",
+      "id": "6acfb88beb1fb948b46ac9e4",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56676042"
+      "partner_job_id": "56676041"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -12537,11 +13437,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34600 Bédarieux",
+        "address": "34260 La Tour-sur-Orb",
         "geopoint": {
           "coordinates": [
-            3.154586,
-            43.613706
+            3.149276,
+            43.656169
           ],
           "type": "Point"
         }
@@ -12556,216 +13456,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676042?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56676041?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb88deb1fb948b46ac9e7"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb89822ce23a2ad44535d",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676054"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.395237,
-            43.301474
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb88f22ce23a2ad445356",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676045"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34240 Lamalou-les-Bains",
-        "geopoint": {
-          "coordinates": [
-            3.079984,
-            43.596729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676045?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb88f22ce23a2ad445356"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb89deb1fb948b46ac9ef",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676060"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676060?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb89deb1fb948b46ac9ef"
+      "recipient_id": "partners_6acfb88beb1fb948b46ac9e4"
     },
     "contract": {
       "start": null,
@@ -12938,6 +13631,144 @@
   },
   {
     "identifier": {
+      "id": "6acfb89822ce23a2ad44535d",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676054"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34450 Vias",
+        "geopoint": {
+          "coordinates": [
+            3.395237,
+            43.301474
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb89deb1fb948b46ac9ef",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676060"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676060?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb89deb1fb948b46ac9ef"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acfb7b3eb1fb948b46ac92d",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56673770"
@@ -13007,9 +13838,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb88beb1fb948b46ac9e4",
+      "id": "6acfb88f22ce23a2ad445356",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56676041"
+      "partner_job_id": "56676045"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -13020,11 +13851,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34260 La Tour-sur-Orb",
+        "address": "34240 Lamalou-les-Bains",
         "geopoint": {
           "coordinates": [
-            3.149276,
-            43.656169
+            3.079984,
+            43.596729
           ],
           "type": "Point"
         }
@@ -13039,9 +13870,78 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676041?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56676045?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb88beb1fb948b46ac9e4"
+      "recipient_id": "partners_6acfb88f22ce23a2ad445356"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb88deb1fb948b46ac9e7",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676042"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34600 Bédarieux",
+        "geopoint": {
+          "coordinates": [
+            3.154586,
+            43.613706
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676042?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb88deb1fb948b46ac9e7"
     },
     "contract": {
       "start": null,
@@ -14249,9 +15149,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb1a422ce23a2ad444d0f",
+      "id": "6acfb19d22ce23a2ad444d05",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56591451"
+      "partner_job_id": "56591446"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14262,11 +15162,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34200 Sète",
+        "address": "34540 Balaruc-le-Vieux",
         "geopoint": {
           "coordinates": [
-            3.687298,
-            43.40682
+            3.689893,
+            43.466263
           ],
           "type": "Point"
         }
@@ -14281,9 +15181,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591451?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56591446?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb1a422ce23a2ad444d0f"
+      "recipient_id": "partners_6acfb19d22ce23a2ad444d05"
     },
     "contract": {
       "start": null,
@@ -14387,9 +15287,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb19d22ce23a2ad444d05",
+      "id": "6acfb1a422ce23a2ad444d0f",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56591446"
+      "partner_job_id": "56591451"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14400,11 +15300,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34540 Balaruc-le-Vieux",
+        "address": "34200 Sète",
         "geopoint": {
           "coordinates": [
-            3.689893,
-            43.466263
+            3.687298,
+            43.40682
           ],
           "type": "Point"
         }
@@ -14419,9 +15319,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591446?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56591451?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb19d22ce23a2ad444d05"
+      "recipient_id": "partners_6acfb1a422ce23a2ad444d0f"
     },
     "contract": {
       "start": null,
@@ -16898,7 +17798,7 @@
       "rome_codes": [
         "M1810"
       ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion de l'eau et assainissement\n\nDans le cadre de notre développement, nous recrutons un-e Technicien-ne Support Informatique pour rejoindre notre équipe à Castelnau-le-Lez (34).En tant que membre de l'équipe support, vous serez en charge de :\n\nAssister les utilisateurs/rices du groupe sur leurs problématiques informatiques\nDiagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces\nConseiller sur les bonnes pratiques en sécurité informatique\nIntervenir à distance ou sur site pour résoudre les incidents\nGérer les demandes liées aux équipements sous garantie et assurer leur suivi\nSuivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires\nRédiger des procédures techniques et guides utilisateurs\nParticiper aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe\n\nProfil recherché :\nCompétences et qualifications requises :\n\nVous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3\nVous êtes rigoureux/se, autonome, organisé-e et à l'écoute\nVous aimez le travail en équipe et avez le sens du service\n\nCompétences techniques que vous allez pratiquer et développer :\n\nVirtualisation : VMWare\nSauvegarde : VEEAM\nSupervision &amp; gestion : Citrix, GLPI, Zabbix\nSystèmes : Windows, Office 365, GPO, Active Directory\nRéseaux &amp; sécurité : Firewall Stormshield, switchs, antivirus, droits d'accès\nDocumentation et procédures\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recrutons un-e Technicien-ne Support Informatique pour rejoindre notre équipe à Castelnau-le-Lez (34).En tant que membre de l'équipe support, vous serez en charge de :\n\nAssister les utilisateurs/rices du groupe sur leurs problématiques informatiques\nDiagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces\nConseiller sur les bonnes pratiques en sécurité informatique\nIntervenir à distance ou sur site pour résoudre les incidents\nGérer les demandes liées aux équipements sous garantie et assurer leur suivi\nSuivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires\nRédiger des procédures techniques et guides utilisateurs\nParticiper aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe\n\nProfil recherché :\nCompétences et qualifications requises :\n\nVous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3\nVous êtes rigoureux/se, autonome, organisé-e et à l'écoute\nVous aimez le travail en équipe et avez le sens du service\n\nCompétences techniques que vous allez pratiquer et développer :\n\nVirtualisation : VMWare\nSauvegarde : VEEAM\nSupervision &amp; gestion : Citrix, GLPI, Zabbix\nSystèmes : Windows, Office 365, GPO, Active Directory\nRéseaux &amp; sécurité : Firewall Stormshield, switchs, antivirus, droits d'accès\nDocumentation et procédures\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -17825,10 +18725,11 @@
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
         "Organiser et animer des activités ludiques et d'éveil",
+        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
         "Préparer et donner un repas, une boisson à l'enfant",
-        "Procéder à la toilette et aux soins de l'enfant"
+        "Procéder à la toilette et aux soins de l'enfant",
+        "Procurer à l'enfant des éléments de confort, de réconfort"
       ],
       "access_conditions": [],
       "publication": {
@@ -18115,77 +19016,6 @@
   },
   {
     "identifier": {
-      "id": "6968b8582fd23d7ccdf73258",
-      "partner_label": "Hellowork",
-      "partner_job_id": "d7500d52-82e7-4c0f-9232-aeff5b117dae"
-    },
-    "workplace": {
-      "siret": "57202552610945",
-      "brand": null,
-      "legal_name": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
-      "website": null,
-      "name": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
-      "description": "Vous pensez que la préservation de l'eau et de l'environnement sont des enjeux majeurs pour notre société ? Vous souhaitez évoluer au sein d'une entreprise engagée pour la protection des ressources naturelles et soucieuse de la qualité de vie au travail, dont les valeurs de respect et de solidarité sont plébiscitées par ses collaborateurs/trices  ? Vous souhaitez avoir les moyens d'être utile en ayant un impact positif sur notre planète ?\n\nGrand groupe international présent sur les cinq continents, Veolia a pour ambition de devenir l'entreprise de référence de la transformation écologique.\n\nRejoignez les 15 000 collaborateurs de Veolia Eau France qui s'engagent au quotidien auprès des collectivités et des industriels pour desservir 1 français sur 3 en eau potable, dépolluer les eaux usées, produire de l'énergie renouvelable et sensibiliser les consommateurs. Face aux impacts du changement climatique, nous proposons des solutions innovantes, locales et flexibles pour adapter la gestion de l'eau.\n\nEnsemble soyons acteurs de la transformation écologique !",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "36.00Z",
-          "label": "Captage, traitement et distribution d'eau"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJ4gCe&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F74044574.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bbtp%26utm_content%3Dfluxbonnealternance%26utm_term%3D74044574",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Agent de Réseau - Canalisateur en Alternance H/F",
-      "rome_codes": [
-        "K2301"
-      ],
-      "description": "Au sein du service local Ouest Hérault du territoire Hérault, vous intégrerez l'équipe d'exploitation qui assure l'installation et l'entretien des réseaux de distribution d'eau potable et des réseaux d'assainissement. Sur une période de 13 mois (490 heures de formation), vous bénéficierez d'un enseignement professionnel sur : la lecture de plan, la pose de canalisations d'eaux usées et d'eau potable, l'utilisation de petits engins de chantiers, la topographie, la maçonnerie, la réfection provisoire de chaussée, les techniques d'intervention sur réseaux en place, la signalisation de chantier. L'entreprise financera l'habilitation AIPR et le Caces ® R 482 catégorie A.\n\nÀ l'issue de la formation, vous serez en mesure d'intervenir sur :\n\n- La réalisation les petits travaux de voirie annexe à un chantier de pose de canalisation,\n- La construction d'un réseau d'assainissement et à la construction d'un réseau d'adduction d'eau potable en travaux publics,\n- Les travaux de plomberie et de tuyauterie : réparations de fuites, entretien des réseaux,\n- Les travaux sur branchements et canalisations d'Eau Potable et d'Eaux Usées (réparations, travaux neufs, renouvellement, manoeuvre et entretien des accessoires sur réseaux),\n- Le terrassement manuel et mini-pelle (si titulaire du CACES),\n- L'exécution de petits travaux de maçonnerie (pose abri compteur, regards assainissement,...),\n- La pose et dépose de compteurs.",
-      "target_diploma": null,
-      "desired_skills": [
-        "Le permis B est indispensable. Vous devez être impérativement majeur.\n\nVous allez débuter une formation de Titre professionnel canalisateur en alternance au sein de l'organisme INNOVISTA basé à Toulouse.\n\nVous êtes motivé(e) et  vous avez l'envie d'apprendre. Vous avez une aptitude au travail manuel.\n\nVous aimez travailler en équipe et à l'extérieur."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-24T20:11:12.000Z",
-        "expiration": "2026-11-24T20:11:12.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab2ff237caaafd3f596a472",
       "partner_label": "France Travail",
       "partner_job_id": "7103238"
@@ -18237,7 +19067,7 @@
       "rome_codes": [
         "K2203"
       ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 12 000 collaborateurs/trices et un chiffre d'affaires de 700 M€, nous sommes un acteur de référence des services aux collectivités et aux entreprises sur l'ensemble du territoire (métropole et DROM-COM), à travers trois pôles d'activités :\n\nEnvironnement : gestion des déchets, propreté urbaine\nServices : nettoyage industriel, sécurité, accueil\nEau : gestion et assainissement de l'eau\n\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
+      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -18928,407 +19758,6 @@
       "publication": {
         "creation": "2026-09-17T03:19:08.739Z",
         "expiration": "2026-11-17T03:19:08.739Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193bd",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944368"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50436924?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:01.096Z",
-        "expiration": "2026-11-17T03:19:01.096Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aceab99bd527d1b3c35f927",
-      "partner_label": "ATS_Hellowork",
-      "partner_job_id": "4023450/30532944VAEA/33B"
-    },
-    "workplace": {
-      "siret": "34326067500040",
-      "brand": null,
-      "legal_name": "TRESSOL CHABRIER",
-      "website": null,
-      "name": "TRESSOL CHABRIER",
-      "description": "Acteur majeur de l'automobile dans le sud de la France, nous sommes un groupe de distribution très dynamique présent dans 26 villes en Occitanie, PACA et Nouvelle Aquitaine.\r\nLe groupe Tressol Chabrier c'est 72 points de vente et 34 marques Auto/Moto.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.11Z",
-          "label": "Commerce de voitures et de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aceab99bd527d1b3c35f927/vendeur-automobile-en-alternance-h-f",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Vendeur Automobile en Alternance (H/F)",
-      "rome_codes": [
-        "D1404"
-      ],
-      "description": "Vous souhaitez vous orienter vers la fonction commerciale ? Le domaine automobile vous attire ? Vous recherchez un métier et une entreprise dynamique dans lesquels vous investir ?\r\n \r\nNous recherchons, pour notre concession Cupra/Seat/Skoda située à Lattes, notre futur(e) Vendeur(se) Automobile (H/F) en contrat d'alternance.\r\n \r\nAu sein de nos équipes et sous la responsabilité de votre tuteur, vous aurez pour missions d'intervenir en collaboration puis en autonomie sur :\r\n \r\n\r\n- La prospection de nouveaux clients\r\n- L'accueil physique en concession de clients\r\n- La présentation et le conseil sur nos véhicules\r\n- La commercialisation des produits périphériques (garanties, financement, entretien)\r\n- L'estimation physique d'un véhicule d'occasion pour reprise\r\n- Les activités de reporting\r\n\r\n Liste non exhaustive\r\n\r\n Nous vous proposons d'intégrer un groupe solide en alliant la théorie enseignée par votre formation et la pratique de nos méthodes acquise sur la concession.",
-      "target_diploma": null,
-      "desired_skills": [
-        "De tempérament dynamique, motivé(e) par le challenge de l'atteinte d'objectifs commerciaux et passionné(e) d'automobile, vous souhaitez vous inscrire dans cette aventure avec nous ? N'hésitez plus et rejoignez-nos équipes !\r\n\r\nPermis B obligatoire"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-11T06:46:06.000Z",
-        "expiration": "2026-11-11T06:46:06.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa1dbe3d4cd2f3dc00fe80d",
-      "partner_label": "France Travail",
-      "partner_job_id": "6774671"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "E.Leclerc",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.recrutement.leclerc/les-offres/?NoSociete=158&NoOffre=2882623&NoLangue=1&NoSource=16001",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "E.Leclerc - Pâtissier / Pâtissière (alternance) - H/F - H/F",
-      "rome_codes": [
-        "D1104"
-      ],
-      "description": "DESCRIPTIF DE L'OFFRE\n\nNous recherchons un(e) apprenti(e) pâtissier(ère) en alternance dans le cadre d'un CAP ou BEP Pâtisserie, pour rejoindre notre équipe au sein de notre rayon pâtisserie en grande distribution.\n\nVOS MISSIONS :\n\nAccompagné(e) par notre équipe, vous participerez notamment à :\n\n * Préparer et réaliser différents produits de pâtisserie et de viennoiserie.\n * Respecter les recettes, les techniques de fabrication et les normes d'hygiène.\n * Assurer la mise en place, la présentation et le réassort du rayon.\n * Veiller à la qualité, à la fraîcheur et à la présentation des produits.\n * Participer à l'entretien du matériel et de votre espace de travail.\n * Découvrir et apprendre les spécificités du métier de pâtissier(ère)\n\nUNE FORMATION DE QUALITÉ ! \n\nNous vous proposons une formation pratique au sein d'une équipe professionnelle.\n\nUn accompagnement tout au long de votre apprentissage.\n\nLa possibilité de développer vos compétences techniques et votre créativité.\n\nUne expérience concrète et valorisante dans le secteur de la grande distribution\n\n\nPROFIL RECHERCHÉ\n\nVous souhaitez préparer un CAP ou BEP Pâtisserie en alternance et êtes motivé(e) par l'apprentissage d'un métier artisanal et créatif.\n\nNous recherchons une personne :\n\n * Sérieuse, motivée et ponctuelle.\n * Curieuse et désireuse d'apprendre.\n * Dynamique et ayant le goût du travail en équipe.\n * Attentive à la qualité et au respect des règles d'hygiène.\n * Une première expérience en pâtisserie serait un plus, mais les débutants sont les bienvenus.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-09T15:56:43.579Z",
-        "expiration": "2026-11-09T15:56:43.579Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aa1d7675f46a1ba3de19830",
-      "partner_label": "Les emplois de l'inclusion",
-      "partner_job_id": "180231"
-    },
-    "workplace": {
-      "siret": "53012370200033",
-      "brand": null,
-      "legal_name": "GEIQ OC AGRI",
-      "website": "https://www.crge-occitanie.fr/groupements-d-employeurs/gedar-geiq-oc-agri-vignemploi/",
-      "name": "GEIQ OC AGRI",
-      "description": "Vign’emploi est une initiative née de la volonté de simplifier et de renforcer l’emploi dans la filière viticole. Cette bannière commune réunit deux structures complémentaires créées par et pour les professionnels :\r\n\r\n    Le Groupement d’Employeurs GEDAR\r\n    Le GEIQ Oc Agri\r\n\r\nEnsemble, elles apportent des solutions concrètes, humaines et adaptées aux besoins de la vigne et du vin !",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34120 Pézenas",
-        "geopoint": {
-          "coordinates": [
-            3.418941,
-            43.456901
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 9341,
-        "opco": "OCAPIAT",
-        "naf": {
-          "code": "78.30Z",
-          "label": "Autre mise à disposition de ressources humaines"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_partenaires/6aa1d7675f46a1ba3de19830/agent-viticole",
-      "phone": null,
-      "recipient_id": "partners_6aa1d7675f46a1ba3de19830"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "agent viticole",
-      "rome_codes": [
-        "A1418"
-      ],
-      "description": "LE Groupement d'employeurs viticole, le GEIQ OC AGRI, vous propose un contrat de professionnalisation de 6 mois, renouvelable. \r\nSecteur d'activité autour de PEZENAS (34).\r\nPas de pré requis,  mais vous devez être mobile hors transport en commun et avoir un attrait pour les métiers de la viticulture.\r\n\r\nOBJECTIF DE LA FORMATION : obtenir des modules de la certification, agent viticole.\r\n4 blocs de compétences certifiés indépendamment les uns des autres :\r\n- Travaux manuels de régulation et développement du vignoble- Obtention du Certiphyto\r\n- Travaux mécanisés de conduite du vignoble\r\n- Travaux de maintenance de 1er niveau des matériels et équipements agricoles\r\n- Opérations de vinification\r\n\r\nVous serez mis à disposition auprès des exploitations viticoles adhérentes au groupement\r\n400h de formation\r\nAlternance en Entreprise\r\nIndemnité repas: 2.66 € / jour\r\nIndemnité transport: 1.75 € / jour\r\n\r\nposte à pourvoir à compter du 19/10/2026",
-      "target_diploma": null,
-      "desired_skills": [
-        "personne motivée avec un attrait pour les postes en viticulture"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-09T09:16:41.548Z",
-        "expiration": "2026-11-09T09:16:41.548Z"
       },
       "opening_count": 1,
       "status": "Active",
