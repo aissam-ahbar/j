@@ -1,6 +1,148 @@
 [
   {
     "identifier": {
+      "id": "6ae22a4dbbefc38a6cee9390",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ae22a4dbbefc38a6cee9390"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Pour le compte de l'un de nos partenaires, un restaurant réputé d'Aix en Provence implanté depuis des années dans le centre-ville, nous recherchons leur futur Commis de Cuisine (H/F) en alternance. Vous serez donc basé à Aix en Provence.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae22a4dbbefc38a6cee9390/commis-de-cuisine-en-alternance-à-aix-en-provence-h-f",
+      "phone": null,
+      "recipient_id": "partners_6ae22a4dbbefc38a6cee9390"
+    },
+    "contract": {
+      "start": "2026-10-28T17:01:01.459Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commis de Cuisine en Alternance à Aix en Provence (H/F)",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Nous recherchons un(e) commis de cuisine en alternance, motivé(e) et dynamique, pour rejoindre l'équipe de notre partenaire à Aix en Provence.\n\nVous aurez pour principales missions :\n\n- Participer à la préparation des plats.\n- Réaliser la mise en place.\n- Assurer le nettoyage et l’entretien du poste de travail.\n- Respecter les règles d’hygiène et de sécurité alimentaire.\n- Travailler en équipe sous la supervision du chef de cuisine.\n\nProfil recherché :\n\nMotivé(e), sérieux(se) et organisé(e).\nEnvie d’apprendre le métier de cuisinier.\nVous souhaitez réaliser un Titre Professionnel Niveau 3 en tant que Commis de Cuisine ? N'attendez plus, transmettez nous votre CV !",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T17:01:01.459Z",
+        "expiration": "2026-12-28T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae21fcc149b034bd0566bde",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6ae21fcc149b034bd0566bde"
+    },
+    "workplace": {
+      "siret": "10096041800018",
+      "brand": null,
+      "legal_name": "ALTERNEO",
+      "website": null,
+      "name": "ALTERNEO",
+      "description": "Pour le compte de l'un de nos partenaires basé à Béziers, nous recherchons leur futur Assistant Pâtissier (H/F) en alternance. Vous préparez un CAP Pâtisserie et vous êtes passionné(e) par le domaine ? N'attendez pas, transmettez nous votre CV ?",
+      "size": "Non diffusé",
+      "location": {
+        "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
+        "geopoint": {
+          "coordinates": [
+            4.003882,
+            43.709487
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "78.10Z",
+          "label": "Activités des agences de placement de main-d'œuvre"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6ae21fcc149b034bd0566bde/assistant-pâtissier-en-alternance-h-f-à-béziers",
+      "phone": null,
+      "recipient_id": "partners_6ae21fcc149b034bd0566bde"
+    },
+    "contract": {
+      "start": "2026-10-28T16:16:12.631Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant Pâtissier en Alternance (H/F) à Béziers",
+      "rome_codes": [
+        "G1610"
+      ],
+      "description": "Vos missions :\n\n- Participer à la préparation et à la réalisation des pâtisseries.\n- Assurer la mise en place et le respect des recettes.\n- Veiller à la propreté et au respect des règles d’hygiène.\n- Apprendre et développer vos compétences aux côtés de notre équipe.\n\nProfil recherché : Vous êtes dynamique, sérieux(se), organisé(e) et souhaitez - apprendre le métier de pâtissier dans le cadre d’une formation en alternance.\nVous préparez un CAP Pâtissier. \n\nContrat : Alternance\nLieu : Béziers\nPrise de poste : Dès que Possible",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T16:16:12.631Z",
+        "expiration": "2026-12-28T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ae1b489bbefc38a6cee10d7",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6ae1b489bbefc38a6cee10d7"
@@ -3194,7 +3336,7 @@
       "legal_name": "ALTERNEO",
       "website": null,
       "name": "ALTERNEO",
-      "description": "Notre partenaire situé à Aix en Provence,  un spécialiste de la restauration rapide recherche un/une alternant(e) en apprentissage pour préparer le titre professionnel employé polyvalent de restauration .\nVous avez une soif d'apprendre et l'envie de travailler pour rejoindre une équipe de professionnels dans une bonne ambiance. Votre formateur saura vous accompagner et vous transmettre son savoir-faire.\nVous travaillez du lundi au Samedi en continu avec pause déjeuner.\nRythme : 1 jour en formation et 4 jours en entreprise\nVous êtes polyvalent(e), accueil client et vente, préparation culinaire, service, hygiène et entretien,  gestion des stocks. \nVous êtes motivé(e) et vous avez envie d'apprendre, ce poste est pour vous!",
+      "description": "Notre partenaire situé à Aix en Provence,  un spécialiste de la restauration rapide recherche un/une alternant(e) en apprentissage pour préparer le titre professionnel employé polyvalent de restauration Niveau 3 .\nVous avez une soif d'apprendre et l'envie de travailler pour rejoindre une équipe de professionnels dans une bonne ambiance. Votre formateur saura vous accompagner et vous transmettre son savoir-faire.",
       "size": "Non diffusé",
       "location": {
         "address": "10 RUE DU FOUR A CHAUX 34160 SUSSARGUES",
@@ -3224,7 +3366,7 @@
       "start": "2026-09-21T10:50:47.512Z",
       "start_type": "des_que_possible",
       "start_is_flexible": false,
-      "duration": 18,
+      "duration": 24,
       "type": [
         "Apprentissage"
       ],
@@ -3235,59 +3377,21 @@
       "rome_codes": [
         "G1603"
       ],
-      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "description": "Nous recherchons un(e) employé(e) polyvalent(e) de restauration, dynamique et motivé(e), pour rejoindre l'équipe de notre partenaire.\n\nVos missions :\n\n- Participer à la préparation des plats.\n- Assurer le service et la mise en place.\n- Accueillir et servir les clients.\n- Veiller à la propreté des espaces de travail.\n- Respecter les règles d’hygiène et de sécurité alimentaire.\n\nProfil recherché :\n\nVous préparez un Titre Professionnel d'employé d'Employé Polyvalent de Restauration Niveau 3. \nSérieux(se), dynamique et organisé(e).\nBon esprit d’équipe et sens du service.\nUne première expérience serait un plus.",
       "target_diploma": {
         "european": "3",
         "label": "CAP, BEP (Infrabac)"
       },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Avoir le sens du service",
-        "Faire preuve de rigueur et de précision",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
-        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
-        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
-        "Production, Fabrication\tPréparer, assembler des plats simples",
-        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
-        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
-        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
-        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Maintenance, Réparation\tRéaliser la plonge",
-        "Prévention des risques\tGérer les situations de stress en heure de pointe",
-        "Gestion des stocks\tConditionner des produits",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Transport\tLivrer une commande",
-        "Gestion administrative et comptable\tProcéder à l'encaissement",
-        "Relation client\tAssurer un service client rapide et courtois",
-        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
-        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
-        "Relation client\tRéaliser un service en salle",
-        "Relation client\tRépondre aux attentes d'un client",
-        "Développement commercial\tAppliquer les promotions et les offres spéciales",
-        "Développement commercial\tAssurer une présentation attrayante des produits",
-        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
-        "Organisation\tMaintenir un environnement de travail propre et organisé",
-        "Organisation\tMaintenir un environnement de travail sécurisé",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
-      ],
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
       "publication": {
         "creation": "2026-09-21T10:50:47.512Z",
         "expiration": "2026-11-21T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active",
-      "to_applicant_questions": [
-        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
-        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste."
-      ]
+      "to_applicant_questions": []
     },
     "is_delegated": false
   },
@@ -6153,6 +6257,151 @@
   },
   {
     "identifier": {
+      "id": "6ae2829fbfbdb64c1a6a075c",
+      "partner_label": "France Travail",
+      "partner_job_id": "215TGNX"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TGNX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Conseiller de Vente secteur Bricolage contrat apprentissage (H/F)",
+      "rome_codes": [
+        "D1212"
+      ],
+      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T12:24:14.454Z",
+        "expiration": "2026-12-28T12:24:14.454Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae2829fbfbdb64c1a6a0767",
+      "partner_label": "France Travail",
+      "partner_job_id": "215SZKC"
+    },
+    "workplace": {
+      "siret": "48766718000029",
+      "brand": null,
+      "legal_name": "M.D.M.",
+      "website": null,
+      "name": "M.D.M.",
+      "description": "MDM:",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34230 Paulhan",
+        "geopoint": {
+          "coordinates": [
+            3.464212,
+            43.541973
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1596,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.99C",
+          "label": "Travaux de maçonnerie générale et gros œuvre de bâtiment"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215SZKC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti maçon / Apprentie maçonne (H/F)",
+      "rome_codes": [
+        "F1703"
+      ],
+      "description": "Vous êtes Apprenti(e) Maçon / Apprentie Maçonne et préparez un CAP maçon.\n\nFormez-vous au sein d'une entreprise spécialisée en rénovation de maisons, tous corps d'état.\nVous aimez la diversité : dans le cadre de votre formation vous deviendrez polyvalent et serez amené(e) à effectuer les travaux dans les différents corps d'états du bâtiment : maçonnerie, carrelage, toiture, électricité, plomberie, menuiseries, placo, peinture,...\n\nUne semaine d'immersion en entreprise sera proposée en amont du contrat (PMSMP)\nTéléphoner et envoyer cv par mail à Mme Mazzoni:",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Monter les murs en utilisant les matériaux adaptés",
+        "Réaliser des enduits",
+        "Appliquer les mortiers"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T10:19:36.545Z",
+        "expiration": "2026-12-28T10:19:36.545Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ae1310abfbdb64c1a699c7d",
       "partner_label": "France Travail",
       "partner_job_id": "215RTGZ"
@@ -6218,136 +6467,6 @@
       "publication": {
         "creation": "2026-10-27T09:01:45.863Z",
         "expiration": "2026-12-27T09:01:45.863Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae1310abfbdb64c1a699c84",
-      "partner_label": "France Travail",
-      "partner_job_id": "8273539"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57717824?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-27T03:27:24.950Z",
-        "expiration": "2026-12-27T03:27:24.950Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae1310abfbdb64c1a699c81",
-      "partner_label": "France Travail",
-      "partner_job_id": "8273531"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57717818?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant de gestion formation (H/F)",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "Description du poste :\n\nSous la supervision du manager, vous participerez activement à la gestion quotidienne de l'activité. Vos missions principales seront Assister le manager dans l'organisation et le suivi des opérations***Participer à la gestion administrative et commerciale (courriers, plannings, commandes)***Accueillir et informer les clients ou visiteurs***Aider à la coordination des équipes et à la gestion des emplois du temps***Suivre les indicateurs de performance et contribuer à l'atteinte des objectifs***Participer à la mise en place d'actions commerciales ou promotionnelles\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous êtes organisé(e), rigoureux(se) et polyvalent(e)***Vous avez un bon sens du relationnel et une vraie capacité d'écoute***Vous êtes réactif(ve), à l'aise dans la gestion de tâches multiples***Vous maîtrisez les bases de la bureautique (Word, Excel, mails Vous avez envie d'apprendre, de progresser, et de travailler en équipe***Vous souhaitez évoluer dans un poste avec des responsabilités et du contact humain",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-27T03:27:24.458Z",
-        "expiration": "2026-12-27T03:27:24.458Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -8308,79 +8427,6 @@
   },
   {
     "identifier": {
-      "id": "6abd8b06170bf3aae5858690",
-      "partner_label": "France Travail",
-      "partner_job_id": "214QFMZ"
-    },
-    "workplace": {
-      "siret": "61203023900224",
-      "brand": null,
-      "legal_name": "JEAN LOUIS DAVID FRANCE",
-      "website": null,
-      "name": "JEAN LOUIS DAVID FRANCE",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://smrtr.io/BtV_Z",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI COIFFEUR (H/F)",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "L'enseigne Jean Louis David est N°1 en Europe avec plus de 900 salons, et accueille plus de 12 millions de clients par an dans un univers épuré et urbain.\n\nJean Louis David, c'est un cocktail explosif et imparfait qui vous ressemble ! \n\nL'enseigne fait partie du Groupe Provalliance , leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, The Barber Company, Saint Algue.).\n\nMarque créative et audacieuse, Jean Louis David positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.\n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme BP)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.\n\nQualifications\nNous recherchons des apprenti(e)s coiffeur(se)s motivé(e)s: \n\nPassionné(e) par la coiffure, vous souhaitez vous former dans un salon à l'écoute de vos besoins\nDoté(e) d'un bon relationnel, vous avez le sens du service client (écoute, disponibilité et bienveillance)\nInformations complémentaires\nAdresse postale : 1 rue des Pertuisanes, 34000 Montpellier.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-30T16:39:53.125Z",
-        "expiration": "2026-11-30T16:39:53.125Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6abc3973170bf3aae5851f1e",
       "partner_label": "France Travail",
       "partner_job_id": "214NJYX"
@@ -8945,461 +8991,6 @@
   },
   {
     "identifier": {
-      "id": "6aac67ab0dece6ea6e4193b8",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944721"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832002,
-            43.574823
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/53211270?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nNous proposons une large gamme d'articles de sport, allant des vêtements aux équipements spécialisés pour tous les types de sport. Notre équipe est passionnée, dynamique, et partage une vision commune : offrir une expérience client exceptionnelle tout en favorisant une atmosphère sportive et conviviale.\n\nMissions :\nDans le cadre de votre alternance, vous aurez l'opportunité d'évoluer au sein d'une équipe expérimentée et de participer à la gestion quotidienne du magasin. Vos principales missions seront Assistance à la gestion opérationnelle : organisation et suivi des stocks, mise en place des produits en magasin, suivi des livraisons.\n* Encadrement de l'équipe : accompagner les conseillers de vente, organiser les plannings, veiller à la qualité du service client.\n* Formation et montée en compétences : participer à l'intégration des nouveaux collaborateurs et à leur formation continue.\n* Suivi des performances commerciales : analyser les ventes, proposer des actions pour booster la performance et atteindre les objectifs de chiffre d'affaires.\n* Gestion des relations clients : veiller à l'expérience client, répondre aux questions, résoudre les problèmes et fidéliser la clientèle.\n\nDescription du profil Passion pour le sport et connaissance des différentes disciplines (course, football, fitness, randonnée, etc Expérience dans la vente, idéalement dans un magasin de sport ou d'articles de loisirs.***Excellentes qualités relationnelles, sens du service client et écoute active.***Dynamisme, rigueur et capacité à travailler en équipe.***Bonnes capacités d'adaptation et de gestion des priorités.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:19.152Z",
-        "expiration": "2026-11-17T03:19:19.152Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193b9",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944454"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50868391?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant de gestion polyvalent (H/F)",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "Description du poste :\n\nL'école NextStepAcademy recrute pour l'un de ses partenaires pour le poste Alternance - Assistant(e) de gestion &amp; opérations polyvalent(e Tu souhaites intégrer un Titre professionnelle dans le domaine des ressources humaines et tu recherches une alternance ?  Alors ils n'attendent que toi !\n\nPartenaire dont  l'activité principale est l'hôtellerie , soutenue par des filiales complémentaires en gestion immobilière et rénovation (entretien/BTP). Notre culture d'entreprise repose sur le pragmatisme et l'efficience. Nous intégrons des alternants avec une vision à long terme : nous souhaitons former aujourd'hui nos collaborateurs de demain.\n\nNous recherchons un(e) alternant(e) de niveau Master, capable de comprendre les enjeux de l'hôtellerie indépendante et de s'investir durablement à nos côtés.\n\nNous vous proposons une alternance fondée sur  l'équilibre entre le terrain (le client) et le bureau (la gestion) . Nous sommes convaincus que pour bien gérer, il faut comprendre ce que l'on gère. Ce parcours est conçu pour développer votre  polyvalence , en vous confrontant à la réalité du service client hôtelier pour mieux en maîtriser les rouages administratifs.***OS MISSIONS : UN RENFORT CLÉ POUR NOS ACTIVITÉS\n\nVotre rôle est transversal : vous venez  renforcer nos fonctions support  tout en restant connecté(e) au cœur de notre activité : l'expérience client.\n\n1. La gestion administrative (le socle de votre poste Vous garantissez la fiabilité des données et la conformité des dossiers pour l'ensemble de nos activités. C'est ici que vous structurez l'organisation Support Hôtellerie &amp; Immo :  suivi de la facturation, gestion des dossiers fournisseurs, suivi administratif des réservations et des contrats locatifs.\n* Support technique (filiale rénovation suivi administratif des devis et des interventions d'entretien (lien avec les artisans et fournisseurs Support RH de proximité :  rédaction et suivi des contrats de travail, gestion des plannings, suivi des visites médicales et préparation des éléments de paie.\n* Secrétariat général :  classement structuré, rédaction de courriers officiels, organisation de la vie du bureau.\n\n2. L'ancrage opérationnel (la réalité du métier) : Pour donner du sens à votre gestion administrative, vous devez vous immerger dans notre activité principale. C'est cette immersion qui forgera votre polyvalence Relationnel client (Hôtellerie renfort ponctuel à l'accueil, gestion des check-in/check-out, interaction directe avec la clientèle.\n* Gestion de l'imprévu :  apprendre à réagir face aux demandes clients ou aux urgences techniques du bâtiment.\n* L'objectif :  comprendre les  contraintes réelles de l'exploitation hôtelière et les exigences de la clientèle  pour devenir un gestionnaire pertinent et pragmatique.\n\n3. L'amélioration continue (votre valeur ajoutée Au fur et à mesure de votre maîtrise de cet équilibre terrain/bureau, nous attendons de vous une prise de recul Identifier les processus administratifs répétitifs.\n* Proposer des outils pour gagner en efficacité (modes opératoires, tableaux de suivi, standardisation des procédures d'accueil ou de gestion Contribuer à la structuration de nos méthodes de travail entre les services (Hôtel / Immo / Technique)\n\nDescription du profil :\n\nVous préparez un diplôme de niveau Master (Gestion des entreprises, RH, Management Hôtelier/PME).\n\nSavoir-faire Excellente maîtrise des outils bureautiques (Excel, Word) et aisance avec les chiffres.\n* Qualités rédactionnelles irréprochables (orthographe et syntaxe Capacité à classer, archiver et retrouver l'information rapidement.\n\nSavoir-être Sens du service client :  indispensable dans l'hôtellerie. Vous avez une présentation et une élocution professionnelles.\n* Polyvalence et agilité :  vous aimez passer d'un sujet à l'autre (d'un client à la réception à un dossier de facturation complexe Fiabilité : vous êtes ponctuel(le), rigoureux(se) et constant(e) dans l'effort.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:08.760Z",
-        "expiration": "2026-11-17T03:19:08.760Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193bc",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944438"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/51051712?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:08.741Z",
-        "expiration": "2026-11-17T03:19:08.741Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193b7",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944439"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/51051711?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:08.739Z",
-        "expiration": "2026-11-17T03:19:08.739Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193bd",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944368"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50436924?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:01.096Z",
-        "expiration": "2026-11-17T03:19:01.096Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c0",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943809"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44703767?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Employé polyvalent / Employée polyvalente de restaurant (H/F)",
-      "rome_codes": [
-        "G1603"
-      ],
-      "description": "Description du poste :\n\nMissions assurer un service de qualité en équipe accueillir et fidéliser les clients savoir présenter et vendre les produits de l'enseigne mise en vitrine des produits organiser les commandes à emporter, sur place et en livraison prise des commandes par téléphone assurer la gestion de la caisse assurer la gestion des stocks réceptionner les marchandises et vérifier la conformité des livraisons respecter les règles d'hygiène et de sécurité au sein de l'entreprise assurer le nettoyage pour le service suivant\n\nDescription du profil :\n\nProfil recherché Tu souhaites intégrer une formation en alternance dans la gestion, la restauration ou le commerce.\n* Tu as une première expérience dans le secteur de la restauration (service, cuisine, etc Tu es dynamique, organisé(e) et tu as un excellent relationnel.\n* Tu as une vraie envie de manager et de faire grandir ton équipe tout en contribuant à la satisfaction des clients.\n* Tu es flexible et tu sais gérer des situations variées en gardant ton calme.\n* La connaissance des normes HACCP et la gestion d'équipe sont des atouts, mais pas indispensables.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193c1",
-      "partner_label": "France Travail",
-      "partner_job_id": "6943802"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/44704115?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commercial B2B (H/F)",
-      "rome_codes": [
-        "D1410"
-      ],
-      "description": "Description du poste :\n\nNous recherchons un(e) assistant(e) commercial(e) en alternance pour rejoindre notre équipe. Vous serez chargé(e) d'assister l'équipe dans la gestion des ventes, le suivi des commandes et la relation client, tout en contribuant au développement de notre activité.***Principales activités***Assurer les relations avec les clients et prospects.\n* Participer activement au développement commercial et à la prospection de nouveaux clients.\n* Accueil et/ou prospection téléphonique des clients.\n* Mise en application des techniques commerciales de l'entreprise (invitation à passer à l'agence, amener à concrétiser à distance le projet au travers de la vente des prestations de la Société, visites à domicile Information en transparence de l'élaboration et de la remise des éléments que sont : Devis, Contrat de Prestations de Services, Livrets d'accueil Mise en place de la prestation, évaluation de la satisfaction du client. Contact des clients pour tous motifs nécessaires au bon fonctionnement des dossiers engagés.\n* Participation à l'animation commerciale interne et externe.\n* Le suivi de la relation Entreprise / Clients Suivi administratif de A à Z des clients de la Société, au travers de la tenue et la mise à jour quotidienne du flux d'informations. Veiller à la satisfaction et à l'information transparente des tiers.\n\nEnvironnement de travail\n\nAu sein de l'agence.\n\nParticipation à des salons et événements recrutement.\n\nTravail en équipe.\n\nDescription du profil :\n\nCompétences***Capacité à travailler avec des interlocuteurs multiples, capacité d'adaptation\n* Empathie, écoute active et analyse des besoins.\n* Dynamisme et force de proposition.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:18:30.925Z",
-        "expiration": "2026-11-17T03:18:30.925Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa1dbe3d4cd2f3dc00fe80d",
       "partner_label": "France Travail",
       "partner_job_id": "6774671"
@@ -9465,39 +9056,113 @@
   },
   {
     "identifier": {
-      "id": "6a97503a9891627144750bb0",
-      "partner_label": "France Travail",
-      "partner_job_id": "213CXLF"
+      "id": "6ae27fa8ec4f5594ab3fbcb0",
+      "partner_label": "Hellowork",
+      "partner_job_id": "10c97119-f531-44a0-954a-12137f1cdda5"
     },
     "workplace": {
-      "siret": "99251902500017",
-      "brand": "BOULANGERIE FEUILLETTE",
-      "legal_name": "BOULANGERIE -F- BALARUC LES BAINS",
+      "siret": "83492658600027",
+      "brand": null,
+      "legal_name": "ECG HOLDING SAS",
       "website": null,
-      "name": "BOULANGERIE -F- BALARUC LES BAINS",
-      "description": null,
-      "size": "Non diffusé",
+      "name": "ECG HOLDING SAS",
+      "description": "Homair est l'enseigne des campings en propre exploités par ECG, équipés de parcs aquatiques fantastiques et proposant un programme d'animations pour toute la famille.  \n  \nMarvilla Parks is the brand of campsites operated by ECG, equipped with fantastic water parks and offering an entertainment program for the whole family.",
+      "size": "0 salarié",
       "location": {
-        "address": "34540 Balaruc-les-Bains",
+        "address": "34450 Vias",
         "geopoint": {
           "coordinates": [
-            3.690774,
-            43.446804
+            3.395237,
+            43.301474
           ],
           "type": "Point"
         }
       },
       "domain": {
         "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "opco": "ATLAS",
         "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CXLF",
+      "url": "https://r.holeest.com/redirect?jd_token=BRUep7&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84903269.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bhotellerie%252Ctourisme%26utm_content%3Dfluxbonnealternance%26utm_term%3D84903269",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Réceptionniste Alternant H/F",
+      "rome_codes": [
+        "G1703"
+      ],
+      "description": "ECG, c'est le n°1 de l'emploi en Hôtellerie de plein air.\n\nSi tu as le goût du collectif, du service et de l'action au quotidien, cette aventure est faite pour toi !\n\nPourquoi nous rejoindre ?\n\n- 7 000 opportunités d'emploi par an.\n- Des marques reconnues (Homair-Eurocamp, Alannia, Roan, ECGS...).\n- + de 450 destinations dans les plus beaux campings-villages 4 et 5 étoiles d'Europe.\n- + de 4 millions de clients accueillis chaque année.\n\nECG, c'est une expérience professionnelle unique : évoluer dans un environnement multiculturel, à la mer, au bord d'un lac, à la montagne... Il y a forcément un moyen de se retrouver !\n\nTon meilleur job, leurs meilleures vacances !\n\nInterlocuteur/trice privilégié(e) des vacanciers, tu garantis la qualité de l'accueil et contribues à la réussite de leur séjour, de leur arrivée à leur départ.\n\nTes missions sont les suivantes :\n\n- Accueillir physiquement et téléphoniquement la clientèle française et internationale ;\n- Renseigner, orienter et informer les clients sur les services du camping et les activités régionales ;\n- Assurer le suivi des dossiers clients, le suivi du planning de réservation et les encaissements des prestations annexes ;\n- Participer au réassort de matériel dans les mobil-homes si nécessaire ;\n- Veiller à la satisfaction client et gérer les demandes ou imprévus du quotidien.",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Tu disposes idéalement d'une première expérience réussie en réception, idéalement dans le secteur de l'hôtellerie de plein air.\n\nTes atouts pour exceller dans ce poste :\n\n- Maîtrise fluide du français et de l'anglais (une 3ème langue étrangère est un vrai plus) ;\n- Excellente maîtrise des outils informatiques et des logiciels de réservation ;\n- Organisation, aisance relationnelle, réactivité et capacité d'adaptation.\n\nNous te proposons :\n\n- Poste en alternance;\n- Tickets-restaurant et réductions sur les séjours dans nos campings sous conditions ;\n- Équipes conviviales et environnement propice à l'évolution.\n\nPrêt(e) à faire vivre la magie des vacances à nos clients, sur le terrain ou en coulisses ? L'aventure commence ici : dépose ton CV !\n Compétences : ANGLAIS, Résalys, Relationnel client, Adaptabilité"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T14:12:29.000Z",
+        "expiration": "2026-12-28T14:12:29.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae2829fbfbdb64c1a6a075c",
+      "partner_label": "France Travail",
+      "partner_job_id": "215TGNX"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34970 Lattes",
+        "geopoint": {
+          "coordinates": [
+            3.900373,
+            43.570523
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TGNX",
       "phone": null,
       "recipient_id": null
     },
@@ -9512,24 +9177,383 @@
       "remote": null
     },
     "offer": {
-      "title": "Apprenti boulanger (H/F)",
+      "title": "Conseiller de Vente secteur Bricolage contrat apprentissage (H/F)",
       "rome_codes": [
-        "D1102"
+        "D1212"
       ],
-      "description": "Rejoignez une équipe dynamique et passionnée chez « Feuillette », la célèbre enseigne de boulangerie pâtisserie. Depuis 10 ans, Feuillette se développe dans toute la France. Nous comptons plus de 100 magasins sur tout le territoire.\n\nNous recrutons 2 apprentis boulanger (H/F)\nVous souhaitez apprendre le métier de boulanger dans un environnement structuré, exigeant et bienveillant. Vous êtes motivé(e), curieux(se) et avez envie de progresser aux côtés de professionnels passionnés ? Rejoignez l'aventure Feuillette !\n\nAccompagné(e) par l'équipe boulangerie, vous participerez progressivement à :\nLa fabrication des produits de boulangerie dans le respect des fiches techniques.\nLe pétrissage, le façonnage et la cuisson des pains et viennoiseries.\nLe respect des règles d'hygiène et de sécurité alimentaire (HACCP).\nL'organisation et le nettoyage du laboratoire.\nLa coordination avec l'équipe de vente pour assurer la fraîcheur et la disponibilité des produits.\n\nIntégration :\nVous bénéficierez d'un parcours de formation et d'accompagnement adapté à votre diplôme et à votre niveau, en lien avec votre centre de formation.\nChez Feuillette, l'apprentissage est un véritable tremplin vers l'emploi : une embauche en CDI pourra être envisagée à l'issue de votre contrat, selon votre engagement.\n\nAvantages :\n-30 % de réduction sur les produits Feuillette (hors promotions)\n1 baguette offerte chaque jour travaillé\nIndemnité de blanchissage\n\nMerci de préciser votre motivation pour l'apprentissage du métier de boulanger",
+      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "CAP boulanger",
-        "Conditions de fermentation de la pâte (à pain, à viennoiserie)",
-        "Modes de cuisson des aliments",
-        "Entretenir, nettoyer un espace, un lieu, un local",
-        "Maintenir un environnement de travail propre et organisé"
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
       ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-08-31T11:19:08.813Z",
-        "expiration": "2026-10-31T11:19:08.813Z"
+        "creation": "2026-10-28T12:24:14.454Z",
+        "expiration": "2026-12-28T12:24:14.454Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae27fabec4f5594ab3fbd49",
+      "partner_label": "Hellowork",
+      "partner_job_id": "ccd926cb-4f65-45cf-a131-bbfce8a8b89d"
+    },
+    "workplace": {
+      "siret": "45003751000010",
+      "brand": null,
+      "legal_name": "AUTORAMA EVASION",
+      "website": null,
+      "name": "AUTORAMA EVASION",
+      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34190 Laroque",
+        "geopoint": {
+          "coordinates": [
+            3.726649,
+            43.929423
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.11Z",
+          "label": "Commerce de voitures et de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=BPYVRQ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84891452.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D84891452",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Carrossier H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [
+        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T11:58:20.000Z",
+        "expiration": "2026-12-28T11:58:20.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae27fa8ec4f5594ab3fbcbb",
+      "partner_label": "Hellowork",
+      "partner_job_id": "1e4226d4-9463-4adf-8120-acb968445b10"
+    },
+    "workplace": {
+      "siret": "45003751000010",
+      "brand": null,
+      "legal_name": "AUTORAMA EVASION",
+      "website": null,
+      "name": "AUTORAMA EVASION",
+      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1090,
+        "opco": "Opco Mobilités",
+        "naf": {
+          "code": "45.11Z",
+          "label": "Commerce de voitures et de véhicules automobiles légers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=BPYTBO&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84891442.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D84891442",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Carrossier H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage Bac PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [
+        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T11:58:17.000Z",
+        "expiration": "2026-12-28T11:58:17.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae2829fbfbdb64c1a6a0767",
+      "partner_label": "France Travail",
+      "partner_job_id": "215SZKC"
+    },
+    "workplace": {
+      "siret": "48766718000029",
+      "brand": null,
+      "legal_name": "M.D.M.",
+      "website": null,
+      "name": "M.D.M.",
+      "description": "MDM:",
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "34230 Paulhan",
+        "geopoint": {
+          "coordinates": [
+            3.464212,
+            43.541973
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1596,
+        "opco": "Constructys",
+        "naf": {
+          "code": "43.99C",
+          "label": "Travaux de maçonnerie générale et gros œuvre de bâtiment"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215SZKC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti maçon / Apprentie maçonne (H/F)",
+      "rome_codes": [
+        "F1703"
+      ],
+      "description": "Vous êtes Apprenti(e) Maçon / Apprentie Maçonne et préparez un CAP maçon.\n\nFormez-vous au sein d'une entreprise spécialisée en rénovation de maisons, tous corps d'état.\nVous aimez la diversité : dans le cadre de votre formation vous deviendrez polyvalent et serez amené(e) à effectuer les travaux dans les différents corps d'états du bâtiment : maçonnerie, carrelage, toiture, électricité, plomberie, menuiseries, placo, peinture,...\n\nUne semaine d'immersion en entreprise sera proposée en amont du contrat (PMSMP)\nTéléphoner et envoyer cv par mail à Mme Mazzoni:",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Monter les murs en utilisant les matériaux adaptés",
+        "Réaliser des enduits",
+        "Appliquer les mortiers"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-28T10:19:36.545Z",
+        "expiration": "2026-12-28T10:19:36.545Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a2c871ea914bd1428f0f5b5",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54662577"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RESTALLIANCE",
+      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-06-09T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier F/H",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "6-10 ans",
+        "11-20 ans",
+        "20 ans d'expérience et plus"
+      ],
+      "publication": {
+        "creation": "2026-10-28T00:05:53.417Z",
+        "expiration": "2026-12-28T00:05:53.417Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ae27f0d2acc1f90146e43c6",
+      "partner_label": "EDF",
+      "partner_job_id": "185867"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "EDF",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "981 Avenue Raymond Dugrand 34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.903658,
+            43.597981
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "35.11Z",
+          "label": "Production d'électricité"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-185867?idOrigine=502",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2027-01-04T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance - Chargé de mission QHSE F/H",
+      "rome_codes": [
+        "F1204"
+      ],
+      "description": "Actuellement, EDF power solutions recherche pour sa direction AOS (Asset Operation Solutions) un(e) :\r\n\r\nChargé(e) de mission QHSE en Alternance\r\nDébut : Janvier 2027\r\nDurée : 12 à 24 mois\r\nLocalisation : Montpellier (34)\r\n \r\n\r\nAu sein de la direction Asset Operation Solutions, vous serez rattaché(e) à la Responsable QHSE et contribuerez au déploiement opérationnel de la démarche Qualité, Santé Sécurité et Environnement auprès des équipes digitales, de supervision et d'ingénierie. Vous participerez à des missions transverses visant à fiabiliser les suivis, accompagner les métiers et transformer les retours du terrain en actions d'amélioration concrètes. Vos missions principales seront les suivantes :\r\n\r\nParticiper aux actions de prévention et à l'animation QHSE\r\nFiabiliser les outils de suivi des actions et indicateurs QHSE\r\nAppuyer la surveillance du suivi des formations et habilitations des équipes opérationnelles\r\nCoordonner la préparation et la diffusion des Safety Alert Manufacturers auprès des filiales\r\nTravailler sur l'évaluation du risque chimique : tenir à jour l'inventaire des produits et les fiches de données de sécurité de l'atelier de réparation des composants majeurs d'éolienne (évaluation SEIRICH et contrôles réglementaires)\r\nAssurer le suivi de la Gestion Electronique des Documents applicables et la formation des collaborateurs à l'outil existant\r\nParticiper au pilotage de la certification ISO QHSE (mise en oeuvre du planning d'audits, mise à jour des indicateurs de performance et suivi du plan d'actions)\r\n \r\nCette alternance vous permettra d'interagir avec des interlocuteurs très variés au sein des différentes directions. La diversité des sujets que vous porterez vous permettra d'avoir une vision transverse de toutes les activités et métiers d'EDF power solutions.\n\nProfil recherché :\n\nActuellement, étudiant(e) en préparation d’un diplôme de niveau master QSE ou équivalent, vous êtes à la recherche d'une alternance de 12 à 24 mois au sein d'un groupe leader dans son domaine.\r\nVous disposez idéalement d’une première expérience (alternance, stage, projet académique…) dans le domaine de l’énergie et avez une connaissance des normes ISO 9001, 45001 et 14001. \r\n\r\nQualités recherchées :\r\nAutonomie, Rigueur         \r\nConnaissances des référentiels QHSE\r\nCuriosité, sens du relationnel\r\nTravail en équipe\r\nBonnes capacités rédactionnelles\r\n\r\nConnaissances outils IT (logiciels/langages…) : Pack Office (Word, Excel, PowerPoint…). La connaissance de SharePoint Online et de Power BI, ainsi qu’une familiarité avec les outils d’intelligence artificielle générative pour la rédaction, la synthèse et l’exploitation d’informations, seraient appréciées, dans le respect de la confidentialité des données et avec un regard critique sur les résultats produits.\r\n\r\nNiveau d'anglais : intermédiaire\r\n\r\n\r\nFaire son alternance chez EDF power solutions, c’est l’occasion de développer son potentiel et prendre part à des missions d’envergure sur des projets uniques tout en vivant une expérience engageante et enrichissante.\r\n\r\nAlors, rejoignez-nous et préparons ensemble votre avenir !\r\n\r\nConformément aux engagements pris par le groupe EDF, la diversité et l'inclusion sont au coeur de nos valeurs fondamentales. EDF power solutions est une entreprise engagée, qui s'investit pour le développement de l'égalité professionnelle et de la diversité sous toutes ses formes.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Qualité / Santé sécurité / Environnement"
+      ],
+      "access_conditions": [
+        "Débutant"
+      ],
+      "publication": {
+        "creation": "2026-10-28T00:00:00.000Z",
+        "expiration": "2026-12-28T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9741,136 +9765,6 @@
       "publication": {
         "creation": "2026-10-27T08:30:13.052Z",
         "expiration": "2026-11-26T08:30:01.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae1310abfbdb64c1a699c84",
-      "partner_label": "France Travail",
-      "partner_job_id": "8273539"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57717824?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Commis / Commise de cuisine (H/F)",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Description du poste :\n\nQuelles sont les missions Participer à la préparation et la réalisation des plats, des entrées aux desserts, en respectant les standards de qualité.***Réceptionner et contrôler les marchandises conformément aux procédures en vigueur.***Rassembler et organiser les ingrédients nécessaires à l'élaboration des recettes.***Appliquer rigoureusement les fiches techniques pour garantir la conformité des préparations culinaires.***Veiller au respect des règles d'hygiène et de sécurité alimentaire (HACCP).\n\nDescription du profil :\n\nQuel est le profil demandé Vous êtes passionné(e) par la cuisine et souhaitez évoluer dans un environnement dynamique et stimulant.***Vous faites preuve de rigueur, d'organisation et d'un bon esprit d'équipe.***Une première expérience en cuisine (même en stage) est un plus, mais les débutants motivés sont les bienvenus !",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-27T03:27:24.950Z",
-        "expiration": "2026-12-27T03:27:24.950Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae1310abfbdb64c1a699c81",
-      "partner_label": "France Travail",
-      "partner_job_id": "8273531"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57717818?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant de gestion formation (H/F)",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "Description du poste :\n\nSous la supervision du manager, vous participerez activement à la gestion quotidienne de l'activité. Vos missions principales seront Assister le manager dans l'organisation et le suivi des opérations***Participer à la gestion administrative et commerciale (courriers, plannings, commandes)***Accueillir et informer les clients ou visiteurs***Aider à la coordination des équipes et à la gestion des emplois du temps***Suivre les indicateurs de performance et contribuer à l'atteinte des objectifs***Participer à la mise en place d'actions commerciales ou promotionnelles\n\nDescription du profil :\n\nCe poste est fait pour vous si Vous êtes organisé(e), rigoureux(se) et polyvalent(e)***Vous avez un bon sens du relationnel et une vraie capacité d'écoute***Vous êtes réactif(ve), à l'aise dans la gestion de tâches multiples***Vous maîtrisez les bases de la bureautique (Word, Excel, mails Vous avez envie d'apprendre, de progresser, et de travailler en équipe***Vous souhaitez évoluer dans un poste avec des responsabilités et du contact humain",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-27T03:27:24.458Z",
-        "expiration": "2026-12-27T03:27:24.458Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11214,148 +11108,6 @@
       "publication": {
         "creation": "2026-10-23T20:11:28.000Z",
         "expiration": "2026-12-23T20:11:28.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6adbda09ec4f5594ab3ccd83",
-      "partner_label": "Hellowork",
-      "partner_job_id": "b9fa7146-ef89-45a6-8eae-c41b322c8251"
-    },
-    "workplace": {
-      "siret": "45003751000010",
-      "brand": null,
-      "legal_name": "AUTORAMA EVASION",
-      "website": null,
-      "name": "AUTORAMA EVASION",
-      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.11Z",
-          "label": "Commerce de voitures et de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=AXZ1J8&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84747609.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D84747609",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Carrossier H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage Bac PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [
-        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-23T12:31:45.000Z",
-        "expiration": "2026-12-23T12:31:45.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6adbda07ec4f5594ab3ccd1e",
-      "partner_label": "Hellowork",
-      "partner_job_id": "218ebf35-e218-40c7-b566-8260619afa84"
-    },
-    "workplace": {
-      "siret": "45003751000010",
-      "brand": null,
-      "legal_name": "AUTORAMA EVASION",
-      "website": null,
-      "name": "AUTORAMA EVASION",
-      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
-      "size": "20 à 49 salariés",
-      "location": {
-        "address": "34190 Laroque",
-        "geopoint": {
-          "coordinates": [
-            3.726649,
-            43.929423
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1090,
-        "opco": "Opco Mobilités",
-        "naf": {
-          "code": "45.11Z",
-          "label": "Commerce de voitures et de véhicules automobiles légers"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=AY1NxL&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84747467.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D84747467",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Carrossier H/F",
-      "rome_codes": [
-        "I1606"
-      ],
-      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
-      "target_diploma": null,
-      "desired_skills": [
-        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-23T12:30:19.000Z",
-        "expiration": "2026-12-23T12:30:19.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -13094,6 +12846,77 @@
   },
   {
     "identifier": {
+      "id": "6a5e9da79e972c0713e4a34a",
+      "partner_label": "Hellowork",
+      "partner_job_id": "de9f784c-9a52-4edc-b098-1c5ca8639d14"
+    },
+    "workplace": {
+      "siret": "78012998703591",
+      "brand": null,
+      "legal_name": "RENAULT SAS",
+      "website": null,
+      "name": "RENAULT SAS",
+      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
+      "size": "10 000 salariés et plus",
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 54,
+        "opco": "OPCO 2i",
+        "naf": {
+          "code": "29.10Z",
+          "label": "Construction de véhicules automobiles"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=BPVU0q&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81469499.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D81469499",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Carrossier H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage Bac PRO, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [
+        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T20:43:48.000Z",
+        "expiration": "2026-12-19T20:43:48.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ad64b82ca7fc418d3e3f63c",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56756377"
@@ -13300,6 +13123,144 @@
   },
   {
     "identifier": {
+      "id": "6ad5c8045334fda8505e7a33",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56753535"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T07:36:20.353Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ad5c7fe5334fda8505e7a2a",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56753532"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34420 Portiragnes",
+        "geopoint": {
+          "coordinates": [
+            3.344913,
+            43.297541
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56753532?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ad5c7fe5334fda8505e7a2a"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T07:36:20.353Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ad5c8072c77d038809ded8c",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56753539"
@@ -13438,75 +13399,6 @@
   },
   {
     "identifier": {
-      "id": "6ad5c8045334fda8505e7a33",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56753535"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-19T07:36:20.353Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ad5c7fc2c77d038809ded7e",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56753530"
@@ -13542,75 +13434,6 @@
       "url": "https://www.directemploi.com/candidatOffre/56753530?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6ad5c7fc2c77d038809ded7e"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-19T07:36:20.353Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad5c7fe5334fda8505e7a2a",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56753532"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34420 Portiragnes",
-        "geopoint": {
-          "coordinates": [
-            3.344913,
-            43.297541
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753532?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6ad5c7fe5334fda8505e7a2a"
     },
     "contract": {
       "start": null,
@@ -14213,9 +14036,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb88beb1fb948b46ac9e4",
+      "id": "6acfb89822ce23a2ad44535d",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56676041"
+      "partner_job_id": "56676054"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14226,11 +14049,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34260 La Tour-sur-Orb",
+        "address": "34450 Vias",
         "geopoint": {
           "coordinates": [
-            3.149276,
-            43.656169
+            3.395237,
+            43.301474
           ],
           "type": "Point"
         }
@@ -14245,9 +14068,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676041?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb88beb1fb948b46ac9e4"
+      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
     },
     "contract": {
       "start": null,
@@ -14351,75 +14174,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb89822ce23a2ad44535d",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56676054"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34450 Vias",
-        "geopoint": {
-          "coordinates": [
-            3.395237,
-            43.301474
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676054?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb89822ce23a2ad44535d"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:16:38.220Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb7b3eb1fb948b46ac92d",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56673770"
@@ -14489,9 +14243,9 @@
   },
   {
     "identifier": {
-      "id": "6acfb892eb1fb948b46ac9e8",
+      "id": "6acfb88beb1fb948b46ac9e4",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56676048"
+      "partner_job_id": "56676041"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14502,11 +14256,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34410 Sérignan",
+        "address": "34260 La Tour-sur-Orb",
         "geopoint": {
           "coordinates": [
-            3.29375,
-            43.258033
+            3.149276,
+            43.656169
           ],
           "type": "Point"
         }
@@ -14521,9 +14275,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56676048?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56676041?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6acfb892eb1fb948b46ac9e8"
+      "recipient_id": "partners_6acfb88beb1fb948b46ac9e4"
     },
     "contract": {
       "start": null,
@@ -14662,6 +14416,75 @@
       "url": "https://www.directemploi.com/candidatOffre/56676045?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6acfb88f22ce23a2ad445356"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:16:38.220Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb892eb1fb948b46ac9e8",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56676048"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34410 Sérignan",
+        "geopoint": {
+          "coordinates": [
+            3.29375,
+            43.258033
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56676048?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb892eb1fb948b46ac9e8"
     },
     "contract": {
       "start": null,
@@ -15800,6 +15623,75 @@
   },
   {
     "identifier": {
+      "id": "6acfb19b22ce23a2ad444d03",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56591445"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34340 Marseillan",
+        "geopoint": {
+          "coordinates": [
+            3.536135,
+            43.338729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56591445?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb19b22ce23a2ad444d03"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T16:46:39.137Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acfb19d22ce23a2ad444d05",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56591446"
@@ -15973,75 +15865,6 @@
       "url": "https://www.directemploi.com/candidatOffre/56591451?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6acfb1a422ce23a2ad444d0f"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T16:46:39.137Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6acfb19b22ce23a2ad444d03",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56591445"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34340 Marseillan",
-        "geopoint": {
-          "coordinates": [
-            3.536135,
-            43.338729
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56591445?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb19b22ce23a2ad444d03"
     },
     "contract": {
       "start": null,
@@ -17207,7 +17030,7 @@
       "legal_name": null,
       "website": null,
       "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une ��quipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
+      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
       "size": null,
       "location": {
         "address": "34170 Castelnau-le-Lez",
@@ -18257,76 +18080,6 @@
   },
   {
     "identifier": {
-      "id": "6a2c871ea914bd1428f0f5b5",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54662577"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "RESTALLIANCE",
-      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-06-09T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier F/H",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "6-10 ans",
-        "11-20 ans",
-        "20 ans d'expérience et plus"
-      ],
-      "publication": {
-        "creation": "2026-10-04T22:05:44.000Z",
-        "expiration": "2026-12-04T22:05:44.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6abf6e0f999d7ac15747fa76",
       "partner_label": "OPCO EP",
       "partner_job_id": "6abf6e0f999d7ac15747fa76"
@@ -18610,6 +18363,77 @@
   },
   {
     "identifier": {
+      "id": "6a974d00db6c731160e4321a",
+      "partner_label": "Hellowork",
+      "partner_job_id": "5c4b6afd-e23b-4553-9431-d4f584fc5fb0"
+    },
+    "workplace": {
+      "siret": "78012998703591",
+      "brand": null,
+      "legal_name": "RENAULT SAS",
+      "website": null,
+      "name": "RENAULT SAS",
+      "description": "Fort de près de 4000 points de vente, le réseau Renault permet à chacun de trouver un emploi près de chez soi.",
+      "size": "10 000 salariés et plus",
+      "location": {
+        "address": "34190 Laroque",
+        "geopoint": {
+          "coordinates": [
+            3.726649,
+            43.929423
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 54,
+        "opco": "OPCO 2i",
+        "naf": {
+          "code": "29.10Z",
+          "label": "Construction de véhicules automobiles"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=BPWuE1&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F82874565.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D82874565",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Carrossier H/F",
+      "rome_codes": [
+        "I1606"
+      ],
+      "description": "Le Groupe Peyrot est à la recherche de ses nouveaux talents !\n\nDe Marmande à Perpignan, en passant par Toulouse, Castres, St Gely du Fesc ou encore Clermont l'Hérault, le Groupe Peyrot compte aujourd'hui 44 concessions multi-marques. Nos 1 000 collaborateurs veillent tous les jours à la satisfaction de nos clients et à transmettre leurs connaissances et savoir-faire à nos apprentis.\n\nDans le cadre de votre contrat d'apprentissage, vous serez rattaché.e au carrossier référent ou chef d'atelier du site et serez formé.e aux tâches suivantes :\n\n- Evaluer l'état des dommages sur les véhicules au niveau de la carrosserie, établir un dévis\n- Démonter ou remplacer les éléments endommagés\n- Evaluer l'état des dommages\n- Procéder à des opérations de débosselage, planage, ponçage\n- Remplacer les pare-chocs ou éléments de carrosserie en mauvais état\n- Améliorer la qualité de la surface du véhicule réparé par masticage, ponçage, couches de protection et de finition",
+      "target_diploma": null,
+      "desired_skills": [
+        "Vous êtes :\n\n- Méticuleux.se dans l'élaboration de vos tâches\n- Vous aimez travailler en équipe\n- Vous êtes féru.e d'automobiles et souhaitez découvrir ce secteur et ses spécificités\n\nCe que nous vous offrons :\n\n- Intégrer un groupe familial indépendant, à l'écoute de ses collaborateurs ;\n- Être accueilli(e) dans une concession à taille humaine ;\n- Intégrer une équipe soutenue par un manager de proximité ;\n- Profiter d'opportunités professionnelles au sein du Groupe sur plusieurs marques ;\n- Bénéficier de tarifs préférentiels pour l'achat, l'entretien d'un véhicule, les pièces détachés ;\n- Accéder aux avantages d'IRP Auto.\n\nVotre futur métier vous attend dans l'une de nos concessions !\n\nNous nous engageons à chaque étape du processus à formuler un retour à chaque candidat, au moins par mail."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-30T20:11:55.000Z",
+        "expiration": "2026-11-30T20:11:55.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "698e5c182ba5fc475eeb4eac",
       "partner_label": "Hellowork",
       "partner_job_id": "a7f10377-2f59-420a-8293-bf8e7e814658"
@@ -18672,79 +18496,6 @@
       "publication": {
         "creation": "2026-09-30T20:06:34.000Z",
         "expiration": "2026-11-30T20:06:34.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6abd8b06170bf3aae5858690",
-      "partner_label": "France Travail",
-      "partner_job_id": "214QFMZ"
-    },
-    "workplace": {
-      "siret": "61203023900224",
-      "brand": null,
-      "legal_name": "JEAN LOUIS DAVID FRANCE",
-      "website": null,
-      "name": "JEAN LOUIS DAVID FRANCE",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://smrtr.io/BtV_Z",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI COIFFEUR (H/F)",
-      "rome_codes": [
-        "D1202"
-      ],
-      "description": "L'enseigne Jean Louis David est N°1 en Europe avec plus de 900 salons, et accueille plus de 12 millions de clients par an dans un univers épuré et urbain.\n\nJean Louis David, c'est un cocktail explosif et imparfait qui vous ressemble ! \n\nL'enseigne fait partie du Groupe Provalliance , leader mondial de la coiffure avec plus de 3 500 salons et boutiques répartis dans 35 pays, et composé de 18 enseignes (Franck Provost, The Barber Company, Saint Algue.).\n\nMarque créative et audacieuse, Jean Louis David positionne les collaborateurs au cœur de sa réussite, stimule leur évolution et les aide à développer leur sens artistique.\n\nVous êtes à la recherche de nouvelles opportunités ?  Rejoignez nous !\n\nDescription du poste\nNous recherchons un(e) apprenti(e) prêt(e) à s'investir dans une formation à la fois à l'école et en salon (diplôme BP)\n\nAccompagné par un tuteur vos missions seront les suivantes :\n\nAccueillir et accompagner la clientèle\nRéaliser des prestations shampoings et soins capillaires\nRéaliser des brushings, des colorations et des coupes basiques\nAssister les coiffeurs lors de la consultation de la cliente\nDévelopper les ventes de produit\nDevenez un coiffeur au sein de notre groupe, notamment grâce à : \n\nUne journée d'intégration dédiée à nos alternants \nUn parcours de formation sur mesure dédié à nos alternants avec le programme « Avenir Juniors » composé de journées de formation spécifiques rien que pour vous.\nUn tuteur formé dans nos académies pour vous accompagner\nDes possibilités futures de carrière et de développement au sein de notre Groupe.\nEn nous rejoignant, nous vous promettons :\n\nDes titres restaurant\nL'accès à une plateforme d'avantages (tarifs préférentiels pour des places de cinémas, des parcs d'attraction.)\nDes offres attractives chez nos partenaires\nDes valeurs d'entreprise fortes : Passion, Confiance, Créativité et Engagement\nNotre entreprise est engagée dans le développement d'un environnement inclusif et encourage les candidatures des personnes en situation de handicap.\n\nQualifications\nNous recherchons des apprenti(e)s coiffeur(se)s motivé(e)s: \n\nPassionné(e) par la coiffure, vous souhaitez vous former dans un salon à l'écoute de vos besoins\nDoté(e) d'un bon relationnel, vous avez le sens du service client (écoute, disponibilité et bienveillance)\nInformations complémentaires\nAdresse postale : 1 rue des Pertuisanes, 34000 Montpellier.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Techniques de coupes de cheveux",
-        "Accueillir le client et l'installer",
-        "Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing",
-        "Réaliser une coupe ou une coiffure"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-30T16:39:53.125Z",
-        "expiration": "2026-11-30T16:39:53.125Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -19863,201 +19614,6 @@
       "publication": {
         "creation": "2026-09-18T11:34:22.415Z",
         "expiration": "2026-11-18T11:34:22.415Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193b8",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944721"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34430 Saint-Jean-de-Védas",
-        "geopoint": {
-          "coordinates": [
-            3.832002,
-            43.574823
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/53211270?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nNous proposons une large gamme d'articles de sport, allant des vêtements aux équipements spécialisés pour tous les types de sport. Notre équipe est passionnée, dynamique, et partage une vision commune : offrir une expérience client exceptionnelle tout en favorisant une atmosphère sportive et conviviale.\n\nMissions :\nDans le cadre de votre alternance, vous aurez l'opportunité d'évoluer au sein d'une équipe expérimentée et de participer à la gestion quotidienne du magasin. Vos principales missions seront Assistance à la gestion opérationnelle : organisation et suivi des stocks, mise en place des produits en magasin, suivi des livraisons.\n* Encadrement de l'équipe : accompagner les conseillers de vente, organiser les plannings, veiller à la qualité du service client.\n* Formation et montée en compétences : participer à l'intégration des nouveaux collaborateurs et à leur formation continue.\n* Suivi des performances commerciales : analyser les ventes, proposer des actions pour booster la performance et atteindre les objectifs de chiffre d'affaires.\n* Gestion des relations clients : veiller à l'expérience client, répondre aux questions, résoudre les problèmes et fidéliser la clientèle.\n\nDescription du profil Passion pour le sport et connaissance des différentes disciplines (course, football, fitness, randonnée, etc Expérience dans la vente, idéalement dans un magasin de sport ou d'articles de loisirs.***Excellentes qualités relationnelles, sens du service client et écoute active.***Dynamisme, rigueur et capacité à travailler en équipe.***Bonnes capacités d'adaptation et de gestion des priorités.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:19.152Z",
-        "expiration": "2026-11-17T03:19:19.152Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193b9",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944454"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/50868391?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant de gestion polyvalent (H/F)",
-      "rome_codes": [
-        "M1213"
-      ],
-      "description": "Description du poste :\n\nL'école NextStepAcademy recrute pour l'un de ses partenaires pour le poste Alternance - Assistant(e) de gestion &amp; opérations polyvalent(e Tu souhaites intégrer un Titre professionnelle dans le domaine des ressources humaines et tu recherches une alternance ?  Alors ils n'attendent que toi !\n\nPartenaire dont  l'activité principale est l'hôtellerie , soutenue par des filiales complémentaires en gestion immobilière et rénovation (entretien/BTP). Notre culture d'entreprise repose sur le pragmatisme et l'efficience. Nous intégrons des alternants avec une vision à long terme : nous souhaitons former aujourd'hui nos collaborateurs de demain.\n\nNous recherchons un(e) alternant(e) de niveau Master, capable de comprendre les enjeux de l'hôtellerie indépendante et de s'investir durablement à nos côtés.\n\nNous vous proposons une alternance fondée sur  l'équilibre entre le terrain (le client) et le bureau (la gestion) . Nous sommes convaincus que pour bien gérer, il faut comprendre ce que l'on gère. Ce parcours est conçu pour développer votre  polyvalence , en vous confrontant à la réalité du service client hôtelier pour mieux en maîtriser les rouages administratifs.***OS MISSIONS : UN RENFORT CLÉ POUR NOS ACTIVITÉS\n\nVotre rôle est transversal : vous venez  renforcer nos fonctions support  tout en restant connecté(e) au cœur de notre activité : l'expérience client.\n\n1. La gestion administrative (le socle de votre poste Vous garantissez la fiabilité des données et la conformité des dossiers pour l'ensemble de nos activités. C'est ici que vous structurez l'organisation Support Hôtellerie &amp; Immo :  suivi de la facturation, gestion des dossiers fournisseurs, suivi administratif des réservations et des contrats locatifs.\n* Support technique (filiale rénovation suivi administratif des devis et des interventions d'entretien (lien avec les artisans et fournisseurs Support RH de proximité :  rédaction et suivi des contrats de travail, gestion des plannings, suivi des visites médicales et préparation des éléments de paie.\n* Secrétariat général :  classement structuré, rédaction de courriers officiels, organisation de la vie du bureau.\n\n2. L'ancrage opérationnel (la réalité du métier) : Pour donner du sens à votre gestion administrative, vous devez vous immerger dans notre activité principale. C'est cette immersion qui forgera votre polyvalence Relationnel client (Hôtellerie renfort ponctuel à l'accueil, gestion des check-in/check-out, interaction directe avec la clientèle.\n* Gestion de l'imprévu :  apprendre à réagir face aux demandes clients ou aux urgences techniques du bâtiment.\n* L'objectif :  comprendre les  contraintes réelles de l'exploitation hôtelière et les exigences de la clientèle  pour devenir un gestionnaire pertinent et pragmatique.\n\n3. L'amélioration continue (votre valeur ajoutée Au fur et à mesure de votre maîtrise de cet équilibre terrain/bureau, nous attendons de vous une prise de recul Identifier les processus administratifs répétitifs.\n* Proposer des outils pour gagner en efficacité (modes opératoires, tableaux de suivi, standardisation des procédures d'accueil ou de gestion Contribuer à la structuration de nos méthodes de travail entre les services (Hôtel / Immo / Technique)\n\nDescription du profil :\n\nVous préparez un diplôme de niveau Master (Gestion des entreprises, RH, Management Hôtelier/PME).\n\nSavoir-faire Excellente maîtrise des outils bureautiques (Excel, Word) et aisance avec les chiffres.\n* Qualités rédactionnelles irréprochables (orthographe et syntaxe Capacité à classer, archiver et retrouver l'information rapidement.\n\nSavoir-être Sens du service client :  indispensable dans l'hôtellerie. Vous avez une présentation et une élocution professionnelles.\n* Polyvalence et agilité :  vous aimez passer d'un sujet à l'autre (d'un client à la réception à un dossier de facturation complexe Fiabilité : vous êtes ponctuel(le), rigoureux(se) et constant(e) dans l'effort.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:08.760Z",
-        "expiration": "2026-11-17T03:19:08.760Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6aac67ab0dece6ea6e4193bc",
-      "partner_label": "France Travail",
-      "partner_job_id": "6944438"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34200 Sète",
-        "geopoint": {
-          "coordinates": [
-            3.687298,
-            43.40682
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/51051712?utm_source=pole-emploi&utm_medium=aggregator-free",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant manager (H/F)",
-      "rome_codes": [
-        "M1604"
-      ],
-      "description": "Description du poste :\n\nMission En intégrant un de nos restaurants de la métropole, vous serez formé en occupant un poste de Shift Leader (Assistant Manager). Vous intégrerez toute une équipe (qui vous attend impatiemment) qui sera là pour vous former, répondre à vos questions et développer vos compétences. Et aussi pour rire, manger, partager, s'entraider pendant les rushs et travailler dans le feu de l'action.\n\nOui, ça fait rêver. Et ce n'est pas tout Dans cette (merveilleuse) team, vous aurez la responsabilité de Faire grandir la flamme au sein de votre équipe en développant les compétences de chacun Gérer à chaud le quotidien du restaurant (rush, caisses, plannings, approvisionnements Vendre et produire dans le respect des normes de l'enseigne et dans le souci de la satisfaction clients***Transmettre les bons réflexes hygiène et sécurité à vos équipes\n\nOui, ça fait beaucoup mais vous n'êtes pas sans savoir qu'on est gourmands.\n\nCe parcours a pour but à l'issue de votre alternance de vous former à terme sur un poste de Manager H/F via un programme de formation. Pas la peine de rougir, vous le méritez.\n\nDescription du profil :\n\nVous préparez un niveau de diplôme type Bac +2 orienté commerce et management et vous êtes attiré par le secteur de la restauration rapide Vous cherchez à travailler en alternance, dans un cadre dynamique, qui vous permettra d'évoluer, aussi bien professionnellement, que personnellement Pour ce poste nous cherchons un.e fan de burgers mais aussi Quelqu'un de rigoureux et de réactif Quelqu'un qui aime la satisfaction client et l'esprit d'équipe Quelqu'un qui aime rire &amp; manger parce qu'on est chez quand même Nous pouvons grandir ensemble via un contrat d'apprentissage de 12 ou 24 mois, voire plus.\n\nRémunération selon la grille collective.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-17T03:19:08.741Z",
-        "expiration": "2026-11-17T03:19:08.741Z"
       },
       "opening_count": 1,
       "status": "Active",
