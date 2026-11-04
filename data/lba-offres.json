@@ -5258,117 +5258,6 @@
   },
   {
     "identifier": {
-      "id": "6a9a488306fad1942d120c1a",
-      "partner_label": "offres_emploi_lba",
-      "partner_job_id": "6a9a488306fad1942d120c1a"
-    },
-    "workplace": {
-      "siret": "41254663200016",
-      "brand": null,
-      "legal_name": "LES GOURMANDS",
-      "website": null,
-      "name": "LES GOURMANDS",
-      "description": "ENVIE D'APPRENDRE, DE PROGRESSER ET DE FAIRE PARTIE D'UNE BELLE ÉQUIPE\nRejoins les Gourmands et forme toi auprès du chef passionné Patrice GAY dans une cuisine créative, généreuse et exigeante.",
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "40 AVENUE DE SAINT LAZARE 34000 MONTPELLIER",
-        "geopoint": {
-          "coordinates": [
-            3.88725,
-            43.620384
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6a9a488306fad1942d120c1a/aide-de-cuisine",
-      "phone": null,
-      "recipient_id": "partners_6a9a488306fad1942d120c1a"
-    },
-    "contract": {
-      "start": "2026-09-04T04:26:43.537Z",
-      "start_type": "des_que_possible",
-      "start_is_flexible": false,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Aide de cuisine",
-      "rome_codes": [
-        "G1602"
-      ],
-      "description": "Le Commis de cuisine, un acteur essentiel dans la préparation des mets et la production en cuisine. Assiste les cuisiniers, chefs de partie dans la préparation des plats Prépare les ingrédients nécessaires à la confection des recettes Maintient la propreté des plans de travail et des ustensiles de cuisine Participe à la réception et au stockage des marchandises Applique les normes d'hygiène et de sécurité alimentaire Peut aider à la mise en place des plats pour le service",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [
-        "Avoir l'esprit d'équipe",
-        "Faire preuve de rigueur et de précision",
-        "Faire preuve de réactivité",
-        "Organiser son travail selon les priorités et les objectifs"
-      ],
-      "to_be_acquired_skills": [
-        "Production, Fabrication\tCuire des viandes, poissons ou légumes",
-        "Production, Fabrication\tCuisiner des sauces pour accompagner les produits",
-        "Production, Fabrication\tDresser des plats pour le service",
-        "Production, Fabrication\tDécouper et tailler les légumes, fruits et condiments",
-        "Production, Fabrication\tEplucher des légumes et des fruits",
-        "Production, Fabrication\tManipuler des équipements de cuisine",
-        "Production, Fabrication\tOptimiser l'utilisation des ressources alimentaires",
-        "Production, Fabrication\tPréparer des ustensiles de cuisine",
-        "Production, Fabrication\tPréparer et réaliser les pâtes, appareils et crèmes pour les desserts",
-        "Production, Fabrication\tPréparer les viandes et les poissons",
-        "Production, Fabrication\tPrésenter et décorer les préparations selon les consignes",
-        "Maintenance, Réparation\tAssurer la propreté de la zone de travail",
-        "Maintenance, Réparation\tEntretenir un équipement, une machine, une installation",
-        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
-        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
-        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
-        "Gestion des stocks\tParticiper à un inventaire",
-        "Gestion des stocks\tRanger des produits ou marchandises selon leurs dates de validité et les conditions de conservation",
-        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
-        "Protection des personnes et de l'environnement\tAppliquer les écogestes dans sa pratique",
-        "Protection des personnes et de l'environnement\tEvacuer et trier des déchets, des produits",
-        "Communication\tMaintenir une communication efficace avec la direction",
-        "Communication\tS'intégrer dans l'équipe et faire preuve de coopération",
-        "Organisation\tAssurer le respect des normes de sécurité alimentaire",
-        "Organisation\tMaintenir un environnement de travail propre et organisé",
-        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
-        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
-        "Organisation\tRéaliser ses activités selon les étapes et les temps impartis"
-      ],
-      "access_conditions": [
-        "Cet emploi est accessible avec une qualification de niveau 3 (CAP) de l'hôtellerie/restauration."
-      ],
-      "publication": {
-        "creation": "2026-09-04T04:26:43.537Z",
-        "expiration": "2026-11-04T00:00:00.000Z"
-      },
-      "opening_count": 2,
-      "status": "Active",
-      "to_applicant_questions": [
-        "Qu’aimeriez-vous apprendre à travers cette alternance ?",
-        "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?",
-        "Pourquoi souhaitez-vous effectuer votre alternance dans ce secteur d'activité ?"
-      ]
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a99b9933d397359dc344553",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6a99b9933d397359dc344553"
@@ -5893,8 +5782,8 @@
       "recipient_id": "partners_6a5d316be5fa1b20ee1237c7"
     },
     "contract": {
-      "start": "2026-09-18T00:00:00.000Z",
-      "start_type": "precise_date",
+      "start": "2026-11-03T19:09:37.084Z",
+      "start_type": "des_que_possible",
       "start_is_flexible": false,
       "duration": 12,
       "type": [
@@ -5954,7 +5843,7 @@
       ],
       "publication": {
         "creation": "2026-07-19T20:19:55.189Z",
-        "expiration": "2026-11-11T00:00:00.000Z"
+        "expiration": "2027-01-03T00:00:00.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -6071,6 +5960,293 @@
       "to_applicant_questions": []
     },
     "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b555b",
+      "partner_label": "France Travail",
+      "partner_job_id": "8521960"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RSM France",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "69.20Z",
+          "label": "Activités comptables"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.rsmfrance.fr/fr/annonce/4675809-apprentie-technicien-support-n1-hf-perols?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "RSM France - Technicien / Technicienne support informatique (H/F)",
+      "rome_codes": [
+        "I1404"
+      ],
+      "description": "RSM est devenu  6ème réseau mondial en Audit, Expertise Comptable et Conseil grâce à l'engagement de nos équipes.\nDans nos cabinets en Méditerranée (Pérols, Nîmes, Uzès), 220 experts et expertes évoluent au quotidien dans un environnement bienveillant et en constante évolution, où autonomie et prise d'initiatives sont valorisées.\nChez RSM, chaque jour est une opportunité de grandir.\nNous avons à cœur de faire évoluer nos équipes, y compris celles et ceux qui nous rejoignent en alternance, avec un tuteur dédié et des responsabilités qui grandissent avec eux.\nVotre rôle : Technicien(ne) Support Informatique N1 en alternance au sein de l'équipe support informatique de RSM Méditerranée.\nL'équipe support informatique accompagne au quotidien les collaborateurs et collaboratrices de RSM Méditerranée : résolution des incidents, traitement des demandes, mise à disposition des postes et des outils. Elle travaille également en lien étroit avec l'équipe infrastructure de RSM France et nos prestataires.\nÀ ce poste, accompagné(e) par le responsable du support, vous prenez progressivement en charge le support de premier niveau auprès des collaborateurs.\nVotre contribution portera sur les missions suivantes :\n\nSupport aux utilisateurs : Vous prenez en charge les demandes et incidents reçus par téléphone, Teams, mail ou via l'outil de ticketing iTop, puis vous les qualifiez, les priorisez et les documentez. Vous diagnostiquez et résolvez les incidents de premier niveau (poste de travail, messagerie Outlook, Teams, imprimantes, accès réseau et VPN), escaladez vers le niveau 2, l'équipe infrastructure ou nos prestataires lorsque nécessaire, et assurez le suivi jusqu'à la clôture en informant l'utilisateur de l'avancement de sa demande.\nGestion du parc et des comptes : Vous préparez et déployez les postes de travail et smartphones (Windows, Intune), gérez les arrivées et départs (création de comptes Active Directory et Microsoft 365, remise et restitution du matériel) et tenez à jour l'inventaire du parc.\nDocumentation et accompagnement : Vous rédigez et mettez à jour les procédures et modes opératoires, accompagnez les collaborateurs dans la prise en main de leurs outils et participez à la communication auprès des utilisateurs (maintenances, consignes).\n\nFormation : Vous préparez en apprentissage un diplôme ou un titre professionnel en informatique : BTS SIO option SISR (Services informatiques aux organisations) en 2 ans, un titre professionnel TAI (Technicien d'assistance informatique) un TSSR (Technicien supérieur systèmes et réseaux), ou toute formation équivalente en support et administration des systèmes.\nExpérience : Une première expérience (stage, projet personnel) en support ou en maintenance informatique est un plus.\nCompétences techniques : Vous avez de bonnes bases sur l'environnement Windows et la suite Microsoft 365, ainsi que des notions de réseau (TCP/IP, DNS, DHCP) et d'Active Directory.\nQualités personnelles : Doté(e) du sens du service et de l'écoute, vous savez expliquer simplement, avec patience et pédagogie. Rigoureux(se) dans le suivi et la documentation, vous faites preuve de curiosité et d'envie d'apprendre. Vous intervenez dans un environnement où la confidentialité est essentielle : votre discrétion est donc indispensable.\nCe que nous vous offrons :\n\n\nUn accompagnement sur-mesure : Un tuteur dédié et une montée en compétences progressive.\n\n\nUn environnement de travail moderne : Une équipe à taille humaine, dans un environnement Microsoft récent (Microsoft 365, Intune), au contact direct des collaborateurs et collaboratrices.\n\n\nRSM est engagé, au travers de sa politique diversité et inclusion, en faveur de l'accueil et l'intégration de tous les talents.\nDans ce contexte, nous accompagnons les personnes en situation de handicap durant leur process de recrutement et tout au long de leur carrière au sein du Groupe grâce à notre Mission Handicap et à des Référents Handicap.\nNotre processus de recrutement est transparent et rapide :\n\nEntretien avec notre chargée de recrutement pour échanger sur votre parcours et se projeter ensemble.\nEntretien avec notre responsable support informatique pour apprendre à se connaître et échanger sur le poste.\n\nEnvie de faire partie de l'aventure RSM ?\nPostulez dès maintenant et venez grandir avec nous !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T21:16:57.134Z",
+        "expiration": "2027-01-03T21:16:57.134Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b5558",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YXMH"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YXMH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur/Barman en alternance H/F (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Bienvenue au sein d'un groupe de 4 établissements\n\n- La Casa Cubana : bar à tapas, vins, cocktails, à l'ambiance lounge cubaine.\n\n- L'Irish Tavern : pub irlandais typique, avec en plus des tapas, du vin et des cocktails.\n\n- La Casita Del Barrio : bar hispanique à l'ambiance conviviale. On y sert du vin, des tapas et des cocktails.\n\n- Le Cubanito : bar musical ultra festif. Ici c'est cocktails, bières et fiesta !\n\nDepuis 20 ans nous formons et accompagnons des jeunes, de la découverte à la maîtrise des métiers du bar, du service et de la cuisine. Nous sommes ainsi un spécialiste reconnu de la formation des jeunes.\n\nAccompagné tout au long de votre apprentissage par une équipe de responsables issus eux-mêmes de l'alternance, vous serez formés aux techniques et spécificités des 4 établissements. Vos créations se retrouveront à la carte et les responsabilités vous ouvriront les bras. À vous de choisir celles que vous souhaitez.\n\nEn partenariat avec 5 centres de formations et des postes ouverts dans tous les domaines, à vous de choisir le centre et le poste qui vous intéresse.\n\nResponsabilités\n\nAccueillir les clients avec courtoisie et professionnalisme\nPrendre les commandes et conseiller les clients sur le menu\nServir les plats et les boissons en respectant les standards de service\nGérer les opérations d'encaissement et la manipulation d'espèces\nAssurer la propreté et l'organisation de la salle ainsi que des espaces de travail\nVeiller à la sécurité alimentaire en respectant les normes d'hygiène\nCollaborer avec l'équipe en cuisine pour garantir un service fluide\nGérer efficacement son temps de travail pour répondre aux besoins des clients\nProfil recherché\n\nMotivé\nDynamique\nSens du relationnelle et du travail en équipe\nSens de l'organisation et gestion du temps efficace\nSi vous êtes motivé(e) par le travail en équipe et que vous souhaitez contribuer à une expérience client mémorable, nous serions ravis de vous accueillir parmi nous.\n\nType d'emploi : Alternance",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Préparer des boissons chaudes ou froides",
+        "Accueillir le client et l'installer",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T12:21:31.602Z",
+        "expiration": "2027-01-03T12:21:31.602Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b555e",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YXJQ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YXJQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commis de cuisine en alternance (H/F)",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Bienvenue au sein d'un groupe de 4 établissements\n\n- La Casa Cubana : bar à tapas, des produits frais, cuisinés maisons, faits minute, accompagné de vins et cocktails, dans une ambiance lounge cubaine.\n\n- L'Irish Tavern : pub irlandais typique, avec des tapas imaginées et crées pour rassembler les cultures de l'Irlande et de la méditerranée, du vin et des cocktails.\n\n- La Casita Del Barrio : bar hispanique à l'ambiance conviviale. Les tapas et tapasitas sont le reflet de notre excellence, beaux, bons, variées et souvent renouvelées\n\n- Le Cubanito : bar musical ultra festif. Ici c'est cocktails, bières et fiesta !\n\nDepuis 20 ans nous formons et accompagnons des jeunes, de la découverte à la maîtrise des métiers du bar, du service et de la cuisine. Nous sommes ainsi un spécialiste reconnu de la formation des jeunes.\n\nAccompagné tout au long de votre apprentissage par une équipe de responsables issus eux-mêmes de l'alternance, vous serez formés aux techniques et spécificités des 4 établissements. Vos créations se retrouveront à la carte et les responsabilités vous ouvriront les bras. À vous de choisir celles que vous souhaitez.\n\nEn partenariat avec 7 centres de formations et des postes ouverts dans tous les domaines, à vous de choisir le centre et le poste qui vous intéresse.\n\nResponsabilités\n\nParticiper à la préparation des aliments selon les recettes établies\nAssurer la mise en place des ingrédients et des équipements nécessaires au service\nContribuer à la réalisation des plats en respectant les normes de qualité et de présentation\nVeiller à la propreté et à l'organisation de l'espace de travail\nRespecter les règles de sécurité alimentaire et d'hygiène en vigueur\nAider à l'inventaire des produits et signaler les besoins en approvisionnement\nProfil recherché\nVous êtes fait(e) pour ce poste si :\n\nVous possédez un bon sens de l'organisation et êtes capable de travailler sous pression\nVous êtes dynamique, motivé(e) et aimez le travail en équipe\nVous faites preuve d'une grande rigueur dans votre travail\nRejoignez-nous pour faire partie d'une aventure culinaire enrichissante où votre talent sera valorisé !\n\nType d'emploi : Temps plein, Alternance",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Cuire des viandes, poissons ou légumes",
+        "Dresser des plats pour le service",
+        "Eplucher des légumes et des fruits",
+        "Préparer les viandes et les poissons"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T12:18:25.539Z",
+        "expiration": "2027-01-03T12:18:25.539Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b5559",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YRPG"
+    },
+    "workplace": {
+      "siret": "41808426500028",
+      "brand": null,
+      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "website": null,
+      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.30A",
+          "label": "Hébergement social pour personnes âgées"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YRPG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 13,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Accompagnant Educatif et Social (AES) (H/F)",
+      "rome_codes": [
+        "K1306"
+      ],
+      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) accompagnant(e) éducatif et social motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'accompagnant(e) éducatif et social dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'accompagnat(e) éducatif et social.\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Collaborer avec des équipes multidisciplinaires",
+        "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T10:24:01.757Z",
+        "expiration": "2027-01-03T10:24:01.757Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
   },
   {
     "identifier": {
@@ -8096,6 +8272,79 @@
   },
   {
     "identifier": {
+      "id": "6acd5c980226c9bf0008d144",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CSZP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CSZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T16:02:10.564Z",
+        "expiration": "2026-12-12T16:02:10.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ac96843015572e53e599d69",
       "partner_label": "France Travail",
       "partner_job_id": "214ZVQS"
@@ -8526,74 +8775,6 @@
   },
   {
     "identifier": {
-      "id": "6ab2ff237caaafd3f596a472",
-      "partner_label": "France Travail",
-      "partner_job_id": "7103238"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Groupe Nicollin",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://recrutement.groupenicollin.com/fr/annonce/4611233-chef-de-secteur-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Groupe Nicollin - Responsable de secteur en propreté de locaux (H/F)",
-      "rome_codes": [
-        "K2203"
-      ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recherchons un-e Responsable de secteur pour un poste en contrat d'apprentissage basé à Castelnau-le-Lez (34).\nVos missions :\nVéritable relais de terrain entre les client-e-s, les équipes et la direction, vous êtes garant-e de la bonne exécution des prestations sur votre périmètre.\nVos responsabilités :- Manager les équipes d'agent-e-s de service : organisation, encadrement, accompagnement\n\nGarantir la qualité de service et le respect du cahier des charges\nRecruter et former les agent-e-s, définir les moyens humains et techniques adaptés\nSuivre les prestations sur le terrain, effectuer les contrôles et veiller au bon déroulement des opérations\nAssurer la sécurité et le respect des règles d'hygiène\nGérer la relation client, identifier les besoins, assurer la satisfaction\nInteragir avec les fournisseurs/euses dans le cadre des prestations\n\nProfil recherché :- Vous préparez un master type école de commerce\n\nAutonomie, rigueur et sens de l'organisation\nCapacité à prendre des décisions, anticiper et gérer les imprévus\nExcellentes qualités humaines et sens du service client\nAisance relationnelle, capacité à communiquer clairement\nMaîtrise de la gestion des conflits et du management de proximité\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\nAvantages sociaux : véhicule de service, téléphone et ordinateur portable fournis\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-22T21:18:08.829Z",
-        "expiration": "2026-11-22T21:18:08.829Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ab1ad989b5a0cfb25b1225e",
       "partner_label": "France Travail",
       "partner_job_id": "7063479"
@@ -8939,6 +9120,78 @@
       "publication": {
         "creation": "2026-09-16T12:11:36.335Z",
         "expiration": "2026-11-16T12:11:36.335Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aab15eb5743d160f9fa4539",
+      "partner_label": "France Travail",
+      "partner_job_id": "213YJDC"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YJDC",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur(se) en apprentissage (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Vous serez formé(e) au service  au sein d'un restaurant en cuisine traditionnelle dans le cadre d'un contrat d'apprentissage.\nLa partie théorique de la formation sera dispensée à Nimes ou à Montpellier",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Accueillir le client et l'installer",
+        "Effectuer le service des plats à table"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-09-16T11:57:52.126Z",
+        "expiration": "2026-11-16T11:57:52.126Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9372,6 +9625,503 @@
   },
   {
     "identifier": {
+      "id": "6aeafe1e73033f5541cf8712",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6aeafe1e73033f5541cf8712"
+    },
+    "workplace": {
+      "siret": "90514624700010",
+      "brand": "LA FOURNEE",
+      "legal_name": "OVALIE",
+      "website": null,
+      "name": "OVALIE",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "2750 Boulevard Paul Valéry 34070 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.849808,
+            43.5951
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6aeafe1edae20430cf4ea82d",
+      "phone": null,
+      "recipient_id": "partners_6aeafe1e73033f5541cf8712"
+    },
+    "contract": {
+      "start": "2026-11-16T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boulanger / Boulangère",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles.\\nPrépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires\\nConçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre\\nGère les stocks de matières premières et commande les fournitures nécessaires\\nAssure la cuisson optimale de chaque produit pour garantir la meilleure qualité\\nPeut effectuer la vente de produits de boulangerie et viennoiserie\\nPeut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-04T09:42:54.644Z",
+        "expiration": "2027-01-03T09:42:54.644Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aeafa7273033f5541cf822e",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6aeafa7273033f5541cf822e"
+    },
+    "workplace": {
+      "siret": "50785543500024",
+      "brand": "LE PETRIN DE SAINT-GELY",
+      "legal_name": "PIC BL",
+      "website": null,
+      "name": "PIC BL",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "999 Avenue du Clapas 34980 Saint-Gély-du-Fesc",
+        "geopoint": {
+          "coordinates": [
+            3.811057,
+            43.681183
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "10.71C",
+          "label": "Boulangerie et boulangerie-pâtisserie"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6aeafa72dae20430cf4ea824",
+      "phone": null,
+      "recipient_id": "partners_6aeafa7273033f5541cf822e"
+    },
+    "contract": {
+      "start": "2026-11-16T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boulanger / Boulangère",
+      "rome_codes": [
+        "D1108"
+      ],
+      "description": "Le Boulanger, artisan essentiel de notre quotidien, transforme et valorise les matières premières pour régaler nos papilles.\\nPrépare et réalise des produits de boulangerie et de viennoiserie selon les règles d'hygiène et de sécurité alimentaires\\nConçoit de nouvelles recettes de pains et viennoiseries pour diversifier l'offre\\nGère les stocks de matières premières et commande les fournitures nécessaires\\nAssure la cuisson optimale de chaque produit pour garantir la meilleure qualité\\nPeut effectuer la vente de produits de boulangerie et viennoiserie\\nPeut gérer un commerce de détail alimentaire (boulangerie, boulangerie-pâtisserie, ...)",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-04T09:27:14.014Z",
+        "expiration": "2027-01-03T09:27:14.014Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b555b",
+      "partner_label": "France Travail",
+      "partner_job_id": "8521960"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RSM France",
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "69.20Z",
+          "label": "Activités comptables"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://recrutement.rsmfrance.fr/fr/annonce/4675809-apprentie-technicien-support-n1-hf-perols?s_o=France+Travail&s_b=DigitalRecruiters",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "RSM France - Technicien / Technicienne support informatique (H/F)",
+      "rome_codes": [
+        "I1404"
+      ],
+      "description": "RSM est devenu  6ème réseau mondial en Audit, Expertise Comptable et Conseil grâce à l'engagement de nos équipes.\nDans nos cabinets en Méditerranée (Pérols, Nîmes, Uzès), 220 experts et expertes évoluent au quotidien dans un environnement bienveillant et en constante évolution, où autonomie et prise d'initiatives sont valorisées.\nChez RSM, chaque jour est une opportunité de grandir.\nNous avons à cœur de faire évoluer nos équipes, y compris celles et ceux qui nous rejoignent en alternance, avec un tuteur dédié et des responsabilités qui grandissent avec eux.\nVotre rôle : Technicien(ne) Support Informatique N1 en alternance au sein de l'équipe support informatique de RSM Méditerranée.\nL'équipe support informatique accompagne au quotidien les collaborateurs et collaboratrices de RSM Méditerranée : résolution des incidents, traitement des demandes, mise à disposition des postes et des outils. Elle travaille également en lien étroit avec l'équipe infrastructure de RSM France et nos prestataires.\nÀ ce poste, accompagné(e) par le responsable du support, vous prenez progressivement en charge le support de premier niveau auprès des collaborateurs.\nVotre contribution portera sur les missions suivantes :\n\nSupport aux utilisateurs : Vous prenez en charge les demandes et incidents reçus par téléphone, Teams, mail ou via l'outil de ticketing iTop, puis vous les qualifiez, les priorisez et les documentez. Vous diagnostiquez et résolvez les incidents de premier niveau (poste de travail, messagerie Outlook, Teams, imprimantes, accès réseau et VPN), escaladez vers le niveau 2, l'équipe infrastructure ou nos prestataires lorsque nécessaire, et assurez le suivi jusqu'à la clôture en informant l'utilisateur de l'avancement de sa demande.\nGestion du parc et des comptes : Vous préparez et déployez les postes de travail et smartphones (Windows, Intune), gérez les arrivées et départs (création de comptes Active Directory et Microsoft 365, remise et restitution du matériel) et tenez à jour l'inventaire du parc.\nDocumentation et accompagnement : Vous rédigez et mettez à jour les procédures et modes opératoires, accompagnez les collaborateurs dans la prise en main de leurs outils et participez à la communication auprès des utilisateurs (maintenances, consignes).\n\nFormation : Vous préparez en apprentissage un diplôme ou un titre professionnel en informatique : BTS SIO option SISR (Services informatiques aux organisations) en 2 ans, un titre professionnel TAI (Technicien d'assistance informatique) un TSSR (Technicien supérieur systèmes et réseaux), ou toute formation équivalente en support et administration des systèmes.\nExpérience : Une première expérience (stage, projet personnel) en support ou en maintenance informatique est un plus.\nCompétences techniques : Vous avez de bonnes bases sur l'environnement Windows et la suite Microsoft 365, ainsi que des notions de réseau (TCP/IP, DNS, DHCP) et d'Active Directory.\nQualités personnelles : Doté(e) du sens du service et de l'écoute, vous savez expliquer simplement, avec patience et pédagogie. Rigoureux(se) dans le suivi et la documentation, vous faites preuve de curiosité et d'envie d'apprendre. Vous intervenez dans un environnement où la confidentialité est essentielle : votre discrétion est donc indispensable.\nCe que nous vous offrons :\n\n\nUn accompagnement sur-mesure : Un tuteur dédié et une montée en compétences progressive.\n\n\nUn environnement de travail moderne : Une équipe à taille humaine, dans un environnement Microsoft récent (Microsoft 365, Intune), au contact direct des collaborateurs et collaboratrices.\n\n\nRSM est engagé, au travers de sa politique diversité et inclusion, en faveur de l'accueil et l'intégration de tous les talents.\nDans ce contexte, nous accompagnons les personnes en situation de handicap durant leur process de recrutement et tout au long de leur carrière au sein du Groupe grâce à notre Mission Handicap et à des Référents Handicap.\nNotre processus de recrutement est transparent et rapide :\n\nEntretien avec notre chargée de recrutement pour échanger sur votre parcours et se projeter ensemble.\nEntretien avec notre responsable support informatique pour apprendre à se connaître et échanger sur le poste.\n\nEnvie de faire partie de l'aventure RSM ?\nPostulez dès maintenant et venez grandir avec nous !",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T21:16:57.134Z",
+        "expiration": "2027-01-03T21:16:57.134Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea68b1cc766074572b4d48",
+      "partner_label": "Hellowork",
+      "partner_job_id": "c9474667-2859-4540-847d-354a189529b7"
+    },
+    "workplace": {
+      "siret": "86480038800067",
+      "brand": null,
+      "legal_name": "RSM OUEST",
+      "website": null,
+      "name": "RSM OUEST",
+      "description": "RSM accompagne en France et à l'international, les entreprises et leurs dirigeants en audit, expertise comptable et conseil (IT, Risk, TS, juridique et fiscal). Nous sommes présent dans 120 pays, RSM compte en France plus de 1200 collaborateurs et associés.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 787,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "69.20Z",
+          "label": "Activités comptables"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=D2lq3q&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85100337.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Binformatique%26utm_content%3Dfluxbonnealternance%26utm_term%3D85100337",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Technicien Support N1 H/F",
+      "rome_codes": [
+        "I1404"
+      ],
+      "description": "RSM est devenu  6ème réseau mondial en Audit, Expertise Comptable et Conseil grâce à l'engagement de nos équipes.\nDans nos cabinets en Méditerranée (Pérols, Nîmes, Uzès), 220 experts et expertes évoluent au quotidien dans un environnement bienveillant et en constante évolution, où autonomie et prise d'initiatives sont valorisées.\n\nChez RSM, chaque jour est une opportunité de grandir.\n\nNous avons à coeur de faire évoluer nos équipes, y compris celles et ceux qui nous rejoignent en alternance, avec un tuteur dédié et des responsabilités qui grandissent avec eux.\n\nVotre rôle : Technicien(ne) Support Informatique N1 en alternance au sein de l'équipe support informatique de RSM Méditerranée.\n\nL'équipe support informatique accompagne au quotidien les collaborateurs et collaboratrices de RSM Méditerranée : résolution des incidents, traitement des demandes, mise à disposition des postes et des outils. Elle travaille également en lien étroit avec l'équipe infrastructure de RSM France et nos prestataires.\n\nÀ ce poste, accompagné(e) par le responsable du support, vous prenez progressivement en charge le support de premier niveau auprès des collaborateurs.\n\nVotre contribution portera sur les missions suivantes :\n\n- Support aux utilisateurs : Vous prenez en charge les demandes et incidents reçus par téléphone, Teams, mail ou via l'outil de ticketing iTop, puis vous les qualifiez, les priorisez et les documentez. Vous diagnostiquez et résolvez les incidents de premier niveau (poste de travail, messagerie Outlook, Teams, imprimantes, accès réseau et VPN), escaladez vers le niveau 2, l'équipe infrastructure ou nos prestataires lorsque nécessaire, et assurez le suivi jusqu'à la clôture en informant l'utilisateur de l'avancement de sa demande.\n- Gestion du parc et des comptes : Vous préparez et déployez les postes de travail et smartphones (Windows, Intune), gérez les arrivées et départs (création de comptes Active Directory et Microsoft 365, remise et restitution du matériel) et tenez à jour l'inventaire du parc.\n- Documentation et accompagnement : Vous rédigez et mettez à jour les procédures et modes opératoires, accompagnez les collaborateurs dans la prise en main de leurs outils et participez à la communication auprès des utilisateurs (maintenances, consignes).",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Formation : Vous préparez en apprentissage un diplôme ou un titre professionnel en informatique : BTS SIO option SISR (Services informatiques aux organisations) en 2 ans, un titre professionnel TAI (Technicien d'assistance informatique) un TSSR (Technicien supérieur systèmes et réseaux), ou toute formation équivalente en support et administration des systèmes.\n\nExpérience : Une première expérience (stage, projet personnel) en support ou en maintenance informatique est un plus.\n\nCompétences techniques : Vous avez de bonnes bases sur l'environnement Windows et la suite Microsoft 365, ainsi que des notions de réseau (TCP/IP, DNS, DHCP) et d'Active Directory.\n\nQualités personnelles : Doté(e) du sens du service et de l'écoute, vous savez expliquer simplement, avec patience et pédagogie. Rigoureux(se) dans le suivi et la documentation, vous faites preuve de curiosité et d'envie d'apprendre. Vous intervenez dans un environnement où la confidentialité est essentielle : votre discrétion est donc indispensable.\n\nCe que nous vous offrons :\n\n- Un accompagnement sur-mesure : Un tuteur dédié et une montée en compétences progressive.\n\n- Un environnement de travail moderne : Une équipe à taille humaine, dans un environnement Microsoft récent (Microsoft 365, Intune), au contact direct des collaborateurs et collaboratrices.\n\nRSM est engagé, au travers de sa politique diversité et inclusion, en faveur de l'accueil et l'intégration de tous les talents.\n\nDans ce contexte, nous accompagnons les personnes en situation de handicap durant leur process de recrutement et tout au long de leur carrière au sein du Groupe grâce à notre Mission Handicap et à des Référents Handicap.\n\nNotre processus de recrutement est transparent et rapide :\n- Entretien avec notre chargée de recrutement pour échanger sur votre parcours et se projeter ensemble.\n- Entretien avec notre responsable support informatique pour apprendre à se connaître et échanger sur le poste.\n\nEnvie de faire partie de l'aventure RSM ?\n\nPostulez dès maintenant et venez grandir avec nous !"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T12:22:19.000Z",
+        "expiration": "2027-01-03T12:22:19.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b5558",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YXMH"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YXMH",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Serveur/Barman en alternance H/F (H/F)",
+      "rome_codes": [
+        "G1803"
+      ],
+      "description": "Bienvenue au sein d'un groupe de 4 établissements\n\n- La Casa Cubana : bar à tapas, vins, cocktails, à l'ambiance lounge cubaine.\n\n- L'Irish Tavern : pub irlandais typique, avec en plus des tapas, du vin et des cocktails.\n\n- La Casita Del Barrio : bar hispanique à l'ambiance conviviale. On y sert du vin, des tapas et des cocktails.\n\n- Le Cubanito : bar musical ultra festif. Ici c'est cocktails, bières et fiesta !\n\nDepuis 20 ans nous formons et accompagnons des jeunes, de la découverte à la maîtrise des métiers du bar, du service et de la cuisine. Nous sommes ainsi un spécialiste reconnu de la formation des jeunes.\n\nAccompagné tout au long de votre apprentissage par une équipe de responsables issus eux-mêmes de l'alternance, vous serez formés aux techniques et spécificités des 4 établissements. Vos créations se retrouveront à la carte et les responsabilités vous ouvriront les bras. À vous de choisir celles que vous souhaitez.\n\nEn partenariat avec 5 centres de formations et des postes ouverts dans tous les domaines, à vous de choisir le centre et le poste qui vous intéresse.\n\nResponsabilités\n\nAccueillir les clients avec courtoisie et professionnalisme\nPrendre les commandes et conseiller les clients sur le menu\nServir les plats et les boissons en respectant les standards de service\nGérer les opérations d'encaissement et la manipulation d'espèces\nAssurer la propreté et l'organisation de la salle ainsi que des espaces de travail\nVeiller à la sécurité alimentaire en respectant les normes d'hygiène\nCollaborer avec l'équipe en cuisine pour garantir un service fluide\nGérer efficacement son temps de travail pour répondre aux besoins des clients\nProfil recherché\n\nMotivé\nDynamique\nSens du relationnelle et du travail en équipe\nSens de l'organisation et gestion du temps efficace\nSi vous êtes motivé(e) par le travail en équipe et que vous souhaitez contribuer à une expérience client mémorable, nous serions ravis de vous accueillir parmi nous.\n\nType d'emploi : Alternance",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Réaliser la mise en place de la salle et de l'office",
+        "Préparer des boissons chaudes ou froides",
+        "Accueillir le client et l'installer",
+        "Effectuer le service des plats à table",
+        "Prendre une commande client"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T12:21:31.602Z",
+        "expiration": "2027-01-03T12:21:31.602Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b555e",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YXJQ"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YXJQ",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Commis de cuisine en alternance (H/F)",
+      "rome_codes": [
+        "G1602"
+      ],
+      "description": "Bienvenue au sein d'un groupe de 4 établissements\n\n- La Casa Cubana : bar à tapas, des produits frais, cuisinés maisons, faits minute, accompagné de vins et cocktails, dans une ambiance lounge cubaine.\n\n- L'Irish Tavern : pub irlandais typique, avec des tapas imaginées et crées pour rassembler les cultures de l'Irlande et de la méditerranée, du vin et des cocktails.\n\n- La Casita Del Barrio : bar hispanique à l'ambiance conviviale. Les tapas et tapasitas sont le reflet de notre excellence, beaux, bons, variées et souvent renouvelées\n\n- Le Cubanito : bar musical ultra festif. Ici c'est cocktails, bières et fiesta !\n\nDepuis 20 ans nous formons et accompagnons des jeunes, de la découverte à la maîtrise des métiers du bar, du service et de la cuisine. Nous sommes ainsi un spécialiste reconnu de la formation des jeunes.\n\nAccompagné tout au long de votre apprentissage par une équipe de responsables issus eux-mêmes de l'alternance, vous serez formés aux techniques et spécificités des 4 établissements. Vos créations se retrouveront à la carte et les responsabilités vous ouvriront les bras. À vous de choisir celles que vous souhaitez.\n\nEn partenariat avec 7 centres de formations et des postes ouverts dans tous les domaines, à vous de choisir le centre et le poste qui vous intéresse.\n\nResponsabilités\n\nParticiper à la préparation des aliments selon les recettes établies\nAssurer la mise en place des ingrédients et des équipements nécessaires au service\nContribuer à la réalisation des plats en respectant les normes de qualité et de présentation\nVeiller à la propreté et à l'organisation de l'espace de travail\nRespecter les règles de sécurité alimentaire et d'hygiène en vigueur\nAider à l'inventaire des produits et signaler les besoins en approvisionnement\nProfil recherché\nVous êtes fait(e) pour ce poste si :\n\nVous possédez un bon sens de l'organisation et êtes capable de travailler sous pression\nVous êtes dynamique, motivé(e) et aimez le travail en équipe\nVous faites preuve d'une grande rigueur dans votre travail\nRejoignez-nous pour faire partie d'une aventure culinaire enrichissante où votre talent sera valorisé !\n\nType d'emploi : Temps plein, Alternance",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Entretenir, nettoyer un espace, un lieu, un local",
+        "Cuire des viandes, poissons ou légumes",
+        "Dresser des plats pour le service",
+        "Eplucher des légumes et des fruits",
+        "Préparer les viandes et les poissons"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T12:18:25.539Z",
+        "expiration": "2027-01-03T12:18:25.539Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aea6b9fcc766074572b5559",
+      "partner_label": "France Travail",
+      "partner_job_id": "215YRPG"
+    },
+    "workplace": {
+      "siret": "41808426500028",
+      "brand": null,
+      "legal_name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "website": null,
+      "name": "DEVELOPPEMENT CONSEIL INVESTISSEMENT STRATEGIE",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "87.30A",
+          "label": "Hébergement social pour personnes âgées"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YRPG",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 13,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Apprenti Accompagnant Educatif et Social (AES) (H/F)",
+      "rome_codes": [
+        "K1306"
+      ],
+      "description": "L'EHPAD Le Val Fleuri, situé à Lamalou-les-Bains, accueille des personnes âgées dépendantes et les accompagne au quotidien dans le respect de leur dignité, de leurs besoins et de leur autonomie.\n\nDans le cadre d'un parcours de formation en alternance, l'établissement souhaite accueillir un(e) apprenti(e) accompagnant(e) éducatif et social motivé(e) et désireux(se) de s'investir dans les métiers du soin et de l'accompagnement.\n\nDescription du poste\n\nSous la responsabilité de l'équipe soignante et en collaboration avec les professionnels de l'établissement, vous apprendrez à accompagner les résidents dans les actes essentiels de la vie quotidienne et à contribuer à leur bien-être physique et psychologique.\n\nVos missions\n\nAccompagner les résidents dans les soins d'hygiène, de confort et de bien-être, dans le respect de leur intimité.\nParticiper à l'aide aux repas, à l'hydratation, à l'habillage et aux déplacements.\nContribuer au maintien de l'autonomie et au bien-être des personnes âgées.\nObserver l'état général des résidents et transmettre les informations utiles à l'équipe soignante.\nParticiper à la prévention des risques et au maintien d'un environnement propre et sécurisé.\nÉtablir une relation de confiance avec les résidents et favoriser les échanges avec leur entourage.\nTravailler en équipe pluridisciplinaire et participer à la continuité de l'accompagnement.\nCes missions seront réalisées progressivement, en fonction de votre formation et sous l'encadrement des professionnels.\n\nProfil recherché\n\nVous souhaitez préparer le Diplôme d'État d'accompagnant(e) éducatif et social dans le cadre d'un contrat d'apprentissage.\n\nVous êtes reconnu(e) pour :\n\nVotre sens de l'écoute, votre empathie et votre bienveillance.\nVotre respect des personnes âgées et de leur dignité.\nVotre motivation à apprendre et à développer vos compétences professionnelles.\nVotre capacité à travailler en équipe.\nVotre discrétion, votre sérieux et votre sens des responsabilités.\nUne première expérience dans le secteur sanitaire, médico-social ou auprès de personnes âgées serait appréciée, mais la motivation et le projet professionnel seront essentiels.\n\nConditions du contrat\n\nContrat d'apprentissage à compter du 14 décembre 2026.\nFormation préparant au Diplôme d'État d'accompagnat(e) éducatif et social.\nAlternance entre périodes de formation théorique et mise en pratique en établissement.\nAccompagnement par les professionnels de l'EHPAD tout au long du parcours.\nLe rythme d'alternance, les horaires et la rémunération seront précisés selon les modalités retenues par l'établissement et l'organisme de formation.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Collaborer avec des équipes multidisciplinaires",
+        "Etablir une relation de confiance et faciliter la communication avec la personne accompagnée"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-03T10:24:01.757Z",
+        "expiration": "2027-01-03T10:24:01.757Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6ae99c40d94d2b5dcef65c5a",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56911850"
@@ -9570,6 +10320,76 @@
       "publication": {
         "creation": "2026-11-03T08:32:07.465Z",
         "expiration": "2026-12-03T08:30:02.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6a2c871ea914bd1428f0f5b5",
+      "partner_label": "Meteojob",
+      "partner_job_id": "54662577"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": "RESTALLIANCE",
+      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
+      "size": null,
+      "location": {
+        "address": "34300 Agde",
+        "geopoint": {
+          "coordinates": [
+            3.484797,
+            43.302779
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": null
+      }
+    },
+    "apply": {
+      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": "2026-06-09T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Apprenti Cuisinier F/H",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [
+        "6-10 ans",
+        "11-20 ans",
+        "20 ans d'expérience et plus"
+      ],
+      "publication": {
+        "creation": "2026-11-02T23:06:35.134Z",
+        "expiration": "2027-01-02T23:06:35.134Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11339,76 +12159,6 @@
       "publication": {
         "creation": "2026-10-28T10:19:36.545Z",
         "expiration": "2026-12-28T10:19:36.545Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6a2c871ea914bd1428f0f5b5",
-      "partner_label": "Meteojob",
-      "partner_job_id": "54662577"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "RESTALLIANCE",
-      "description": "<p>  Depuis près de 30 ans, le Groupe Restalliance imagine et conçoit, exclusivement pour les établissements de santé, des solutions personnalisées de restauration, de services hôteliers, de bionettoyage et de formations professionnelles.  <br /> </p>",
-      "size": null,
-      "location": {
-        "address": "34300 Agde",
-        "geopoint": {
-          "coordinates": [
-            3.484797,
-            43.302779
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/54662577?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": "2026-06-09T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Apprenti Cuisinier F/H",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [
-        "6-10 ans",
-        "11-20 ans",
-        "20 ans d'expérience et plus"
-      ],
-      "publication": {
-        "creation": "2026-10-28T00:05:53.417Z",
-        "expiration": "2026-12-28T00:05:53.417Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14702,9 +15452,9 @@
   },
   {
     "identifier": {
-      "id": "6ad5c8072c77d038809ded8c",
+      "id": "6ad5c8045334fda8505e7a33",
       "partner_label": "Direct Emploi",
-      "partner_job_id": "56753539"
+      "partner_job_id": "56753535"
     },
     "workplace": {
       "siret": "45105338300837",
@@ -14715,11 +15465,11 @@
       "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
       "size": "5 000 à 9 999 salariés",
       "location": {
-        "address": "34240 Lamalou-les-Bains",
+        "address": "34500 Béziers",
         "geopoint": {
           "coordinates": [
-            3.079984,
-            43.596729
+            3.233465,
+            43.343264
           ],
           "type": "Point"
         }
@@ -14734,9 +15484,9 @@
       }
     },
     "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753539?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
-      "recipient_id": "partners_6ad5c8072c77d038809ded8c"
+      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
     },
     "contract": {
       "start": null,
@@ -14806,6 +15556,75 @@
       "url": "https://www.directemploi.com/candidatOffre/56753541?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6ad5c80b2c77d038809ded8f"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-19T07:36:20.353Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ad5c8072c77d038809ded8c",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56753539"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34240 Lamalou-les-Bains",
+        "geopoint": {
+          "coordinates": [
+            3.079984,
+            43.596729
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56753539?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6ad5c8072c77d038809ded8c"
     },
     "contract": {
       "start": null,
@@ -14944,75 +15763,6 @@
       "url": "https://www.directemploi.com/candidatOffre/56753532?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6ad5c7fe5334fda8505e7a2a"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-19T07:36:20.353Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad5c8045334fda8505e7a33",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56753535"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56753535?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6ad5c8045334fda8505e7a33"
     },
     "contract": {
       "start": null,
@@ -16579,75 +17329,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb63022ce23a2ad445164",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56673150"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56673150?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb63022ce23a2ad445164"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:05:44.218Z",
-        "expiration": "2026-11-18T16:29:37.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb61f22ce23a2ad445155",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56673129"
@@ -16906,6 +17587,75 @@
       "title": "Assistant(e) de vie au familles en alternance H/F",
       "rome_codes": [
         "K1311"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:05:44.218Z",
+        "expiration": "2026-11-18T16:29:37.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb63022ce23a2ad445164",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56673150"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56673150?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb63022ce23a2ad445164"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
       ],
       "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
       "target_diploma": null,
@@ -18388,6 +19138,79 @@
   },
   {
     "identifier": {
+      "id": "6acd5c980226c9bf0008d144",
+      "partner_label": "France Travail",
+      "partner_job_id": "215CSZP"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34470 Pérols",
+        "geopoint": {
+          "coordinates": [
+            3.95229,
+            43.567226
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CSZP",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "APPRENTISSAGE - Cuisinier(e) (H/F)",
+      "rome_codes": [
+        "G1609"
+      ],
+      "description": "Dans le cadre de son activité, MYLO, brasserie du Parc by Les Artistes à Pérols recherche un(e) apprenti(e) cuisinier(e) souhaitant apprendre et se perfectionner dans le métier de cuisinier(e) en restauration.\nVous travaillez en service du midi uniquement le lundi mardi et mercredi à partir du jeudi jusqu'au  samedi vous réalisez le service du midi et du soir.\n2 jours 1/2 de congés par semaine.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Dresser des plats pour le service"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T16:02:10.564Z",
+        "expiration": "2026-12-12T16:02:10.564Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6acc7c290dd186a592901e52",
       "partner_label": "OPCO EP",
       "partner_job_id": "6acc7c290dd186a592901e52"
@@ -19360,561 +20183,6 @@
       "publication": {
         "creation": "2026-10-02T08:40:47.631Z",
         "expiration": "2026-12-01T08:40:47.631Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6abedc51170bf3aae585f0cb",
-      "partner_label": "France Travail",
-      "partner_job_id": "7565015"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Groupe Nicollin",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34170 Castelnau-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.91013,
-            43.637422
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://recrutement.groupenicollin.com/fr/annonce/4626203-technicien-support-informatique-hf-34170-castelnau-le-lez?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Groupe Nicollin - Technicien / Technicienne informatique (H/F)",
-      "rome_codes": [
-        "M1810"
-      ],
-      "description": "Notre histoire :\nDepuis plus de 80 ans, le Groupe NICOLLIN s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec 9 000 collaborateurs/trices et un chiffre d'affaires de 250 M€, NICOLLIN Services accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM.\nÀ travers la diversité de ses activités, NICOLLIN Services propose une offre complète de prestations : propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.\nDans le cadre de notre développement, nous recrutons un-e Technicien-ne Support Informatique pour rejoindre notre équipe à Castelnau-le-Lez (34).En tant que membre de l'équipe support, vous serez en charge de :\n\nAssister les utilisateurs/rices du groupe sur leurs problématiques informatiques\nDiagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces\nConseiller sur les bonnes pratiques en sécurité informatique\nIntervenir à distance ou sur site pour résoudre les incidents\nGérer les demandes liées aux équipements sous garantie et assurer leur suivi\nSuivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires\nRédiger des procédures techniques et guides utilisateurs\nParticiper aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe\n\nProfil recherché :\nCompétences et qualifications requises :\n\nVous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3\nVous êtes rigoureux/se, autonome, organisé-e et à l'écoute\nVous aimez le travail en équipe et avez le sens du service\n\nCompétences techniques que vous allez pratiquer et développer :\n\nVirtualisation : VMWare\nSauvegarde : VEEAM\nSupervision &amp; gestion : Citrix, GLPI, Zabbix\nSystèmes : Windows, Office 365, GPO, Active Directory\nRéseaux &amp; sécurité : Firewall Stormshield, switchs, antivirus, droits d'accès\nDocumentation et procédures\n\nCe que nous vous proposons :\n\nContrat : Contrat d'apprentissage\nRémunération: Selon la grille d'alternance\n\nRejoindre le Groupe Nicollin c'est :\n\nRejoindre un groupe en pleine croissance, engagé pour ses territoires\nIntégrer des équipes dynamiques et bienveillantes\nÉvoluer dans une entreprise familiale et responsable, attachée à ses valeurs humaines.\n\nLe Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.\nNous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.\nGNA",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-01T21:18:11.878Z",
-        "expiration": "2026-12-01T21:18:11.878Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6abcd9a3999d7ac15746c8ca",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6abcd9a3999d7ac15746c8ca"
-    },
-    "workplace": {
-      "siret": "93962613100014",
-      "brand": null,
-      "legal_name": "CHEZ CANDY",
-      "website": null,
-      "name": "CHEZ CANDY",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "5 Rue Jean Ladoux 34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.234535,
-            43.351646
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "47.75Z",
-          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6abcd9a34bc5282510f3f929",
-      "phone": null,
-      "recipient_id": "partners_6abcd9a3999d7ac15746c8ca"
-    },
-    "contract": {
-      "start": "2026-10-05T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
-      "rome_codes": [
-        "D1208"
-      ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-30T09:42:59.439Z",
-        "expiration": "2026-11-29T09:42:59.439Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6abcd8cec5256f3f6f916816",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6abcd8cec5256f3f6f916816"
-    },
-    "workplace": {
-      "siret": "93962613100014",
-      "brand": null,
-      "legal_name": "CHEZ CANDY",
-      "website": null,
-      "name": "CHEZ CANDY",
-      "description": null,
-      "size": "Non diffusé",
-      "location": {
-        "address": "5 Rue Jean Ladoux 34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.234535,
-            43.351646
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "47.75Z",
-          "label": "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6abcd8ce4bc5282510f3f91b",
-      "phone": null,
-      "recipient_id": "partners_6abcd8cec5256f3f6f916816"
-    },
-    "contract": {
-      "start": "2026-10-05T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Esthéticien / Esthéticienne",
-      "rome_codes": [
-        "D1208"
-      ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-30T09:39:26.139Z",
-        "expiration": "2026-11-29T09:39:26.139Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab6f3aaa68cd2546344bf88",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KZML"
-    },
-    "workplace": {
-      "siret": "88997982900021",
-      "brand": "LES PETITS BOUCHONS",
-      "legal_name": "LES PETITS BOUCHONS",
-      "website": null,
-      "name": "LES PETITS BOUCHONS",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34380 Viols-le-Fort",
-        "geopoint": {
-          "coordinates": [
-            3.697866,
-            43.741901
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.91A",
-          "label": "Accueil de jeunes enfants"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KZML",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Aide maternel / Aide maternelle de crèche - Halte-garderie (H/F)",
-      "rome_codes": [
-        "K1307"
-      ],
-      "description": "Nous recherchons dans le cadre d'un contrat d'apprentissage un ou une aide maternel(le) de crèche.\nLa répartition de vos jours de formation sera la suivante : 4 jours en entreprise et un jour en école.\n\nDans le cadre de la formation, vous serez responsable de l'accueil et de la prise en charge globale des enfants en collaboration avec vos collègues, la référente technique et dans le respect du projet éducatif.\n\nActivités principales \nAccueil des enfants :\n- Accueillir les enfants dans le respect de leur besoin individuel et en les inscrivant dans un dynamique collective\n- Observer le développement psychomoteur et proposer des activités d'éveil variées et adaptées aux besoins et aux capacités de chacun\n- Accompagner l'enfant dans ses besoins fondamentaux\n- Accompagner les enfants pendant le temps du repas, des siestes \n\nAccueil des parents: \n- Accueillir chaque parent avec bienveillance et écoute, sans jugement\n- Orienter les familles vers le bon interlocuteur en cas de soin\n\nActivités secondaires:\nAssurer le service des repas\nAssurer l'entretien des locaux dans le respect des protocoles\nAssurer l'entretien du linge\n\nSavoirs:\nConnaître les étapes de développement et les besoins du jeune enfant\nSavoir encadrer un groupe d'enfants\nSavoir établir une relation de confiance avec les parents et avec les enfants\nSavoir adopter et maintenir des attitudes éducatives\nSavoir gérer les conflits entre enfants\nSavoir assurer la sécurité et prévenir l'accident\nSavoir organiser et animer des jeux, des ateliers d'éveil et d'expression",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser et animer des activités ludiques et d'éveil",
-        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
-        "Préparer et donner un repas, une boisson à l'enfant",
-        "Procéder à la toilette et aux soins de l'enfant",
-        "Procurer à l'enfant des éléments de confort, de réconfort"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T15:36:33.816Z",
-        "expiration": "2026-11-25T15:36:33.816Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab669676f4b8c2422171504",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6ab669676f4b8c2422171504"
-    },
-    "workplace": {
-      "siret": "92278137200029",
-      "brand": null,
-      "legal_name": "LA CABANE DES OURSONS 2",
-      "website": null,
-      "name": "LA CABANE DES OURSONS 2",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34480 Magalas",
-        "geopoint": {
-          "coordinates": [
-            3.217137,
-            43.471193
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.91A",
-          "label": "Accueil de jeunes enfants"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ab6696759ed7877acd16f57",
-      "phone": null,
-      "recipient_id": "partners_6ab669676f4b8c2422171504"
-    },
-    "contract": {
-      "start": "2026-10-05T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Educateur / Educatrice de jeunes enfants",
-      "rome_codes": [
-        "K1202"
-      ],
-      "description": "L'éducateur de jeunes enfants veille au maintien de la continuité éducative dans le respect du milieu familial, social et culturel. \\nAccompagne les enfants dans leur développement psychomoteur et socio-affectif\\nConçoit et met en œuvre des activités éducatives favorisant l'éveil des enfants\\nAssure la sécurité et le bien-être des enfants au sein de la structure\\nCollabore avec les parents et les autres professionnels pour suivre l'évolution de l'enfant\\nParticipe à la gestion et à l'organisation de la structure d'accueil\\nPeut coordonner une équipe en petite enfance ou un relais d'assistantes maternelles",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T12:30:31.208Z",
-        "expiration": "2026-11-24T12:30:31.208Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab6f3aaa68cd2546344bf8e",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KRQZ"
-    },
-    "workplace": {
-      "siret": "88524226300014",
-      "brand": null,
-      "legal_name": "INCARLINE",
-      "website": null,
-      "name": "INCARLINE",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1577,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "29.31Z",
-          "label": "Fabrication d'équipements électriques et électroniques automobiles"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KRQZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien électricien-électronicien / Technicienne électricienne (H/F)",
-      "rome_codes": [
-        "I1612"
-      ],
-      "description": "Vous êtes technicien(ne)-électronicien(ne) au sein de la société Incarline, spécialisée en électronique automobile. L'entreprise intervient de la réparation de calculateurs, à la programmation de clés, en offrant des solutions fiables et innovantes pour tous types de véhicules. \nVous êtes en contrat d'apprentissage pour valider un diplôme de niveau bac+2 en électromécanique. \n\nCapacité à lire l'anglais technique\nSens de l'analyse, curiosité technique",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "PDE2026"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T12:20:18.160Z",
-        "expiration": "2026-11-25T12:20:18.160Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab64b581b8f9e1e0838303c",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6ab64b581b8f9e1e0838303c"
-    },
-    "workplace": {
-      "siret": "91781138200022",
-      "brand": null,
-      "legal_name": "MARINE BEAUTY",
-      "website": null,
-      "name": "MARINE BEAUTY",
-      "description": null,
-      "size": "1 ou 2 salariés",
-      "location": {
-        "address": "15 Rue du Jeu de Ballon 34570 Pignan",
-        "geopoint": {
-          "coordinates": [
-            3.761343,
-            43.583238
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "96.02B",
-          "label": "Soins de beauté"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ab64b5859ed7877acd16de1",
-      "phone": null,
-      "recipient_id": "partners_6ab64b581b8f9e1e0838303c"
-    },
-    "contract": {
-      "start": "2026-10-05T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Esthéticien / Esthéticienne",
-      "rome_codes": [
-        "D1208"
-      ],
-      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T10:22:16.084Z",
-        "expiration": "2026-11-24T10:22:16.084Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab647701b8f9e1e08382dbe",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6ab647701b8f9e1e08382dbe"
-    },
-    "workplace": {
-      "siret": "57292156700028",
-      "brand": null,
-      "legal_name": "FITA ET CIE",
-      "website": null,
-      "name": "FITA ET CIE",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "1178 Ancienne Route de Bédarieux 34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.217922,
-            43.367992
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1408,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "47.78B",
-          "label": "Commerces de détail de charbons et combustibles"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ab6477059ed7877acd16dab",
-      "phone": null,
-      "recipient_id": "partners_6ab647701b8f9e1e08382dbe"
-    },
-    "contract": {
-      "start": "2026-10-05T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 9,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conducteur routier / Conductrice routière",
-      "rome_codes": [
-        "N4101"
-      ],
-      "description": "Le conducteur de poids lourds conduit, en sécurité un véhicule du groupe lourd (véhicule porteur) nécessitant les permis C ou C1, de façon autonome et optimisée dans le contexte commercial de l'entreprise, pour acheminer d’un point d’enlèvement à un point de livraison des marchandises en courte ou longue distance. \\nParticipe à la protection de l’environnement en adoptant les principes d’écoconduite\\nRespecte les délais, la réglementation en vigueur notamment en matière de temps de conduite et de repos, la réglementation routière, la sécurité et les procédures de l’entreprise\\nPrépare et organise sa mission\\nContrôle l’état de fonctionnement du véhicule et de ses équipements, la présence et la validité des documents obligatoires et signale toute anomalie\\nPeut charger et décharger les marchandises ou superviser les opérations de manutention tout en veillant à leur sécurité et à leur intégrité\\nRenseigne ou fait renseigner les documents de transport\\nMaintient une communication régulière avec le service exploitation pour signaler tout incident\\nReprésente l’image de marque de l’entreprise dans ses relations avec les expéditeurs et destinataires",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T10:05:36.614Z",
-        "expiration": "2026-11-24T10:05:36.614Z"
       },
       "opening_count": 1,
       "status": "Active",
