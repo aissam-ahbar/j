@@ -1,6 +1,655 @@
 [
   {
     "identifier": {
+      "id": "6afde0304b7c549dc3274de8",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afde0304b7c549dc3274de8"
+    },
+    "workplace": {
+      "siret": "53208806900010",
+      "brand": null,
+      "legal_name": "AUREIS FORMATION",
+      "website": null,
+      "name": "AUREIS FORMATION",
+      "description": null,
+      "size": "2 000 à 4 999 salariés",
+      "location": {
+        "address": "322 RUE DES PYRENEES 75020 PARIS",
+        "geopoint": {
+          "coordinates": [
+            3.92726,
+            43.585566
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "47.78C",
+          "label": "Autres commerces de détail spécialisés divers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afde0304b7c549dc3274de8/employé-commercial-employée-commerciale-sédentaire",
+      "phone": null,
+      "recipient_id": "partners_6afde0304b7c549dc3274de8"
+    },
+    "contract": {
+      "start": "2026-11-18T17:28:16.486Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Employé commercial / Employée commerciale sédentaire",
+      "rome_codes": [
+        "D1401"
+      ],
+      "description": "L'Assistant commercial gère l'activité commerciale intermédiaire entre les clients et les commerciaux de l'entreprise. Gère le suivi des commandes et des livraisons Assure la communication et le suivi client pour répondre aux demandes spécifiques et résoudre les problèmes Participe à la rédaction des propositions commerciales Met à jour la base de données clients et les statistiques de vente Assiste l'équipe de vente dans la préparation des dossiers commerciaux et la prise de rendez-vous Peut contribuer à l'organisation d'événements commerciaux et de promotions",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Management\tOptimiser la gestion des stocks et des ressources",
+        "Gestion des Ressources Humaines\tGérer le personnel (pointages, notes de frais, suivi des formations)",
+        "Conseil, Transmission\tFormer les nouveaux employés aux techniques de vente",
+        "Communication, Multimédia\tOrganiser des événements commerciaux",
+        "Communication, Multimédia\tOrganiser des événements de networking pour rencontrer des clients potentiels",
+        "Communication, Multimédia\tRédiger des fiches produits ou des argumentaires",
+        "Recherche, Innovation\tAssurer une veille concurrentielle active",
+        "Recherche, Innovation\tCollaborer avec les équipes internes pour résoudre les problèmes clients",
+        "Data et Nouvelles technologies\tAlimenter et actualiser la base de données clients et prospects, classer, archiver les dossiers et les documents",
+        "Data et Nouvelles technologies\tRenseigner et mettre à jour des outils de suivi et de traçabilité de l'activité (tableaux de bord, relevés d'incidents, qualitéetc.)",
+        "Prévention des risques\tGérer les crises et les urgences commerciales",
+        "Logistique\tAssurer le respect des délais de livraison",
+        "Logistique\tTraiter les commandes et préparer les expéditions",
+        "Gestion administrative et comptable\tAssurer la relation client : suivi commercial, gestion des incidents (échanges, retours, avoirs), relance pour recouvrement",
+        "Gestion administrative et comptable\tCréer, ouvrir les comptes des nouveaux clients (propositions commerciales, devis, commande/contrat, informations nécessaires à la livraison et à la facturation)",
+        "Gestion administrative et comptable\tEffectuer le suivi des commandes, la facturation",
+        "Gestion administrative et comptable\tEtablir des rapports de vente détaillés",
+        "Gestion administrative et comptable\tGérer les ventes de la commande à la livraison, en s'assurant des délais convenus et de la conformité des conditions contractuelles aux procédures internes",
+        "Gestion administrative et comptable\tGérer les échéanciers et les agendas du manager et des commerciaux",
+        "Gestion administrative et comptable\tMettre à jour, clôturer les dossiers des clients",
+        "Pilotage et maîtrise des coûts\tAssurer les relations et le suivi avec les différentes parties prenantes du projet (sous-traitants, fournisseurs, clients finaux, collectivités, opérateurs)",
+        "Pilotage et maîtrise des coûts\tPréparer les dossiers commerciaux avant les contacts et rendez-vous des commerciaux",
+        "Gestion et contrôle\tGérer les budgets alloués aux projets commerciaux",
+        "Gestion et contrôle\tGérer les factures et les recouvrements en liaison avec les services comptable, juridique, contentieux",
+        "Droit, contentieux et négociation\tAssurer la conformité des pratiques commerciales avec la réglementation",
+        "Droit, contentieux et négociation\tCollecter et analyser des données relatives aux marchandises, aux flux de commerce international, et à d'autres aspects des opérations douanières",
+        "Droit, contentieux et négociation\tGérer les réclamations de manière efficace",
+        "Droit, contentieux et négociation\tNégocier des contrats avec des fournisseurs",
+        "Relation client\tAnalyser les besoins du client",
+        "Relation client\tCollaborer avec les équipes internes pour répondre aux demandes clients",
+        "Relation client\tGérer les contacts entrants (appels, mails, courriers) et les transmettre au bon interlocuteur",
+        "Relation client\tGérer les interactions en face-à-face : accueil des visiteurs et déplacements occasionnels",
+        "Relation client\tTraiter les demandes spéciales des clients",
+        "Développement commercial\tAssurer l'ensemble des contacts sortants à destination des clients, non-clients, prospects, partenaires",
+        "Développement commercial\tAssurer le suivi post-vente",
+        "Développement commercial\tAssurer un support commercial soutenu : prospection, vente de produits et services additionnels",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tEffectuer une veille commerciale et concurrentielle (portails clients, plateformes des marchés publics et privés)",
+        "Développement commercial\tLire et comprendre des tableaux de bord d'activité et des indicateurs",
+        "Développement commercial\tMettre en place des stratégies de vente",
+        "Développement commercial\tOptimiser le parcours client",
+        "Développement commercial\tOptimiser les processus de vente",
+        "Développement commercial\tParticiper à des salons professionnels et des conférences",
+        "Développement commercial\tParticiper à l'élaboration d'un devis technique",
+        "Développement commercial\tProgrammer et assurer le suivi des actions à conduire à l'issue des contacts avec les clients ou les prospects",
+        "Développement commercial\tPréparer ou établir des propositions commerciales, rédiger les offres de prix, élaborer des devis",
+        "Développement commercial\tRépondre à un appel d'offre",
+        "Développement commercial\tSuivre les livraisons, régler les réclamations liées au service après-vente, en liaison avec les services commercial, achats, production, technique, logistique",
+        "Stratégie de développement\tDéfinir et hiérarchiser les priorités en fonction des objectifs fixés",
+        "Stratégie de développement\tElaborer et analyser des statistiques de vente",
+        "Stratégie de développement\tImplémenter des solutions CRM efficaces",
+        "Stratégie de développement\tMettre en place des indicateurs de performance commerciale",
+        "Stratégie de développement\tMettre en place des partenariats stratégiques",
+        "Communication\tCollaborer avec l'équipe de vente pour atteindre les objectifs communs",
+        "Communication\tDévelopper l'esprit d'équipe",
+        "Communication\tFavoriser l'entente, la collaboration",
+        "Communication\tParler une ou plusieurs langues étrangères",
+        "Communication\tParticiper à des projets transverses et mettre à disposition ses compétences techniques et de sa connaissance des clients",
+        "Communication\tPlanifier et organiser des réunions commerciales",
+        "Organisation\tAssurer la veille juridique et réglementaire",
+        "Organisation\tOrganiser des réunions internes, préparer l'ordre du jour, rédiger les comptes rendus"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac + 2 BTS négociation et digitalisation de la relation client ou techniques commerciales."
+      ],
+      "publication": {
+        "creation": "2026-11-18T17:28:16.486Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6afdc1c99212c6566854620d",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afdc1c99212c6566854620d"
+    },
+    "workplace": {
+      "siret": "99501795100022",
+      "brand": null,
+      "legal_name": "ARGFG",
+      "website": null,
+      "name": "ARGFG",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "1025 AVENUE HENRI BECQUEREL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.900946,
+            43.614009
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdc1c99212c6566854620d/bts-mco-en-alternance-pour-vente-de-produits-frais",
+      "phone": null,
+      "recipient_id": "partners_6afdc1c99212c6566854620d"
+    },
+    "contract": {
+      "start": "2026-11-18T15:18:33.852Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BTS MCO en alternance pour vente de produits frais",
+      "rome_codes": [
+        "D1107"
+      ],
+      "description": "Le vendeur grossiste en produits frais est un professionnel de la chaîne d'approvisionnement alimentaire. Commercialise des produits frais en gros à une clientèle de professionnels Assure la gestion des stocks et l'approvisionnement régulier Maintient une relation de qualité avec les fournisseurs et clients Veille au respect des normes d'hygiène et de sécurité alimentaire Peut conseiller les clients sur les produits et leur conservation Gère les commandes et les livraisons pour optimiser la satisfaction client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tFormer les nouveaux employés sur les spécificités des produits frais",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Maintenance, Réparation\tAssurer la propreté et l'ordre dans l'espace de travail",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tOrganiser une livraison",
+        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+        "Droit, contentieux et négociation\tNégocier un contrat",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer sur la disponibilité des produits",
+        "Relation client\tInformer sur les conditions de vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tEffectuer la vente en gros de produits frais",
+        "Développement commercial\tNégocier des conditions commerciales",
+        "Développement commercial\tOrganiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tSuivre les tendances du marché des produits frais",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans les secteurs de la vente et du commerce. Cependant, il est également accessible sans diplôme, mais avec une expérience professionnelle dans le commerce de gros."
+      ],
+      "publication": {
+        "creation": "2026-11-18T15:18:33.852Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6afdbac29212c6566854570c",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afdbac29212c6566854570c"
+    },
+    "workplace": {
+      "siret": "99501795100022",
+      "brand": null,
+      "legal_name": "ARGFG",
+      "website": null,
+      "name": "ARGFG",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "1025 AVENUE HENRI BECQUEREL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.920457,
+            43.60002
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdbac29212c6566854570c/bts-mco-en-alternance-pour-vente-au-comptoir",
+      "phone": null,
+      "recipient_id": "partners_6afdbac29212c6566854570c"
+    },
+    "contract": {
+      "start": "2026-11-18T14:48:34.672Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BTS MCO en alternance pour vente au comptoir",
+      "rome_codes": [
+        "D1107"
+      ],
+      "description": "Le vendeur grossiste en produits frais est un professionnel de la chaîne d'approvisionnement alimentaire. Commercialise des produits frais en gros à une clientèle de professionnels Assure la gestion des stocks et l'approvisionnement régulier Maintient une relation de qualité avec les fournisseurs et clients Veille au respect des normes d'hygiène et de sécurité alimentaire Peut conseiller les clients sur les produits et leur conservation Gère les commandes et les livraisons pour optimiser la satisfaction client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tFormer les nouveaux employés sur les spécificités des produits frais",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Maintenance, Réparation\tAssurer la propreté et l'ordre dans l'espace de travail",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tOrganiser une livraison",
+        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+        "Droit, contentieux et négociation\tNégocier un contrat",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer sur la disponibilité des produits",
+        "Relation client\tInformer sur les conditions de vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tEffectuer la vente en gros de produits frais",
+        "Développement commercial\tNégocier des conditions commerciales",
+        "Développement commercial\tOrganiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tSuivre les tendances du marché des produits frais",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans les secteurs de la vente et du commerce. Cependant, il est également accessible sans diplôme, mais avec une expérience professionnelle dans le commerce de gros."
+      ],
+      "publication": {
+        "creation": "2026-11-18T14:48:34.672Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6afdba4d51dc81ce85d72690",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afdba4d51dc81ce85d72690"
+    },
+    "workplace": {
+      "siret": "99501795100022",
+      "brand": null,
+      "legal_name": "ARGFG",
+      "website": null,
+      "name": "ARGFG",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "1025 AVENUE HENRI BECQUEREL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.882804,
+            43.605083
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdba4d51dc81ce85d72690/bts-mco-en-alternance-en-restauration-rapide",
+      "phone": null,
+      "recipient_id": "partners_6afdba4d51dc81ce85d72690"
+    },
+    "contract": {
+      "start": "2026-11-18T14:46:37.061Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BTS MCO en alternance en restauration rapide",
+      "rome_codes": [
+        "G1603"
+      ],
+      "description": "L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Avoir le sens du service",
+        "Faire preuve de rigueur et de précision",
+        "Organiser son travail selon les priorités et les objectifs"
+      ],
+      "to_be_acquired_skills": [
+        "Production, Fabrication\tMettre en oeuvre les processus et les modes opératoires techniques",
+        "Production, Fabrication\tPréparer des boissons chaudes ou froides",
+        "Production, Fabrication\tPréparer ou réchauffer des pains et des viennoiseries",
+        "Production, Fabrication\tPréparer, assembler des plats simples",
+        "Production, Fabrication\tRelever, contrôler, ajuster des mesures et dosages",
+        "Production, Fabrication\tRéagir rapidement aux changements de volume de commande",
+        "Production, Fabrication\tUtiliser des équipements de cuisine spécifiques",
+        "Maintenance, Réparation\tAssurer le nettoyage des équipements et du lieu de travail",
+        "Maintenance, Réparation\tEntretenir, nettoyer un espace, un lieu, un local",
+        "Maintenance, Réparation\tRéaliser la plonge",
+        "Prévention des risques\tGérer les situations de stress en heure de pointe",
+        "Gestion des stocks\tConditionner des produits",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tLivrer une commande",
+        "Gestion administrative et comptable\tProcéder à l'encaissement",
+        "Relation client\tAssurer un service client rapide et courtois",
+        "Relation client\tRemettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)",
+        "Relation client\tRenseigner le client sur la composition des produits, allergènes, provenance",
+        "Relation client\tRéaliser un service en salle",
+        "Relation client\tRépondre aux attentes d'un client",
+        "Développement commercial\tAppliquer les promotions et les offres spéciales",
+        "Développement commercial\tAssurer une présentation attrayante des produits",
+        "Communication\tCommuniquer efficacement avec l'équipe et les clients",
+        "Organisation\tMaintenir un environnement de travail propre et organisé",
+        "Organisation\tMaintenir un environnement de travail sécurisé",
+        "Organisation\tRespecter des règles, des consignes, normes et procédures opérationnelles",
+        "Organisation\tRespecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec une formation de niveau CAP ou BEP (niveau 3 CEC) qui permet d'acquérir les compétences nécessaires pour travailler dans la restauration rapide. La formation Hygiène Alimentaire dans l'activité de restauration commerciale (HACCP) est obligatoire."
+      ],
+      "publication": {
+        "creation": "2026-11-18T14:46:37.061Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6afdb9d59212c65668545632",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afdb9d59212c65668545632"
+    },
+    "workplace": {
+      "siret": "99501795100022",
+      "brand": null,
+      "legal_name": "ARGFG",
+      "website": null,
+      "name": "ARGFG",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "1025 AVENUE HENRI BECQUEREL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.92055,
+            43.600096
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10A",
+          "label": "Restauration traditionnelle"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdb9d59212c65668545632/bts-mco-pour-vente-au-comptoir",
+      "phone": null,
+      "recipient_id": "partners_6afdb9d59212c65668545632"
+    },
+    "contract": {
+      "start": "2026-11-18T14:44:37.402Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BTS MCO pour vente au comptoir",
+      "rome_codes": [
+        "D1107"
+      ],
+      "description": "Le vendeur grossiste en produits frais est un professionnel de la chaîne d'approvisionnement alimentaire. Commercialise des produits frais en gros à une clientèle de professionnels Assure la gestion des stocks et l'approvisionnement régulier Maintient une relation de qualité avec les fournisseurs et clients Veille au respect des normes d'hygiène et de sécurité alimentaire Peut conseiller les clients sur les produits et leur conservation Gère les commandes et les livraisons pour optimiser la satisfaction client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tFormer les nouveaux employés sur les spécificités des produits frais",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Maintenance, Réparation\tAssurer la propreté et l'ordre dans l'espace de travail",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tOrganiser une livraison",
+        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+        "Droit, contentieux et négociation\tNégocier un contrat",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer sur la disponibilité des produits",
+        "Relation client\tInformer sur les conditions de vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tEffectuer la vente en gros de produits frais",
+        "Développement commercial\tNégocier des conditions commerciales",
+        "Développement commercial\tOrganiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tSuivre les tendances du marché des produits frais",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans les secteurs de la vente et du commerce. Cependant, il est également accessible sans diplôme, mais avec une expérience professionnelle dans le commerce de gros."
+      ],
+      "publication": {
+        "creation": "2026-11-18T14:44:37.402Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
+      "id": "6afdb94951dc81ce85d725b5",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6afdb94951dc81ce85d725b5"
+    },
+    "workplace": {
+      "siret": "99501795100022",
+      "brand": null,
+      "legal_name": "ARGFG",
+      "website": null,
+      "name": "ARGFG",
+      "description": null,
+      "size": "Non diffusé",
+      "location": {
+        "address": "1025 AVENUE HENRI BECQUEREL 34000 MONTPELLIER",
+        "geopoint": {
+          "coordinates": [
+            3.92055,
+            43.600096
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "56.10C",
+          "label": "Restauration de type rapide"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6afdb94951dc81ce85d725b5/bts-mco-en-alternance-pour-vente-au-comptoir",
+      "phone": null,
+      "recipient_id": "partners_6afdb94951dc81ce85d725b5"
+    },
+    "contract": {
+      "start": "2026-11-18T14:42:17.329Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "BTS MCO en alternance pour vente au comptoir",
+      "rome_codes": [
+        "D1107"
+      ],
+      "description": "Le vendeur grossiste en produits frais est un professionnel de la chaîne d'approvisionnement alimentaire. Commercialise des produits frais en gros à une clientèle de professionnels Assure la gestion des stocks et l'approvisionnement régulier Maintient une relation de qualité avec les fournisseurs et clients Veille au respect des normes d'hygiène et de sécurité alimentaire Peut conseiller les clients sur les produits et leur conservation Gère les commandes et les livraisons pour optimiser la satisfaction client",
+      "target_diploma": {
+        "european": "5",
+        "label": "BTS, DEUST (Bac+2)"
+      },
+      "desired_skills": [
+        "Avoir l'esprit d'équipe",
+        "Etre force de proposition",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigueur et de précision"
+      ],
+      "to_be_acquired_skills": [
+        "Conseil, Transmission\tFormer les nouveaux employés sur les spécificités des produits frais",
+        "Conseil, Transmission\tTransmettre une technique, un savoir-faire",
+        "Maintenance, Réparation\tAssurer la propreté et l'ordre dans l'espace de travail",
+        "Gestion des stocks\tAssurer le suivi des stocks en temps réel",
+        "Gestion des stocks\tDéfinir des besoins en approvisionnement",
+        "Gestion des stocks\tMettre en place ou rafraîchir l'étal (glace, décoration) , disposer les produits et afficher les prix",
+        "Gestion des stocks\tRéceptionner des produits, des matières premières, vérifier la conformité d'une livraison",
+        "Transport\tOrganiser une livraison",
+        "Pilotage et maîtrise des coûts\tIdentifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+        "Droit, contentieux et négociation\tNégocier un contrat",
+        "Relation client\tIdentifier, traiter une demande client",
+        "Relation client\tInformer sur la disponibilité des produits",
+        "Relation client\tInformer sur les conditions de vente",
+        "Développement commercial\tDévelopper et fidéliser la relation client",
+        "Développement commercial\tDévelopper un portefeuille clients et prospects",
+        "Développement commercial\tEffectuer la vente en gros de produits frais",
+        "Développement commercial\tNégocier des conditions commerciales",
+        "Développement commercial\tOrganiser et agencer l'espace de vente en mettant en valeur les produits, les nouveautés, les collections et les promotions",
+        "Développement commercial\tOrganiser, aménager un espace de vente",
+        "Développement commercial\tPrésenter et valoriser un produit ou un service",
+        "Développement commercial\tSuivre les tendances du marché des produits frais",
+        "Organisation\tRespecter les règles d'hygiène et de sécurité alimentaire"
+      ],
+      "access_conditions": [
+        "Cet emploi est accessible avec un diplôme de niveau Bac à Bac+2 dans les secteurs de la vente et du commerce. Cependant, il est également accessible sans diplôme, mais avec une expérience professionnelle dans le commerce de gros."
+      ],
+      "publication": {
+        "creation": "2026-11-18T14:42:17.329Z",
+        "expiration": "2027-01-18T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": []
+    },
+    "is_delegated": true
+  },
+  {
+    "identifier": {
       "id": "6af70867c3367d6aa4c1f406",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6af70867c3367d6aa4c1f406"
@@ -5191,6 +5840,74 @@
   },
   {
     "identifier": {
+      "id": "6afe31bbde83093b496e9e14",
+      "partner_label": "France Travail",
+      "partner_job_id": "8955375"
+    },
+    "workplace": {
+      "siret": "34000777200072",
+      "brand": null,
+      "legal_name": "VIVERIS",
+      "website": null,
+      "name": "VIVERIS",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=J0dWEhPw4k40PKkShAX5fQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Stage Ingénieur commercial  H/F",
+      "rome_codes": [
+        "D1420"
+      ],
+      "description": "Viveris est un groupe de conseil et d'ingénierie spécialisé dans la conduite et la réalisation de projets dans les domaines de l'informatique et de l'électronique.\n\nS'engager avec Viveris, c'est l'assurance de relever des défis techniques et humains tout en travaillant sur des projets innovants dans un environnement collaboratif et solidaire. \n\n        Contexte de la mission :\n\nViveris est un groupe indépendant de conseil et d'ingénierie qui accompagne la transformation numérique des entreprises et de leurs produits depuis 40 ans. Il connaît une croissance constante et compte plus de 900 collaborateurs.\n\nNous recherchons un stagiaire Ingénieur commercial pour participer au développement commercial de l'agence Méditerranée (Montpellier / Aix-en-Provence).\n\nIntégré au sein d'une équipe commerciale, vous êtes accompagné par deux Responsables Commerciaux, une Chargée de recrutement et le Directeur Méditerranée. Vous êtes basé à l'agence de Montpellier (Port Marianne).\n\nResponsabilités :\n\n - Identifier et qualifier les clients potentiels ;\n - Prospecter activement ;\n - Identifier et qualifier techniquement et commercialement les besoins ;\n - Répondre aux besoins : sélectionner les profils adéquats, mobiliser et coordonner les équipes avant-ventes, développer un argumentaire technique et commercial ;\n - Finaliser les ventes et suivre techniquement et commercialement la réalisation.\n\n\n  \n Profil recherché :\n\n - Élève-Ingénieur en dernière année d'une formation supérieure en informatique, vous êtes à la recherche d'un stage de fin d'études.\n - Vous avez un vif intérêt pour le commerce et la prospection.\n\n\n\nCompétences techniques :\n\nConnaissances ou sensibilités pour les domaines suivants : \n\n - Prospection commerciale ;\n - Systèmes d'Information ;\n - Infrastructures systèmes et réseaux.\n\n\n\n\n\nEnvironnement technique :\n\n - Salesforce ;\n - LinkedIn Sales Navigator ;\n - LinkedIn Recruiter ;\n - Eolia Software ;\n - Jobboards : APEC, Hellowork, ... ;\n - Whoz.\n\n\n\nInfos pratiques :\n\n - Le démarrage est souhaité à partir du 6 janvier 2027 ;\n - Vous serez basé à Montpellier (agence Port Marianne) ;\n - Les visites client ont lieu principalement à Montpellier mais aussi à Aix-en-Provence et Marseille ;\n - Des potentiels déplacements ponctuels à Paris, Lyon et Toulouse sont à prévoir ;\n - Les déplacements sont pris en charge par Viveris.\n\n\n\nNos avantages :\n\n - Rémunération fixe + variable non plafonné ;\n - Tickets restaurant ; \n - 100% titre de transport urbain remboursé ;\n - Formation continue avec LinkedIn Learning et nos communautés techniques.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-18T14:34:32.613Z",
+        "expiration": "2027-01-18T14:34:32.613Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6af649076c7c8924df536e9b",
       "partner_label": "France Travail",
       "partner_job_id": "216HZGG"
@@ -5486,79 +6203,6 @@
   },
   {
     "identifier": {
-      "id": "6af3a622cc766074572b7f6e",
-      "partner_label": "France Travail",
-      "partner_job_id": "216GKLC"
-    },
-    "workplace": {
-      "siret": "80321984900012",
-      "brand": null,
-      "legal_name": "MIZADOCK",
-      "website": null,
-      "name": "MIZADOCK",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34560 Villeveyrac",
-        "geopoint": {
-          "coordinates": [
-            3.595684,
-            43.498799
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1505,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GKLC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprentisage Vendeur Conseil en Alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "SPAR, leader du commerce de proximité, recrute 1 alternant(e) (contrat d'apprentissage) pour un poste de Vendeur Conseil, en partenariat avec l'école ISCDYS.\nMissions :\nVous ferez vos cours en distanciel\nVous accueillez et conseillez la clientèle avec le sourire\nVous réceptionnez les marchandises et les produits, et contrôlez la conformité des livraisons\nVous effectuez et contrôlez le balisage et l'étiquetage des produits en rayon\nVous suivez l'état des stocks et identifiez les besoins en approvisionnement\nVous effectuez les opérations d'encaissement\nVous effectuez l'entretien de l'espace de vente et des produits en rayon\nVous travaillerez selon un planning tournant, les samedi après-midi et dimanche matin se font par roulement de 1 semaine sur 2\n\nPrise de poste au plus tôt",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-11-10T08:06:52.937Z",
-        "expiration": "2027-01-10T08:06:52.937Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6af3a622cc766074572b7f7c",
       "partner_label": "France Travail",
       "partner_job_id": "216GFBN"
@@ -5622,74 +6266,6 @@
       "publication": {
         "creation": "2026-11-09T17:27:53.757Z",
         "expiration": "2027-01-09T17:27:53.757Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6af25484cc766074572b7844",
-      "partner_label": "France Travail",
-      "partner_job_id": "8649384"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Buffalo Grill",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://carrieres.buffalo-grill.fr/fr/annonce/4684327-alternance-serveur-hf-34000-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Buffalo Grill - Serveur / Serveuse en restauration (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "En quelques mots Tu as le sens de l'accueil et tu aimes offrir un service irréprochable ? En tant que Serveur en alternance, tu es l'ambassadeur de l'expérience client chez Buffalo Grill. Ta mission : assurer un service rapide et de qualité dans une ambiance chaleureuse et conviviale ! Le tout en veillant à satisfaire chaque client à sa table pour qu'il reparte avec le sourire et l'envie de revenir !\n« Ensemble, nous traçons un chemin où passion, partage et excellence ne font qu'un »\nCe qui t'attend si tu décides de nous rejoindre :\nDes parcours de formation spécialement créés pour chacun de nos métiers afin que tu bénéficies d'un accompagnement personnalisé ; des équipes chaleureuses et des opportunités de carrière, pour que tu puisses t'épanouir et donner le meilleur de toi-même.\nTon quotidien en tant que Serveur :\n- Le sourire, ce détail qui fait tout : Accompagné(e) au quotidien par ton/ta tuteur(trice), tu veilles à ce que chaque client se sente accueilli, écouté et servi à la perfection de l'entrée à la sortie du restaurant. Un petit sourire fait des merveilles, mais tu sais aussi que le service de qualité passe par l'efficacité. Pas de souci, tu maîtrises l'art du timing, même quand ça chauffe derrière les rangs.\n- Le conseil qui fait la différence : Tu aimes partager ta passion pour la carte et conseiller les clients avec enthousiasme. Tu as le super pouvoir de transformer une simple commande en un moment spécial ? On vous veut dans la grande aventure Buffalo Grill !\n- L'expert de l'expérience client : Tu t'assures de la satisfaction des clients pendant toute la durée du service. Objectif ? Garantir une expérience agréable à nos clients, pour leur donner l'envie de revenir ! Mais ce n'est pas tout. Ton avis compte ! Tu participes activement à améliorer l'expérience client, en apportant tes idées pour faire progresser la qualité du service. Enfin, tu participes à la fidélisation de nos clients :\n- En contribuant à renforcer la notoriété du restaurant sur Google.\n- En accompagnant les clients dans la création de leur carte de fidélité, en les encourageant à l'utiliser et à en profiter pleinement à chacune de leurs visites.\n- Le garant de la mise en place et de l'entretien de la salle : Avant le service, tu prépares la salle (dresser les tables, disposer les couverts, etc.) pour offrir un cadre agréable et impeccable aux clients. What else ? Maintenir la propreté de la salle avant - pendant et après le service. Même en plein rush, tu sais qu'il n'y a pas de compromis sur l'hygiène. Après tout, un service impeccable, c'est aussi un service sécurisé !\n- Le champion de la coopération : Tu collabores avec les autres membres de l'équipe que ce soit en cuisine ou en salle, pour une préparation et un service fluide, en assurant une qualité de service irréprochable, et une cohésion d'équipe digne des plus grandes franchises de NBA !\n- L'acteur des animations : Tu participes aux temps forts de l'année (Noël, Saint Valentin, Halloween, anniversaires, etc.) et bien sûr tu n'as pas peur d'enfiler le costume de notre mascotte Bizcoto !\nPourquoi rejoindre Buffalo Grill ?\nNous favorisons l'épanouissement de chacun :\n\nUne intégration soignée et un parcours de formation personnalisé grâce à notre école interne et nos outils (Suivi d'intégration personnalisé, B-learning, formation sur le terrain, etc.).\nDes opportunités de carrière à portée de main : 315 promotions internes en 2025 dont 70% sur des postes d'encadrants (Directeur de restaurant, Directeur Adjoint, Chef Grillardin et Responsable de Salle).\nUne ambiance de travail conviviale et authentique, où le respect et le plaisir d'accueillir sont au cœur des valeurs de nos équipes dynamiques et enthousiastes. Chez nous, tu trouveras un esprit familial et un management de proximité.\n\nNous te soutenons grâce à notre réseau :\n\nUne entreprise solide avec nos 325 restaurants en France, et notre programme de mobilité interne #BuffalOpportunité, offrant des opportunités de mobilité géographique partout en France !\nUn acteur local impliqué dans la dynamique des territoires depuis plus de 46 ans.\n\nNous offrons des opportunités à toutes et tous :\n\nUne accessibilité des métiers, sans qualification préalable requise.\nUne politique d'inclusion qui valorise la diversité :\n\n- L'index parité H/F : 84/100.\n- 49% de femmes dans nos effectifs, et plus de 40 % de femmes managers.\n- 6% de travailleurs en situation de handicap.\n- Une projection de 5% d'alternants en 2026 !\n- Et plus de 75 nationalités dans nos effectifs.\nEvoluer rapidement en tant qu'alternant(e ) c'est possible chez Buffalo Grill ! Tu aimes les défis ? Après avoir démontré ton savoir-faire, tu pourras évoluer vers des postes à plus fortes responsabilités, comme Responsable de salle, avant de pouvoir prétendre à des postes de direction si tel est ton souhait ! Nous t'accompagnons dans ton évolution professionnelle pour que tu puisses atteindre tes objectifs !\nTu es prêt(e) pour la prochaine étape ?\nProfil : \n- Tu prépar...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-11-07T21:16:57.131Z",
-        "expiration": "2027-01-07T21:16:57.131Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -6274,155 +6850,6 @@
   },
   {
     "identifier": {
-      "id": "6ae3d418bfbdb64c1a6a758d",
-      "partner_label": "France Travail",
-      "partner_job_id": "215VJCV"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34980 Saint-Clément-de-Rivière",
-        "geopoint": {
-          "coordinates": [
-            3.842956,
-            43.681197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.52B",
-          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VJCV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e Conseiller/e de vente secteur Bricolage (H/F)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-29T12:16:18.959Z",
-        "expiration": "2026-12-29T12:16:18.959Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae2829fbfbdb64c1a6a075c",
-      "partner_label": "France Travail",
-      "partner_job_id": "215TGNX"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.52B",
-          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TGNX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller de Vente secteur Bricolage contrat apprentissage (H/F)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-28T12:24:14.454Z",
-        "expiration": "2026-12-28T12:24:14.454Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ae2829fbfbdb64c1a6a0767",
       "partner_label": "France Travail",
       "partner_job_id": "215SZKC"
@@ -6486,6 +6913,79 @@
       "publication": {
         "creation": "2026-10-28T10:19:36.545Z",
         "expiration": "2026-12-28T10:19:36.545Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693504",
+      "partner_label": "France Travail",
+      "partner_job_id": "215RLJN"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLJN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur en bricolage en apprentissage (H/F)",
+      "rome_codes": [
+        "D1212"
+      ],
+      "description": "Nous recrutons deux personnes en contrat d'apprentissage en alternance pour préparer le titre professionnel de conseiller vendeur.\n** Attention la formation se déroulera à l'AFPA de Saint Jean de Védas (logement pris en charge) et sera précédée d'une POEI** \n\nVous êtes âgé de 16 à 29 ans révolus.\n\nVos missions dans l'entreprise : \n-Vous accueillez le client, diagnostiquez ses besoins, concrétisez la vente par des solutions adaptées aux projets clients.\n-Vous contribuez à la tenue du linéaire, vous suivez la performance économique.\n-Vous appliquez les consignes de sécurité.\nUne appétence pour la grande distribution et plus particulièrement des produits du secteur d'amélioration de la maison.\n\nLe magasin est ouvert tous les jours (le dimanche sur volontariat) avec une amplitude horaire de 7 à 20 heures",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T16:34:10.807Z",
+        "expiration": "2026-12-26T16:34:10.807Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -6629,78 +7129,6 @@
       "publication": {
         "creation": "2026-10-26T09:57:40.267Z",
         "expiration": "2026-12-26T09:57:40.267Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6adfdf57bfbdb64c1a693502",
-      "partner_label": "France Travail",
-      "partner_job_id": "215QRHL"
-    },
-    "workplace": {
-      "siret": "49909293000076",
-      "brand": "LUNDI MATIN",
-      "legal_name": "LUNDIMATIN",
-      "website": null,
-      "name": "LUNDIMATIN",
-      "description": null,
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1486,
-        "opco": "ATLAS",
-        "naf": {
-          "code": "58.29C",
-          "label": "Édition de logiciels applicatifs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRHL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Technicien d'Assistance Client (H/F)",
-      "rome_codes": [
-        "D1432"
-      ],
-      "description": "Contexte\n\nSous la direction du Responsable de BU, vous intégrerez l'équipe du Support Client chargée d'assister nos clients dans l'utilisation de nos solutions logicielles (ERP, Caisse, Ecommerce)\n\n\nACTIVITÉS PRINCIPALES\nAssistance technique \n\nRéceptionner et qualifier les demandes (téléphone + tickets) : compréhension du besoin, reformulation, collecte des informations utiles\nPrendre en charge les demandes à dominante technique : intégrations, connecteurs, échanges de données, erreurs systèmes, comportements non reproductibles \"côté usage\"\nRéaliser un diagnostic approfondi : analyse de logs, vérifications d'environnement, contrôles de paramétrage technique et tests croisés\nReproduire les anomalies complexes, isoler les causes probables et proposer des contournements / correctifs de configuration quand possible\nCollaborer avec les équipes produit/développement en fournissant des éléments exploitables (étapes, logs, contexte, hypothèses et tests réalisés)\nÊtre le point d'appui technique des chargés d'assistance : aide au diagnostic, conseils de qualification, montée en compétence sur les sujets récurrents\n\nGarantir la mise à jour documentaire\nCapitaliser sur les cas techniques : fiches d'incident, checklists de diagnostic, procédures de vérification (logs/flux/intégrations)\nRédiger et maintenir une documentation claire\n\n\nFormation\n\n\nRéaliser des accompagnements à la prise en main (démarrage, bonnes pratiques, rappels sur les paramétrages clés) et s'assurer de l'autonomie progressive des utilisateurs\nIntervenir sur des sujets de formation \"technique\" (préconisations, prérequis, intégrations) et contribuer à outiller l'équipe support (guides, ateliers internes)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer le suivi des commandes, la facturation",
-        "Etablir un devis",
-        "Utiliser les outils numériques"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-26T09:54:38.236Z",
-        "expiration": "2026-12-26T09:54:38.236Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -7076,150 +7504,6 @@
   },
   {
     "identifier": {
-      "id": "6ad93a14715e4cba3924e3b1",
-      "partner_label": "France Travail",
-      "partner_job_id": "215MSRH"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MSRH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - cuisinier/cuisinière (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Notre restaurant, situé à Montpellier, recherche un(e) apprenti(e) cuisinier / cuisinière passionné(e) par la cuisine de type pizza, motivé(e) et désireux(se) d'apprendre le métier au sein de son équipe.\n\nVos missions\nParticiper à la préparation des ingrédients et des plats.\nRéaliser les préparations culinaires sous la supervision du chef ou de l'équipe en cuisine.\nApprendre les techniques de base de la cuisine et du dressage des assiettes.\nParticiper à la réception et au rangement des marchandises.\nAssurer le nettoyage et l'entretien du poste de travail et du matériel.\nRespecter les règles d'hygiène, de sécurité alimentaire et de conservation des produits.\n\nProfil recherché\nVous souhaitez préparer une formation en cuisine dans le cadre d'un apprentissage.\nVous êtes motivé(e), rigoureux(se), organisé(e) et dynamique.\nVous appréciez le travail en équipe et savez respecter les consignes.\nVous êtes curieux(se) et avez envie de développer vos compétences culinaires.\nDébutant(e) accepté(e) : nous recherchons avant tout une personne sérieuse et motivée.\n\nNous vous proposons\nUn contrat d'apprentissage.\nUne formation pratique au sein de notre cuisine.\nUn accompagnement pour développer vos compétences professionnelles.\nUne expérience enrichissante dans un environnement dynamique.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T15:01:24.124Z",
-        "expiration": "2026-12-21T15:01:24.124Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad93a14715e4cba3924e3ad",
-      "partner_label": "France Travail",
-      "partner_job_id": "215MKXQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MKXQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Serveur / Serveuse (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Notre restaurant, situé à Montpellier, recherche un(e) apprenti(e) serveur / serveuse motivé(e) et dynamique pour rejoindre son équipe dans le cadre d'un contrat d'apprentissage.\n\nVos missions : \n- Accueillir et installer les clients avec le sourire.\n- Présenter la carte et conseiller les clients.\n- Prendre les commandes et assurer le service en salle.\n- Participer à la mise en place et au nettoyage de la salle.\n- Veiller à la satisfaction des clients et à la qualité du service.\n- Appliquer les règles d'hygiène et de sécurité.\n\nProfil recherché : \n- Vous souhaitez préparer une formation dans les métiers du service en restauration.\n- Vous êtes motivé(e), ponctuel(le), sérieux(se) et dynamique.\n- Vous aimez le contact avec la clientèle et le travail en équipe.\n\nDébutant(e) accepté(e) : la motivation et l'envie d'apprendre sont essentielles !\n\nNous vous proposons : \n- Un contrat d'apprentissage.\n- Un accompagnement et une formation sur le terrain.\n- Une expérience professionnelle enrichissante au sein de notre équipe.\n- Une opportunité de développer vos compétences et d'évoluer dans la restauration.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T13:23:43.261Z",
-        "expiration": "2026-12-21T13:23:43.261Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ad7e8b2697d75a5c9fd22ee",
       "partner_label": "France Travail",
       "partner_job_id": "215LPHT"
@@ -7293,96 +7577,24 @@
   },
   {
     "identifier": {
-      "id": "6ad2a2950ae368bc8d5b71a9",
+      "id": "6ad7e8b2697d75a5c9fd22f1",
       "partner_label": "France Travail",
-      "partner_job_id": "215HMVQ"
+      "partner_job_id": "215LHXX"
     },
     "workplace": {
-      "siret": "91468577100018",
+      "siret": "39207751700069",
       "brand": null,
-      "legal_name": "SELARL V&CO",
+      "legal_name": "AERO NEGOCE INTERNATIONAL",
       "website": null,
-      "name": "SELARL V&CO",
+      "name": "AERO NEGOCE INTERNATIONAL",
       "description": null,
-      "size": "3 à 5 salariés",
+      "size": "20 à 49 salariés",
       "location": {
-        "address": "34700 Lodève",
+        "address": "34500 Béziers",
         "geopoint": {
           "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HMVQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI-E Assistant / Assistante dentaire (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Notre cabinet recherche  un/une apprenti(e) assistant(e) dentaire qui assurera essentiellement le travail de secrétariat et d'accueil.\n\nVous serez formé-e sur 18 mois en alternance:\n- à St Jean de Védas (organisme Formation &amp; Santé): 1 jour par semaine pendant 14 mois (les déplacements sont à votre charge)\n- à Lodève au cabinet dentaire: 4 jours/semaine puis temps plein: travail de secrétariat 80% du temps, aide au fauteuil 20% du temps.\n\nVous êtes à l'aise avec l'outil informatique et capable de travailler en équipe. \nLes qualités professionnelles recherchées: implication, organisation, sociabilité, bienveillance envers les patients et capacité à les rassurer.\n\nIl sera possible de mettre en place une immersion pour vérifier l'intérêt au poste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Relayer de l'information",
-        "Renseigner des documents médico-administratifs",
-        "Accueillir, orienter et renseigner un patient"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-16T10:18:22.405Z",
-        "expiration": "2026-12-16T10:18:22.405Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad1511eb846587f82fa5991",
-      "partner_label": "France Travail",
-      "partner_job_id": "215GVKT"
-    },
-    "workplace": {
-      "siret": "53177003000017",
-      "brand": null,
-      "legal_name": "OSPM",
-      "website": null,
-      "name": "OSPM",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
+            3.233465,
+            43.343264
           ],
           "type": "Point"
         }
@@ -7391,13 +7603,13 @@
         "idcc": null,
         "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
         "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
+          "code": "46.69B",
+          "label": "Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers"
         }
       }
     },
     "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215GVKT",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LHXX",
       "phone": null,
       "recipient_id": null
     },
@@ -7412,91 +7624,24 @@
       "remote": null
     },
     "offer": {
-      "title": "Apprenti Barman/barmaid (H/F)",
+      "title": "Assistant qualité en contrat d'alternance  (H/F)",
       "rome_codes": [
-        "G1801"
+        "H1528"
       ],
-      "description": "Vous souhaitez apprendre le métier et  intégrer notre équipe en contrat en alternance d'un an selon un planning d'une semaine en organisme de formation et de 3 semaines en entreprise en vue d'obtenir un CQP (certification de qualification professionnelle) de barman.\n\nNous recherchons une personne qui ait envie d'apprendre, qui soit adaptable et qui accepte de travailler sur les horaires de l'établissement à savoir 17h - 2h du matin.\nil est souhaitable d'habiter à proximité de l'établissement  ou d'etre véhiculé(e) pour honorer les horaires du poste de travail.",
-      "target_diploma": null,
+      "description": "Notre entreprise \nDepuis plus de 50 ans, Bossard Aerospace accompagne les acteurs de l'industrie aéronautique et aérospatiale grâce à son expertise dans la distribution de fixations et les solutions d'optimisation de la chaîne d'approvisionnement. Présent en Europe, en Asie et aux États-Unis, notre groupe évolue dans un environnement international exigeant, où la qualité, la fiabilité et la satisfaction client sont essentielles.\nRejoindre Bossard Aerospace France, c'est intégrer une entreprise dynamique et participer activement à l'amélioration continue de ses pratiques et de sa performance.\n\nVos missions\n Rattaché(e) au service Qualité, vous contribuerez à son fonctionnement quotidien et participerez activement au déploiement de la démarche d'amélioration continue « Aéro Excellence », un projet transverse visant à renforcer la maturité opérationnelle et la performance de l'entreprise.\nCe projet constituera le fil conducteur de votre alternance et vous permettra de collaborer avec différents services : Qualité, Logistique, Achats, Ventes, Support Client et Direction.\n\nVos principales responsabilités :\n- Participer à l'évaluation de la maturité opérationnelle de l'entreprise, identifier les écarts et contribuer au déploiement du programme « Aéro Excellence ».\n- Suivre et analyser les indicateurs de performance, contribuer à l'identification des axes de progrès et au suivi des actions correctives.\n- Analyser les non-conformités, les tendances et les récurrences afin de proposer des pistes d'amélioration.\n- Participer au suivi et à l'amélioration du système de management de la qualité (SMQ).\n- Contribuer à la préparation et à la réalisation des audits internes et externes, ainsi qu'au suivi des plans d'actions associés.\n- Accompagner l'équipe Qualité dans ses activités quotidiennes et dans la mise en œuvre de projets transverses.\n\nVotre profil : \nFormation Master 1 ou Master 2 en Qualité, Management de la qualité ou équivalent \n- Maîtrise des outils informatiques et intérêt pour l'analyse des données et leur visualisation.\n- Connaissance des outils qualité et des méthodes d'amélioration continue.\n- Notions des référentiels ISO 9001 et des exigences qualité applicables au secteur aéronautique.\n- Anglais opérationnel obligatoire pour évoluer dans un environnement international.\nRigoureux(se), organisé(e) et doté(e) d'un bon esprit d'analyse, vous faites preuve d'autonomie, de curiosité et d'un réel sens du service. Votre esprit d'équipe et votre capacité à travailler avec différents interlocuteurs seront des atouts pour réussir dans cette mission.\n\nVos conditions et avantages : \n- Contrat d'alternance De 12 à 24 mois selon cursus\n- Rémunération Selon les dispositions légales et conventionnelles applicables\n- Poste basé à Béziers (34)\n- Une expérience concrète au sein d'une PME à la dimension internationale, avec une participation active à un projet structurant d'amélioration continue.\n\nBOSSARD AEROSPACE France s'engage en faveur de la diversité et de l'égalité des chances. Tous nos postes sont ouverts aux personnes en situation de handicap.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
       "desired_skills": [],
       "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Créer une ambiance accueillante et conviviale au bar"
+        "Procédures de contrôle qualité",
+        "Contrôler la qualité et la conformité des process"
       ],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-10-15T13:44:27.038Z",
-        "expiration": "2026-12-15T13:44:27.038Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ac96843015572e53e599d69",
-      "partner_label": "France Travail",
-      "partner_job_id": "214ZVQS"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34730 Prades-le-Lez",
-        "geopoint": {
-          "coordinates": [
-            3.870487,
-            43.694458
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "10.71C",
-          "label": "Boulangerie et boulangerie-pâtisserie"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZVQS",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternant VENDEUR BOULANGERIE (H/F)",
-      "rome_codes": [
-        "D1106"
-      ],
-      "description": "Un(e) alternant vendeur/vendeuse \n\nExpérience : Une expérience significative en boulangerie est obligatoire ou restauration. Une forte fibre commerciale\n\nL'établissement n'est pas desservi par les transports en commun.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-09T11:53:51.332Z",
-        "expiration": "2026-12-09T11:53:51.332Z"
+        "creation": "2026-10-20T13:23:19.832Z",
+        "expiration": "2026-12-20T13:23:19.832Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -7565,152 +7710,6 @@
       "publication": {
         "creation": "2026-10-01T21:18:11.878Z",
         "expiration": "2026-12-01T21:18:11.878Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab6f3aaa68cd2546344bf88",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KZML"
-    },
-    "workplace": {
-      "siret": "88997982900021",
-      "brand": "LES PETITS BOUCHONS",
-      "legal_name": "LES PETITS BOUCHONS",
-      "website": null,
-      "name": "LES PETITS BOUCHONS",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34380 Viols-le-Fort",
-        "geopoint": {
-          "coordinates": [
-            3.697866,
-            43.741901
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.91A",
-          "label": "Accueil de jeunes enfants"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KZML",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Aide maternel / Aide maternelle de crèche - Halte-garderie (H/F)",
-      "rome_codes": [
-        "K1307"
-      ],
-      "description": "Nous recherchons dans le cadre d'un contrat d'apprentissage un ou une aide maternel(le) de crèche.\nLa répartition de vos jours de formation sera la suivante : 4 jours en entreprise et un jour en école.\n\nDans le cadre de la formation, vous serez responsable de l'accueil et de la prise en charge globale des enfants en collaboration avec vos collègues, la référente technique et dans le respect du projet éducatif.\n\nActivités principales \nAccueil des enfants :\n- Accueillir les enfants dans le respect de leur besoin individuel et en les inscrivant dans un dynamique collective\n- Observer le développement psychomoteur et proposer des activités d'éveil variées et adaptées aux besoins et aux capacités de chacun\n- Accompagner l'enfant dans ses besoins fondamentaux\n- Accompagner les enfants pendant le temps du repas, des siestes \n\nAccueil des parents: \n- Accueillir chaque parent avec bienveillance et écoute, sans jugement\n- Orienter les familles vers le bon interlocuteur en cas de soin\n\nActivités secondaires:\nAssurer le service des repas\nAssurer l'entretien des locaux dans le respect des protocoles\nAssurer l'entretien du linge\n\nSavoirs:\nConnaître les étapes de développement et les besoins du jeune enfant\nSavoir encadrer un groupe d'enfants\nSavoir établir une relation de confiance avec les parents et avec les enfants\nSavoir adopter et maintenir des attitudes éducatives\nSavoir gérer les conflits entre enfants\nSavoir assurer la sécurité et prévenir l'accident\nSavoir organiser et animer des jeux, des ateliers d'éveil et d'expression",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Organiser et animer des activités ludiques et d'éveil",
-        "Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité",
-        "Préparer et donner un repas, une boisson à l'enfant",
-        "Procéder à la toilette et aux soins de l'enfant"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T15:36:33.816Z",
-        "expiration": "2026-11-25T15:36:33.816Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ab6f3aaa68cd2546344bf8e",
-      "partner_label": "France Travail",
-      "partner_job_id": "214KRQZ"
-    },
-    "workplace": {
-      "siret": "88524226300014",
-      "brand": null,
-      "legal_name": "INCARLINE",
-      "website": null,
-      "name": "INCARLINE",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1577,
-        "opco": "OPCO 2i",
-        "naf": {
-          "code": "29.31Z",
-          "label": "Fabrication d'équipements électriques et électroniques automobiles"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KRQZ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Technicien électricien-électronicien / Technicienne électricienne (H/F)",
-      "rome_codes": [
-        "I1612"
-      ],
-      "description": "Vous êtes technicien(ne)-électronicien(ne) au sein de la société Incarline, spécialisée en électronique automobile. L'entreprise intervient de la réparation de calculateurs, à la programmation de clés, en offrant des solutions fiables et innovantes pour tous types de véhicules. \nVous êtes en contrat d'apprentissage pour valider un diplôme de niveau bac+2 en électromécanique. \n\nCapacité à lire l'anglais technique\nSens de l'analyse, curiosité technique",
-      "target_diploma": {
-        "european": "4",
-        "label": "Bac, Bac Pro, BP (Bac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "PDE2026"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-09-25T12:20:18.160Z",
-        "expiration": "2026-11-25T12:20:18.160Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -7925,6 +7924,217 @@
       "publication": {
         "creation": "2026-09-21T15:33:08.779Z",
         "expiration": "2026-11-21T15:33:08.779Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6afeb3964b7c549dc3277712",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "57090116"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34140 Loupian",
+        "geopoint": {
+          "coordinates": [
+            3.626491,
+            43.439678
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/57090116?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6afeb3964b7c549dc3277712"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées notamment pour un jeune homme en situation de handicap sur la commune de Loupian pour intégrer une équipe d'auxiliaires de vie. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-19T08:30:14.889Z",
+        "expiration": "2026-12-19T08:30:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6afe31bbde83093b496e9e14",
+      "partner_label": "France Travail",
+      "partner_job_id": "8955375"
+    },
+    "workplace": {
+      "siret": "34000777200072",
+      "brand": null,
+      "legal_name": "VIVERIS",
+      "website": null,
+      "name": "VIVERIS",
+      "description": null,
+      "size": "10 à 19 salariés",
+      "location": {
+        "address": "34000 Montpellier",
+        "geopoint": {
+          "coordinates": [
+            3.87048,
+            43.610476
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1486,
+        "opco": "ATLAS",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "http://app.mytalentplug.com/redirection.aspx?ojid=J0dWEhPw4k40PKkShAX5fQ==",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Stage Ingénieur commercial  H/F",
+      "rome_codes": [
+        "D1420"
+      ],
+      "description": "Viveris est un groupe de conseil et d'ingénierie spécialisé dans la conduite et la réalisation de projets dans les domaines de l'informatique et de l'électronique.\n\nS'engager avec Viveris, c'est l'assurance de relever des défis techniques et humains tout en travaillant sur des projets innovants dans un environnement collaboratif et solidaire. \n\n        Contexte de la mission :\n\nViveris est un groupe indépendant de conseil et d'ingénierie qui accompagne la transformation numérique des entreprises et de leurs produits depuis 40 ans. Il connaît une croissance constante et compte plus de 900 collaborateurs.\n\nNous recherchons un stagiaire Ingénieur commercial pour participer au développement commercial de l'agence Méditerranée (Montpellier / Aix-en-Provence).\n\nIntégré au sein d'une équipe commerciale, vous êtes accompagné par deux Responsables Commerciaux, une Chargée de recrutement et le Directeur Méditerranée. Vous êtes basé à l'agence de Montpellier (Port Marianne).\n\nResponsabilités :\n\n - Identifier et qualifier les clients potentiels ;\n - Prospecter activement ;\n - Identifier et qualifier techniquement et commercialement les besoins ;\n - Répondre aux besoins : sélectionner les profils adéquats, mobiliser et coordonner les équipes avant-ventes, développer un argumentaire technique et commercial ;\n - Finaliser les ventes et suivre techniquement et commercialement la réalisation.\n\n\n  \n Profil recherché :\n\n - Élève-Ingénieur en dernière année d'une formation supérieure en informatique, vous êtes à la recherche d'un stage de fin d'études.\n - Vous avez un vif intérêt pour le commerce et la prospection.\n\n\n\nCompétences techniques :\n\nConnaissances ou sensibilités pour les domaines suivants : \n\n - Prospection commerciale ;\n - Systèmes d'Information ;\n - Infrastructures systèmes et réseaux.\n\n\n\n\n\nEnvironnement technique :\n\n - Salesforce ;\n - LinkedIn Sales Navigator ;\n - LinkedIn Recruiter ;\n - Eolia Software ;\n - Jobboards : APEC, Hellowork, ... ;\n - Whoz.\n\n\n\nInfos pratiques :\n\n - Le démarrage est souhaité à partir du 6 janvier 2027 ;\n - Vous serez basé à Montpellier (agence Port Marianne) ;\n - Les visites client ont lieu principalement à Montpellier mais aussi à Aix-en-Provence et Marseille ;\n - Des potentiels déplacements ponctuels à Paris, Lyon et Toulouse sont à prévoir ;\n - Les déplacements sont pris en charge par Viveris.\n\n\n\nNos avantages :\n\n - Rémunération fixe + variable non plafonné ;\n - Tickets restaurant ; \n - 100% titre de transport urbain remboursé ;\n - Formation continue avec LinkedIn Learning et nos communautés techniques.",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-18T14:34:32.613Z",
+        "expiration": "2027-01-18T14:34:32.613Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ab1aa8b375ebabde2e29f1e",
+      "partner_label": "Hellowork",
+      "partner_job_id": "5efd0059-37cd-41fb-99b7-151267b690c1"
+    },
+    "workplace": {
+      "siret": "81852001700034",
+      "brand": null,
+      "legal_name": "DESTIA DEVELOPPEMENT",
+      "website": null,
+      "name": "DESTIA DEVELOPPEMENT",
+      "description": "Le Groupe Destia est né en 2006, initialement spécialisé dans la garde d'enfant au travers de la marque Sous Mon Toit, c'est en 2010 que le groupe décide de se spécialiser dans le maintien à domicile (MAD) des séniors et personnes en situation de handicap. C'est en 2015, dans la foulée du rapprochement avec Avidom que la stratégie de participation à la consolidation du marché est lancée. Entre 2016 et 2021, 24 sociétés spécialisées dans le maintien à domicile ont rejoint Destia pour en faire un acteur de référence du MAD.",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=pJbIhK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83466162.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83466162",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Alternance Auxiliaire de Vie H/F",
+      "rome_codes": [
+        "K1311"
+      ],
+      "description": "Notre superbe agence recherche son/sa futur(e) assistant(e) de vie en alternance et surtout en CDI !\n\nVous n'êtes pas encore diplômé(e) mais ce métier est une vocation ? Nous vous formons en interne afin de vous permettre d'accéder au diplôme reconnu d'ADVF (Assistant de vie aux familles niv.3).\n\nLes missions que nous vous proposons :\n\n- Accompagner chaque bénéficiaire tout en douceur pour le levé et/ou le couché\n- Aider à faire les courses et à préparer de bons petits plats\n- Rendre son logement propre et accueillant\n- Égayer son quotidien via des jeux, des sorties et de la stimulation\n\nEt vous dans tout ça ? Ne vous inquiétez pas, votre bien-être, on s'en charge !\n\n- 75% de vos frais de transports à notre charge.\n- Dédommagement pour vos frais kilométriques à un taux supérieur au taux légal\n- Nous vous offrons le thé, le café, les petits gâteaux, l'accès à une imprimante et à un ordinateur en agence\n- Un parcours de carrière clef en main\n\nEnvie d'en savoir plus ? Postulez vite sur l'annonce !Le groupe Destia est ouvert à toute forme de singularité, nous étudions à compétences égales toutes les candidatures.",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Vous souhaitez vous investir dans une entreprise et surtout, avoir pour projet de travailler dans l'aide à domicile à long terme !   \nVous êtes bienveillant(e), patient(e) et consciencieux(se).   \nEt enfin, vous êtes prêt(e) à temporairement reprendre les bancs de l'école (en distanciel ;) )"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-17T22:08:10.000Z",
+        "expiration": "2027-01-17T22:08:10.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -8151,77 +8361,6 @@
   },
   {
     "identifier": {
-      "id": "6a5957f86a281b681b49849d",
-      "partner_label": "Hellowork",
-      "partner_job_id": "faeb043e-2d1e-4936-8757-334a28fd8652"
-    },
-    "workplace": {
-      "siret": "78916932300019",
-      "brand": null,
-      "legal_name": "LES MOUSQUETAIRES",
-      "website": null,
-      "name": "LES MOUSQUETAIRES",
-      "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, 160 000 collaborateurs et plus de 3 100 chefs d'entreprise indépendants.\n\nIntermarché fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos métiers nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur.\n\nAfin d'oeuvrer pour une insertion durable des jeunes dans l'emploi, Intermarché recrute et forme un apprenti qui a la soif d'apprendre un métier qui a du sens.Chaque métier compte pour écrire l'avenir de la distribution alimentaire.\n\nPrêt.e à faire la différence ? Rejoignez-nous !",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34110 Frontignan",
-        "geopoint": {
-          "coordinates": [
-            3.755072,
-            43.443309
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pKTDQJ&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F81356307.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bartisanat%252Cagricole%26utm_content%3Dfluxbonnealternance%26utm_term%3D81356307",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Intermarché Recrute ses Futurs Apprentis Boulangers H/F",
-      "rome_codes": [
-        "D1102"
-      ],
-      "description": "Vous serez encadré et accompagné par votre tuteur, qui vous transmettra son savoir et son expertise pour faire de vous un Professionnel et un véritable ambassadeur du mieux manger et de notre image de Producteurs &amp; Commerçants auprès de nos clients. Vous fabriquerez et cuirez des pains, viennoiseries et pâtisseries selon les techniques et le savoir-faire propres au métier. Vous évaluerez les quantités de produits à fabriquer selon la saison, la période, le flux client. Vous veillerez à l'approvisionnement suffisant du rayon tout au long de la journée et vous mettrez en valeur les produits (théâtralisation, clarté des prix et de l'information, balisage). Vous veillerez à la sécurité alimentaire en suivant les procédures et les règles d'hygiène et de qualité. Vous assurerez le conseil et la vente auprès des clients.",
-      "target_diploma": null,
-      "desired_skills": [
-        "Chez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura faire éclore votre talent ? Grâce à vos qualités relationnelles et votre fibre commerçante, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée.\n\nVous souhaitez préparer un CAP Boulanger en alternance dans NOTRE BOULANGERIE ARTISANALE DE L INTERMARCHE DE FRONTIGNAN avec l'appui d'un CFA partenaire : NICOLAS ALBANO A SETE  \n Bénéficiez d'une formation totalement prise en charge et d'une rémunération dans le cadre d'un contrat d'apprentissage.\n\nChoisir Intermarché pour exercer votre apprentissage et vivre la passion de votre métier, c'est construire votre carrière et agir au quotidien, dans un cadre humain et convivial qui favorise l'égalité des chances.\n\nRejoignez nos équipes de passionnés pour apprendre à travailler des produits de qualité et contribuer à l'avenir du mieux manger !\n\nTransmettez-nous votre CV. Mais, c'est votre lettre de motivation qui fera toute la différence."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-11-16T22:14:13.000Z",
-        "expiration": "2027-01-16T22:14:13.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a346e637f27726a049712a5",
       "partner_label": "Hellowork",
       "partner_job_id": "7d452343-18f0-44e1-b6d5-17505fa7cb85"
@@ -8351,8 +8490,8 @@
       "to_be_acquired_skills": [],
       "access_conditions": [],
       "publication": {
-        "creation": "2026-11-15T09:40:18.295Z",
-        "expiration": "2027-01-15T09:40:18.295Z"
+        "creation": "2026-11-15T09:40:18.000Z",
+        "expiration": "2027-01-15T09:40:18.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -9498,79 +9637,6 @@
   },
   {
     "identifier": {
-      "id": "6af3a622cc766074572b7f6e",
-      "partner_label": "France Travail",
-      "partner_job_id": "216GKLC"
-    },
-    "workplace": {
-      "siret": "80321984900012",
-      "brand": null,
-      "legal_name": "MIZADOCK",
-      "website": null,
-      "name": "MIZADOCK",
-      "description": null,
-      "size": "6 à 9 salariés",
-      "location": {
-        "address": "34560 Villeveyrac",
-        "geopoint": {
-          "coordinates": [
-            3.595684,
-            43.498799
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1505,
-        "opco": "L'Opcommerce",
-        "naf": {
-          "code": "47.11D",
-          "label": "Supermarchés"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GKLC",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprentisage Vendeur Conseil en Alternance (H/F)",
-      "rome_codes": [
-        "D1507"
-      ],
-      "description": "SPAR, leader du commerce de proximité, recrute 1 alternant(e) (contrat d'apprentissage) pour un poste de Vendeur Conseil, en partenariat avec l'école ISCDYS.\nMissions :\nVous ferez vos cours en distanciel\nVous accueillez et conseillez la clientèle avec le sourire\nVous réceptionnez les marchandises et les produits, et contrôlez la conformité des livraisons\nVous effectuez et contrôlez le balisage et l'étiquetage des produits en rayon\nVous suivez l'état des stocks et identifiez les besoins en approvisionnement\nVous effectuez les opérations d'encaissement\nVous effectuez l'entretien de l'espace de vente et des produits en rayon\nVous travaillerez selon un planning tournant, les samedi après-midi et dimanche matin se font par roulement de 1 semaine sur 2\n\nPrise de poste au plus tôt",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Contrôler le balisage et l'étiquetage des produits en rayon",
-        "Organiser, aménager un espace de vente",
-        "Réaliser l'étiquetage de produits",
-        "Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-11-10T08:06:52.937Z",
-        "expiration": "2027-01-10T08:06:52.937Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6aa32a520d35903fc2689592",
       "partner_label": "Hellowork",
       "partner_job_id": "28b2a9bc-ac26-4ac6-baed-03bbf659eadf"
@@ -9708,74 +9774,6 @@
       "publication": {
         "creation": "2026-11-09T17:27:53.757Z",
         "expiration": "2027-01-09T17:27:53.757Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6af25484cc766074572b7844",
-      "partner_label": "France Travail",
-      "partner_job_id": "8649384"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "Buffalo Grill",
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10A",
-          "label": "Restauration traditionnelle"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://carrieres.buffalo-grill.fr/fr/annonce/4684327-alternance-serveur-hf-34000-montpellier?s_o=France+Travail&s_b=DigitalRecruiters",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 24,
-      "type": [
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Buffalo Grill - Serveur / Serveuse en restauration (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "En quelques mots Tu as le sens de l'accueil et tu aimes offrir un service irréprochable ? En tant que Serveur en alternance, tu es l'ambassadeur de l'expérience client chez Buffalo Grill. Ta mission : assurer un service rapide et de qualité dans une ambiance chaleureuse et conviviale ! Le tout en veillant à satisfaire chaque client à sa table pour qu'il reparte avec le sourire et l'envie de revenir !\n« Ensemble, nous traçons un chemin où passion, partage et excellence ne font qu'un »\nCe qui t'attend si tu décides de nous rejoindre :\nDes parcours de formation spécialement créés pour chacun de nos métiers afin que tu bénéficies d'un accompagnement personnalisé ; des équipes chaleureuses et des opportunités de carrière, pour que tu puisses t'épanouir et donner le meilleur de toi-même.\nTon quotidien en tant que Serveur :\n- Le sourire, ce détail qui fait tout : Accompagné(e) au quotidien par ton/ta tuteur(trice), tu veilles à ce que chaque client se sente accueilli, écouté et servi à la perfection de l'entrée à la sortie du restaurant. Un petit sourire fait des merveilles, mais tu sais aussi que le service de qualité passe par l'efficacité. Pas de souci, tu maîtrises l'art du timing, même quand ça chauffe derrière les rangs.\n- Le conseil qui fait la différence : Tu aimes partager ta passion pour la carte et conseiller les clients avec enthousiasme. Tu as le super pouvoir de transformer une simple commande en un moment spécial ? On vous veut dans la grande aventure Buffalo Grill !\n- L'expert de l'expérience client : Tu t'assures de la satisfaction des clients pendant toute la durée du service. Objectif ? Garantir une expérience agréable à nos clients, pour leur donner l'envie de revenir ! Mais ce n'est pas tout. Ton avis compte ! Tu participes activement à améliorer l'expérience client, en apportant tes idées pour faire progresser la qualité du service. Enfin, tu participes à la fidélisation de nos clients :\n- En contribuant à renforcer la notoriété du restaurant sur Google.\n- En accompagnant les clients dans la création de leur carte de fidélité, en les encourageant à l'utiliser et à en profiter pleinement à chacune de leurs visites.\n- Le garant de la mise en place et de l'entretien de la salle : Avant le service, tu prépares la salle (dresser les tables, disposer les couverts, etc.) pour offrir un cadre agréable et impeccable aux clients. What else ? Maintenir la propreté de la salle avant - pendant et après le service. Même en plein rush, tu sais qu'il n'y a pas de compromis sur l'hygiène. Après tout, un service impeccable, c'est aussi un service sécurisé !\n- Le champion de la coopération : Tu collabores avec les autres membres de l'équipe que ce soit en cuisine ou en salle, pour une préparation et un service fluide, en assurant une qualité de service irréprochable, et une cohésion d'équipe digne des plus grandes franchises de NBA !\n- L'acteur des animations : Tu participes aux temps forts de l'année (Noël, Saint Valentin, Halloween, anniversaires, etc.) et bien sûr tu n'as pas peur d'enfiler le costume de notre mascotte Bizcoto !\nPourquoi rejoindre Buffalo Grill ?\nNous favorisons l'épanouissement de chacun :\n\nUne intégration soignée et un parcours de formation personnalisé grâce à notre école interne et nos outils (Suivi d'intégration personnalisé, B-learning, formation sur le terrain, etc.).\nDes opportunités de carrière à portée de main : 315 promotions internes en 2025 dont 70% sur des postes d'encadrants (Directeur de restaurant, Directeur Adjoint, Chef Grillardin et Responsable de Salle).\nUne ambiance de travail conviviale et authentique, où le respect et le plaisir d'accueillir sont au cœur des valeurs de nos équipes dynamiques et enthousiastes. Chez nous, tu trouveras un esprit familial et un management de proximité.\n\nNous te soutenons grâce à notre réseau :\n\nUne entreprise solide avec nos 325 restaurants en France, et notre programme de mobilité interne #BuffalOpportunité, offrant des opportunités de mobilité géographique partout en France !\nUn acteur local impliqué dans la dynamique des territoires depuis plus de 46 ans.\n\nNous offrons des opportunités à toutes et tous :\n\nUne accessibilité des métiers, sans qualification préalable requise.\nUne politique d'inclusion qui valorise la diversité :\n\n- L'index parité H/F : 84/100.\n- 49% de femmes dans nos effectifs, et plus de 40 % de femmes managers.\n- 6% de travailleurs en situation de handicap.\n- Une projection de 5% d'alternants en 2026 !\n- Et plus de 75 nationalités dans nos effectifs.\nEvoluer rapidement en tant qu'alternant(e ) c'est possible chez Buffalo Grill ! Tu aimes les défis ? Après avoir démontré ton savoir-faire, tu pourras évoluer vers des postes à plus fortes responsabilités, comme Responsable de salle, avant de pouvoir prétendre à des postes de direction si tel est ton souhait ! Nous t'accompagnons dans ton évolution professionnelle pour que tu puisses atteindre tes objectifs !\nTu es prêt(e) pour la prochaine étape ?\nProfil : \n- Tu prépar...",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-11-07T21:16:57.131Z",
-        "expiration": "2027-01-07T21:16:57.131Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -11237,7 +11235,7 @@
       "rome_codes": [
         "G1609"
       ],
-      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>️ Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
+      "description": "<p>  <strong>Alternant Cuisinier H/F à Agde</strong> </p> <p>  <strong>Tu as trouvé ton école pour une formation culinaire en Alternance ?</strong> </p> <p>  <strong>Tu es passionné(e) par la cuisine ?</strong> </p> <p>  Viens chez  <strong>Restalliance</strong>  et transforme ta passion en moments conviviaux dans des établissements de santé ! </p> <p>  <strong>Tes missions :</strong> </p> <p>  Préparer des repas savoureux avec des produits frais, de saisons et locaux pour les  <strong>résidents d'une Résidence Sénior.</strong> </p> <p>Développer tes compétences culinaires avec un(e) chef(fe) expérimenté(e).</p> <p>Apprendre les techniques de cuisine (entrée, plat et dessert), les règles d'hygiène (HACCP) et la gestion des stocks.</p> <p>  <strong>Nous t'offrons :</strong> </p> <p>  Contrat d'apprentissage de 1 ou 2 ans à  <strong>Agde.</strong> </p> <p>  ⏰ Horaires :  <strong>7h00 - 15h00 du Lundi au Vendredi.</strong> </p> <p>Avantages repas, transport, mutuelle.</p> <p>Possibilité de CDI et d'évolution.</p> <p>Environnement riche en expériences humaines et culinaires.</p> <p>  <strong>Tes prochaines étapes :</strong> </p> <p>  <strong>Un échange téléphonique</strong>  avec notre équipe recrutement ou avec un agent IA (Alex) </p> <p>  <strong>Un Entretien sur site</strong>  avec votre futur chef(fe) gérant. </p> <p>  <strong>Prêt(e) à relever le défi ?</strong>  Envoie ta candidature ! </p>\r\n\r\nSecteur: Hôtellerie, Restauration\r\n\r\nPoste: Cuisinier (H/F)\r\n\r\nTemps Plein",
       "target_diploma": null,
       "desired_skills": [],
       "to_be_acquired_skills": [],
@@ -11247,8 +11245,8 @@
         "20 ans d'expérience et plus"
       ],
       "publication": {
-        "creation": "2026-11-02T23:06:35.134Z",
-        "expiration": "2027-01-02T23:06:35.134Z"
+        "creation": "2026-11-02T23:06:35.000Z",
+        "expiration": "2027-01-02T23:06:35.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -12449,82 +12447,6 @@
   },
   {
     "identifier": {
-      "id": "6ae3d418bfbdb64c1a6a758d",
-      "partner_label": "France Travail",
-      "partner_job_id": "215VJCV"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34980 Saint-Clément-de-Rivière",
-        "geopoint": {
-          "coordinates": [
-            3.842956,
-            43.681197
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.52B",
-          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VJCV",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti/e Conseiller/e de vente secteur Bricolage (H/F)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-29T12:16:18.959Z",
-        "expiration": "2026-12-29T12:16:18.959Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ae27fa8ec4f5594ab3fbcb0",
       "partner_label": "Hellowork",
       "partner_job_id": "10c97119-f531-44a0-954a-12137f1cdda5"
@@ -12590,79 +12512,6 @@
       "publication": {
         "creation": "2026-10-28T14:12:29.000Z",
         "expiration": "2026-12-28T14:12:29.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ae2829fbfbdb64c1a6a075c",
-      "partner_label": "France Travail",
-      "partner_job_id": "215TGNX"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34970 Lattes",
-        "geopoint": {
-          "coordinates": [
-            3.900373,
-            43.570523
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "47.52B",
-          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TGNX",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Conseiller de Vente secteur Bricolage contrat apprentissage (H/F)",
-      "rome_codes": [
-        "D1212"
-      ],
-      "description": "Bien lire l'offre d'emploi : offre d'emploi en contrat d'apprentissage moins de 29 ans.\n\nNous recherchons 2 futurs collaborateurs pour :\nintégrer dans un premier temps, une Préparation Opérationnelle à l'emploi du 29/11 au 12/01/27. ensuite vous serez formé en contrat d'apprentissage sur 1 an pour valider le Titre Pro de \"Conseiller de Vente\", suivi d'un CDI.\n\nLa formation sera dispensée sur l'AFPA de St Jean de Védas et ensuite votre prise de poste sera sur Lattes. A ce titre il faut avoir un moyen de locomotion pour vous déplacer en formation ou sur votre lieu de travail.\n\nCondition requise impératives pour être reçu en entretien :\n\n* être inscrit à France Travail\n* Avoir moins de 29 ans\n* ne jamais avoir validé un diplôme dans le commerce.\n\nles missions de votre future collaboration avec nous:\n\n1/ Accueil client\n- se rend disponible et va à la rencontre du client\n- accueille le client et écoute son besoin\n- oriente et accompagne le client vers les produits ou le vendeur\n\n2/ Diagnostique le besoin du client\n- analyse les besoins, les freins et le niveau de savoir-faire du client\n- conseille le client sur les solutions produits et services qui répondent à son projet\n- argumente et rassure sur la solution proposée par des explications techniques et pratiques de mise en oeuvre, des conseils d'utilisation et d'entretien\n\n3/ Concrétise la vente par des solutions adaptées aux projets clients\n- propose et argumente des solutions produits et services qui répondent au projet client\n- conseille des solutions pratiques de mise en oeuvre et d'entretien\n- propose un devis selon le projet client et assure la relance téléphonique\n- réalise la vente d'un produit ou d'un service et des ventes additionnelles\n- propose et vend au client des solutions de fidélisation\n- contribue à l'enrichissement des données clients (en fonction des besoins et des projets clients, maintenir la base de données)\n\n4/ Contribue à la tenue du linéaire\n- contrôle la disponibilité des produits et réalise si besoin le réassort\n- s'assure de la fiabilité des stocks par des comptages réguliers\n- contrôle la qualité des produits en rayon et neutralise les produits à démarquer\n- contrôle le balisage prix\n- participe à la mise en place des linéaires, TG et cross marketing conformément aux règles d'implantation\nSuit la performance économique\n- connait et comprend les indicateurs de vente et de satisfaction client\n- propose des actions d'amélioration et est force de proposition\nApplique les consignes de sécurité afin d'assurer sa propre sécurité, celle de ses collègues et des clients\n- porte les équipements de protection individuelle\n- respecte les règles de sécurité et signale des situations dangereuses\n- respecte les règles de conduite et d'utilisation d'engins\n- respecte les recommandations de port de charges manuel et les conditions de stockage\n\nles qualités attendues : - commerçant\n- centré client\n- écoute\n- communication",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Gestes et postures de manutention",
-        "Techniques de mise en rayon",
-        "Présenter et valoriser un produit ou un service",
-        "Réaliser la mise en rayon"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-28T12:24:14.454Z",
-        "expiration": "2026-12-28T12:24:14.454Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -12957,75 +12806,6 @@
   },
   {
     "identifier": {
-      "id": "6abae8bac6b865ac2948fbea",
-      "partner_label": "Meteojob",
-      "partner_job_id": "57122545"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": "BOULANGERIE ANGE",
-      "description": "<p>  <strong>Et si vous deveniez un Ange, Gardien de la comptabilité ?</strong> </p> <p>  <br />  Rejoignez une équipe en pleine expansion, au cœur d'une aventure ambitieuse ! </p> <p>Nous sommes un groupe en plein développement, fort de nos 305 boulangeries implantées en France, au Canada, à la Réunion et bientôt dans d'autres pays. Nous avons pour objectif d'atteindre les 400 boulangeries d'ici 2026. Ce défi passionnant nous pousse à rechercher des talents motivés, prêts à contribuer à notre succès.</p> <p>Après 15 ans d'existence, le réseau des Boulangeries ANGE occupe aujourd'hui la 2ème place de son secteur et la 1ère place en franchise.</p> <p>Et si vous faisiez partie de cette belle aventure ?</p>",
-      "size": null,
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": null
-      }
-    },
-    "apply": {
-      "url": "https://www.meteojob.com/jobs/57122545?utm_source=labonnealternance&utm_medium=aggregator-free&utm_campaign=alternance",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprentissage Vente CAP / VCO OU BTS BOULANGERIE ANGE BEZIERS CENTRE VILLE H/F",
-      "rome_codes": [
-        "D1501"
-      ],
-      "description": "<p>  <strong>Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente / OU VCO OU BTS MCO.</strong> </p> <p>Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une durée de 1 à 2 ans</p> <p>  <strong>Votre formation :</strong> </p> <p>  Les techniques de commercialisation et de vente de produits ou de services en boulangerie.  <br />  Les connaissances sur les circuits de distribution, sur les modes d'approvisionnement, les procédures de stockage des marchandises et en missions ça donne quoi ? </p> <ul>  <li>   <p>Accueillir, conseiller et orienter les clients sur nos produits de boulangerie, snacking et pâtisserie.</p>  </li>  <li>   <p>Assurer la vente, le service et l'encaissement avec sourire et professionnalisme.</p>  </li>  <li>   <p>Participer à la mise en rayon, au réapprovisionnement et à la présentation des produits en vitrines.</p>  </li>  <li>   <p>Veiller à la propreté et à l'organisation de l'espace de vente et de restauration.</p>  </li>  <li>   <p>Contribuer aux actions commerciales et à l'animation de la boutique.</p>  </li> </ul> <p>  .  <br />  <strong>Vous deviendrez un(e) véritable ambassadeur/ambassadrice de notre enseigne.</strong> </p> <p>  Vous avez le sens de la satisfaction et du contact client ainsi que l'envie de rejoindre un concept ambitieux au sein d'une entreprise performante ?  <br />  Vous êtes reconnu(e) pour votre dynamisme et votre esprit d'équipe ?  <br />  Dans le cadre de votre cursus en alternance, nous saurons vous apporter une vraie valeur ajoutée sur la pratique liée à vos études et à l'amour du terrain. </p> <p>  <strong>Et l'organisation chez Ange, ça donne quoi ?</strong>  <br />  Afin de permettre une bonne rotation des plannings de chaque membre de l'équipe,  <strong>vous alternez des prises de poste en ouverture, journée et fermeture en horaire continue.</strong>  <br />  <em>Compte tenu des horaires et de l'accès à notre boulangerie, il est impératif d'être autonome dans vos déplacements.</em> </p> <p>  <strong>ATTENTION LIEU DE TRAVAIL EN HYPER CENTRE DE BEZIERS A COTES DES HALLES DE BEZIERS AVEC STATIONNEMENT COMPLIQUE.</strong> </p>\r\n\r\nSecteur: Agroalimentaire\r\n\r\nPoste: Vendeur en boulangerie / pâtisserie (H/F)\r\n\r\nProfil: <p>  <strong>Profil requis :</strong> </p> <p>Personne motivée, ponctuelle, passionnée par la vente et qui a envie de transformer l'essai par une embauche en CDI derrière….</p> <p>  <strong>Type de contrat :</strong> </p> <p>Formation en Alternance</p> <p>  <strong>Titre visé :</strong>  CAP VENTE OU VCO OU BTS MCO </p> <p>  <strong>Vous partagez nos valeurs et souhaitez rejoindre un groupe en plein développement qui offre des possibilités d'évolution ?</strong>  <br />  <strong>Vous souhaitez rejoindre notre équipe de choc ? Rencontrons-nous !</strong> </p> <p>  <br />  <strong>Et Devenez un Ange, Gardien du bon !</strong>  <br />  <strong>   Réseau de plus de 300 boulangeries, nous sommes implantés en France, au Canada, à la Réunion… et d'autres nouveaux pays nous tendent les bras.   <br />   Notre ambition est d'étendre significativement notre nombre de boutiques. Un objectif motivant pour lequel nous avons besoin de talents motivés !   <br />  </strong> </p> <p>Depuis 2008, le réseau des boulangeries ANGE s'est hissé au 2ème rang de son secteur et le premier en franchise. Et nous ne comptons nous arrêter là !</p> Venez composer nos équipes de choc des boulangeries Ange et préparez votre CAP Vente / OU VCO OU BTS MCO.Vous suivrez un Titre Professionnel en alternance au sein de notre boulangerie ANGE sur une dur",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-26T23:07:53.404Z",
-        "expiration": "2026-12-26T23:07:53.404Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6a90b5aae075d4e1ad8176e0",
       "partner_label": "Hellowork",
       "partner_job_id": "1730b743-50d3-4b6e-b0e8-671b1e25e052"
@@ -13155,6 +12935,79 @@
       "publication": {
         "creation": "2026-10-26T22:36:17.000Z",
         "expiration": "2026-12-26T22:36:17.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6adfdf57bfbdb64c1a693504",
+      "partner_label": "France Travail",
+      "partner_job_id": "215RLJN"
+    },
+    "workplace": {
+      "siret": null,
+      "brand": null,
+      "legal_name": null,
+      "website": null,
+      "name": null,
+      "description": null,
+      "size": null,
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": null,
+        "naf": {
+          "code": "47.52B",
+          "label": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLJN",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 6,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Vendeur en bricolage en apprentissage (H/F)",
+      "rome_codes": [
+        "D1212"
+      ],
+      "description": "Nous recrutons deux personnes en contrat d'apprentissage en alternance pour préparer le titre professionnel de conseiller vendeur.\n** Attention la formation se déroulera à l'AFPA de Saint Jean de Védas (logement pris en charge) et sera précédée d'une POEI** \n\nVous êtes âgé de 16 à 29 ans révolus.\n\nVos missions dans l'entreprise : \n-Vous accueillez le client, diagnostiquez ses besoins, concrétisez la vente par des solutions adaptées aux projets clients.\n-Vous contribuez à la tenue du linéaire, vous suivez la performance économique.\n-Vous appliquez les consignes de sécurité.\nUne appétence pour la grande distribution et plus particulièrement des produits du secteur d'amélioration de la maison.\n\nLe magasin est ouvert tous les jours (le dimanche sur volontariat) avec une amplitude horaire de 7 à 20 heures",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Gestes et postures de manutention",
+        "Techniques de mise en rayon",
+        "Présenter et valoriser un produit ou un service",
+        "Réaliser la mise en rayon"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-26T16:34:10.807Z",
+        "expiration": "2026-12-26T16:34:10.807Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -13372,78 +13225,6 @@
       "publication": {
         "creation": "2026-10-26T09:57:40.267Z",
         "expiration": "2026-12-26T09:57:40.267Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6adfdf57bfbdb64c1a693502",
-      "partner_label": "France Travail",
-      "partner_job_id": "215QRHL"
-    },
-    "workplace": {
-      "siret": "49909293000076",
-      "brand": "LUNDI MATIN",
-      "legal_name": "LUNDIMATIN",
-      "website": null,
-      "name": "LUNDIMATIN",
-      "description": null,
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1486,
-        "opco": "ATLAS",
-        "naf": {
-          "code": "58.29C",
-          "label": "Édition de logiciels applicatifs"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QRHL",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance - Technicien d'Assistance Client (H/F)",
-      "rome_codes": [
-        "D1432"
-      ],
-      "description": "Contexte\n\nSous la direction du Responsable de BU, vous intégrerez l'équipe du Support Client chargée d'assister nos clients dans l'utilisation de nos solutions logicielles (ERP, Caisse, Ecommerce)\n\n\nACTIVITÉS PRINCIPALES\nAssistance technique \n\nRéceptionner et qualifier les demandes (téléphone + tickets) : compréhension du besoin, reformulation, collecte des informations utiles\nPrendre en charge les demandes à dominante technique : intégrations, connecteurs, échanges de données, erreurs systèmes, comportements non reproductibles \"côté usage\"\nRéaliser un diagnostic approfondi : analyse de logs, vérifications d'environnement, contrôles de paramétrage technique et tests croisés\nReproduire les anomalies complexes, isoler les causes probables et proposer des contournements / correctifs de configuration quand possible\nCollaborer avec les équipes produit/développement en fournissant des éléments exploitables (étapes, logs, contexte, hypothèses et tests réalisés)\nÊtre le point d'appui technique des chargés d'assistance : aide au diagnostic, conseils de qualification, montée en compétence sur les sujets récurrents\n\nGarantir la mise à jour documentaire\nCapitaliser sur les cas techniques : fiches d'incident, checklists de diagnostic, procédures de vérification (logs/flux/intégrations)\nRédiger et maintenir une documentation claire\n\n\nFormation\n\n\nRéaliser des accompagnements à la prise en main (démarrage, bonnes pratiques, rappels sur les paramétrages clés) et s'assurer de l'autonomie progressive des utilisateurs\nIntervenir sur des sujets de formation \"technique\" (préconisations, prérequis, intégrations) et contribuer à outiller l'équipe support (guides, ateliers internes)",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Effectuer le suivi des commandes, la facturation",
-        "Etablir un devis",
-        "Utiliser les outils numériques"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-26T09:54:38.236Z",
-        "expiration": "2026-12-26T09:54:38.236Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -14528,77 +14309,6 @@
   },
   {
     "identifier": {
-      "id": "6968b8562fd23d7ccdf73163",
-      "partner_label": "Hellowork",
-      "partner_job_id": "b6a43aa2-8611-41a5-a135-28af51c5b9fa"
-    },
-    "workplace": {
-      "siret": "78916932300019",
-      "brand": null,
-      "legal_name": "LES MOUSQUETAIRES",
-      "website": null,
-      "name": "LES MOUSQUETAIRES",
-      "description": "Rejoindre le Groupement Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec  7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !\n\nRoady propose une offre complète dédiée à la mobilité. Chaque centre-auto dispose d'un espace atelier équipé des meilleures technologies afin de pouvoir réparer tous types de véhicules et d'un espace de vente libre-service proposant plus de 4000 références. En complément, l'enseigne s'appuie sur l'intégration de corners Rapid Pare-Brise, de services tels que la location de véhicules et d'accessoires, ainsi que la vente et l'entretien des 2 roues afin de proposer une offre de service complète à la clientèle.",
-      "size": "Non diffusé",
-      "location": {
-        "address": "34990 Juvignac",
-        "geopoint": {
-          "coordinates": [
-            3.801257,
-            43.620712
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "inconnu",
-        "naf": {
-          "code": "70.10Z",
-          "label": "Activités des sièges sociaux"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=F7zjx5&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F71678603.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D71678603",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": "onsite"
-    },
-    "offer": {
-      "title": "Mecanicien Automobile en Alternance H/F",
-      "rome_codes": [
-        "I1604"
-      ],
-      "description": "Nous recherchons pour notre centre ROADY de MONTPELLIER OUEST un mécanicien automobile (H/F) en alternance\n\nCe poste est à pourvoir dès que possible\n\nDoté(e) d'un esprit d'équipe, ayant le sens du service et l'envie de satisfaire les clients, votre motivation et votre dynamisme vous permettront de réussir chez Roady\n\nSous la responsabilité du chef d'atelier, vous réaliserez les travaux d'entretien et de réparation attendus par nos clients dans le respect des normes en vigueur chez Roady.",
-      "target_diploma": null,
-      "desired_skills": [
-        "Vous êtes motivé et avez soif d'apprendre un nouveau métier\n\nVous préparez un diplôme CAP, BEP, BTS etc..."
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T20:20:52.000Z",
-        "expiration": "2026-12-21T20:20:52.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "69bf2424a78b36212d76dff6",
       "partner_label": "Hellowork",
       "partner_job_id": "6e19903c-61a2-47b8-a4ca-aa8c4cb34443"
@@ -14658,6 +14368,77 @@
       },
       "desired_skills": [
         "Vous êtes étudiant.e et vous préparez un diplôme dans le domaine de la maintenance ?  \nUne formation en alternance, un diplôme, et avec ceci... l'accès à un poste en CDI à la fin de votre formation !\n\nVos atouts pour réussir :\n\nSi vous êtes souriant.e, dynamique, avec un fort esprit d'équipe et que vous êtes également reconnu.e pour les compétences suivantes :\n\n- Votre polyvalence.\n- Votre conscience professionnelle.\n- Votre sens de l'organisation.\n- Votre capacité à vous adapter aux situations d'urgences liées au fonctionnement de l'établissement.\n\nVotre profil nous intéresse !\n\nPour aller plus loin :\n\n- Postulez dès maintenant !\n- Nous avons plus de 350 établissements répartis sur la France, il y en a forcément un près de chez vous !\n- Nous recrutons en alternance en contrat d'apprentissage ou de professionnalisation. Selon votre profil, et vos envies, nous vous proposons le parcours qui vous correspond.\n\nRejoindre emeis, c'est participer à une aventure pleine de défis au coeur de nos résidences et cliniques."
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-21T20:20:52.000Z",
+        "expiration": "2026-12-21T20:20:52.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6968b8562fd23d7ccdf73163",
+      "partner_label": "Hellowork",
+      "partner_job_id": "b6a43aa2-8611-41a5-a135-28af51c5b9fa"
+    },
+    "workplace": {
+      "siret": "78916932300019",
+      "brand": null,
+      "legal_name": "LES MOUSQUETAIRES",
+      "website": null,
+      "name": "LES MOUSQUETAIRES",
+      "description": "Rejoindre le Groupement Mousquetaires, c'est intégrer un acteur majeur de la grande distribution avec  7 enseignes. C'est aussi évoluer au sein d'un groupe singulier, présent sur 3 marchés (alimentaire, bricolage, mobilité), qui réunit 150 000 collaborateurs et compte plus de 3 000 chefs d'entreprise !\n\nRoady propose une offre complète dédiée à la mobilité. Chaque centre-auto dispose d'un espace atelier équipé des meilleures technologies afin de pouvoir réparer tous types de véhicules et d'un espace de vente libre-service proposant plus de 4000 références. En complément, l'enseigne s'appuie sur l'intégration de corners Rapid Pare-Brise, de services tels que la location de véhicules et d'accessoires, ainsi que la vente et l'entretien des 2 roues afin de proposer une offre de service complète à la clientèle.",
+      "size": "Non diffusé",
+      "location": {
+        "address": "34990 Juvignac",
+        "geopoint": {
+          "coordinates": [
+            3.801257,
+            43.620712
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "inconnu",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=F7zjx5&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F71678603.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bautomobile%26utm_content%3Dfluxbonnealternance%26utm_term%3D71678603",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": "onsite"
+    },
+    "offer": {
+      "title": "Mecanicien Automobile en Alternance H/F",
+      "rome_codes": [
+        "I1604"
+      ],
+      "description": "Nous recherchons pour notre centre ROADY de MONTPELLIER OUEST un mécanicien automobile (H/F) en alternance\n\nCe poste est à pourvoir dès que possible\n\nDoté(e) d'un esprit d'équipe, ayant le sens du service et l'envie de satisfaire les clients, votre motivation et votre dynamisme vous permettront de réussir chez Roady\n\nSous la responsabilité du chef d'atelier, vous réaliserez les travaux d'entretien et de réparation attendus par nos clients dans le respect des normes en vigueur chez Roady.",
+      "target_diploma": null,
+      "desired_skills": [
+        "Vous êtes motivé et avez soif d'apprendre un nouveau métier\n\nVous préparez un diplôme CAP, BEP, BTS etc..."
       ],
       "to_be_acquired_skills": [],
       "access_conditions": [],
@@ -14879,150 +14660,6 @@
         "expiration": "2026-12-21T18:47:45.685Z"
       },
       "opening_count": 2,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad93a14715e4cba3924e3b1",
-      "partner_label": "France Travail",
-      "partner_job_id": "215MSRH"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MSRH",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTISSAGE - cuisinier/cuisinière (H/F)",
-      "rome_codes": [
-        "G1609"
-      ],
-      "description": "Notre restaurant, situé à Montpellier, recherche un(e) apprenti(e) cuisinier / cuisinière passionné(e) par la cuisine de type pizza, motivé(e) et désireux(se) d'apprendre le métier au sein de son équipe.\n\nVos missions\nParticiper à la préparation des ingrédients et des plats.\nRéaliser les préparations culinaires sous la supervision du chef ou de l'équipe en cuisine.\nApprendre les techniques de base de la cuisine et du dressage des assiettes.\nParticiper à la réception et au rangement des marchandises.\nAssurer le nettoyage et l'entretien du poste de travail et du matériel.\nRespecter les règles d'hygiène, de sécurité alimentaire et de conservation des produits.\n\nProfil recherché\nVous souhaitez préparer une formation en cuisine dans le cadre d'un apprentissage.\nVous êtes motivé(e), rigoureux(se), organisé(e) et dynamique.\nVous appréciez le travail en équipe et savez respecter les consignes.\nVous êtes curieux(se) et avez envie de développer vos compétences culinaires.\nDébutant(e) accepté(e) : nous recherchons avant tout une personne sérieuse et motivée.\n\nNous vous proposons\nUn contrat d'apprentissage.\nUne formation pratique au sein de notre cuisine.\nUn accompagnement pour développer vos compétences professionnelles.\nUne expérience enrichissante dans un environnement dynamique.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Dresser des plats pour le service"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T15:01:24.124Z",
-        "expiration": "2026-12-21T15:01:24.124Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad93a14715e4cba3924e3ad",
-      "partner_label": "France Travail",
-      "partner_job_id": "215MKXQ"
-    },
-    "workplace": {
-      "siret": null,
-      "brand": null,
-      "legal_name": null,
-      "website": null,
-      "name": null,
-      "description": null,
-      "size": null,
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": null,
-        "naf": {
-          "code": "56.10C",
-          "label": "Restauration de type rapide"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MKXQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Serveur / Serveuse (H/F)",
-      "rome_codes": [
-        "G1803"
-      ],
-      "description": "Notre restaurant, situé à Montpellier, recherche un(e) apprenti(e) serveur / serveuse motivé(e) et dynamique pour rejoindre son équipe dans le cadre d'un contrat d'apprentissage.\n\nVos missions : \n- Accueillir et installer les clients avec le sourire.\n- Présenter la carte et conseiller les clients.\n- Prendre les commandes et assurer le service en salle.\n- Participer à la mise en place et au nettoyage de la salle.\n- Veiller à la satisfaction des clients et à la qualité du service.\n- Appliquer les règles d'hygiène et de sécurité.\n\nProfil recherché : \n- Vous souhaitez préparer une formation dans les métiers du service en restauration.\n- Vous êtes motivé(e), ponctuel(le), sérieux(se) et dynamique.\n- Vous aimez le contact avec la clientèle et le travail en équipe.\n\nDébutant(e) accepté(e) : la motivation et l'envie d'apprendre sont essentielles !\n\nNous vous proposons : \n- Un contrat d'apprentissage.\n- Un accompagnement et une formation sur le terrain.\n- Une expérience professionnelle enrichissante au sein de notre équipe.\n- Une opportunité de développer vos compétences et d'évoluer dans la restauration.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Réaliser la mise en place de la salle et de l'office",
-        "Accueillir le client et l'installer",
-        "Conseiller le client dans ses choix de boissons ou plats selon ses goûts",
-        "Effectuer le service des plats à table",
-        "Prendre une commande client"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-21T13:23:43.261Z",
-        "expiration": "2026-12-21T13:23:43.261Z"
-      },
-      "opening_count": 1,
       "status": "Active",
       "to_applicant_questions": null
     },
@@ -15310,6 +14947,80 @@
       "publication": {
         "creation": "2026-10-20T15:43:26.782Z",
         "expiration": "2026-12-20T15:43:26.782Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ad7e8b2697d75a5c9fd22f1",
+      "partner_label": "France Travail",
+      "partner_job_id": "215LHXX"
+    },
+    "workplace": {
+      "siret": "39207751700069",
+      "brand": null,
+      "legal_name": "AERO NEGOCE INTERNATIONAL",
+      "website": null,
+      "name": "AERO NEGOCE INTERNATIONAL",
+      "description": null,
+      "size": "20 à 49 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
+        "naf": {
+          "code": "46.69B",
+          "label": "Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LHXX",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant qualité en contrat d'alternance  (H/F)",
+      "rome_codes": [
+        "H1528"
+      ],
+      "description": "Notre entreprise \nDepuis plus de 50 ans, Bossard Aerospace accompagne les acteurs de l'industrie aéronautique et aérospatiale grâce à son expertise dans la distribution de fixations et les solutions d'optimisation de la chaîne d'approvisionnement. Présent en Europe, en Asie et aux États-Unis, notre groupe évolue dans un environnement international exigeant, où la qualité, la fiabilité et la satisfaction client sont essentielles.\nRejoindre Bossard Aerospace France, c'est intégrer une entreprise dynamique et participer activement à l'amélioration continue de ses pratiques et de sa performance.\n\nVos missions\n Rattaché(e) au service Qualité, vous contribuerez à son fonctionnement quotidien et participerez activement au déploiement de la démarche d'amélioration continue « Aéro Excellence », un projet transverse visant à renforcer la maturité opérationnelle et la performance de l'entreprise.\nCe projet constituera le fil conducteur de votre alternance et vous permettra de collaborer avec différents services : Qualité, Logistique, Achats, Ventes, Support Client et Direction.\n\nVos principales responsabilités :\n- Participer à l'évaluation de la maturité opérationnelle de l'entreprise, identifier les écarts et contribuer au déploiement du programme « Aéro Excellence ».\n- Suivre et analyser les indicateurs de performance, contribuer à l'identification des axes de progrès et au suivi des actions correctives.\n- Analyser les non-conformités, les tendances et les récurrences afin de proposer des pistes d'amélioration.\n- Participer au suivi et à l'amélioration du système de management de la qualité (SMQ).\n- Contribuer à la préparation et à la réalisation des audits internes et externes, ainsi qu'au suivi des plans d'actions associés.\n- Accompagner l'équipe Qualité dans ses activités quotidiennes et dans la mise en œuvre de projets transverses.\n\nVotre profil : \nFormation Master 1 ou Master 2 en Qualité, Management de la qualité ou équivalent \n- Maîtrise des outils informatiques et intérêt pour l'analyse des données et leur visualisation.\n- Connaissance des outils qualité et des méthodes d'amélioration continue.\n- Notions des référentiels ISO 9001 et des exigences qualité applicables au secteur aéronautique.\n- Anglais opérationnel obligatoire pour évoluer dans un environnement international.\nRigoureux(se), organisé(e) et doté(e) d'un bon esprit d'analyse, vous faites preuve d'autonomie, de curiosité et d'un réel sens du service. Votre esprit d'équipe et votre capacité à travailler avec différents interlocuteurs seront des atouts pour réussir dans cette mission.\n\nVos conditions et avantages : \n- Contrat d'alternance De 12 à 24 mois selon cursus\n- Rémunération Selon les dispositions légales et conventionnelles applicables\n- Poste basé à Béziers (34)\n- Une expérience concrète au sein d'une PME à la dimension internationale, avec une participation active à un projet structurant d'amélioration continue.\n\nBOSSARD AEROSPACE France s'engage en faveur de la diversité et de l'égalité des chances. Tous nos postes sont ouverts aux personnes en situation de handicap.",
+      "target_diploma": {
+        "european": "7",
+        "label": "Master, titre ingénieur, grande école (Bac+5)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [
+        "Procédures de contrôle qualité",
+        "Contrôler la qualité et la conformité des process"
+      ],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-20T13:23:19.832Z",
+        "expiration": "2026-12-20T13:23:19.832Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -15939,80 +15650,6 @@
   },
   {
     "identifier": {
-      "id": "6ab1aa8b375ebabde2e29f1e",
-      "partner_label": "Hellowork",
-      "partner_job_id": "5efd0059-37cd-41fb-99b7-151267b690c1"
-    },
-    "workplace": {
-      "siret": "81852001700034",
-      "brand": null,
-      "legal_name": "DESTIA DEVELOPPEMENT",
-      "website": null,
-      "name": "DESTIA DEVELOPPEMENT",
-      "description": "Le Groupe Destia est né en 2006, initialement spécialisé dans la garde d'enfant au travers de la marque Sous Mon Toit, c'est en 2010 que le groupe décide de se spécialiser dans le maintien à domicile (MAD) des séniors et personnes en situation de handicap. C'est en 2015, dans la foulée du rapprochement avec Avidom que la stratégie de participation à la consolidation du marché est lancée. Entre 2016 et 2021, 24 sociétés spécialisées dans le maintien à domicile ont rejoint Destia pour en faire un acteur de référence du MAD.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34500 Béziers",
-        "geopoint": {
-          "coordinates": [
-            3.233465,
-            43.343264
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=pJbIhK&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F83466162.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2B%7Bseo_domain%7D%26utm_content%3Dfluxbonnealternance%26utm_term%3D83466162",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Alternance Auxiliaire de Vie H/F",
-      "rome_codes": [
-        "K1311"
-      ],
-      "description": "Notre superbe agence recherche son/sa futur(e) assistant(e) de vie en alternance et surtout en CDI !\n\nVous n'êtes pas encore diplômé(e) mais ce métier est une vocation ? Nous vous formons en interne afin de vous permettre d'accéder au diplôme reconnu d'ADVF (Assistant de vie aux familles niv.3).\n\nLes missions que nous vous proposons :\n\n- Accompagner chaque bénéficiaire tout en douceur pour le levé et/ou le couché\n- Aider à faire les courses et à préparer de bons petits plats\n- Rendre son logement propre et accueillant\n- Égayer son quotidien via des jeux, des sorties et de la stimulation\n\nEt vous dans tout ça ? Ne vous inquiétez pas, votre bien-être, on s'en charge !\n\n- 75% de vos frais de transports à notre charge.\n- Dédommagement pour vos frais kilométriques à un taux supérieur au taux légal\n- Nous vous offrons le thé, le café, les petits gâteaux, l'accès à une imprimante et à un ordinateur en agence\n- Un parcours de carrière clef en main\n\nEnvie d'en savoir plus ? Postulez vite sur l'annonce !Le groupe Destia est ouvert à toute forme de singularité, nous étudions à compétences égales toutes les candidatures.",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous souhaitez vous investir dans une entreprise et surtout, avoir pour projet de travailler dans l'aide à domicile à long terme !   \nVous êtes bienveillant(e), patient(e) et consciencieux(se).   \nEt enfin, vous êtes prêt(e) à temporairement reprendre les bancs de l'école (en distanciel ;) )"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-17T20:12:35.000Z",
-        "expiration": "2026-12-17T20:12:35.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6ad3248d5334fda8505dd66f",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56735020"
@@ -16073,149 +15710,6 @@
       "publication": {
         "creation": "2026-10-17T07:36:15.181Z",
         "expiration": "2026-12-12T08:30:01.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad2a2950ae368bc8d5b71a9",
-      "partner_label": "France Travail",
-      "partner_job_id": "215HMVQ"
-    },
-    "workplace": {
-      "siret": "91468577100018",
-      "brand": null,
-      "legal_name": "SELARL V&CO",
-      "website": null,
-      "name": "SELARL V&CO",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "34700 Lodève",
-        "geopoint": {
-          "coordinates": [
-            3.313903,
-            43.731146
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.23Z",
-          "label": "Pratique dentaire"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HMVQ",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "APPRENTI-E Assistant / Assistante dentaire (H/F)",
-      "rome_codes": [
-        "J1312"
-      ],
-      "description": "Notre cabinet recherche  un/une apprenti(e) assistant(e) dentaire qui assurera essentiellement le travail de secrétariat et d'accueil.\n\nVous serez formé-e sur 18 mois en alternance:\n- à St Jean de Védas (organisme Formation &amp; Santé): 1 jour par semaine pendant 14 mois (les déplacements sont à votre charge)\n- à Lodève au cabinet dentaire: 4 jours/semaine puis temps plein: travail de secrétariat 80% du temps, aide au fauteuil 20% du temps.\n\nVous êtes à l'aise avec l'outil informatique et capable de travailler en équipe. \nLes qualités professionnelles recherchées: implication, organisation, sociabilité, bienveillance envers les patients et capacité à les rassurer.\n\nIl sera possible de mettre en place une immersion pour vérifier l'intérêt au poste.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Relayer de l'information",
-        "Renseigner des documents médico-administratifs",
-        "Accueillir, orienter et renseigner un patient"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-16T10:18:22.405Z",
-        "expiration": "2026-12-16T10:18:22.405Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ad1511eb846587f82fa5991",
-      "partner_label": "France Travail",
-      "partner_job_id": "215GVKT"
-    },
-    "workplace": {
-      "siret": "53177003000017",
-      "brand": null,
-      "legal_name": "OSPM",
-      "website": null,
-      "name": "OSPM",
-      "description": null,
-      "size": "10 à 19 salariés",
-      "location": {
-        "address": "34000 Montpellier",
-        "geopoint": {
-          "coordinates": [
-            3.87048,
-            43.610476
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": null,
-        "opco": "AKTO / Opco entreprises et salariés des services à forte intensité de main d'oeuvre",
-        "naf": {
-          "code": "56.30Z",
-          "label": "Débits de boissons"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215GVKT",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Apprenti Barman/barmaid (H/F)",
-      "rome_codes": [
-        "G1801"
-      ],
-      "description": "Vous souhaitez apprendre le métier et  intégrer notre équipe en contrat en alternance d'un an selon un planning d'une semaine en organisme de formation et de 3 semaines en entreprise en vue d'obtenir un CQP (certification de qualification professionnelle) de barman.\n\nNous recherchons une personne qui ait envie d'apprendre, qui soit adaptable et qui accepte de travailler sur les horaires de l'établissement à savoir 17h - 2h du matin.\nil est souhaitable d'habiter à proximité de l'établissement  ou d'etre véhiculé(e) pour honorer les horaires du poste de travail.",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [
-        "Accueillir le client et l'installer",
-        "Créer une ambiance accueillante et conviviale au bar"
-      ],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-15T13:44:27.038Z",
-        "expiration": "2026-12-15T13:44:27.038Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -18493,6 +17987,483 @@
       "publication": {
         "creation": "2026-10-14T16:06:26.251Z",
         "expiration": "2026-12-15T08:30:02.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfa757eb1fb948b46ab9d7",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "54404116"
+    },
+    "workplace": {
+      "siret": "40125156602093",
+      "brand": null,
+      "legal_name": "EMEIS",
+      "website": "https://www.emeis-group.com/",
+      "name": "EMEIS",
+      "description": "<p>L'ACCOMPAGNEMENT ET LE SOIN PERSONNALISÉS POUR CHAQUE PERSONNE FRAGILISÉE</p><p>Nous sommes 76 000 médecins, infirmiers, aides-soignants, auxiliaires de vie, rééducateurs, psychologues, cuisiniers, gouvernants, et métiers d’appui… engagés chaque jour auprès des plus fragiles :</p><p>- Au sein de nos maisons de retraite (EHPAD)<br />- Au sein de nos cliniques de soins médicaux et de réadaptation<br />- Au sein de nos cliniques de santé mentale<br />- Avec des services d’aide à domicile.</p><p>Nous proposons à chacune des personnes dont nous prenons soin un parcours sur-mesure, avec une réponse à chaque étape (de la prévention au traitement et jusqu’à la réadaptation). Nous construisons avec et pour chacune d’elles un projet de soins personnalisé qui intègre tous ses besoins (médical, psychique, humain et social) car chaque résident, patient et bénéficiaire est unique.</p><p>Chez emeis, nous sommes forces de vie.</p>",
+      "size": "10 000 salariés et plus",
+      "location": {
+        "address": "34230 Usclas-d'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.462912,
+            43.521255
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco Santé",
+        "naf": {
+          "code": "70.10Z",
+          "label": "Activités des sièges sociaux"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://emeis-career.talent-soft.com/offre-de-emploi/emploi-agent-e-de-maintenance-en-alternance-st-clement-de-riviere-34-_41644.aspx",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Agent.e de Maintenance en alternance - St Clément de Rivière (34)",
+      "rome_codes": [
+        "I1309"
+      ],
+      "description": "<p>Agent.e de maintenance ou futur.e Agent.e de maintenance, et si c’était vous notre talent de demain ?Vous aimez la polyvalence de votre métier et souhaitez contribuer au bien-être et confort de nos résidents/patients ? Vous êtes au bon endroit ! Quel que soit votre parcours ou vos diplômes, nous avons une opportunité pour vous ! Nous accompagnons, grâce à la formation, les personnes désireuses d'apprendre un nouveau métier ou souhaitant entreprendre une reconversion professionnelle.Au sein d'emeis, nous recherchons avant tout des personnes engagées et enthousiastes pour rejoindre nos équipes et exercer à nos côtés une mission porteuse de sens ! Vos missions :Veiller aux respect des normes de sécurité et au confort des personnes,Tenir à jour le registre de sécurité et le carnet sanitaire,Mise en œuvre des activités de prévention et sensibilisation du personnel au risque incendie,Assurer le bon fonctionnement des équipements des installations concourant à la sécurité des personnes, des biens et de l’environnement,Piloter et assurer le suivi des entretiens préventifs prévus avec les sociétés de maintenance et les visites des bureaux de contrôle,Utiliser un logiciel GMAO dans le cadre des opérations de maintenance,Faire chiffrer les travaux correctifs pour son établissement,Assister le chargé d’affaires maintenance pour faire chiffrer les travaux d’investissement (visite avec entreprise, métrés…),Organiser, suivre et réceptionner des travaux ou des levées de réserves auprès des prestataires externes et sociétés de maintenance,Piloter l’entretien des espaces verts,Gérer les commandes et les stocks des consommables et outillages nécessaire à la maintenance du bâtiment.Assurer une bonne communication et un reporting auprès de sa Direction et du chargé d’affaire maintenance,Piloter les consommations énergétiques en lien avec la Direction d’établissement et le chargé d’affaires maintenance. Rejoindre emeis, c’est aussi trouver :Le sens et l’utilité de vos missions au quotidien ;Une équipe solidaire dans laquelle chacun compte ;L’opportunité de contribuer à la santé et au bien-être des plus fragiles ;La possibilité de développer vos compétences, diversifier vos connaissances et enrichir votre parcours à travers des formations personnalisées ;Des possibilités d’évoluer dans votre métier.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T16:06:26.251Z",
+        "expiration": "2026-12-15T08:30:02.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ace3b0ed37fcd71a1ea2cf7",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6ace3b0ed37fcd71a1ea2cf7"
+    },
+    "workplace": {
+      "siret": "91318472700018",
+      "brand": "NEHRIA",
+      "legal_name": "NEHRIA",
+      "website": null,
+      "name": "NEHRIA",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "8 Place de la République 34560 Villeveyrac",
+        "geopoint": {
+          "coordinates": [
+            3.605878,
+            43.499162
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02A",
+          "label": "Coiffure"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ace3b0e4bc5282510f89af8",
+      "phone": null,
+      "recipient_id": "partners_6ace3b0ed37fcd71a1ea2cf7"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Coiffeur / Coiffeuse",
+      "rome_codes": [
+        "D1202"
+      ],
+      "description": "Doté(e) d'un sens aigu de créativité, cet artiste du cheveu sculpte, colore et soigne les chevelures pour sublimer chaque client.\\nAccueille et conseille les clients en fonction de leur style et de leurs attentes\\nRéalise des coupes, des colorations et des coiffures adaptées à chaque individu\\nPropose et effectue des soins capillaires pour améliorer la santé des cheveux\\nGère les rendez-vous et l'organisation quotidienne du salon",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-13T14:07:10.828Z",
+        "expiration": "2026-12-12T14:07:10.828Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acc7c290dd186a592901e52",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6acc7c290dd186a592901e52"
+    },
+    "workplace": {
+      "siret": "88024572500010",
+      "brand": null,
+      "legal_name": "LA DOUC'HEURE",
+      "website": null,
+      "name": "LA DOUC'HEURE",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "1ter Rue du Pont Suspendu 34600 Le Poujol-sur-Orb",
+        "geopoint": {
+          "coordinates": [
+            3.06274,
+            43.578778
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6acc7c294bc5282510f888bc",
+      "phone": null,
+      "recipient_id": "partners_6acc7c290dd186a592901e52"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien-cosméticien / Esthéticienne-cosméticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T06:20:25.225Z",
+        "expiration": "2026-12-11T06:20:25.225Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acc7b29f09ad73ee4627884",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6acc7b29f09ad73ee4627884"
+    },
+    "workplace": {
+      "siret": "88024572500010",
+      "brand": null,
+      "legal_name": "LA DOUC'HEURE",
+      "website": null,
+      "name": "LA DOUC'HEURE",
+      "description": null,
+      "size": "1 ou 2 salariés",
+      "location": {
+        "address": "1ter Rue du Pont Suspendu 34600 Le Poujol-sur-Orb",
+        "geopoint": {
+          "coordinates": [
+            3.06274,
+            43.578778
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": null,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "96.02B",
+          "label": "Soins de beauté"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6acc7b294bc5282510f888b1",
+      "phone": null,
+      "recipient_id": "partners_6acc7b29f09ad73ee4627884"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Esthéticien / Esthéticienne",
+      "rome_codes": [
+        "D1208"
+      ],
+      "description": "L'esthéticien(ne) valorise la beauté et le bien-être à travers des soins personnalisés.\\nRéalise des soins du visage et du corps adaptés aux clients\\nPropose et vend des produits de beauté et de soin\\nEffectue des épilations et prépare la peau avant et après les soins\\nConseille les clients sur les soins à effectuer chez eux pour prolonger les effets des traitements\\nGère les rendez-vous et maintient l'espace de travail propre et accueillant\\nPeut réaliser des soins spécifiques comme le maquillage ou la manucure",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-12T06:16:09.531Z",
+        "expiration": "2026-12-11T06:16:09.531Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac9026db04137db7400de43",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6ac9026db04137db7400de43"
+    },
+    "workplace": {
+      "siret": "83199097300016",
+      "brand": null,
+      "legal_name": "MAISON RENAULT",
+      "website": null,
+      "name": "MAISON RENAULT",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34830 Jacou",
+        "geopoint": {
+          "coordinates": [
+            3.904118,
+            43.661719
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 953,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "56.21Z",
+          "label": "Services des traiteurs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ac9026d4bc5282510f66ab4",
+      "phone": null,
+      "recipient_id": "partners_6ac9026db04137db7400de43"
+    },
+    "contract": {
+      "start": "2026-10-12T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boucher-charcutier / Bouchère-charcutière",
+      "rome_codes": [
+        "D1109"
+      ],
+      "description": "Doté(e) d'un sens aigu du détail, cet artisan de la viande garantit des produits de qualité.\\nSélectionne et achète les carcasses de viande chez les grossistes ou les abattoirs\\nDécoupe, désosse et prépare les pièces de viande\\nPrésente et vend la viande en respectant les normes d'hygiène et de sécurité alimentaires\\nConseille les clients sur le choix des produits et leur préparation\\nPeut préparer des plats cuisinés ou des spécialités bouchères\\nGère les stocks et l'approvisionnement de son commerce",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-09T15:04:13.807Z",
+        "expiration": "2026-12-08T15:04:13.807Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac8dca3f994c6815745d20a",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6ac8dca3f994c6815745d20a"
+    },
+    "workplace": {
+      "siret": "83199097300016",
+      "brand": null,
+      "legal_name": "MAISON RENAULT",
+      "website": null,
+      "name": "MAISON RENAULT",
+      "description": null,
+      "size": "6 à 9 salariés",
+      "location": {
+        "address": "34830 Jacou",
+        "geopoint": {
+          "coordinates": [
+            3.904118,
+            43.661719
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 953,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "56.21Z",
+          "label": "Services des traiteurs"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ac8dca34bc5282510f668cf",
+      "phone": null,
+      "recipient_id": "partners_6ac8dca3f994c6815745d20a"
+    },
+    "contract": {
+      "start": "2026-10-12T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Boucher-charcutier / Bouchère-charcutière",
+      "rome_codes": [
+        "D1109"
+      ],
+      "description": "Doté(e) d'un sens aigu du détail, cet artisan de la viande garantit des produits de qualité.\\nSélectionne et achète les carcasses de viande chez les grossistes ou les abattoirs\\nDécoupe, désosse et prépare les pièces de viande\\nPrésente et vend la viande en respectant les normes d'hygiène et de sécurité alimentaires\\nConseille les clients sur le choix des produits et leur préparation\\nPeut préparer des plats cuisinés ou des spécialités bouchères\\nGère les stocks et l'approvisionnement de son commerce",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-09T12:22:59.508Z",
+        "expiration": "2026-12-08T12:22:59.508Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6ac734e5236a5c3a16ed63ff",
+      "partner_label": "OPCO EP",
+      "partner_job_id": "6ac734e5236a5c3a16ed63ff"
+    },
+    "workplace": {
+      "siret": "45109971700022",
+      "brand": null,
+      "legal_name": "SELDRA",
+      "website": null,
+      "name": "SELDRA",
+      "description": null,
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "2 Quai Carnot 34800 Clermont-l'Hérault",
+        "geopoint": {
+          "coordinates": [
+            3.435521,
+            43.627654
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 1147,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "86.21Z",
+          "label": "Activité des médecins généralistes"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ac734e54bc5282510f65a4d",
+      "phone": null,
+      "recipient_id": "partners_6ac734e5236a5c3a16ed63ff"
+    },
+    "contract": {
+      "start": "2026-10-19T00:00:00.000Z",
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 18,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Assistant médico-administratif / Assistante médico-administrative",
+      "rome_codes": [
+        "M1621"
+      ],
+      "description": "Dynamique et organisé(e), assure l'accueil des patients et le soutien administratif aux professionnels médicaux.\\nAccueille les patients et organise les rendez-vous médicaux\\nGère les dossiers médicaux et assure la confidentialité des informations\\nAssiste les professionnels de santé dans la gestion administrative quotidienne\\nRéalise des tâches de secrétariat classique comme la rédaction de courriers et la gestion des appels téléphoniques\\nCoordonne avec les assurances et gère les facturations des actes médicaux\\nContribue à l'amélioration des procédures administratives au sein de l'établissement",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-08T06:15:01.734Z",
+        "expiration": "2026-12-07T06:15:01.734Z"
       },
       "opening_count": 1,
       "status": "Active",
