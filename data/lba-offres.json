@@ -1,6 +1,81 @@
 [
   {
     "identifier": {
+      "id": "6b004f5e879ca39b3c0bbe8d",
+      "partner_label": "offres_emploi_lba",
+      "partner_job_id": "6b004f5e879ca39b3c0bbe8d"
+    },
+    "workplace": {
+      "siret": "51217926800010",
+      "brand": "LES ECURIES DU CHATEAU PAUL MAS",
+      "legal_name": "LES ECURIES DU CHATEAU PAUL MAS",
+      "website": null,
+      "name": "LES ECURIES DU CHATEAU PAUL MAS",
+      "description": "REJOIGNEZ UNE STRUCTURE EQUESTRE AU CŒUR DES VIGNES !\nSituées au cœur des vignes du Château Paul Mas, à Montagnac dans l'Hérault, les Écuries du Château Paul Mas sont un centre équestre à taille humaine, qui accueille une cavalerie d'environ 30 chevaux.\nEn lien avec notre site œnotouristique Côté Mas, nous proposons une diversité d'activités équestres : pension, enseignement du Galop 1 au Galop 7, poney-club, tourisme équestre, attelage et traction animale.\nDans ce cadre privilégié, nous recherchons un(e) Palefrenier(ère) / Soigneur(se) équin(e) en alternance, motivé(e) et passionné(e), souhaitant se former et développer ses compétences au contact des chevaux.",
+      "size": "3 à 5 salariés",
+      "location": {
+        "address": "ROUTE DE VILLEVEYRAC 34530 MONTAGNAC",
+        "geopoint": {
+          "coordinates": [
+            3.487729,
+            43.485537
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 7012,
+        "opco": "OCAPIAT",
+        "naf": {
+          "code": "93.19Z",
+          "label": "Autres activités liées au sport"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://labonnealternance.apprentissage.beta.gouv.fr/emploi/offres_emploi_lba/6b004f5e879ca39b3c0bbe8d/palefrenier-palefrenière",
+      "phone": null,
+      "recipient_id": "partners_6b004f5e879ca39b3c0bbe8d"
+    },
+    "contract": {
+      "start": "2026-11-20T13:47:10.718Z",
+      "start_type": "des_que_possible",
+      "start_is_flexible": false,
+      "duration": 24,
+      "type": [
+        "Apprentissage"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Palefrenier / Palefrenière",
+      "rome_codes": [
+        "A1421"
+      ],
+      "description": "VOS MISSIONS AU QUOTIDIEN\n\nEncadré(e) par notre équipe, vous participerez à la vie quotidienne des écuries et aurez notamment pour missions :\n•\tAssurer l'alimentation des chevaux trois fois par jour.\n•\tParticiper à l'entretien des boxes et des paddocks.\n•\tVeiller au bien-être, à la santé et au confort des chevaux.\n•\tParticiper au travail des chevaux du club et des propriétaires, selon votre niveau et vos compétences.\n•\tPrendre part aux balades et aux animations proposées par le club.\n•\tContribuer à l'entretien des installations et des infrastructures équestres.\n\nLE PROFIL QUE NOUS RECHERCHONS\n\nNous recherchons avant tout une personne :\n•\tPassionnée par les chevaux et attentive à leur bien-être.\n•\tSérieuse, dynamique, volontaire et motivée.\n•\tAyant envie d'apprendre et de s'investir dans une structure à taille humaine.\n•\tÀ l'aise avec le travail en extérieur et les missions physiques liées au métier.\nUne première expérience auprès des chevaux serait appréciée.\nFormation recherchée : parcours en alternance dans le domaine des métiers du cheval (CAPA Palefrenier Soigneur ou formation équivalente).\n\nINFORMATIONS PRATIQUES\n\n•\tLieu : Montagnac (34 – Hérault) – Logement disponible si besoin\n•\tContrat : Alternance\n•\tPrise de poste : À définir\n•\tRythme : Selon le calendrier de formation\n\nENVIE DE REJOINDRE NOTRE EQUIPE ?\n\nVous êtes passionné(e) par les chevaux et souhaitez apprendre un métier au plus près d'eux ?\nNous serions ravis de découvrir votre candidature !\nMerci d'adresser votre CV et votre lettre de motivation à :\nemxxx@xxx.fr",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-20T13:47:10.718Z",
+        "expiration": "2027-01-20T00:00:00.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": [
+        "Décrivez vos expériences passées (stage, job, bénévolat) en lien avec ce poste.",
+        "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
+        "Qu’auriez-vous envie d’accomplir ou de mener à bien durant cette alternance ?"
+      ]
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6afde0304b7c549dc3274de8",
       "partner_label": "offres_emploi_lba",
       "partner_job_id": "6afde0304b7c549dc3274de8"
@@ -7933,6 +8008,75 @@
   },
   {
     "identifier": {
+      "id": "6b0005e2621c4cd6c073f59c",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "57103447"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34500 Béziers",
+        "geopoint": {
+          "coordinates": [
+            3.233465,
+            43.343264
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/57103447?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6b0005e2621c4cd6c073f59c"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-20T08:33:38.755Z",
+        "expiration": "2026-12-20T08:30:02.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
       "id": "6afeb3964b7c549dc3277712",
       "partner_label": "Direct Emploi",
       "partner_job_id": "57090116"
@@ -7993,6 +8137,80 @@
       "publication": {
         "creation": "2026-11-19T08:30:14.889Z",
         "expiration": "2026-12-19T08:30:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6aff8067de83093b496ea04f",
+      "partner_label": "Hellowork",
+      "partner_job_id": "221c5760-1bf5-46ec-afa5-c179c326553d"
+    },
+    "workplace": {
+      "siret": "49244221500025",
+      "brand": null,
+      "legal_name": "FRANCHI DOM'",
+      "website": null,
+      "name": "FRANCHI DOM'",
+      "description": "Apef est une enseigne de services à la personne, présente depuis 1992. Fort de son expérience et de son réseau de plus de 150 agences, Apef s'impose aujourd'hui comme un acteur majeur, qui a rejoint le groupe Oui Care, en 2016.  \n  \nSelon nous ; on est toujours plus performant quand on y met du coeur. Notre force c'est notre passion, notre enthousiasme, nos success stories et nos engagements. Notre fierté c'est de permettre à l'ensemble de nos collaborateurs, au quotidien, de trouver un sens au travail et d'encourager les évolutions professionnelles.  \n  \nRejoindre notre structure c'est faire partie d'une société captivante, en pleine expansion, dans un environnement de travail bienveillant.",
+      "size": "50 à 99 salariés",
+      "location": {
+        "address": "34400 Lunel",
+        "geopoint": {
+          "coordinates": [
+            4.134681,
+            43.682153
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "64.20Z",
+          "label": "Activités des sociétés holding"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://r.holeest.com/redirect?jd_token=GsWgCE&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F85680889.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bdistribution%26utm_content%3Dfluxbonnealternance%26utm_term%3D85680889",
+      "phone": null,
+      "recipient_id": null
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": 12,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Responsable de Secteur en Alternance H/F",
+      "rome_codes": [
+        "K1408"
+      ],
+      "description": "APEF est une enseigne de services à la personne qui appartient au groupe Ouicare, n°1 des services à domicile. Fort d'un réseau de plus de 160 agences succursales et franchisées dans toute la France, APEF s'impose aujourd'hui comme un acteur majeur dans le secteur privé des services à la personne.\n\nDans ce cadre, nous recherchons notre futur Responsable de secteur en alternance H/F !\n\nVotre mission ?\n\nParticiper au développement commercial de l'agence et à la gestion des intervenant(e)s à domicile, relevant de votre secteur par :\n\n- La réalisation des visites commerciales au domicile des clients et/ou prospects,\n- Le suivi de la satisfaction des clients et intervenant(e)s,\n- La promotion de la marque employeur,\n- Le recrutement et l'intégration des salarié(e)s,\n- La gestion des plannings des intervenant(e)s, etc.\n\nD'autres tâches pourront vous être confiées en fonction de l'activité de l'agence.\n\nPoste à pourvoir : dès que possible",
+      "target_diploma": {
+        "european": "3",
+        "label": "CAP, BEP (Infrabac)"
+      },
+      "desired_skills": [
+        "Vous préparez un Titre Pro. RC SAD ou un diplôme dans le secteur social/médico-social.\n\nLe secteur des services à la personne vous attire et vous appréciez autant la gestion commerciale que les ressources humaines.\n\nVous êtes reconnu(e) principalement pour vos qualités relationnelles et votre sens du service. Vous faites preuve de rigueur, d'organisation, d'adaptabilité et disposez d'un certain esprit d'équipe.\n\nVous avez à coeur d'apporter un service de qualité à nos bénéficiaires et de contribuer à la satisfaction de nos clients ainsi que de nos intervenant(e)s.\n\nCondition du poste :\n\n- Type de contrat : Apprentissage\n- Durée : 12 mois.\n- Rémunération : Selon la grille des contrats en alternance en vigueur.\n\nVous avez à coeur d'apporter un service de qualité à nos bénéficiaires et de contribuer à la satisfaction de nos clients ainsi que de nos intervenant(e)s.\n\nEngagés pour l'inclusion :\n\nEn tant qu'entreprise à mission, Apef valorise la diversité, l'égalité des chances et l'inclusion des personnes en situation de handicap. Toutes les candidatures sont étudiées en fonction des aptitudes et des compétences professionnelles de chacun.\n\nApef vous offre aussi la possibilité de devenir entrepreneur dans le cadre de la franchise. pour plus d'information.\n\nSi vous vous retrouvez dans cette description et dans nos valeurs, alors n'hésitez plus, postulez !\n\nPour en savoir plus, consultez notre site"
+      ],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-11-19T08:04:30.000Z",
+        "expiration": "2027-01-19T08:04:30.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -12355,7 +12573,7 @@
       "rome_codes": [
         "M1810"
       ],
-      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>9 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>250 M€</b>  ,  <b>NICOLLIN Services</b>  accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM. </p> <p>  À travers la diversité de ses activités,  <b>NICOLLIN Services</b>  propose une offre complète de prestations :  <b>propreté, sécurité, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.</b> </p> <p>  Dans le cadre de notre développement, nous recrutons un·e  <strong>Technicien</strong>  ·  <strong>ne Support Informatique</strong>  pour rejoindre notre équipe à  <strong>Castelnau-le-Lez (34)</strong>  . </p>   <p>En tant que membre de l'équipe support, vous serez en charge de :</p>  <ul>   <li>Assister les utilisateurs/rices du groupe sur leurs problématiques informatiques</li>   <li>Diagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces</li>   <li>Conseiller sur les bonnes pratiques en sécurité informatique</li>   <li>Intervenir à distance ou sur site pour résoudre les incidents</li>   <li>Gérer les demandes liées aux équipements sous garantie et assurer leur suivi</li>   <li>Suivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires</li>   <li>Rédiger des procédures techniques et guides utilisateurs</li>   <li>Participer aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe</li>  </ul> \r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Technicien support informatique (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <p>Compétences etqualifications requises :</p> <ul>  <li>Vous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3</li>  <li>Vous êtes rigoureux/se, autonome, organisé·e et à l'écoute</li>  <li>Vous aimez le travail en équipe et avez le sens du service</li> </ul> <p>Compétences techniques que vous allez pratiquer et développer:</p> <ul>  <li>   <strong>Virtualisation</strong>   : VMWare  </li>  <li>   <strong>Sauvegarde</strong>   : VEEAM  </li>  <li>   <strong>Supervision &amp; gestion</strong>   : Citrix, GLPI, Zabbix  </li>  <li>   <strong>Systèmes</strong>   : Windows, Office 365, GPO, Active Directory  </li>  <li>   <strong>Réseaux &amp; sécurité</strong>   : Firewall Stormshield, switchs, antivirus, droits d'accès  </li>  <li>   <strong>Documentation et procédures</strong>  </li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <b>Contrat :</b>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération:</b>   Selon la grille d'alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
+      "description": "<p>Notre histoire :</p> <p>  Depuis plus de  <b>80 ans</b>  , le  <b>Groupe NICOLLIN</b>  s'est construit autour de valeurs fortes : l'humain, l'engagement et le sens du travail bien fait. Aujourd'hui, avec  <b>9 000 collaborateurs/trices</b>  et un chiffre d'affaires de  <b>250 M€</b>  ,  <b>NICOLLIN Services</b>  accompagne les entreprises et les collectivités sur l'ensemble du territoire métropolitain et dans les DROM-COM. </p> <p>  À travers la diversité de ses activités,  <b>NICOLLIN Services</b>  propose une offre complète de prestations :  <b>propreté, sécurit��, accueil et assistance aux personnes, espaces verts, lutte contre les nuisibles, maintenance des bâtiments, interventions après-sinistre, distribution de produits d'hygiène et vidéosurveillance.</b> </p> <p>  Dans le cadre de notre développement, nous recrutons un·e  <strong>Technicien</strong>  ·  <strong>ne Support Informatique</strong>  pour rejoindre notre équipe à  <strong>Castelnau-le-Lez (34)</strong>  . </p>   <p>En tant que membre de l'équipe support, vous serez en charge de :</p>  <ul>   <li>Assister les utilisateurs/rices du groupe sur leurs problématiques informatiques</li>   <li>Diagnostiquer, qualifier, planifier et analyser les incidents pour proposer des solutions efficaces</li>   <li>Conseiller sur les bonnes pratiques en sécurité informatique</li>   <li>Intervenir à distance ou sur site pour résoudre les incidents</li>   <li>Gérer les demandes liées aux équipements sous garantie et assurer leur suivi</li>   <li>Suivre le parc informatique (matériel &amp; logiciels), planifier les remplacements et tenir à jour les inventaires</li>   <li>Rédiger des procédures techniques et guides utilisateurs</li>   <li>Participer aux démarrages de marchés (installation postes, imprimantes, configuration réseau, accompagnement utilisateurs/rices avec des déplacements ponctuels dans les agences du Groupe</li>  </ul> \r\n\r\nSecteur: Environnement, Eau\r\n\r\nPoste: Technicien support informatique (H/F)\r\n\r\nProfil: <p>Profil recherché :</p> <p>Compétences etqualifications requises :</p> <ul>  <li>Vous préparez une formation de niveau Bac+2 (équivalent BTS SIO) ou une formation de niveau Bac+3</li>  <li>Vous êtes rigoureux/se, autonome, organisé·e et à l'écoute</li>  <li>Vous aimez le travail en équipe et avez le sens du service</li> </ul> <p>Compétences techniques que vous allez pratiquer et développer:</p> <ul>  <li>   <strong>Virtualisation</strong>   : VMWare  </li>  <li>   <strong>Sauvegarde</strong>   : VEEAM  </li>  <li>   <strong>Supervision &amp; gestion</strong>   : Citrix, GLPI, Zabbix  </li>  <li>   <strong>Systèmes</strong>   : Windows, Office 365, GPO, Active Directory  </li>  <li>   <strong>Réseaux &amp; sécurité</strong>   : Firewall Stormshield, switchs, antivirus, droits d'accès  </li>  <li>   <strong>Documentation et procédures</strong>  </li> </ul> <p>Ce que nous vous proposons :</p> <ul>  <li>   <b>Contrat :</b>   Contrat d'apprentissage  </li>  <li>   <b>Rémunération:</b>   Selon la grille d'alternance  </li> </ul> <p>Rejoindre le Groupe Nicollin c'est :</p> <ul>  <li>   Rejoindre un   <b>groupe en pleine croissance</b>   , engagé pour ses territoires  </li>  <li>   Intégrer des   <b>équipes dynamiques</b>   et bienveillantes  </li>  <li>   Évoluer dans une   <b>entreprise familiale</b>   et responsable, attachée à ses valeurs humaines.  </li> </ul> <p>Le Groupe NICOLLIN garantit l'égalité de traitement et s'engage à prévenir toute forme de discrimination ou de harcèlement.</p> <p>Nous examinons chaque candidature au regard des compétences et de l'expérience, indépendamment du genre, de l'origine, du handicap, de l'âge ou de toute autre situation protégée par la loi.</p> <p>GNA</p>",
       "target_diploma": {
         "european": "6",
         "label": "Licence, BUT, Licence Pro (Bac+3)"
@@ -14152,80 +14370,6 @@
       "publication": {
         "creation": "2026-10-22T11:37:12.039Z",
         "expiration": "2026-12-22T11:37:12.039Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ada88b9d61b4915a03dca28",
-      "partner_label": "Hellowork",
-      "partner_job_id": "2016543c-33e9-4bf5-a214-91cd9af1a4e2"
-    },
-    "workplace": {
-      "siret": "49244221500025",
-      "brand": null,
-      "legal_name": "FRANCHI DOM'",
-      "website": null,
-      "name": "FRANCHI DOM'",
-      "description": "Apef est une enseigne de services à la personne, présente depuis 1992. Fort de son expérience et de son réseau de plus de 150 agences, Apef s'impose aujourd'hui comme un acteur majeur, qui a rejoint le groupe Oui Care, en 2016.  \n  \nSelon nous ; on est toujours plus performant quand on y met du coeur. Notre force c'est notre passion, notre enthousiasme, nos success stories et nos engagements. Notre fierté c'est de permettre à l'ensemble de nos collaborateurs, au quotidien, de trouver un sens au travail et d'encourager les évolutions professionnelles.  \n  \nRejoindre notre structure c'est faire partie d'une société captivante, en pleine expansion, dans un environnement de travail bienveillant.",
-      "size": "50 à 99 salariés",
-      "location": {
-        "address": "34400 Lunel",
-        "geopoint": {
-          "coordinates": [
-            4.134681,
-            43.682153
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "64.20Z",
-          "label": "Activités des sociétés holding"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://r.holeest.com/redirect?jd_token=AHAWzU&o=1&from=https%3A%2F%2Fwww.hellowork.com%2Ffr-fr%2Femplois%2F84695240.html%3Futm_source%3Dbonnealternance%26utm_medium%3Dmetamoteurs-free%26utm_campaign%3Dalternance%2B-%2Bdistribution%26utm_content%3Dfluxbonnealternance%26utm_term%3D84695240",
-      "phone": null,
-      "recipient_id": null
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 12,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Responsable de Secteur en Alternance H/F",
-      "rome_codes": [
-        "K1408"
-      ],
-      "description": "APEF est une enseigne de services à la personne qui appartient au groupe Ouicare, n°1 des services à domicile. Fort d'un réseau de plus de 160 agences succursales et franchisées dans toute la France, APEF s'impose aujourd'hui comme un acteur majeur dans le secteur privé des services à la personne.\n\nDans ce cadre, nous recherchons notre futur Responsable de secteur en alternance H/F !\n\nVotre mission ?\n\nParticiper au développement commercial de l'agence et à la gestion des intervenant(e)s à domicile, relevant de votre secteur par :\n\n- La réalisation des visites commerciales au domicile des clients et/ou prospects,\n- Le suivi de la satisfaction des clients et intervenant(e)s,\n- La promotion de la marque employeur,\n- Le recrutement et l'intégration des salarié(e)s,\n- La gestion des plannings des intervenant(e)s, etc.\n\nD'autres tâches pourront vous être confiées en fonction de l'activité de l'agence.\n\nPoste à pourvoir : dès que possible",
-      "target_diploma": {
-        "european": "3",
-        "label": "CAP, BEP (Infrabac)"
-      },
-      "desired_skills": [
-        "Vous préparez un Titre Pro. RC SAD ou un diplôme dans le secteur social/médico-social.\n\nLe secteur des services à la personne vous attire et vous appréciez autant la gestion commerciale que les ressources humaines.\n\nVous êtes reconnu(e) principalement pour vos qualités relationnelles et votre sens du service. Vous faites preuve de rigueur, d'organisation, d'adaptabilité et disposez d'un certain esprit d'équipe.\n\nVous avez à coeur d'apporter un service de qualité à nos bénéficiaires et de contribuer à la satisfaction de nos clients ainsi que de nos intervenant(e)s.\n\nCondition du poste :\n\n- Type de contrat : Apprentissage\n- Durée : 12 mois.\n- Rémunération : Selon la grille des contrats en alternance en vigueur.\n\nVous avez à coeur d'apporter un service de qualité à nos bénéficiaires et de contribuer à la satisfaction de nos clients ainsi que de nos intervenant(e)s.\n\nEngagés pour l'inclusion :\n\nEn tant qu'entreprise à mission, Apef valorise la diversité, l'égalité des chances et l'inclusion des personnes en situation de handicap. Toutes les candidatures sont étudiées en fonction des aptitudes et des compétences professionnelles de chacun.\n\nApef vous offre aussi la possibilité de devenir entrepreneur dans le cadre de la franchise. pour plus d'information.\n\nSi vous vous retrouvez dans cette description et dans nos valeurs, alors n'hésitez plus, postulez !\n\nPour en savoir plus, consultez notre site"
-      ],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-22T10:58:52.000Z",
-        "expiration": "2026-12-22T10:58:52.000Z"
       },
       "opening_count": 1,
       "status": "Active",
@@ -16478,75 +16622,6 @@
   },
   {
     "identifier": {
-      "id": "6acfb6ebeb1fb948b46ac885",
-      "partner_label": "Direct Emploi",
-      "partner_job_id": "56673358"
-    },
-    "workplace": {
-      "siret": "45105338300837",
-      "brand": null,
-      "legal_name": "VITALLIANCE",
-      "website": null,
-      "name": "VITALLIANCE",
-      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
-      "size": "5 000 à 9 999 salariés",
-      "location": {
-        "address": "34600 Bédarieux",
-        "geopoint": {
-          "coordinates": [
-            3.154586,
-            43.613706
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 3127,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "88.10A",
-          "label": "Aide à domicile"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://www.directemploi.com/candidatOffre/56673358?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
-      "phone": null,
-      "recipient_id": "partners_6acfb6ebeb1fb948b46ac885"
-    },
-    "contract": {
-      "start": null,
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": null,
-      "type": [
-        "Apprentissage",
-        "Professionnalisation"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Auxiliaire de vie en alternance H/F",
-      "rome_codes": [
-        "K1302"
-      ],
-      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-14T17:11:30.738Z",
-        "expiration": "2026-12-11T08:30:01.000Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
       "id": "6acfb6ed22ce23a2ad445226",
       "partner_label": "Direct Emploi",
       "partner_job_id": "56673363"
@@ -16582,6 +16657,75 @@
       "url": "https://www.directemploi.com/candidatOffre/56673363?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
       "phone": null,
       "recipient_id": "partners_6acfb6ed22ce23a2ad445226"
+    },
+    "contract": {
+      "start": null,
+      "start_type": null,
+      "start_is_flexible": null,
+      "duration": null,
+      "type": [
+        "Apprentissage",
+        "Professionnalisation"
+      ],
+      "remote": null
+    },
+    "offer": {
+      "title": "Auxiliaire de vie en alternance H/F",
+      "rome_codes": [
+        "K1302"
+      ],
+      "description": "<p>À Propos de Nous<br />Rejoignez Vitalliance, le leader de l'aide à domicile en France ! Avec plus de 237 agences et 11000 collaborateurs.Vitalliance est une société à mission notre raison d’être est :<br />\"Prendre soin des personnes en perte d’autonomie et bâtir ensemble une société du mieux vivre à domicile accessible à tous.\"<br />Notre mot d’ordre : Savoir être là.</p><p>Missions<br />Vous souhaitez donner un nouveau sens à votre carrière ?</p><p>Votre mission, en tant qu’auxiliaire de vie (ADV) en contrat d’apprentissage ou professionnalisation, vous êtes un véritable partenaire de vie pour les personnes accompagnées. Concrètement, vous serez amené(e) à en binôme :</p><p>- Accompagner les personnes en situation de handicap ou âgées dans les actes de la vie quotidienne : lever, coucher, hygiène, mobilité, repas, courses, soutien moral...</p><p>- Adapter votre communication, votre rythme et vos gestes selon les besoins uniques de chaque bénéficiaire, dans le respect de sa dignité et de son intimité.</p><p>- Être attentif(ve) aux attentes de la personne et de ses proches, et contribuer à son bien-être et à son autonomie.</p><p>- Incarner au quotidien notre raison d’être : « Savoir être là », avec écoute, respect et bienveillance.</p><p>Profil recherché<br />Même sans expérience ni diplôme, nous vous accompagnons pas à pas dans votre reconversion vers un métier humain et porteur de sens.Nous recherchons des personnes capables de :</p><p>- Faire preuve d’empathie, de patience et de respect</p><p>- Être à l’écoute et savoir s’adapter aux situations imprévues</p><p>- Être fiable, ponctuel(le) et responsable</p><p>Contrat et avantages<br />Ce que nous offrons : Chez Vitalliance, nous savons que prendre soin des autres commence par prendre soin de vous .</p><p>- Un contrat d’apprentissage ou professionnalisation : temps plein</p><p>- Une rémunération valorisante : salaire en fonction du smic 78 à 100 %</p><p>- Des déplacements indemnisés : remboursement intégral du titre de transport ou 0,40<br />€/km + temps de trajet payé (selon règles internes)</p><p>- Une mutuelle moderne, avantageuse et rapide, prise en charge à 50 %.</p><p>- Un service social dédié pour vous accompagner dans vos démarches personnelles<br />et professionnelles.</p><p>- Des événements réguliers pour rencontrer, échanger et créer du lien avec vos<br />collègues.</p><p>- De vraies perspectives d’évolution grâce à notre centre de formation interne. (ADV<br />Formateur, ADV Référent, ADV Contrôleur Qualité)</p><p>Rejoindre Vitalliance, c’est intégrer une équipe engagée, humaine et solidaire.<br />C’est donner du sens à votre métier, et participer à une aventure collective : construire une société plus inclusive et bienveillante.</p><p>Chez Vitalliance, nous reconnaissons les compétences des personnes en situation de handicap et leur donnons les moyens d'exprimer tous leurs talents.</p><p>Dans le cadre de notre processus de recrutement, un premier échange téléphonique peut être réalisé par un assistant virtuel. Cet échange nous permet de mieux comprendre votre profil avant un contact avec notre équipe, qui reste pleinement impliquée dans le suivi de votre candidature.</p>",
+      "target_diploma": null,
+      "desired_skills": [],
+      "to_be_acquired_skills": [],
+      "access_conditions": [],
+      "publication": {
+        "creation": "2026-10-14T17:11:30.738Z",
+        "expiration": "2026-12-11T08:30:01.000Z"
+      },
+      "opening_count": 1,
+      "status": "Active",
+      "to_applicant_questions": null
+    },
+    "is_delegated": false
+  },
+  {
+    "identifier": {
+      "id": "6acfb6ebeb1fb948b46ac885",
+      "partner_label": "Direct Emploi",
+      "partner_job_id": "56673358"
+    },
+    "workplace": {
+      "siret": "45105338300837",
+      "brand": null,
+      "legal_name": "VITALLIANCE",
+      "website": null,
+      "name": "VITALLIANCE",
+      "description": "<p>Vitalliance est un acteur majeur des services à la personne en France, spécialisé dans l’aide à domicile pour les personnes âgées et les personnes en situation de handicap.</p><p>Elle propose des prestations sur mesure 24h/24 et 7j/7, telles que l’aide au quotidien, l’habitat inclusif, la téléassistance, ainsi que des accompagnements pour le sport ou les loisirs. Il s'agit d'une société à mission, engagée dans la qualité humaine et sociétale de ses services</p>",
+      "size": "5 000 à 9 999 salariés",
+      "location": {
+        "address": "34600 Bédarieux",
+        "geopoint": {
+          "coordinates": [
+            3.154586,
+            43.613706
+          ],
+          "type": "Point"
+        }
+      },
+      "domain": {
+        "idcc": 3127,
+        "opco": "Opco entreprises de proximité",
+        "naf": {
+          "code": "88.10A",
+          "label": "Aide à domicile"
+        }
+      }
+    },
+    "apply": {
+      "url": "https://www.directemploi.com/candidatOffre/56673358?utm_source=labonnealternance&utm_medium=referral&utm_campaign=La-bonne-alternance",
+      "phone": null,
+      "recipient_id": "partners_6acfb6ebeb1fb948b46ac885"
     },
     "contract": {
       "start": null,
@@ -18396,74 +18540,6 @@
       "publication": {
         "creation": "2026-10-09T12:22:59.508Z",
         "expiration": "2026-12-08T12:22:59.508Z"
-      },
-      "opening_count": 1,
-      "status": "Active",
-      "to_applicant_questions": null
-    },
-    "is_delegated": false
-  },
-  {
-    "identifier": {
-      "id": "6ac734e5236a5c3a16ed63ff",
-      "partner_label": "OPCO EP",
-      "partner_job_id": "6ac734e5236a5c3a16ed63ff"
-    },
-    "workplace": {
-      "siret": "45109971700022",
-      "brand": null,
-      "legal_name": "SELDRA",
-      "website": null,
-      "name": "SELDRA",
-      "description": null,
-      "size": "3 à 5 salariés",
-      "location": {
-        "address": "2 Quai Carnot 34800 Clermont-l'Hérault",
-        "geopoint": {
-          "coordinates": [
-            3.435521,
-            43.627654
-          ],
-          "type": "Point"
-        }
-      },
-      "domain": {
-        "idcc": 1147,
-        "opco": "Opco entreprises de proximité",
-        "naf": {
-          "code": "86.21Z",
-          "label": "Activité des médecins généralistes"
-        }
-      }
-    },
-    "apply": {
-      "url": "https://hub-alternance.opcoep.fr/jeune/je-cherche-un-emploi/offre-emploi/6ac734e54bc5282510f65a4d",
-      "phone": null,
-      "recipient_id": "partners_6ac734e5236a5c3a16ed63ff"
-    },
-    "contract": {
-      "start": "2026-10-19T00:00:00.000Z",
-      "start_type": null,
-      "start_is_flexible": null,
-      "duration": 18,
-      "type": [
-        "Apprentissage"
-      ],
-      "remote": null
-    },
-    "offer": {
-      "title": "Assistant médico-administratif / Assistante médico-administrative",
-      "rome_codes": [
-        "M1621"
-      ],
-      "description": "Dynamique et organisé(e), assure l'accueil des patients et le soutien administratif aux professionnels médicaux.\\nAccueille les patients et organise les rendez-vous médicaux\\nGère les dossiers médicaux et assure la confidentialité des informations\\nAssiste les professionnels de santé dans la gestion administrative quotidienne\\nRéalise des tâches de secrétariat classique comme la rédaction de courriers et la gestion des appels téléphoniques\\nCoordonne avec les assurances et gère les facturations des actes médicaux\\nContribue à l'amélioration des procédures administratives au sein de l'établissement",
-      "target_diploma": null,
-      "desired_skills": [],
-      "to_be_acquired_skills": [],
-      "access_conditions": [],
-      "publication": {
-        "creation": "2026-10-08T06:15:01.734Z",
-        "expiration": "2026-12-07T06:15:01.734Z"
       },
       "opening_count": 1,
       "status": "Active",
